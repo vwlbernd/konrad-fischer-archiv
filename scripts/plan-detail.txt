@@ -1,0 +1,265 @@
+====================================================
+MARKUP-OPTIMIERUNG – REGELKATALOG (ROBUSTE VERSION)
+Basis für deterministische Python-Skripte
+====================================================
+
+GRUNDPRINZIPIEN
+---------------
+- Das Markup stammt aus altem HTML, ist semantisch inkonsistent und typografisch überladen.
+- Keine Regel darf allein aufgrund eines einzelnen Signals (z.B. Fett, Großschrift) entscheiden.
+- Jede Umwandlung benötigt:
+  - mindestens ein positives Hauptsignal
+  - mindestens ein kontextuelles Bestätigungssignal
+  - keine Verletzung einer Ausschlussregel
+- Bei Unsicherheit:
+  - NICHT automatisch ändern
+  - Kandidaten loggen (Audit-Log)
+- Ziel ist strukturelle Korrektheit, nicht inhaltliche Glättung.
+
+PROMPT
+---------------
+Write a deterministic Python 3 script that normalizes chaotic Markdown generated from legacy HTML
+according to the provided RULE CATALOG.
+The script must strictly follow the rules and exceptions.
+Heuristic guesses are only allowed where explicitly defined.
+
+Parse all files in TARGET_DIR = Path("../artikel")
+Gib mit print() eine Rückmeldung für jede bearbeitete Datei aus und zeige am Ende eine Zusammenfassung der Anzahl verarbeiteter Dateien.
+
+----------------------------------------------------
+# SCRIPT 1 – INHALTSVERZEICHNIS-ERKENNUNG & NORMALISIERUNG (überarbeitet)
+----------------------------------------------------
+Ziel:
+Erkennung und Vereinheitlichung von kapitelartigen Navigationsblöcken am Anfang oder Ende einer Markdown-Datei. Normalisierung in eine konsistente Liste in einem Blockquote.
+
+Erkennungsmerkmale eines Blocks (mind. 2 erforderlich):
+
+* Mehrere Links in aufeinanderfolgenden Zeilen (meist ≥ 3)
+* Nummerierte Linktexte, z. B. 1., 2., [1], [2]
+* Keywords im Text: „Kapitel“, „Seite“, „Weiter“, „Thema“, „Abschnitt“
+* Gemischte Struktur: Links + fett markierter Text oder unverlinkter Text → markiert als aktuelles Kapitel
+
+Ausschluss:
+
+* Linklisten mitten im Fließtext (< 3 Links)
+* Einzelne, lose Querverweise
+
+Besondere Beobachtungen:
+
+* Blöcke enthalten oft Inline-Linkketten ([1](x.md) [2](y.md)), die auf einzelne Listeneinträge aufgeteilt werden sollten.
+* Fett markierte Einträge zwischen Links → aktuelles Kapitel.
+* Blöcke beginnen oft nach einer Leerzeile oder einem Marker wie „Kapitel“ oder „Inhaltsverzeichnis“ und enden mit einer Leerzeile.
+* Zeilen wie (aktualisiert ...) werden entfernt.
+* Vor- und Nachleerzeilen werden auf 1 Leerzeile standardisiert.
+
+Transformation:
+
+* Block wird durch einen Blockquote ersetzt:
+
+  > [Link 1](ziel.md)
+  > **Aktuelles Kapitel**
+  > [Link 2](ziel.md)
+* Inline-Linkketten → einzelne Listeneinträge
+* Fett oder unverlinkter Text → **Text (aktuelles Kapitel)**
+* Vor- und Nachleerzeilen vereinheitlichen
+
+Erkennung heuristisch:
+
+1. Prüfe Top-/Bottom-Regionen der Datei (z. B. erste und letzte 40 Zeilen).
+2. Sammle Zeilen bis zu einer Leerzeile als potenziellen Block.
+3. Signale zählen:
+
+   * ≥ 3 Links
+   * nummerierte Einträge
+   * Keyword enthalten
+   * fett oder unverlinkt vorhanden
+4. Block gilt als Inhaltsverzeichnis, wenn ≥ 2 Signale vorhanden sind und ≥ 3 Links.
+
+Beispiele für reale Struktur:
+
+* [1](x.md) [2](y.md) **3** [4](z.md) → in Blockquote als einzelne Listeneinträge
+* [Einleitung [1]](x.md) → [Einleitung](x.md)
+* Nach Block immer 1 Leerzeile
+* Vor Block oft Leerzeile oder Marker wie Kapitel/Inhaltsverzeichnis
+
+
+----------------------------------------------------
+SCRIPT 2 – ÜBERSCHRIFTEN-ERKENNUNG (KONTEXTBASIERT)
+----------------------------------------------------
+Ziel:
+Zuverlässige Erkennung echter Überschriften ohne Umwandlung
+von Labels, Navigation oder Hervorhebungen.
+
+Begriffsklärung:
+Eine Überschrift leitet einen neuen inhaltlichen Abschnitt ein,
+nicht Navigation, Meta oder Zitat.
+
+Primäre Kandidaten:
+- Markdown-Überschriften (#, ##, ###) → bleiben unverändert
+- Fettgedruckte Einzelzeilen
+- Zeilen in Title Case oder VERSALIEN
+
+Pflichtbedingungen für automatische Umwandlung von **Fettzeilen**:
+ALLE müssen erfüllt sein:
+1. Zeile steht NICHT:
+   - innerhalb eines Blockquotes (>)
+   - innerhalb einer Liste
+2. Zeile enthält KEINEN Doppelpunkt (:)
+3. Zeile enthält KEINE reinen Zahlen oder Kapitelnummern
+4. Wortanzahl ≥ 4
+5. Vorherige Zeile ist:
+   - leer ODER
+   - horizontale Linie
+6. Nachfolgende Zeile ist Fließtext (kein Linkblock, keine Navigation)
+
+Explizite Ausschlüsse (niemals Überschrift):
+- Fettzeilen mit:
+  - Doppelpunkt (Label, Rubrik, Meta)
+  - Anführungszeichen (Zitat-/Titelbestandteil)
+  - Sprecherkennzeichnung (_Name:_)
+- Fettzeilen innerhalb oder direkt angrenzend an:
+  - Inhaltsverzeichnisse
+  - Weiter-/Zurück-Navigation
+- Fett + reine Zahl oder Seitenmarker (**5**, **11**)
+
+Transformation:
+- Nur wenn alle Bedingungen erfüllt:
+  **Text**
+  → ## Text
+
+Grenzfälle (z.B. rhetorische Marker wie „Dämmstoff-Marketing“):
+- NICHT automatisch ändern
+- als „Heading-Kandidat“ loggen
+
+----------------------------------------------------
+SCRIPT 3 – ZITAT- UND QUELLBLOCK-ERKENNUNG
+----------------------------------------------------
+Ziel:
+Typografisch markierte Zitate korrekt als Markdown-Blockquotes abbilden.
+
+Erkennung:
+- Mehrzeilige Passagen, die:
+  - vollständig kursiv sind ODER
+  - durchgehend eingerückt ODER
+  - semantisch als Fremdtext erkennbar sind
+- Zitatlänge ≥ 3 Zeilen
+
+Transformation:
+- Jede Zeile mit > prefixen
+- Interne Leerzeilen im Zitat entfernen
+- Autoren-/Quellenzeilen am Ende:
+  → > — Autor, Quelle
+
+Ausschluss:
+- Kursiv gesetzte Einzelbegriffe
+- Bildunterschriften
+
+----------------------------------------------------
+SCRIPT 4 – BILD + BESCHRIFTUNG NORMALISIERUNG
+----------------------------------------------------
+Ziel:
+Saubere Trennung von Bild und Beschreibung.
+
+Erkennung:
+- Markdown-Bild:
+  ![](pfad)
+- Direkt folgende Textzeile ohne Leerzeile → Bildbeschreibung
+
+Transformation:
+- Immer:
+  ![](pfad)
+  _Beschreibung_
+- Mehrzeilige Beschreibungen sammeln bis Leerzeile
+- Entferne redundante Nummerierungen, wenn:
+  - im Dateinamen vorhanden
+  - oder rein dekorativ
+
+Ausschluss:
+- Bilder in Navigations- oder Literaturblöcken
+
+----------------------------------------------------
+SCRIPT 5 – TRENNLINIEN & DEKORATIVE MARKER
+----------------------------------------------------
+Ziel:
+Einheitliche visuelle Trennung ohne Layout-Rauschen.
+
+Ersetzung:
+- * * *
+- ------
+- ======
+→
+---
+
+Zusatzregeln:
+- Maximal eine horizontale Linie hintereinander
+- Keine horizontale Linie direkt vor Überschriften
+- Linien mit rein dekorativer Funktion am Seitenende entfernen
+
+----------------------------------------------------
+SCRIPT 6 – NAVIGATION, WEITER- & RÜCKSPRUNG-BLÖCKE
+----------------------------------------------------
+Ziel:
+Isolation nicht-inhaltlicher Navigation.
+
+Erkennung:
+- Zeilen/Blöcke mit:
+  "Weiter:"
+  "Hier geht es weiter"
+  "Kapitel X"
+  "Zurück"
+- Häufig am Seitenende oder -anfang
+
+Transformation:
+- Verschiebe an Seitenende
+- Gruppiere unter:
+  ## Weiterführende Links
+- Entferne erklärende Meta-Sätze ohne Informationswert
+
+----------------------------------------------------
+SCRIPT 7 – ABSATZ- & ZEILENUMBRUCH-REPARATUR
+----------------------------------------------------
+Ziel:
+Lesbarer Fließtext ohne zerstörte Semantik.
+
+Regeln:
+- Absätze mit >4 manuellen Umbrüchen:
+  → zu einem Absatz zusammenführen
+- Keine Zeilenumbrüche mitten im Satz
+- Doppelte Leerzeilen reduzieren auf eine
+- Listen rekonstruieren, wenn:
+  - mehrere kurze Zeilen logisch zusammengehören
+
+Ausschluss:
+- Gedichte
+- Listen
+- Zitate
+
+----------------------------------------------------
+SCRIPT 8 – META-, KOMMENTAR- & REDUNDANZ-CLEANUP
+----------------------------------------------------
+Ziel:
+Trennung von Inhalt und redaktionellem Ballast.
+
+Erkennung:
+- Persönliche Einschübe ohne Sachinformation
+- Redaktionskommentare
+- Begrüßungs-/Abschiedsformeln
+
+Regeln:
+- Entfernen nur bei eindeutiger Meta-Funktion
+- Bei Unsicherheit:
+  - NICHT entfernen
+  - Log-Eintrag erzeugen
+
+----------------------------------------------------
+LOGGING & SICHERHEIT
+----------------------------------------------------
+- Jedes Skript erzeugt:
+  - Änderungslog
+  - Kandidatenliste für manuelle Prüfung
+- Keine stille Änderung bei Unsicherheit
+- Reihenfolge der Skripte ist strikt einzuhalten
+
+----------------------------------------------------
+ENDE
+====================================================

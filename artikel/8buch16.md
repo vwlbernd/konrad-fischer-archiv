@@ -1,0 +1,98 @@
+---
+title: "6\. Geschichte/Gesellschaft/Kultur/Wissenschaft allgemein 2"
+description: "Gute, kluge, kontroverse, freche, unbekannte Literatur, Rezensionen, Verlage, Quellen, Bücher, Zeitschriften, Zitate, Links 16."
+author: " "
+original_url: "www.konrad-fischer-info.de/8buch16.htm"
+---
+
+
+
+# Literatur 16
+
+## 6. Geschichte / Gesellschaft / Kultur / Wissenschaft allgemein 2
+
+(Vorsicht, nicht immer absolut zeitgeistig (oder doch schon?)!) 
+
+**Inhalt** 
+[1.Bücher/Zeitschriften/Informationsreihen/Internetlinks](8buch.md#bã¼cher/zeitschriften/informationsreihen/internetlinks) 
+[2. Denkmalpflege/Altbausanierung 1](8buch.md#denkmalpflege/altbausanierung) [2](8buch02.md) [3](8buch03.md) [4](8buch04.md) [5](8buch05.md) [6](8buch06.md) [7](8buch07.md) 
+[3. Bauwesen allgemein](8buch08.md) 
+[4. Burg/Schloß/Wehr- und Waffentechnik](8buch09.md) 
+[5. Kirche/Kloster/Theologie 1](8buch10.md) [2](8buch11.md) [3](8buch12.md) [4](8buch13.md) [5](8buch14.md) 
+[6. Geschichte/Gesellschaft/Kultur/Wissenschaft allgemein 1](8buch15.md) **2** [3](8buch17.md) [4](8buch18.md) [5](8buch19.md) [6](8buch20.md) [7](8buch21.md) 
+[7. Umwelt/Klima/Energie 1](8buch22.md) [2](8buch23.md) 
+[8. Literaturrecherche und -bestellung](8buch24.md) 
+[9. Preiswerte Bücher/Modernes Antiquariat/Suche nach antiquarischen Büchern/Eigene Bücher verkaufen](8buch24.md#preiswerte) 
+[10. Hungrig nach schönen Bildern?](8buch24.md#hungrig) 
+[11. Ausführliche Rezensionen von Konrad Fischer und Gastautoren](8buch24.md#ausfã¼hrliche) 
+[12. Aufsätze zur Denkmalpflege](8buch25.md) 
+[13. Verlagskontakte](8buch25.md#verlagskontakte) 
+[14. Quellen/Links zu historischen Themen / Altertumswissenschaft / Theologie / Philosophie / Mythologie](8buch25.md#quellen/links) 
+
+<a id="geschichte/kultur/wissenschaft allgemein"></a>**6. Geschichte/Gesellschaft/Kultur/Wissenschaft allgemein 2** 
+
+<a id="paul van"></a> Paul van Buitenen:**Unbestechlich für Europa, Ein EU-Beamter kämpft gegen Misswirtschaft und Korruption,** Brunnen Verlag 1999, 
+20 verbrecherische EU-Kommissare haben im Zuge der Prüfaktion van Buitenens abtreten müssen. Einen riesigen Sauhaufen ([Details](4behoerd.md#paul van)) hat dieser "mutigste Buchhalter Europas" (DIE WELT) in den Führungs- und Verwaltungsebenen der EU aufgedeckt, trotz erheblicher Gefahren für seine Karriere, sein Leib und Leben. Mafiotische Korruptionsgeschwüre, politisch allseitig gedeckt, Verschiebung von Milliardensummen unserer Steuermittel in dunkelste Kanäle, "Korruptionskrieg", Zusatzbereicherung der ohnehin überbezahlten EU-Administratoren - alles Dreckschweinereien in der EU und wohl kaum vom entsprechenden Gebaren in den Teilnehmerländern zu unterscheiden. Allgemeine Beatmung, Durchstecherei, Veruntreuung unserer abgepreßten Steuergelder, Erpressung, Mord und Totschlag. So viel Schweinereien, wie van Buitenen hier schonungslos aufdeckt, hätte selbst der verbissenste Verschwörungstheoretiker nicht anzunehmen gewagt. Ein Buch der Spitzenklasse.
+
+Hans Herbert von Arnim: **Das System, Die Machenschaften der Macht** , Droemer Verlag 
+
+Was einst - vielleicht bis zum belgischen Dutroux-Prozeß und Sachsensumpf - niemand gedacht hätte, hier wird es detailliert beschrieben: 
+
+Hinter der demokratischen Fassade existiert ein System, das vollkommen außerhalb der Bindungen des Grundsetzes funktioniert: Korruption, diktatorisches Handeln, mafiotische Praktiken, Stasi-Methoden nach dem Vorbild der Securitate, der Gestapo, der CIA oder des NKWD, Kinderficken, Sauerei mit Minderjährigen, Mord und Totschlag, Ausbeutung, Vertuschen, Beschönigen, Zusammenhalten bis zum nächsten Bauernopfer, usw. usf. ohne Ende. 
+
+Wer das liest, wählt kein kleineres Übel mehr.
+
+Auch die Bücher von Jürgen Roth über unsere und andere korrupte Schweinsrepublikaner und ihre perfiden Praktiken von der Veruntreuung unserer erpreßten Steuern, von Schutzgeldabzocke, Bestechung von Beamten allerorten, Polizei und Justiz und was dergleichen inzwischen zur deutschen Normalität gehört, sind unbedingt lesenswert und erschreckend aufklärend: **"Der Deutschland-Clan" - "Anklage unerwünscht. Korruption und Willkür in der deutschen Justiz" - "Ermitteln verboten!" - "Der Oligarch."- "Ganz reale Verbrecher. Millionen, Macht und Auftragsmord" - "Die Gangster aus dem Osten. Geschwärzte Ausgabe. Neue Wege der Kriminalität"- "Schmutzige Hände. Wie die westlichen Staaten mit der Drogenmafia kooperieren." - "Die Russen- Mafia. Das gefährlichste Verbrechersyndikat der Welt."** 
+
+E. Michael Jones: **Libido Dominandi - Sexual Liberation and Political Control** , St. Augustine´s Press, South Bend, Indiana, USA 2000 
+
+Warum sexuelle Abschweifer von Marx über Freud, von Hirschfeld über Baldwin, von M. L. King über Margaret Mead, von Marquis de Sade bis Clinton usw. ihre Gewissensnöte und Phantasmagorien in politische Konzepte wie Liberalismus, Frauenbefreiung, Bürgerrechtsbewegung, Feminis-, Sozial- und Kommunismus, Homoerotismus, Genderei, Libertinage und Straffreiheit der Abtreibung ummünzen, wird in diesem aufklärerischen Werk anhand von Primärdokumenten fast allzu deutlich. Um eine Gesellschaft von vernunftbetonter und dem Allgemeinwohl dienender Politik und Verfassung weg in eine leicht zu treibende und gut zu schlachtende Schweinsherde zu verwandeln, muß man sich unserer Leidenschaften und Triebe bedienen. In ihrer Beherrschung funktioniert das neue Herrschen - jenseits aller Verschwörungstheorien. Lehrreich und abschreckend zugleich. [Link 1](http://www.culturewars.com/CultureWars/1999/libido_ad.html),
+
+<a id="hans jürgen syberberg"></a>Hans Jürgen Syberberg: **Vom Unglück und Glück der Kunst in Deutschland nach dem letzten Kriege,** Matthes & Seitz, München 1990, ISBN 3-88221-761-8 
+Zum kulturellen Identitätsverlust in der Nachkriegsepoche. Inzwischen als CIA-Projekt enttarnt. Syberberg gehört neben dem Regisseur Schlingensief, der den Bubis-Kritiker und -Grabschänder Meir Mendelssohn in seine Theater-Spektakel einbezieht, zu den derzeit terribelsten Enfants der aktuellen Kunstszene. Ein provokatives, aus wildem Herzen geschriebenes Buch.
+
+G. Schmirber, Y. Langenstein (Hrsg.): **Möglichkeiten und Wege der Zusammenarbeit der Museen in Mittel- und Osteuropa** , Argumente und Materialien zum Zeitgeschehen 8, Hanns-Seidel-Stiftung, München 1999, ISBN 3-88795-186-7 
+Eine Zusammenfassung von Beiträgen einer internationalen Tagung der Hanns-Seidel-Stiftung mit der Landesstelle für die Nichtstaatlichen Museen in Bayern im Juni 1998 in Kloster Banz. Handfeste Information zu Fördermöglichkeiten, bisherigen Ergebnissen und aufgetretenen Problemen, zu Partneradressen, allen erfordlichen Ansprechpartnern und zur künftigen Weiterentwicklung der länderübergreifenden Museumskooperation. Spannend.
+
+John Perkins: **Bekenntnisse eines Economic Hit Man. Als Schakal unterwegs im Dienst der Wirtschaftsmafia,** Riemann-Verlag 2005. ISBN 3-570-50066-7 
+John Perkins war ein "Wirtschaftskiller" - engl. "Economic Hit Man" - und jetzt packt er aus: Sein Vaterland - die USA - nutzte ihn demnach, um Volkswirtschaften mittels übertriebener Kreditvergabe zu ruinieren und danach dem eigenen Wirtschaftsimperialismus gefügig zu machen. Ein Modell, das weltweit in Gang gesetzt wurde und wird. Wenn es quietscht - Mord und Totschlag, Terror und Krieg. Wieder mal ein handfester Beweis, wer unsere wirklichen Freunde sind. Wer solche hat, braucht keine Feinde - und wie sieht es eigentlich mit der vermaledeiten Westbindung "unserer" Nebeneinkünftler aus? Alles bezahlte Killer unserer Volkswirtschaft? Fragen über Fragen. Bald nicht mehr erlaubt. [Gute Perkins-Rezension: www.neuer-weg.de/politik/buecher/globalisierung_06.htm](http://www.neuer-weg.de/politik/buecher/globalisierung_06.htm)
+
+H. Böttiger (Hrsg.): **Die Neocons, Wer treibt die USA in die imperiale Falle?** [Dr. Böttiger Verlags-GmbH](http://www.solidaritaet.com), Wiesbaden 2004, ISBN 3-925725-48-2 
+
+In prägnanter Form werden hier die "philosophischen" und politischen Hintergründe, die intellektuellen Anstifter seit dem 18. Jahrhundert wie Shelburne und de Maistre sowie die derzeit ausführenden bestens und weltweit organisierten Kriminellen benannt, die Amerika und den Globus in den Abgrund treiben, dafür 9-11er Inside-Jobs nutzen und neu entwickeln. 
+
+Da tränt das Auge und man wünscht sich was - wie immer vergeblich: das "System" hat ja bis in den letzten Winkel der Erde seine Helfershelfer in Stellung gebracht - auch unter "unseren" Parteigenossen wirkt diese fünfte Kolonne. 
+
+Ein lehrreiches Buch, obwohl man sich das scheinheilige Geschmurchel über den "guten" Frankie Roosevelt, Kriegsverbrecher par excellence und stolz auf seine vom grenzenlosen Germanenhaß beseelten Mördertaten im Amt, von mir aus hätte sparen können.
+
+Chalmers Johnson: **Blowback. The Costs and Consequences of American Empire** , New York: Henry Holt, 2000. 268 S. Deutsch: **Ein Imperium verfällt. Wann endet das Amerikanische Jahrhundert?** Aus dem Amerikanischen von Thomas Pfeiffer und Renate Weitbrecht. Karl Blessing, München 2000. 
+Von verblüffender Aktualität, am 22.9.01 sogar in der SZ eigentümlich frech rezensiert. Unsere bewährten Sprichworte zur Beschreibung der praktischen Gerechtigkeit Gottes für Anfänger: "Wie man in den Wald hineinruft, so schallt es zurück", "Wer anderen eine Grube gräbt, fällt selbst hinein", "Wer Wind sät, wird Sturm ernten" und "Jeder ist seines Glückes Schmied" sollen also nach Johnson auch für die USA, Gods own country, gelten. Der CIA-Begriff "Blowback" beschreibt demnach sinngemäß den unangenehmen "Rückstoß" der guten amerikanischen Schläge auf die vielen Bösen ringsum. 
+Welcher Nichtamerikaner denkt da nicht an Buffalo Bill und die bekannten Indianerspiele in Dresden, Hamburg und Hiroshima, Panama, Belgrad, Lybien und Bagdad (Böse!), vielleicht auch an New York und das Pentagon (Gute!!) - sogar trotz der offiziellen Denkverbote. Wer weiß, was alles noch blowbackt, wenn die derzeitig weltweit aufgebaute Kampfgemeinschaft für den Konflikt mit der gelben Gefahr weiter so aufgebaut wird. Amerika hat ja viel Erfahrung, den Anlaß kriegerischen Handelns selbst zu konstruieren und dem "Feind" in die Schuhe zu schieben. Man hat seinen Macchiavell gelernt. 
+Chalmers Prognose läßt dennoch hoffen: _"Auf lange Sicht ist die amerikanische Bevölkerung weder militaristisch noch wohlhabend genug, die ständigen Polizeiaktionen, Kriege und finanziellen Rettungsmanöver hinzunehmen, welche die Fortsetzung der hegemonialen Politik Washingtons nach sich ziehen muss."_ Da muß man aber in Jerusalem die Ohren spitzen, oder? "Blowback : The Costs and Consequences of American Empire"
+
+William F. Pepper: **Die Hinrichtung des Martin Luther King. Wie die amerikanische Staatsgewalt ihren Gegner zum Schweigen brachte.** Eugen Diederichs Verlag, München 2003 
+Der Patriot Pepper, Freund Luther Kings und dann Verteidiger dessen angeblichen Mörders James Earl Ray, deckt als Ergebnis seiner über 30jährigen Nachforschungen auf, wie die USA-Staatsgewalt mit dem organisierten Mord am 4.4.1967 den schillernden Negerführer einen Tag vor dem Start der von ihm angeführten Massenproteste gegen den Vietnamkrieg _"zum Schweigen brachte"_. Das häßliche Amerika, von den Anfängen seiner Geschichte der wohl grauenhafteste und grausamste Terrorstaat aller Zeiten, dessen einzigartige Ausrottungsstrategien, Folter- und Terrormaschinerie von den Indianern über die Negersklaven, die eigenen Südstaaten bis zu Hiroshima, Dresden, Irak usw. wohl nie mehr übertroffen werden können, erhält auch von Pepper ein vernichtendes Urteil. Fazit seines Schockers: _"Daß die Demokratie in unserem Lande nichts weiter ist als eine Illusion, ein Mythos."_ Die weltweite Todesfurcht vor diesem staatlich-scheinheiligen Tyrannosauriermonster, das so gut wie alle seine Aggressionen mit selbst eingefädelten "Angriffen" auf sich selbst startete und dies immer siegreich, das sich mörderisches Gericht über alle Unterworfenen anmaßt, sich jedoch selbst über alle internationalen Rechtsnormen frech hinwegsetzt, ist also mehr als berechtigt. Und das feige Wegducken seiner "Freunde" ebenso.
+
+James Pastouna: **Guantanamo Bay - Gefangen im rechtsfreien Raum** , m. Beiträgen von Knut Ipsen, Marcus Pyka u. Markus Wriedt, Europ. Verlagsanstalt 2005, 168 Seiten, ISBN 3434505903 
+
+Lehrreich, wie die Amis alle Menschenrechte brechen wie es ihnen grad paßt, rechtsfreie Folterräume nutzen und ganz und gar unschuldige Opfer amerikanischer Terrorpolitik, scheinheiligster Rechtsbeugung und dreckigster Kriegsführung wenns drauf ankommt bis zum Tode quälen. 
+
+In God we trust grad wie's uns Herrenmenschen paßt und nie werd'n wir bestraft - Ätsch! James Pastouna hat in seiner aktuellen Reportage solche Schweinskramfälle aus dem Foltercamp Guntanamo zusammengetragen, die fast an die Horrorkabinette der WW-II-Winner von den Rheinwiesen über Landsberg, Nürnberg und Natternberg und, und, und bis in den sibirischen Gulag erinnern. Die US-Army mit ihrem aus der Mafiosi-Zusammenarbeit in den 1940ern entstandenen CIA ist eben wie die polnische (dort wurden ja die Foltercamps des CIA jüngst aufgedeckt) auch eine Traditionstruppe. 
+
+Wo ist der Aufschrei der Gutmenschen, warum schüttelt man den Verantwortlichen dafür noch die Hand? Feigheit vor dem Feind? Wer das gelesen hat, verzichtet lieber auf das transatlantische Bündnis.
+
+Ian Cobain: **Cruel Britannia - A Secret History of Torture** , Portobello Books, London 2012, ISBN 1846273331 
+
+Foltern und morden an deutschen kriegsgefangenen Soldaten und auch sonst gerne und überall - immer und ewig gedeckt vom Dünkel und der unübertrefflichen Macht des einzigartigen Kulturmenschen, der gerade deswegen dazu geboren und vom lieben Gott in die Welt gestellt wurde, um diese nach eigener Methode und ohne Verantwortung vor Gott und den Menschen zu beherrschen? Verheimlicht von den Folterknechten in britischer Uniform, von ihren Strategen mit haßerfüllten Gehirnen, verhüllt von den staatstragenden Medien dort und hier. Ian Cobain, ein unbefangener britischer Geschichtsforscher, reißt unseren beziehungsweise seinen lieben Freunden über dem Kanal die so wohl gepflegte Maskerade ab und zeigt, was hinter den Kulissen des vorzüglich-unübertrefflichen Gutmenschentums lauert: Die bestialischste Bestie, die man sich gerade als Deutscher eigentlich nur in den nazideutschen Kerkern oder hinter Onkel Toms Hütte, vielleicht auch noch beim Russen, Tschechen, Jugoslawen und Polen und dem IS vorstellen konnte. Diese Aufklärung tut uns also schmerzlich weh - mehr noch als in England. Doch ist sie gleichwohl von Nöten. Wer wollte das bestreiten? Also nachlesen, was in Bad Nenndorf, den englischen Kolonien, dem Irak und natürlicherweise in Nordirland gang und gäbe war und ist, wenn Engländer die unbeschränkte Macht ausüben: Britannia rules! Cruel!
+
+Noam Chomsky [Übers. Michael Haupt]: **Keine Chance für den Frieden. Warum mit Israel und den USA kein Palästinenserstaat zu machen ist.** Europa Verlag Hamburg 2005, 266 Seiten, ISBN 3-203-76005-3 
+
+Noam Chomsky, als 1928 geborener US-Jude ein authentischer Zeuge und intelligenter Kritiker der bestialischen US-Außenpolitik im letzten und diesem Jahrhundert und seit 1961 Professor für Linguistik am weltberühmten MIT, kommt hier wieder mal zur Sache: 
+
+Die USA sind demnach der "übelste Schurkenstaat der Welt", ihr kumpanenhaftes Bündnis mit Israel, gegen das amerikanische Volk, gestützt von der nach Chomskys Meinung einflußreichen Israel-Lobby aus wie hierzulande mächtigen Juden, Globalheuschrecken, arbeiterfeindlichen Gewerkschaftlern, karrieregeilen Polittrucks, Medienzaren, Journalisten und religiös aufgeladenen christlichen Zionisten, ist treuer Garant für die wenig friedfertige Politik Israels gegen die Palästinenser. Verbrechen im Namen der Übermenschlichkeit? 2008 nimmt auch der US-Senator Chuck Hagel die amerikanische Israel-Lobby ins Visier und tönt in einem [Interview mit Aaron Miller](http://www.newyorker.com/online/blogs/newsdesk/2012/12/chuck-hagel-and-his-enemies.html): 
+_"The Jewish lobby intimidates a lot of people up here,"_ but _"Im a United States senator. Im not an Israeli senator."_ - auf gut Deutsch: _"Die jüdische Lobby schüchtert hierzulande eine Menge Leute ein,"_ aber _"Ich bin ein Senator der Vereinigten Staaten. Ich bin kein Senator Israels."_ 
+Was ihm dann prompt im Berufungsverfahren als Obamas Verteidigungsminister 2013 von genau den US-Mitgliedern der angesprochenen pressure group wochenlang öffentlich und weltweit perfekt duchorchestriert vorgworfen wurde, um ihn zu demontieren und aus dem Rennen zu werfen. 
+Eine Chance für die Befriedung des nahen Ostens kann Chomsky nicht entdecken - die Macht des auch USrael genannten Bündnisses ist zu groß, seine Interessen wenig auf Frieden gerichtet, das weltvernichtende Harmaggedon ein frommes Ziel, jede antizionistische Gegenwehr gebetsmühlenhaft als "Antisemitismus" und mit der Faschismuskeule und [Antisemitismuskeule](http://de.pluspedia.org/wiki/Antisemitismuskeulehttp://de.pluspedia.org/wiki/Antisemitismuskeule) (so Walser, dessen unehelicher Sohn Jakob Augstein von Deutschlands führendem Anschwärzexperten Henryk Broder 2012 zum Antisemiten ernannt wurde und es nur kurz darauf 2013 auf die Antisemiten-Liste des Simon-Wiesenthal-Centers schaffte) verunglimpft. 
+Scharf beleuchtet Chomsky auch die üblicherweise tabuisierte atomare Aufrüstung Israels - nach dem ZDF-Journalisten Claus Kleber in seinem 2012er Interview mit Mahmud Ahmadinedschad ein Projekt ohne jegliche Begrenzungen, da Israel eben nicht - wie der Iran - dem Atomwaffensperrvertrag beigetreten ist. Für Chomsky ist die Politik Israels eine logische Fortsetzung des britischen Ausbeuter-Imperialismus', der die Vernichtung seiner Opfer schon immer billigend in Kauf nahm, dafür nach neueren Forschungen die Darwinsche Affenabstammungslehre zur Rechtfertigung von Ausbeutung und notfalls Ausrottung seiner Kolonialhalbaffen (Indianer, Inder, Chinesen, Neger, ...) förderte und mittels korrupter einheimischer Tyrannen (man denke an die vor keiner Gewalttat zurückschreckenden arabischen Scheichtümer von Amerikas und Britanniens Gnaden) auch im "nachkolonialen" Zeitalter bestens zu nutzten versteht. 
+
+Der 2005 von Marc Garlasco, Human Rights Watch (HRW) offenbarte Skandal um das weltweite Netzwerk ausländischer Geheimgefängnisse als versteckte Brutalfolterstätten für die CIA, in Europa logischerweise bei den gerade gegen uns Deutsche erwiesenen Menschenrechtsspezialisten Polen und Rumänien angesiedelt (SZ vom 4.11.2005, S. 2), ist nur ein weiterer Beleg für das grausamste Weltherrschertum seit je. Klaro, daß Deutschland vor solchen Mordgenossen vorsichtshalber seit 1945 bis in alle Ewigkeit weiter kuschen muß, mit merkelschem Kriechen (Karnevalwagen Düsseldorf mit Merkel in Bush's verlängertem Rücken!), offener und verdeckter verfassungswidriger Teilnahme an Kriegen gegen allerlei Völker, die uns nichts getan haben und ständig ausgeweiteter Tributzahlung inkl. vieler Atom-U-Boot-Geschenke an die Scheinheiligen bis zum Verrecken. Noam Chomsky - eine weitere der im bestem Sinne mitleidenden und leidenschaftlichen jüdischen Seele für Frieden und Gerechtigkeit - ein leider wirkungsloser Prophet. Dennoch lesenswert, auch für uns.

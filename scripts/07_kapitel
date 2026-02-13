@@ -1,0 +1,92 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+import re
+from pathlib import Path
+
+"""
+REGELN:
+
+Ein Absatz wird transformiert, wenn:
+- Mindestens 3 Links in einer Zeile eine Zahl enthalten.
+
+Transformation:
+- Suche ob vor der Linkzeile ein <center markup> tag ist, wenn ja wird er entfernt und auch der dazugehörige </center> wird entfernt. die anderen center tags auf der Seite bleiben.
+- Bilder in der Zeile werden entfernt.
+- Nach jedem Link oder Bold Text ein weicher Zeilen Umbruch und davo ein Blockquote ">" einfügen.
+"""
+
+TARGET_DIR = Path("../artikel")
+
+def process_markdown(content):
+    # Trennung nach Absätzen
+    paragraphs = re.split(r'(\n\s*\n)', content)
+    
+    processed_blocks = []
+    
+    for block in paragraphs:
+        # Check ob der Block eine Zeile mit mindestens 3 Links enthält, die eine Zahl haben
+        link_with_digit_pattern = r'\[.*?\]\([^\)]*?\d[^\)]*?\)'
+        links_found = re.findall(link_with_digit_pattern, block)
+        
+        if len(links_found) >= 3:
+            # REGEL 1 & 2: Center Tags entfernen
+            block = re.sub(r'<\/?center>', '', block)
+            
+            # REGEL 3: Bilder entfernen
+            block = re.sub(r'!\[.*?\]\(.*?\)', '', block)
+            
+            # REGEL 4: Transformation von Bold und Links
+            # Wir ersetzen das Element durch: > Element <br>
+            # Danach fixen wir ggf. doppelte Marker.
+            
+            # Pattern für Bold oder Links
+            pattern = r'(\*\*.*?\*\*|__.*?__|\[.*?\]\(.*?\))'
+            
+            # Wir splitten den Block in Teile, um die Ersetzungen präzise vorzunehmen
+            # oder nutzen ein cleveres sub:
+            def transform_match(m):
+                item = m.group(1)
+                return f"> {item} <br>"
+
+            # Erstmal alle Treffer transformieren
+            block = re.sub(pattern, transform_match, block)
+            
+            # Bereinigung: Falls durch die Transformation mehrere ">" 
+            # oder "<br>" hintereinander stehen (z.B. Link in Bold)
+            block = re.sub(r'(<br>\s*)+', '<br>\n', block) # Umbruch nach jedem <br> für Lesbarkeit
+            
+            # Falls der Block nun mit Text startet, der kein Quote ist, 
+            # stellen wir sicher, dass die Struktur sauber ist.
+            # (Optional: Entfernt überschüssige Leerzeichen am Zeilenanfang)
+            lines = [line.strip() for line in block.split('\n') if line.strip()]
+            # Sicherstellen, dass jede transformierte Zeile ein ">" hat
+            block = '\n'.join(lines)
+
+        processed_blocks.append(block)
+
+    return "".join(processed_blocks)
+
+def main():
+    if not TARGET_DIR.exists():
+        print(f"Verzeichnis nicht gefunden: {TARGET_DIR}")
+        return
+
+    files = list(TARGET_DIR.rglob("*.md"))
+    if not files:
+        print("Keine .md Dateien gefunden.")
+        return
+
+    for path in files:
+        try:
+            original = path.read_text(encoding="utf-8")
+            new_text = process_markdown(original)
+            
+            if new_text != original:
+                path.write_text(new_text, encoding="utf-8")
+                print(f"✔ Update: {path.name}")
+        except Exception as e:
+            print(f"✘ Fehler bei {path.name}: {e}")
+
+if __name__ == "__main__":
+    main()

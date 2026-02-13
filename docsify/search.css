@@ -1,0 +1,199 @@
+.app-name {
+  display: flex;
+  align-items: center;
+}
+
+.app-name-link{
+  margin-left: 1.5rem;
+}
+.app-img-link {
+  display: inline-block; 
+  line-height: 0;     
+  margin-left: 2px;  
+}
+.app-img-link div {
+  width: 4rem;     
+  height: 4rem;     
+  overflow: hidden; 
+  border-radius: 50%; 
+  display: inline-block;
+  border: 2px solid white;
+  top: 50%;
+}
+
+.app-img-link img {
+  width: 150%;         
+  height: 150%;
+  object-fit: cover;    
+  object-position: center -8px;
+  align-content: center;
+}
+
+/* Sidebar Search CTA */
+.sidebar-search-cta {
+    position: relative;
+
+    margin: var(--sidebar-nav-margin);
+    padding: 0.6rem 0.75rem;
+
+    cursor: pointer;
+
+    color: var(--sidebar-nav-link-color);
+
+    line-height: 1;
+
+    background-color: var(--search-input-background-color);
+
+    border-width: var(--search-input-border-width);
+    border-style: solid;
+    border-color: var(--search-input-border-color);
+    border-radius: var(--search-input-border-radius);
+
+    transition: background-color 0.15s ease, box-shadow 0.15s ease;
+}
+.sidebar-search-cta::before {
+    content: "⚲";
+    display: inline-block;
+    transform: rotate(-45deg);
+    font-size: large;
+}
+/* Shortcut – standardmäßig unsichtbar */
+.sidebar-search-cta::after {
+    content: "Ctrl + K";
+
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    font-size: 0.75rem;
+
+    padding: 0.15rem 0.4rem;
+    color: var(--base-color);
+
+    opacity: 0;
+    transition: opacity 0.15s ease;
+
+    pointer-events: none;
+    position: absolute;
+    right: 0.75rem;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+/* Einblenden bei Hover & Keyboard-Fokus */
+.sidebar-search-cta:hover::after,
+.sidebar-search-cta:focus::after {
+    opacity: 1;
+}
+@media (hover: none) {
+    .sidebar-search-cta::after {
+        opacity: 1;
+    }
+}
+
+.sidebar-search-cta:hover {
+    background-color: hsla(0, 0%, 60%, 0.1);
+}
+
+.sidebar-search-cta:focus {
+    outline: none;
+    background-color: hsla(0, 0%, 40%, 0.1);
+}
+
+/* Linker Text */
+.sidebar-search-cta .search-label {
+    font-weight: 500;
+    white-space: nowrap;
+    margin-left: 0.75rem;
+}
+
+/* Overlay */
+.search-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 9999;
+  display: none;
+}
+
+/* Modal */
+.search-modal {
+  max-width: 720px;
+  margin: 10vh auto;
+  padding: 0.5rem;
+  background: var(--base-background-color);
+  color: var(--base-color);
+  border-radius: var(--border-radius-l);
+  box-shadow: var(--shadow-l);
+  border: 1px solid var(--border-color);
+}
+
+/* Input */
+.search-input {
+  width: 100%;
+  padding: 0.6rem 0.75rem;
+  border-radius: var(--border-radius-s);
+  border: 1px solid var(--border-color);
+  background-color: var(--search-input-background-color);
+  color: var(--base-font-color);
+}
+/*
+.search-input::-webkit-search-cancel-button {
+  -webkit-appearance: none;
+  appearance: none;
+  display: none;
+}
+
+.search-input::after {
+  content: '🗙';
+}
+*/
+.search-input::placeholder {
+  color: var(--base-color);
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: var(--theme-color);
+  box-shadow: 0 0 0 2px color-mix(in srgb, var(--theme-color) 30%, transparent);
+}
+
+/* Results */
+.search-results {
+  margin: 0;
+  padding: 0.5rem;
+  max-height: 60vh;
+  overflow-y: auto;
+  border-radius: var(--border-radius-s);
+}
+
+/* Einzelnes Ergebnis */
+.search-results li {
+  list-style: none;
+  margin: 0;
+}
+
+.search-results a {
+  display: block;
+  color: var(--link-color);
+  text-decoration: none;
+  border-radius: var(--border-radius-l);
+  padding: 0.5rem 1rem;
+  transition: background-color 0.2s ease;
+}
+
+.search-result.active a {
+  background: var(--sidebar-nav-link-background-color--active, hsla(0, 0%, 60%, 0.1));
+}
+
+/* Titel */
+.search-title {
+  font-weight: var(--strong-font-weight);
+  color: var(--link-color);
+}
+
+/* Snippet */
+.search-snippet {
+  display: block;
+  font-size: var(--font-size-m);
+  color: var(--base-color);
+  margin-top: 0.2rem;
+  line-height: 1.3;
+}

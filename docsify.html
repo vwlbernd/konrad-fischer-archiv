@@ -1,0 +1,124 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>Konrad Fischer Archiv</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+    <!-- Themes (light + dark) -->
+    <link rel="stylesheet" media="(prefers-color-scheme: dark)"
+        href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+    <link rel="stylesheet" media="(prefers-color-scheme: light)"
+        href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+    <!--
+        <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css" />
+        <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/dark.css" />
+-->
+    <link rel="stylesheet" href="https://unpkg.com/docsify-plugin-toc@1.3.1/dist/light.css">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
+    <link rel="stylesheet" href="docsify/search.css">
+
+    <style>
+        :root {
+            --sidebar-nav-pagelink-background: none;
+            --sidebar-nav-pagelink-background--active: none;
+            --sidebar-nav-pagelink-background--collapse: none;
+            --sidebar-nav-pagelink-background--loaded: none;
+            --heading-h2-border-width: 0;
+            --link-color: var(--theme-color);
+            --sidebar-width: 19rem;
+
+            --search-input-border-radius: 8px;
+            --search-input-border-width: 1px;
+        }
+
+        .sidebar-nav ul:not(.app-sub-sidebar)>li:not(.file)::before {
+            left: 0;
+            height: 8px;
+            width: 8px;
+        }
+
+        .sidebar-nav ul:not(.app-sub-sidebar)>li:not(.file).active::before {
+            border-color: var(--theme-color);
+        }
+    </style>
+
+</head>
+
+<body>
+    <div id="app">Lade Archiv...</div>
+
+    <div id="search-overlay" class="search-overlay">
+        <div class="search-modal">
+            <input id="search-input" class="search-input" type="search" placeholder="Archiv durchsuchen…"
+                autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" />
+            <ul id="search-results" class="search-results"></ul>
+        </div>
+    </div>
+
+    <script>
+        window.$docsify = {
+            name: "Fischer Archiv",
+            basePath: 'artikel/',
+            homepage: 'index.md',
+            loadSidebar: '../sidebar/_sidebar.md',
+            subMaxLevel: 0,
+            auto2top: true,
+            sidebarDisplayLevel: 0,
+            toc: {
+                tocMaxLevel: 5,
+                target: 'h2, h3, h4, h5, h6',
+                ignoreHeaders: ['<!-- {docsify-ignore} -->', '<!-- {docsify-ignore-all} -->']
+            },
+            pagination: {
+                previousText: 'Vorheriges Kapitel',
+                nextText: 'Nächstes Kapitel',
+                crossChapter: true,        // <--- Das ist der entscheidende Fix!
+                crossChapterText: true,    // Zeigt den Namen des Kapitels an
+            },
+        };
+    </script>
+
+    <!-- Docsify current release  -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+
+    <!-- Plugins -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+    <script src="https://unpkg.com/docsify-plugin-toc@1.3.1/dist/docsify-plugin-toc.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-pagination@2/dist/docsify-pagination.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/front-matter.min.js"></script>
+    
+    <!--         <script src="https://unpkg.com/@h-hg/docsify-image-caption/dist/docsify-image-caption.min.js"></script>
+
+        <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1/dist/docsify-tabs.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2/dist/docsify-copy-code.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+-->
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2/dist/fuse.min.js"></script>
+    <script>
+        let fuse;
+
+        fetch('docsify/search-index.json')
+            .then(r => r.json())
+            .then(data => {
+                fuse = new Fuse(Object.values(data), {
+                    keys: [
+                        { name: 'title', weight: 0.7 },
+                        { name: 'content', weight: 0.3 },
+                    ],
+                    threshold: 0.35,
+                    ignoreLocation: true,
+                    minMatchCharLength: 3
+                });
+            });
+    </script>
+    <script src="docsify/search.js"></script>
+
+</body>
+
+</html>
