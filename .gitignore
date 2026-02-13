@@ -1,0 +1,12 @@
+# Ignoriere den gesamten Ordner "geheim"
+/__pycache__/
+/docsify/
+/scripts/
+/sidebar/
+
+# Ignoriere alle .log Dateien
+*.py
+*.yml
+
+# Ignoriere eine spezifische Datei
+docsify.html
