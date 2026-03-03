@@ -1,11 +1,18 @@
 ---
+nav: "7epass.md"
 title: "Norbert Deul, Vorstand des Hausgeld-Vergleich e.V.: Auswirkungen von energetischen und lüftungstechnischen Verbesserungen bei Bestandswohnanlagen auf die Wohnnebenkosten"
 description: "Auszüge aus dem Referat auf der Fortbildungsveranstaltung der IHK-Akademie München für Richter, Anwaltschaft und Gutachter am 1.4.2009."
-author: " "
+author: "Norbert Deul"
 original_url: "www.konrad-fischer-info.de/deul.htm"
+updated: "01.04.2009"
 ---
 
-# Auswirkungen von energetischen und lüftungstechnischen Verbesserungen bei Bestandswohnanlagen auf die Wohnnebenkosten
+[🠔 Zur Übersicht: Widersprüche 1](7waefe33.md)  
+# Norbert Deul, Vorstand des Hausgeld-Vergleich e.V.: Auswirkungen von energetischen und lüftungstechnischen Verbesserungen bei Bestandswohnanlagen auf die Wohnnebenkosten
+**Auszüge aus dem Referat auf der Fortbildungsveranstaltung der IHK-Akademie München für Richter, Anwaltschaft und Gutachter am 1.4.2009.**  
+_von Norbert Deul • aktualisiert 01.04.2009_
+
+## Auswirkungen von energetischen und lüftungstechnischen Verbesserungen bei Bestandswohnanlagen auf die Wohnnebenkosten
 
 ## Was behindert die großflächige Umsetzung energetischer Maßnahmen, so wie sie die Bundesregierung propagiert?
 
@@ -27,7 +34,7 @@ Gehrestalstraße 8, 91224 Pommelsbrunn bei Nbg.
 Tel.: 09154/1602, Fax 09154/914721 
 [www.hausgeld-vergleich.de](http://www.hausgeld-vergleich.de) 
 
-# Auswirkungen von energetischen und lüftungstechnischen Verbesserungen bei Bestandswohnanlagen auf die Wohnnebenkosten
+## Auswirkungen von energetischen und lüftungstechnischen Verbesserungen bei Bestandswohnanlagen auf die Wohnnebenkosten
 
 Auszüge aus dem Referat auf der Fortbildungsveranstaltung der IHK-Akademie München für Richter, Anwaltschaft und Gutachter am 1.4.2009. 
 

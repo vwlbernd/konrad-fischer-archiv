@@ -1,13 +1,20 @@
 ---
-title: "Aus der Internet-Fragestunde der Altbau und Denkmalpflege ..."
-description: "Altbaufragen von AZ: Bauberatung/Kritik, Solarkollektor und Solarenergie."
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Aus der Internet-Fragestunde: Solar-Schwindel & Bauberatung"
+description: "Warum sich Solarenergie am Altbau oft nur für die Industrie rechnet: Eine kritische Analyse über die Zerstörung historischer Dachlandschaften und die fragwürdige Wirtschaftlichkeit moderner Kollektoren."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2frag10.htm"
+updated: "22.04.2008"
 ---
+
+[🠔 Zur Übersicht: Altbau FAQ](2frag.md)  
+# Aus der Internet-Fragestunde: Solar-Schwindel & Bauberatung
+**Warum sich Solarenergie am Altbau oft nur für die Industrie rechnet: Eine kritische Analyse über die Zerstörung historischer Dachlandschaften und die fragwürdige Wirtschaftlichkeit moderner Kollektoren.**  
+_von Konrad Fischer • aktualisiert 22.04.2008_
 
 Konrad Fischer 
 
-# Aus der Internet-Fragestunde und Bauberatung
+## Aus der Internet-Fragestunde und Bauberatung
 
 **(aktualisiert 22.04.08)** 
 
@@ -53,7 +60,7 @@ Konrad Fischer
 
 ---
 
-# Informationsanforderung/Umfangreiche Bauberatung/Kritik [10]
+## Informationsanforderung/Umfangreiche Bauberatung/Kritik [10]
 
 M. R. schrieb: 
 so viel Schwachsinn, wie auf Ihrer Internetseite habe ich bisher noch nicht gesehen. 

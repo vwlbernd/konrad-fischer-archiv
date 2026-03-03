@@ -1,9 +1,16 @@
 ---
+nav: "index.md"
 title: "Beiträge von Peter Rauch zu Bauphysik, Bauchemie und Baubiologie"
-description: "Ergänzende Beiträge speziell zu Feuchtigkeit, Schimmelpilze, Hausschwamm und andere Bauschäden."
-author: " "
+description: "Ingenieurbüro Peter Rauch bietet Beratungsleistungen zur Altbausanierung, speziell zu biologischen Bauschäden, Holzschutz, Schimmelpilzvermeidung & Baustoffauswahl. Es werden biologische, biochemische, chemische und bauphysikalische Zusammenhänge dargestellt."
+author: "Peter Rauch"
 original_url: "www.konrad-fischer-info.de/rauch.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Quellen](8infober.md)  
+# Beiträge von Peter Rauch zu Bauphysik, Bauchemie und Baubiologie
+**Ingenieurbüro Peter Rauch bietet Beratungsleistungen zur Altbausanierung, speziell zu biologischen Bauschäden, Holzschutz, Schimmelpilzvermeidung & Baustoffauswahl. Es werden biologische, biochemische, chemische und bauphysikalische Zusammenhänge dargestellt.**  
+_von Peter Rauch_
 
 Das Ingenieurbüro Peter Rauch befasst sich vorwiegende mit Beratungsleistungen zur Altbausanierung, speziell zu biologischen Bauschäden. Dies schließt den Holzschutz, die Vermeidung von Schimmelpilzbildung und Lösungsvorschläge für zweckentsprechende Konstruktionen sowie eine richtige Baustoffauswahl ein. Es werden ebenso biologische, biochemische, chemische (Baustoffe) und bauphysikalische Zusammenhänge dargestellt.
 

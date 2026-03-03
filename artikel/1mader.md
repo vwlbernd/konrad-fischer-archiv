@@ -1,11 +1,18 @@
 ---
-title: "REFERENZEN VON ÄMTERN UND BAUHERREN - BLfH, BLfD, Evang.-Luth Kirche, Kommunen..."
-description: "Wie beurteilen Behörden und Auftraggeber den Verfasser der Altbau und Denkmalpflege Informationen?"
-author: " "
+nav: "index.md"
+title: "Referenzen für Konrad Fischer"
+description: "Sammlung von Referenzen und Dankschreiben von Ämtern, Kirchen und privaten Bauherren für Konrad Fischers Arbeit in der Denkmalpflege."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/1mader.htm"
+updated: "12.05.2010"
 ---
 
-# REFERENZEN FÜR KONRAD FISCHER
+[🠔 Zur Übersicht: Über Konrad Fischer](1refernz.md)  
+# Referenzen für Konrad Fischer
+**Sammlung von Referenzen und Dankschreiben von Ämtern, Kirchen und privaten Bauherren für Konrad Fischers Arbeit in der Denkmalpflege.**  
+_von Konrad Fischer • aktualisiert 12.05.2010_
+
+## REFERENZEN FÜR KONRAD FISCHER
 
 ## Bayerischer Landesverein für Heimatpflege 
 Bayerisches Landesamt für Denkmalpflege 

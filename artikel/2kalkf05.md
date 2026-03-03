@@ -1,11 +1,18 @@
 ---
-title: "Die häufigsten Fehler bei der Anwendung von Luftkalkmörtel 5"
-description: "Zu verarbeitungs- und objektbedingten Fehlerquellen."
-author: " "
+nav: "20bausto.md, 26bausto.md"
+title: "Kalk Anwendungsfehler 5: Zu starker Mörtelauftrag"
+description: "Ein Expertenbericht über zu dicke Spachtellagen und wie überhöhte Farbzugaben die Bindekraft des Kalks zerstören."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2kalkf05.htm"
+updated: ""
 ---
 
-# Die häufigsten Fehler bei der Anwendung von 
+[🠔 Zur Übersicht: Kalk Anwendungsfehler](2kalkfel.md)  
+# Kalk Anwendungsfehler 5: Zu starker Mörtelauftrag
+**Ein Expertenbericht über zu dicke Spachtellagen und wie überhöhte Farbzugaben die Bindekraft des Kalks zerstören.**  
+_von Konrad Fischer_
+
+## Die häufigsten Fehler bei der Anwendung von
 
 Luftkalkmörtel, 
 Kalkputz und Kalkanstrich 5
@@ -32,4 +39,3 @@ Trocknen dicke Mörtellagen nicht rechtzeitig vor dem Winter bzw. Bewitterung au
 
 [Weiter: Kalkfehler 6](2kalkf06.md) 
 
-[Kalkfehler Einleitung](2kalkfel.md) [Kalkfehler 1](2kalkf01.md) [Kalkfehler 2](2kalkf02.md) [Kalkfehler 3](2kalkf03.md) [Kalkfehler 4](2kalkf04.md) **Kalkfehler 5** [Kalkfehler 6](2kalkf06.md) [Kalkfehler 7](2kalkf07.md) [Kalkfehler 8](2kalkf08.md) [Kalkfehler 9](2kalkf09.md) [Kalkfehler 10](2kalkf10.md) [Kalkfehler 11](2kalkf11.md) [Kalkfehler 12](2kalkf12.md) [Kalkfehler 13](2kalkf13.md)

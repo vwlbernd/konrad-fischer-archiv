@@ -1,13 +1,20 @@
 ---
-title: "Aus der Internet-Fragestunde der Altbau und Denkmalpflege ..."
-description: "Aus der Internet-Fragestunde und Bauberatung: Natursteinsanierung"
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Aus der Internet-Fragestunde: Klartext Bauberatung"
+description: "Warum klassische Sanierungsmethoden den modernen Industriesystemen überlegen sind und wie Sie Ihren Altbau ohne teure Fehlentscheidungen erhalten."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2frag27.htm"
+updated: "15.05.2008"
 ---
+
+[🠔 Zur Übersicht: Altbau FAQ](2frag.md)  
+# Aus der Internet-Fragestunde: Klartext Bauberatung
+**Warum klassische Sanierungsmethoden den modernen Industriesystemen überlegen sind und wie Sie Ihren Altbau ohne teure Fehlentscheidungen erhalten.**  
+_von Konrad Fischer • aktualisiert 15.05.2008_
 
 Konrad Fischer 
 
-# Aus der Internet-Fragestunde und Bauberatung
+## Aus der Internet-Fragestunde und Bauberatung
 
 **(aktualisiert 15.05.08)** 
 

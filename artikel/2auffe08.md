@@ -1,19 +1,26 @@
 ---
-title: "Schwindelei? Aufsteigende Nässe + Trockenlegung feuchter Mauern 8"
-description: "Trockenlegung oder Bauwerksschäden durch Horizontalisolierung?"
-author: " "
+nav: "20bausto.md"
+title: "Trockenlegung oder Bauwerksschäden durch Horizontalisolierung?"
+description: "Nachträgliche Horizontalisolierungen zur Mauertrockenlegung fügen Gebäuden oft teure Schäden zu. Sägeschnitte, Bohrlöcher und Injektionen verursachen Probleme statt Lösungen."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2auffe08.htm"
+updated: "04.08.2009"
 ---
+
+[🠔 Zur Übersicht: Aufsteigend Feuchte?](2aufstfe.md)  
+# Trockenlegung oder Bauwerksschäden durch Horizontalisolierung?
+**Nachträgliche Horizontalisolierungen zur Mauertrockenlegung fügen Gebäuden oft teure Schäden zu. Sägeschnitte, Bohrlöcher und Injektionen verursachen Probleme statt Lösungen.**  
+_von Konrad Fischer • aktualisiert 04.08.2009_
 
 ## Aufsteigende Nässe + Trockenlegung feuchter, nasser Mauern 8
 
 Aufsteigende Feuchte Kapitelübersicht 
 
-[1 - Einführung zur Problemlage](2aufstfe.md) [2 - Ein schrecklicher "Trockenlegungsfall"](2auffe02.md) [3 - Feuchtequellen](2auffe03.md) [4 - Ziegel-Mauerwerk und Aufsteigende Feuchte](2auffe04.md) [5 - Naturstein-Mauerwerk und Aufsteigende Feuchte](2auffe05.md) [6 - Nachträgliche Horizontalabdichtung historischen Mauerwerks? - Mauerwerksversalzung](2auffe06.md) [7 - Kondensat und Regen](2auffe07.md) **8 - Trockenlegung oder Bauwerksschäden durch Horizontalisolierung?** [9 - Trockenlegungsschwindel - die Marketingtricks](2auffe09.md) [10 - Elektroosmose und die typischen Trockenleger-Ausreden bei Mißerfolg](2auffe10.md) [11 - Trockenlegungsexperten? - Planer und Gutachter](2auffe11.md) [12 - Trockenlegung - Industrieberatung oder der gesunde Menschenverstand? Probleme und Lösungen](2auffe12.md) [13 - Mauertrockenlegung - Die klassischen Fehler](2auffe13.md) [14 - Nasse Wände sanieren - Was sagt die Wissenschaft?](2auffe14.md) [15 - Mauerfeuchte woher? Zum historischen und wissenschaftlichen Hintergrund](2auffe15.md) 
+
 
 **(aktualisiert 4.08.09)** 
 
-# Trockenlegung oder 
+## Trockenlegung oder
 Bauwerksschäden durch Horizontalisolierung?
 
 Dem Gebäude werden durch nachträgliche Horizontalisolierungen zur nur angeblichen Mauertrockenlegung, Mauerwerksentfeuchtung, Kellerwandentfeuchtung usw. ja große, möglichst teuer bezahlte Schäden zugefügt: Sägeschnitte, Bohrlöcher und Injektionen mit zweifelhaften Chemikalien ("Zauberkästchen" ausgenommen). Das leert Bauherrngeldbeutel und Fördertopf, behindert aber die Finanzierung sinnvoller Instandsetzung. Vorteile bringen derartige Isolierungen nur den beteiligten Anwendern, Baustoffherstellern und -lieferanten sowie den Gutachtern, Publizisten und Planern - Geschäft mit der Angst. Und: die Heerscharen einfältiger Baubeamter in Staat und Kirche haben mit unkritischem Trockenlegungswahn die ihnen anvertrauten Geldtöpfe dolle geleert - mit welchen Konsequenzen? Immer weiter mit 0-Mindestsatz-Planern Baugeld veruntreuen - oder?
@@ -26,7 +33,7 @@ Was wir hier lernen dürfen: Offenbar gab es wundersamer Weise eine artesische Q
 
 <center markdown>
 
-[![Brandgefahr bei Photovoltaikanlagen \(BR - 'Geld und Leben' am 21.11.2011](../medien/YOU08.JPG)](http://youtu.be/BT4jxQh9neQ) 
+[![Brandgefahr bei Photovoltaikanlagen \(BR - 'Geld und Leben' am 21.11.2011](../medien/YOU08.JPG)](https://youtu.be/BT4jxQh9neQ) 
 Das vorzeitige Ende einer Mauertrockenlegung 
 
 </center>

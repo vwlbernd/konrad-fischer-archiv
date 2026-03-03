@@ -1,9 +1,16 @@
 ---
-title: "Bosserts Kommentar zur BAK-EnEV-Stellungnahme 29.6.99 - mit ..."
+nav: "7thuene1.md"
+title: "Paul Bosserts Kommentar zur BAK-Stellungnahme zum Referentenentwurf der EnEV 2000"
 description: "Gepfefferte Kritik an der Energieeinsparverordnung, der Wärmebedarfsberechnung und den dafür Verantwortlichen."
-author: " "
+author: "Paul Bossert"
 original_url: "www.konrad-fischer-info.de/7enevbak.htm"
+updated: "20.07.2006"
 ---
+
+[🠔 Zur Übersicht: EEG Kritik](7eeg.md)  
+# Paul Bosserts Kommentar zur BAK-Stellungnahme zum Referentenentwurf der EnEV 2000
+**Gepfefferte Kritik an der Energieeinsparverordnung, der Wärmebedarfsberechnung und den dafür Verantwortlichen.**  
+_von Paul Bossert • aktualisiert 20.07.2006_
 
 <center markdown>
 

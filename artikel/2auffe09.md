@@ -1,17 +1,24 @@
 ---
-title: "Schwindelei? Aufsteigende Feuchte + Mauerwerk-Trockenlegung 9"
-description: "Trockenlegungsschwindel - die Marketingtricks"
-author: " "
+nav: "20bausto.md"
+title: "Trockenlegungsschwindel: Marketingtricks und das Kleingedruckte"
+description: "Kritische Analyse des Trockenlegungsschwindels: Wie Marketingexperten Feuchtequellen identifizieren, irreführende Messgeräte einsetzen und das Kleingedruckte nutzen, um Kunden zu täuschen."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2auffe09.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Aufsteigend Feuchte?](2aufstfe.md)  
+# Trockenlegungsschwindel: Marketingtricks und das Kleingedruckte
+**Kritische Analyse des Trockenlegungsschwindels: Wie Marketingexperten Feuchtequellen identifizieren, irreführende Messgeräte einsetzen und das Kleingedruckte nutzen, um Kunden zu täuschen.**  
+_von Konrad Fischer_
 
 ## Aufsteigende Feuchte + Mauerwerk-Trockenlegung 9
 
 Aufsteigende Feuchte Kapitelübersicht 
 
-[1 - Einführung zur Problemlage](2aufstfe.md) [2 - Ein schrecklicher "Trockenlegungsfall"](2auffe02.md) [3 - Feuchtequellen](2auffe03.md) [4 - Ziegel-Mauerwerk und Aufsteigende Feuchte](2auffe04.md) [5 - Naturstein-Mauerwerk und Aufsteigende Feuchte](2auffe05.md) [6 - Nachträgliche Horizontalabdichtung historischen Mauerwerks? - Mauerwerksversalzung](2auffe06.md) [7 - Kondensat und Regen](2auffe07.md) [8 - Trockenlegung oder Bauwerksschäden durch Horizontalisolierung?](2auffe08.md) **9 - Trockenlegungsschwindel - die Marketingtricks** [10 - Elektroosmose und die typischen Trockenleger-Ausreden bei Mißerfolg](2auffe10.md) [11 - Trockenlegungsexperten? - Planer und Gutachter](2auffe11.md) [12 - Trockenlegung - Industrieberatung oder der gesunde Menschenverstand? Probleme und Lösungen](2auffe12.md) [13 - Mauertrockenlegung - Die klassischen Fehler](2auffe13.md) [14 - Nasse Wände sanieren - Was sagt die Wissenschaft?](2auffe14.md) [15 - Mauerfeuchte woher? Zum historischen und wissenschaftlichen Hintergrund](2auffe15.md) 
 
-# Trockenlegungsschwindel - 
+
+## Trockenlegungsschwindel -
 die Marketingtricks und das Kleinstgedruckte
 
 Die Identifikation einer Durchfeuchtungsquelle gelingt Marketingexperten meist ohne weitere Untersuchung. Man sieht feuchte Wände und Putze mit den typischen Merkmalen einer "aufsteigenden Feuchte": Feuchteränder im oberen Bereich des Sockels, klar abgrenzbare wolkige Feuchteflecken und Ausblühungen, Flächenfeuchte - und Jeder weiß sofort: Das kann ja nur "aufsteigende Feuchte" sein. Sie erscheint und "ist" demnach ja "aufgestiegen". Und gaaaanz raffinierte "Sachverständige" für Schäden an Gebäuden, auftragsheischende "Umsonstuntersucher" der Trockenlegerbranche oder sonstwas nehmen raffinierterweise und teuer (der akademische Grad des doktorierten oder diplomierten oder gemasterten Untersuchers oder mindstens sein - da keine geschützte Berufsbezeichnung - an jeder Straßenecke erhältliche Sachverständigentitel oder eben der teuer erworbene ö.b.u.v. Gutachtenrang müssen ja bezahlt werden) oder umsonst ein idiotensicheres Meßgerät als Expertennachweis zur Hand, das bei dieser vorschnellen Diagnose sogar noch vollkommen irrelevante Anzeigewerte auf einem Display herbei zaubert: Das elektrische Widerstandsmeßgerät, das Feuchtemeßgerät, das Materialfeuchtemeßgerät, den Feuchtemesser, der Baufeuchte-Indikator, das Feuchtigkeitsmessgerät, den Feuchtigkeitsmesser oder Feuchtefühler oder, oder, oder. Dabei werden Meßgeräte eingesetzt, die als erstes die englische Firma Protim (Handelsnamen Protimeter, andere z.B. Gann Hydromette, Voltcraft FM, Trotec Feuchtemeßgerät, Testo, TFA Materialfeuchtemeßgerät usw.) 1959 eingeführt hat und es wirklich jedem dahergelaufenen Heini erlauben, zwei Elektroden oder eine kapazitive Feldmeßkugel der Wand zu nähern. Beim Widerstandsmeßverfahren zwischen Kathode und Anode fließt dann meßbar der Stroms. Bei der kapazitiven Feuchtemessung geht es etwas indirekter zu: Anhand der am Kondensator - dem sogenannten Herzstück des "dielektrischen" (Dielektrikum: Nichtleitfähiges Isoliermaterial wie Papier, Kunststoff oder Keramik als Trennmaterial zwischen den Kondensatorplatten) Meßverfahrens - je nach Kapazitätsmeßwert als Folge eines elektrischen "Streufelds" des kondensatornahen Meßbereichs (z.B. "Wand"), ergeben sich die am Meßgerät angezeigten Meßwerte. Welche als gefährlich rot blinkende Dioden oder "hohe" Digitalmeßwerte namens einheitslosen "Digits" auf einer geräteintegrierten Meß-Skala / Skalierung / Meßwertskalierung - vielleicht sogar in oft nur scheinbaren "Prozentzahlen" äußern. Oft genug nur fälschlicherweise auf angebliche Feuchtewerte verweisend. Wobei natürlich je nach Feuchtegehalt der Anzeigewert nach oben geht. So ein gerätegestütztes und interpretationsfehleranfälliges Gemesse könnte jeder Hausbesitzer freilich für ca. 15 EUR - so viel etwa kostet ein funktionsfähiges Feuchtemeßgerät auf Widerstandsmeßbasis - auch selber besorgen. Und wenn es volle Pulle im Gegensatz zum unteren Anzeigewert an einer definitiv trockenen Wand irgendwo im Haus ausschlägt, weiß er es definitiv: Feucht. Oha! 

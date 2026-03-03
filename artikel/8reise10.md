@@ -1,9 +1,16 @@
 ---
-title: "Burgen, Schlösser und Anderes - Linksammlung 10"
+nav: "index.md, 8schloss.md"
+title: "Gast im Schloss/Castle Hotels + Professioneller Burgbetrieb"
 description: "Gast im Schloß, in Burgen und Castles weltweit, Schloßreisen, Burgenreisen und Castletours."
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/8reise10.htm"
+updated: "23.04.2007"
 ---
+
+[🠔 Zur Übersicht: Burgen Links 1](8reise.md)  
+# Gast im Schloss/Castle Hotels + Professioneller Burgbetrieb
+**Gast im Schloß, in Burgen und Castles weltweit, Schloßreisen, Burgenreisen und Castletours.**  
+_von Konrad Fischer • aktualisiert 23.04.2007_
 
 <center markdown>
 
@@ -11,7 +18,7 @@ original_url: "www.konrad-fischer-info.de/8reise10.htm"
 **A journey to the past 10** 
 (Mit einigen meiner Reiseskizzen/with some of my sketches) 
 
-Seiten: [Links und Tips für Burgenfreunde/Castles and Forts 1](8reise.md) [2](8reise02.md) [3](8reise03.md) [4](8reise04.md) [5](8reise05.md) [6](8reise06.md) [7](8reise07.md) [8](8reise08.md) [9](8reise09.md) [Gast im Schloß:10](8reise10.md) [Mittelalter und andere historische Epochen:11](8reise11.md) [Schlösser zu verkaufen/Castles for Sale:12](8reise12.md) [Kunsthandel/Antiquitäten/Antics/Antiques/Fine Art: 13](8reise13.md)
+
 
 _[Konrad Fischer](1refernz.md) 
 _**(aktualisiert 23.04.07)**
@@ -70,4 +77,4 @@ Reisefieber? Zu Burgen und anderen originellen Zielen mit [Verreisen.de](http://
 
 ---
 
-Anregungen, Ergänzungsvorschläge? - 
+Anregungen, Ergänzungsvorschläge? -

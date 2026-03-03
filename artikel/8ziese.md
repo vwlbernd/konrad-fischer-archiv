@@ -1,11 +1,19 @@
 ---
-title: "Natürliche Farben, Anstriche und Verputze selber herstellen"
+nav: "index.md, 8infober.md"
+title: "Gerd Ziesemann, Martin Krampfer, Heinz Knieriemen: Natürliche Farben, Anstriche und Verputze selber herstellen"
 description: "Rezension Ziesemann, Krampfer, Knieriemen: Natürliche Farben, Anstriche und Verputz selber herstellen."
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/8ziese.htm"
+updated: "01.01.2007"
+---
+[🠔 Zur Übersicht: Altbaukritik Fachbücher](8wetz.md)  
+# Gerd Ziesemann, Martin Krampfer, Heinz Knieriemen: Natürliche Farben, Anstriche und Verputze selber herstellen
+**Rezension Ziesemann, Krampfer, Knieriemen: Natürliche Farben, Anstriche und Verputz selber herstellen.**  
+_von Konrad Fischer • aktualisiert 01.01.2007_
+
 ---
 
-# Gerd Ziesemann, Martin Krampfer, Heinz Knieriemen: 
+## Gerd Ziesemann, Martin Krampfer, Heinz Knieriemen:
 Natürliche Farben, Anstriche und Verputze selber herstellen
 
 (AT), Aarau, Schweiz, 1996, 4. Auflage 2002 

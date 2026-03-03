@@ -1,15 +1,35 @@
 ---
-title: "Schimmel an der Wand"
-description: "Feuchte, Schimmel, Asthma + Allergie - Ratgeber bei Schimmelbefall."
-author: " "
+nav: "20bausto.md"
+title: "Schimmelpilzbefall durch und trotz Dämmung und Dichtung"
+description: "Wie bekämpfen, wie vermeiden? Was wirklich hilft."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/7schim.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Altbau Restaurierung](20bausto.md)  
+# Schimmelpilzbefall durch und trotz Dämmung und Dichtung
+**Wie bekämpfen, wie vermeiden? Was wirklich hilft.**  
+_von Konrad Fischer_
 
 ## Schimmelpilzbefall durch und trotz Dämmung und Dichtung 
 Wie bekämpfen, wie vermeiden? Was wirklich hilft.
 
-![Schwarzschimmel / Schimmelpilz / Schimmel / Schimmelpilzbefall / Schimmelbefall / Pilzbefall in Haus und Badezimmer / Dusche](../medien/SCHIM22.JPG) Inhaltsverzeichnis: 
-Kapitel **1 - Einführung** [2 - Fogging-Info](7sch02.md) [3 - Das Schimmelgeschäft](7sch03.md) [4 - Die Tricks der Schimmelsachverständigen und Schimmelgutachter](7sch04.md) [5 - Schimmel durch Wärmedämmung?](7sch05.md) [6 - Schimmelpilz und Medizin](7sch06.md) [7 - Schimmel an der Wand - Ursache und Beseitigung / Ratgeber und Leitfaden 1](7sch07.md) [8 - Schimmel an der Wand - Ursache und Beseitigung 2](7sch08.md) [9 - Schimmel an der Wand - Ursache und Beseitigung 3](7sch09.md) [10 - Schimmel an der Wand - Ursache und Beseitigung 4](7sch10.md) [11 - Schimmel an der Wand - Ursache und Beseitigung 5 ](7sch11.md) [12 - Schimmel an der Wand - Ursache und Beseitigung 6](7sch12.md) 
+> [!abstract]+ Kapitelübersicht: Schimmel im Haus  
+> 1. **Schimmelpilzbefall durch und trotz Dämmung und Dichtung**
+> 2. [Fogginginfo](7sch02.md)
+> 3. [Das Schimmelgeschäft der selbsternannten Schimmeljäger, Schimmelsachverständigen und Schimmelexperten](7sch03.md)
+> 4. [Schimmelsachverstand/Schimmel-Sachverständige & Schwachverstand, Schimmelgutachter und Schlechtachter [4]](7sch04.md)
+> 5. [Schimmelpilzbefall durch und trotz Dämmung](7sch05.md)
+> 6. [Schimmelpilz und Medizin](7sch06.md)
+> 7. [Die Schimmelpest 7: Weisser, brauner, schwarzer, grüner, roter Schimmel an der Wand - Sanierung - Leitfaden 1](7sch07.md)
+> 8. [Schimmel an der Wand - Ursache und Beseitigung 2](7sch08.md)
+> 9. [Schimmelpilzbefall durch und trotz Dämmung](7sch09.md)
+> 10. [Schimmel an der Wand - Ursache und Beseitigung 4](7sch10.md)
+> 11. [Hausisolierung: Schimmel, Algen & gedämmte Dübel/Dämmdübel](7sch11.md)
+> 12. [Schimmel an der Wand - Ursache und Beseitigung 6](7sch12.md)
+
+
 
 🇬🇧**[English version - Mold attack - What to do? - Get rid with spreading mold](7mold.md)** 
 
@@ -63,7 +83,7 @@ Sehen Sie, genau deswegen sind Sie herzlich willkommen auf dieser Infoseite übe
 <center markdown>
 
  Interview Klimaschutz, Energiesparen, Schimmelpest + Schimmelwucher: 
-[![CO2- und Öko-Bau-Interview mit Konrad Fischer](../medien/YOU05.JPG)](http://youtu.be/5vly1RKBdkM) 
+[![CO2- und Öko-Bau-Interview mit Konrad Fischer](../medien/YOU05.JPG)](https://youtu.be/5vly1RKBdkM) 
 
 ![Tauwasseranfall Tauwasser Kondensatanfall Kondensat auf Wärmedämmfassaden WDVS](../medien/IBP4381.JPG) 
 _Sogar das Fraunhofer-Institut für Bauphysik bemüht sich bisher vergeblich, den Dämmschwindel aufzudecken: Alle nicht speicherfähigen Dämmfassaden saufen tauwasserbedingt auch nach seinen Untersuchungen aus bauphysikalisch unabwendbaren Gründen ab und leiden deswegen unter Nässe, Frost und Algen. In der berühmt-berüchtigten Geheimstudie - (ich konnte sie mir aus dem Ausland besorgen) widerlegten die Fraunhofer-Messungen auch den wohl ekelhaftesten Schimmelscherzpertenbetrug, wonach Außendämmung zu einer schimmelbefallsvermeidenden Erhöhung der Wandtemperatur an der Innenseite führen würde, ich zitiere aus _"Effektiver Wärmeschutz von Ziegelaußenwandkonstruktionen, 3. Untersuchungsabschnitt EB-8/1985"_ , Blatt 8, letzter Absatz: 
@@ -76,8 +96,8 @@ Sinnvoll Energiesparen durch Wärmedämmung? Ein Schnulli der Dämmfans, den Ihn
 
 Und diese Download-Info: **[Unwirtschaftliche Energiesparplanung - Die Planer-Haftungsfalle!](../medien/wia.pdf)**_ 
 
-[![Dämmen oder Speichern? Vom richtigen und falschen Bauen](../medien/YOU44.JPG)](http://youtu.be/_2HB1BB0dXk) [![Altbau und Energiespargesetze - Wahnsinn oder Methode?](../medien/YOU211.JPG)](http://youtu.be/xBp0lAxF-nU) 
-[![Hochhaus-/Altbau-Fassade - Instandsetzen oder Vollwärmeschutz?](../medien/YOU02.JPG)](http://youtu.be/edZ5O0hg7J4) [![Fassaden energetisch richtig sanieren](../medien/YOU04.JPG)](http://youtu.be/OpbEO8kV-PU) 
+[![Dämmen oder Speichern? Vom richtigen und falschen Bauen](../medien/YOU44.JPG)](https://youtu.be/_2HB1BB0dXk) [![Altbau und Energiespargesetze - Wahnsinn oder Methode?](../medien/YOU211.JPG)](https://youtu.be/xBp0lAxF-nU) 
+[![Hochhaus-/Altbau-Fassade - Instandsetzen oder Vollwärmeschutz?](../medien/YOU02.JPG)](https://youtu.be/edZ5O0hg7J4) [![Fassaden energetisch richtig sanieren](../medien/YOU04.JPG)](https://youtu.be/OpbEO8kV-PU) 
 [Teil 2](http://www.youtube.com/watch?v=Y1NSxAW15Cc) [Teil 3](http://www.youtube.com/watch?v=RAT7VzBo8k0) [Teil 4](http://www.youtube.com/watch?v=6TBII25iVQk) [Teil 5](http://www.youtube.com/watch?v=Kb0C4KiZvVA) 
 
 </center>

@@ -1,9 +1,16 @@
 ---
+nav: "index.md, 6prxratg.md"
 title: "Edith Piaf: sa vie et ses chansons"
 description: "Les liens entre la vie et l'oeuvre de la célèbre chanteuse Edith Piaf - Un travail spécialisés par Karolina Fischer"
-author: " "
+author: "Karolina Fischer"
 original_url: "www.konrad-fischer-info.de/editpiaf.htm"
+updated: "01.01.2008"
 ---
+
+[🠔 Zur Übersicht: Roman & Balkan](roman.md)  
+# Edith Piaf: sa vie et ses chansons
+**Les liens entre la vie et l'oeuvre de la célèbre chanteuse Edith Piaf - Un travail spécialisés par Karolina Fischer**  
+_von Karolina Fischer • aktualisiert 01.01.2008_
 
 ![Edith Piaf](../medien/EDITH.JPG) Karolina Fischer Edit Piaff Editha Edita Piaffe 
 

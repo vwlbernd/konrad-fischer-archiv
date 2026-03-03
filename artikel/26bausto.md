@@ -1,15 +1,22 @@
 ---
-title: "Kalk"
-description: "Bestandsgerechte Baustoffe und -verfahren - Gibt es ein Geheimnis um Kalkmörtel und Kalktünche für Altbausanierung, Wandsanierung, Fugensanierung? Wo liegen die Probleme?"
-author: " "
+nav: "20bausto.md"
+title: "Die Kalk-Kapitel"
+description: "Luftkalkmörtel und Mörtel-Rezepturen für Mauerwerk, Putz Innen und Außen, Estrich, Dachdeckerbedarf, Verfugung und Verpressung"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/26bausto.htm"
+updated: "31.03.2009"
 ---
+
+[🠔 Zur Übersicht: Altbau Restaurierung](20bausto.md)  
+# Die Kalk-Kapitel
+**Luftkalkmörtel und Mörtel-Rezepturen für Mauerwerk, Putz Innen und Außen, Estrich, Dachdeckerbedarf, Verfugung und Verpressung**  
+_von Konrad Fischer • aktualisiert 31.03.2009_
 
 ## Altbautaugliche Verfahren und Baustoffe
 
 
 
-# Die Kalk-Kapitel 
+
 6: Kalkmörtel 1-6 
 [7: Kalk-Anstrich / Kalktünche 1-5](26bau07.md)
 
@@ -23,30 +30,17 @@ Hinweis: Da es hier um die Praxis bei Altbau und Denkmalpflege geht, lassen sich
 
 </center>
 
-[Einführung zum Problemkreis "Modernes Bauen"](20bausto.md#einfã¼hrung) 
-[Einige Tips zur Produktvermarktung](10hoai22.md) - Ihre raffinierten (von Raffen?) Methoden, Tricks und Betrugsmanöver 
-[Zusammenfassung](20bausto.md#zusammenfassung) 
-Die anderen Kapitel: [0. Aktuelles](2baustof.md#aktuelles) 
-[1. Gibt es "aufsteigende Feuchte"?](2aufstfe.md) 
-[2. Erneuerung oder Erhalt von Altputzen](22bausto.md) 
-[3. Erneuerung oder Erhalt von Altfenstern](23bausto.md) 
-[4. Geeignete und ungeeignete Farbsysteme auf Holzuntergründen im Innen- und Außenbereich](23bau08.md) 
-[4a. Rostschutzanstrich](23bau10.md#rostschutzfarbe) 
- [5. Wirksamer bekämpfender und vorbeugender Holzschutz ohne Gift](23bau16.md) 
-[6. Luftkalkmörtel für Mauerwerk, Innen- und Außenputze, Dachdeckerbedarf, Verfugung und Verpressung](26bausto.md) 
-[7. Mineralische untergrundverträgliche Anstrichsysteme](26bau07.md) 
-[8. Ertüchtigung historischer Gründungen durch Stopfverfahren](28bausto.md) 
-[9. Natursteinrestaurierung/Naturstein](29bausto.md) 
-[9a. Boden/Verkleidung keramisch/mineralisch](29bau07.md) 
-[9b. Reinigungsverfahren für verschmutzte Altoberflächen](29bau08.md) 
-[10. Wandbildner im Altbau](29bau09.md) 
-[10a. Nachtrag: Fachwerkbau/Holzfußboden/Fußbodenaufbau allgemein](29bau16.md) 
-[11. Der Stahlbeton und Zement](2beton.md) 
-[12. Dachdeckung und -konstruktion](212baust.md) 
-[13. Wärmedämmung](213baust.md) 
-[14. Brandschutz im Altbau](2baustof.md#14) 
-[15. Arbeitssicherheit bei der Altbauinstandsetzung](2baustof.md#15) 
-[16. Links zu verwandten sonstigen Themenbereichen ](2baustof.md#16) 
+> [!abstract]+ Kapitelübersicht: Kalk  
+> 1. **Die Kalk-Kapitel**
+> 2. [Salzanalysetricks und Rezepturfragen](26bau02.md)
+> 3. [Mineralische untergrundverträgliche Anstrichsysteme](26bau07.md)
+> 4. [Kalkputz und Mörtel am Baudenkmal](2prokalk.md)
+> 5. [Kalkputz und Mörtel am Baudenkmal](2eurolim.md)
+> 6. [Luftkalkmörtel und seine aktuelle Vergütungspraxis 1](2kalk.md)
+> 7. [Die häufigsten Fehler bei der Anwendung von Luftkalkmörtel, Kalkputz und Kalkanstrich - Einführung](2kalkfel.md)
+> 8. [Technische Informationen zu altbaugeeigneten Baustoffen - Anstrich auf mineralischen Oberflächen](2kalkfrb.md)
+
+
 
 _"Zum Unglück hat sich mit der Industrie ein System verbunden, 
 das Profit als den eigentlichen Motor des gesellschaftlichen Fortschritts betrachtet, 

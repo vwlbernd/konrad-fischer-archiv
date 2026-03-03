@@ -1,22 +1,26 @@
 ---
-title: "Gutachter"
-description: "Inhalt. Bauuntersuchung · Technische Prüfbehörden, wiss. Institute, Untersuchungslabors und akademische Auftragsforscher"
-author: " "
+nav: "20bausto.md"
+title: "Gutachten - Empfehlungen und Strategien für den Bauherrn"
+description: "Empfehlungen und Strategien für Bauherren zum Einsatz von Gutachtern im Bauwesen: Analyse von Risiken bei Bauuntersuchungen, die Bedeutung von neutralen Sachverständigen und Tipps zur effektiven Beauftragung."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/3gutacht.htm"
+updated: "08.01.2009"
 ---
 
+[🠔 Zur Übersicht: Altbau Restaurierung](20bausto.md)  
 # Gutachten - Empfehlungen und Strategien für den Bauherrn
+**Empfehlungen und Strategien für Bauherren zum Einsatz von Gutachtern im Bauwesen: Analyse von Risiken bei Bauuntersuchungen, die Bedeutung von neutralen Sachverständigen und Tipps zur effektiven Beauftragung.**  
+_von Konrad Fischer • aktualisiert 08.01.2009_
+
+
 
 **(aktualisiert 8.01.09)** 
 
-Inhalt 
-[Bauuntersuchung](3gutacht.md#bauuntersuchung) 
-<a id="technische"></a>[Technische Prüfbehörden, wiss. Institute, Untersuchungslabors und akademische Auftragsforscher](3gut1.md#technische) 
-<a id="gutachten"></a>[Gutachten in Gerichtssachen/Beweissicherungsverfahren](3gut1.md#gutachten) 
-<a id="tips"></a>[Tips zum erfolgreichen Einsatz von Gutachtern](3gut1.md#tips) 
-<a id="befunduntersuchung"></a>[Befunduntersuchung und Bauforschung in der Denkmalpflege](3gut1.md#befunduntersuchung) 
-<a id="gegengutachten"></a>[Beispiel Gegengutachten](3gut1.md#gegengutachten) 
-[Beispiel Protokoll Bauberatung](3gut1.md#beispielprotokoll) [Das Handwerkerquiz ](10hoai13.md#handwerkerquiz)\+ [Das Planerquiz für schlaue Bauherrn ](10hoai14.md#planerquiz) 
+> [!abstract]+ Kapitelübersicht: Gutachter  
+> 1. **Gutachten - Empfehlungen und Strategien für den Bauherrn**
+> 2. [Gutachten - Empfehlungen und Strategien für den Bauherrn 2](3gut1.md)
+
+
 
 **_"Denkmäler schützen heißt nicht Genuß suchen, 
 sondern Pietät üben" 

@@ -1,19 +1,26 @@
 ---
-title: "Brandschutz im Baudenkmal - praktisch umsetzbar und denkmalgerecht 4"
+nav: "20bausto.md, 2baustof.md"
+title: "Brandschutz bei Denkmalpflege und Denkmalschutz – Brandschutzmaßnahmen"
 description: "Hinweise zu den typischen Brandgefahren und Lösungsmöglichkeiten des Brandschutzes am Baudenkmal."
-author: " "
+author: "Sylwester Kabat"
 original_url: "www.konrad-fischer-info.de/6brand4.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Brandschutz Altbau](6brand.md)  
+# Brandschutz bei Denkmalpflege und Denkmalschutz – Brandschutzmaßnahmen
+**Hinweise zu den typischen Brandgefahren und Lösungsmöglichkeiten des Brandschutzes am Baudenkmal.**  
+_von Sylwester Kabat_
 
 Dipl.-Ing. Sylwester Kabat 
 
-# Brandschutz bei Denkmalpflege und Denkmalschutz – 
+## Brandschutz bei Denkmalpflege und Denkmalschutz –
 
 Praktisch umsetzbar und denkmalgerecht 4 
 
 Ein Seminarbeitrag zum Vorbeugenden Brandschutz
 
-[Seite 1](6brand.md) [2](6brand2.md) [3](6brand3.md) **4** [5](6brand5.md)
+
 
 **_3.3 Brandschutzmaßnahmen_**
 

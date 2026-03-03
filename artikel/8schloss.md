@@ -1,9 +1,26 @@
 ---
-title: "Burg + Schloss kaufen, Castles for sale, Slotte til salg, Châteaux a vendre ..."
-description: "Schloß, Residence, Immobilien, Ritterburg, Wasserschloß Burgen, Schlösser und Residenzen zu verkaufen. Купите Крепости / Крепость и замки / замокдля продажи ..."
-author: " "
+nav: "index.md"
+title: "Burg & Schloss - Burgen & Schlösser zu verkaufen"
+description: "Burgen und Schlösser zu verkaufen: aktuelle Angebote aus Deutschland und international. Für Liebhaber stilvoller und authentischer Immobilien, auch zur gastronomischen Nutzung."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/8schloss.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Startseite](index.md)  
+# Burg & Schloss - Burgen & Schlösser zu verkaufen
+**Burgen und Schlösser zu verkaufen: aktuelle Angebote aus Deutschland und international. Für Liebhaber stilvoller und authentischer Immobilien, auch zur gastronomischen Nutzung.**  
+_von Konrad Fischer_
+
+> [!abstract]+ Kapitelübersicht: Burgen & Schlösser kaufen  
+> 1. **Burg & Schloss - Burgen & Schlösser zu verkaufen**
+> 2. [Burgen, Schlösser, Ansitze, Herrenhäuser und Spezialimmobilien in Deutschland zu verkaufen](8burg.md)
+> 3. [Eine Reise zu Kunst, Baudenkmalen, Museen und Antiquitäten](8reise.md)
+> 4. [Architektur-Skizzen Architectural Sketches Croquis Dessin von Konrad Fischer auf der Exkursion der Sektion C - Bautechnik am 9.6.1999](landdenk.md)
+> 5. [Burgen und Schlösser im Beaujolais - Châteaux du Beaujolais](8beau.md)
+> 6. [Betr.: SZ 19./20.3.05, Fragen an die Leser, „Das Gute liegt rechts“ von Hermann Unterstöger](8dom.md)
+> 7. [Museums-, Kunst- und Kultursponsoring Informationen](8museum.md)
+> 8. [Schweizerisches Freilichtmuseum für ländliche Kultur Ballenberg: Exkursion mit Fotos](8balberg.md)
 
 ## Burg & Schloss - Burgen & Schlösser zu verkaufen 
 Castles for sale - Buy a Residence - Purchase a Palace
@@ -92,7 +109,7 @@ Das Expose und Terminvorschläge erhalten Sie direkt vom Makler.
 Konrad Fischer: Fassaden energetisch richtig und kostensparend sanieren 
 [![Fassaden energetisch richtig sanieren](../medien/YOU04.JPG)](http://www.youtube.com/playlist?list=PL386F9E7676C84932) 
 und neu: 
-[![Die kostengünstige, kostensichere & denkmalgerechte Sanierung - Vortrag Münster 8.10.2013 Informationsveranstaltung Ministerium Bauen, Wohnen, Stadtentwicklung, Verkehr Nordrhein-Westfalen & NRW.BANK für Untere Denkmalbehörden, Bewilligungsbehörden](../medien/YOU79.JPG)](http://youtu.be/CgVET6gLD7Q) 
+[![Die kostengünstige, kostensichere & denkmalgerechte Sanierung - Vortrag Münster 8.10.2013 Informationsveranstaltung Ministerium Bauen, Wohnen, Stadtentwicklung, Verkehr Nordrhein-Westfalen & NRW.BANK für Untere Denkmalbehörden, Bewilligungsbehörden](../medien/YOU79.JPG)](https://youtu.be/CgVET6gLD7Q) 
 [![Interview Klimaschutz und Energiesparen Konrad Fischer](../medien/KFK.JPG) 
 Interview Klimaschutz + Energiesparen](http://www.thermoshield-kongress.de/experten_fischer.html) 
 

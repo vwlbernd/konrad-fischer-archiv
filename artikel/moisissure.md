@@ -1,9 +1,16 @@
 ---
-title: "Attaque de moisissure - humidité, asthme et allergie dans le bâtiment - Que faire?"
-description: "Un guide contre le mycète de moisissure, la putréfaction sèche et la putréfaction humide, woodworm, acarides intérieurs et extérieurs du mur humide, mortier, ma&ccdilonnerie, isolation thermique de le bâtiment humide, la maison et la cave"
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Attaque de moisissure : Que faire pour la combattre et la prévenir ? Un guide sur ce qui aide vraiment."
+description: "Information sur les cas de moisissure dans l’habitat: élimination, prévention de la prolifération, erreurs courantes, problèmes de santé (allergies, maladies) liés aux champignons microscopiques et leurs spores."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/moisissure.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Roman & Balkan](roman.md)  
+# Attaque de moisissure : Que faire pour la combattre et la prévenir ? Un guide sur ce qui aide vraiment.
+**Information sur les cas de moisissure dans l’habitat: élimination, prévention de la prolifération, erreurs courantes, problèmes de santé (allergies, maladies) liés aux champignons microscopiques et leurs spores.**  
+_von Konrad Fischer_
 
 Konrad Fischer 
 Attaque de moisissure malgré isolation et herméticité. 

@@ -1,15 +1,22 @@
 ---
-title: "Schwindelei? Aufsteigende Feuchte + Bauwerkstrockenlegung 15"
-description: "Mauerfeuchte woher? Zum historischen und wissenschaftlichen Hintergrund"
-author: " "
+nav: "20bausto.md"
+title: "Mauerfeuchte woher? Zum historischen und wissenschaftlichen Hintergrund"
+description: "Eine Analyse der baugeschichtlichen Hintergründe von Feuchteschäden und warum moderne Abdichtungsversuche der letzten Jahrzehnte oft an den physikalischen Realitäten alter Bausubstanz scheitern."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2auffe15.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Aufsteigend Feuchte?](2aufstfe.md)  
+# Mauerfeuchte woher? Zum historischen und wissenschaftlichen Hintergrund
+**Eine Analyse der baugeschichtlichen Hintergründe von Feuchteschäden und warum moderne Abdichtungsversuche der letzten Jahrzehnte oft an den physikalischen Realitäten alter Bausubstanz scheitern.**  
+_von Konrad Fischer_
 
 ## Aufsteigende Feuchte + Bauwerkstrockenlegung 15
 
-Aufsteigende Feuchte Kapitel [1 - Einführung zur Problemlage](2aufstfe.md) [2 - Ein schrecklicher "Trockenlegungsfall"](2auffe02.md) [3 - Feuchtequellen](2auffe03.md) [4 - Ziegel-Mauerwerk und Aufsteigende Feuchte](2auffe04.md) [5 - Naturstein-Mauerwerk und Aufsteigende Feuchte](2auffe05.md) [6 - Nachträgliche Horizontalabdichtung historischen Mauerwerks? - Mauerwerksversalzung](2auffe06.md) [7 - Kondensat und Regen](2auffe07.md) [8 - Trockenlegung oder Bauwerksschäden durch Horizontalisolierung?](2auffe08.md) [9 - Trockenlegungsschwindel - die Marketingtricks](2auffe09.md) [10 - Elektroosmose und die typischen Trockenleger-Ausreden bei Mißerfolg](2auffe10.md) [11 - Trockenlegungsexperten? - Planer und Gutachter](2auffe11.md) [12 - Trockenlegung - Industrieberatung oder der gesunde Menschenverstand? Probleme und Lösungen](2auffe12.md) [13 - Mauertrockenlegung - Die klassischen Fehler](2auffe13.md) [14 - Nasse Wände sanieren - Was sagt die Wissenschaft?](2auffe14.md) **15 - Mauerfeuchte woher? Zum historischen und wissenschaftlichen Hintergrund** 
 
-# Mauerfeuchte woher? Zum historischen und wissenschaftlichen Hintergrund
+
+
 
 4. Veröffentlichung Bayer. Bautenschutz-Fachplanung, Geschäftsbereich Silicone, Wacker Chemie, Abt. Bayplan, München, nachzulesen in: Helmut Weber: "Fehlervermeidung, Sanierputzsysteme im Langzeiteinsatz unter erschwerten Bedingungen" bausubstanz April 1999: 
 

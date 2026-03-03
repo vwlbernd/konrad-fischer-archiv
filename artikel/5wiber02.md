@@ -1,15 +1,22 @@
 ---
-title: "Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Haussanierung"
-description: "Konrad Fischer Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 2"
-author: " "
+nav: "11planme.md"
+title: "Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 2"
+description: "Dieser Artikel analysiert die Probleme vernachlässigter Immobilien, darunter ineffektive Vermarktungsstrategien und Hürden beim Eigentumsübergang, und diskutiert Finanzierungsansätze."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/5wiber02.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Wirtschaftlichkeit](5wiber.md)  
+# Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 2
+**Dieser Artikel analysiert die Probleme vernachlässigter Immobilien, darunter ineffektive Vermarktungsstrategien und Hürden beim Eigentumsübergang, und diskutiert Finanzierungsansätze.**  
+_von Konrad Fischer_
 
 Konrad Fischer 
 
-# Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 2
 
-[Seite 1](5wiber.md) **2** [3](5wiber03.md) [4](5wiber04.md) [5](5wiber05.md) [6](5wiber06.md) [7](5wiber07.md) [8](5wiber08.md) [9](5wiber09.md) [10](5wiber10.md) [11](5wiber11.md) [12](5wiber12.md) [13](5wiber13.md) [14](5wiber14.md)
+
+
 
 Vernachlässigte Objekte erleben oft eine Zukunftslosigkeit, die sinn- und ergebnislos nach dem privaten Investor bei gleichzeitiger Beibehaltung öffentlicher Ansprüche schreit. Mit erwerbsanreizfreien Vermarktungsstrategien, fehlender Bereitschaft zum echten Eigentumsübergang ("Erbbaurecht") und von vornherein falscher Zielgruppe ("der unbekannte Sponsor, der heilige Mäzen") entwertet man seine Ware zu sauer Bier. So landet das Objekt nicht in dem Nachfragebereich, aus dem instrumentalisierbares Finanzierungspotenzial überhaupt zur Verfügung steht. Auch die trendige Ethikinvestition (z.B. sog. "Ökounternehmen"), die neben den klassischen Kriterien Rentabilität, Sicherheit und Liquidität eine vierte "ethische" Dimension der Geldanlage anstrebt, will "eingeworben" werden. Wer will warum für neumarxischen Kulturfundamentalismus (social / cultural accounting) bei der Rendite bluten? Das kann stimuliert werden! 
 

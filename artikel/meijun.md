@@ -1,13 +1,20 @@
 ---
-title: "房屋发霉 - 潮湿, 哮喘 和 过敏"
-description: "指导咨询霉菌，真菌，湿腐微生物，干腐微生物，木虫，墙内外的螨类，灰浆，潮湿房屋和建筑以及地下室的热绝缘"
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "房屋发霉 - 怎么办?"
+description: "霉菌在房屋里：了解霉菌的危害，如过敏和哮喘，并获取应对房屋发霉问题的有效建议和解决方案。"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/meijun.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Asia & Middle East](asia.md)  
+# 房屋发霉 - 怎么办?
+**霉菌在房屋里：了解霉菌的危害，如过敏和哮喘，并获取应对房屋发霉问题的有效建议和解决方案。**  
+_von Konrad Fischer_
 
 [Konrad Fischer, 建筑师](1refernz.md)
 
-# 房屋发霉 - 怎么办?
+
 
 ## 建议
 

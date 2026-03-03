@@ -1,17 +1,34 @@
 ---
-title: "Svindleri med den opstigende fugt 1"
-description: "Kontrovers med opstigende fugt: Efterfølgende horisontalisolering fugter murerne."
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Hjælper en fugtspærre mod „opstigende“ fugt på sokkel og vægge?"
+description: "Denne artikel kritiserer, hvordan 'opstigende fugt' udnyttes af byggebranchen til at sælge unødvendige analyser og skadelige 'løsninger'. Få indblik i de metoder, der ofte skader mere end de gavner."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2auffdk.htm"
+updated: ""
 ---
 
-# Hjælper en fugtspærre mod "opstigende" fugt på sokkel og vægge? 
+[🠔 Zur Übersicht: Nordisk](nordisk.md)  
+# Hjælper en fugtspærre mod „opstigende“ fugt på sokkel og vægge?
+**Denne artikel kritiserer, hvordan 'opstigende fugt' udnyttes af byggebranchen til at sælge unødvendige analyser og skadelige 'løsninger'. Få indblik i de metoder, der ofte skader mere end de gavner.**  
+_von Konrad Fischer_
+
+## Hjælper en fugtspærre mod "opstigende" fugt på sokkel og vægge?
 
 Information og oplysning 
 
 Kapitel 1
 
-## Kap. 1 [2](2aufdk2.md) [3](2aufdk3.md) [4](2aufdk4.md) [5](2aufdk5.md) [6](2aufdk7.md) [7](2aufdk7.md) [8](2aufdk8.md)
+> [!abstract]+ Kapitelübersicht: Fugt-Svindel 1  
+> 1. **Hjælper en fugtspærre mod „opstigende“ fugt på sokkel og vægge?**
+> 2. [Opstigende fugt og fugtspærre mod opstigende fugt på sokkel og vægge?](2aufdk2.md)
+> 3. [Svindleri med den opstigende fugt 3](2aufdk3.md)
+> 4. [Opstigende fugt og fugtspærre mod opstigende fugt på sokkel og vægge?](2aufdk4.md)
+> 5. [Opstigende fugt og fugtspærre mod opstigende fugt på sokkel og vægge?](2aufdk5.md)
+> 6. [Opstigende fugt og fugtspærre mod opstigende fugt på sokkel og vægge](2aufdk6.md)
+> 7. [Opstigende fugt og fugtspærre mod opstigende fugt på sokkel og vægge?](2aufdk7.md)
+> 8. [Opstigende fugt og fugtspærre mod opstigende fugt på sokkel og vægge](2aufdk8.md)
+
+
 
  Opstigende fugt eller opstigende jordfugt i fundament er (ligesom den indbildning at [varmeisolering isolerer varme](213baust.md),) vidunderligt for byggebranchen og byggesagkyndige som benytter sig af fejlen ved bygherrens uvidenhed. Vandglas eksperter og mursalpeter byggesagkyndig før kemisk eller mekanisk eller elektronisk bekæmpelse af fugt og salt og fugtskader og fjernelse fugtighed i kælder, lecablokke og tegelmur bliver tilkaldt, laver analyser og undersøgelser på hvordan man kan bekæmpe dette. Byggeherrens penge bliver brugt på laboratoriearbejde og han får alle mulige ubrugelige betegnelser for hvordan skaden kan beskrives. 
 

@@ -1,11 +1,29 @@
 ---
+nav: "7epass.md"
 title: "DIN-Normen im Spiegel der Rechtsprechung und öffentlichen Kritik"
-description: "Einspruch gegen den Entwurf zur DIN 4108-2 - Gegen die Diktatur der Industrie im Bauwesen - Kurzfassung · Weitere Einsprüche gegen DIN und staatliche Bauregelungen und -verordnungen."
-author: " "
+description: "Eine Grundsatzdiskussion zur Aktualität und Zukunft der DIN-Normen, insbesondere im Bauwesen. Kritisiert wird der Missbrauch von Normen durch die Industrie zum Nachteil des Bauherrn und die daraus resultierende Normenkorruption."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2mbu.htm"
+updated: ""
 ---
 
+[🠔 Zur Übersicht: Das malträtierte Haus](7epass.md)  
 # DIN-Normen im Spiegel der Rechtsprechung und öffentlichen Kritik
+**Eine Grundsatzdiskussion zur Aktualität und Zukunft der DIN-Normen, insbesondere im Bauwesen. Kritisiert wird der Missbrauch von Normen durch die Industrie zum Nachteil des Bauherrn und die daraus resultierende Normenkorruption.**  
+_von Konrad Fischer_
+
+> [!abstract]+ Kapitelübersicht: DIN-Normen Kritik  
+> 1. **DIN-Normen im Spiegel der Rechtsprechung und öffentlichen Kritik**
+> 2. [Normierter Wärmeschutz - Ein Anschlag auf die Baukultur](7d4108kf.md)
+> 3. [Normierter Wärmeschutz - Ein Anschlag auf die Baukultur 2](7d4108k.md)
+> 4. [Einspruch gegen den Entwurf der DIN 4108 - Wärmeschutz und Energie-Einsparung in Gebäuden, Teil 2: Mindestanforderungen an den Wärmeschutz](7din4108.md)
+> 5. [Prof. Meiers Anmerkungen/Erwiderungen betr. Normungsverfahren DIN 4108/2 und 3](7d41082e.md)
+> 6. [Widersprüchliches zur DIN 4108 Teil 2+3](7d410821.md)
+> 7. [Einspruch der ADNR e.V. gegen den Entwurf der DIN 4108-2](7adnr.md)
+> 8. [Stellungnahme zur DIN 4108, Teil 3 vom Juli 1999](7d41083.md)
+> 9. [Stellungnahme zur DIN 4108, Teil 3 vom Juli 1999](7d410831.md)
+
+
 
 ## Sind die DIN-Normen das Gelbe vom Ei? 
 

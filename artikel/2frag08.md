@@ -1,13 +1,20 @@
 ---
-title: "Aus der Internet-Fragestunde der Altbau und Denkmalpflege ..."
-description: "Altbaufragen von AZ: Ausnahmegenehmigungen Brand- u. Schallschutz."
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Aus der Internet-Fragestunde:Brand- & Schallschutz"
+description: "Warum überzogene Brandschutz-Vorschriften oft die historische Substanz zerstören und wie Sie mit gezielten Ausnahmegenehmigungen den Altbau-Charakter retten, ohne die Sicherheit zu opfern."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2frag08.htm"
+updated: "16.06.2008"
 ---
+
+[🠔 Zur Übersicht: Altbau FAQ](2frag.md)  
+# Aus der Internet-Fragestunde:Brand- & Schallschutz
+**Warum überzogene Brandschutz-Vorschriften oft die historische Substanz zerstören und wie Sie mit gezielten Ausnahmegenehmigungen den Altbau-Charakter retten, ohne die Sicherheit zu opfern.**  
+_von Konrad Fischer • aktualisiert 16.06.2008_
 
 Konrad Fischer 
 
-# Aus der Internet-Fragestunde und Bauberatung
+## Aus der Internet-Fragestunde und Bauberatung
 
 **(aktualisiert 16.06.08)** 
 

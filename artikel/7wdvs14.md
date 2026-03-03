@@ -1,15 +1,22 @@
 ---
+nav: "20bausto.md"
 title: "Energiesparen und Wärmeschutz am Altbau 14"
-description: "Vergrünung oder Verschwärzung Ihrer WDVS-Fassade - wie hätten Sie´s denn gern?"
-author: " "
+description: "Analyse von Bauschäden und Problemen mit Wärmedämm-Verbundsystemen (WDVS), insbesondere Algen- und Pilzbewuchs. Zwei Fallbeispiele aus dem Deutschen Architektenblatt 10/99 zeigen die Risiken auf."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/7wdvs14.htm"
+updated: ""
 ---
 
+[🠔 Zur Übersicht: Energiesparen](7wsvoant.md)  
 # Energiesparen und Wärmeschutz am Altbau 14
+**Analyse von Bauschäden und Problemen mit Wärmedämm-Verbundsystemen (WDVS), insbesondere Algen- und Pilzbewuchs. Zwei Fallbeispiele aus dem Deutschen Architektenblatt 10/99 zeigen die Risiken auf.**  
+_von Konrad Fischer_
+
+
 
 ## Von der Intelligenz moderner Baumethoden/Haustechnik/Schimmelpilzzüchtung usw.
 
-Energiesparen und Wärmeschutz Kapitel [Einleitung](7wsvoant.md) [1](7wdvs01.md) [2](7wdvs02.md) [3](7wdvs03.md) [4](7wdvs04.md) [5](7wdvs05.md) [6](7wdvs06.md) [7](7wdvs07.md) [8](7wdvs08.md) [9](7wdvs09.md) [10](7wdvs10.md) [11](7wdvs11.md) [12](7wdvs12.md) [13](7wdvs13.md) **14** [15](7wdvs15.md) [16](7wdvs16.md) [17](7wdvs17.md) [18](7wdvs18.md) [19](7wdvs19.md) [20](7wdvs20.md) [21](7wdvs21.md) 
+
 
 ## Von der Intelligenz moderner Baumethoden/Haustechnik/Schimmelpilzzüchtung usw. 
 Ökovampirismus: Klimaschutzblutsauger auf der Jagd nach Ihren letzten Kröten

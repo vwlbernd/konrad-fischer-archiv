@@ -1,11 +1,18 @@
 ---
-title: "Das ökologische Bauen und die Baubiologie - eine kritische Bespiegelung ..."
+nav: "index.md, altbau.md"
+title: "Das ökologische Bauen und die Baubiologie - eine kritischsatirische Abrechnung 6"
 description: "Baubiologie, Ökobau und gesundes Bauen - Richtig und falsch."
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/oekobau6.htm"
+updated: "29.07.2009"
 ---
 
-# Vorsicht! KEIN Ratgeber!
+[🠔 Zur Übersicht: Ökobau](oekobau.md)  
+# Das ökologische Bauen und die Baubiologie - eine kritischsatirische Abrechnung 6
+**Baubiologie, Ökobau und gesundes Bauen - Richtig und falsch.**  
+_von Konrad Fischer • aktualisiert 29.07.2009_
+
+## Vorsicht! KEIN Ratgeber!
 
 
 
@@ -39,19 +46,7 @@ _**Bitte gar nix davon lesen, wenn Du ökobiologisch und bestimmt nicht energies
 
 <center markdown>
 
-[Einführung zum Problemkreis "Modernes Bauen"](20bausto.md#einfã¼hrung) 
-[Die Produktvermarktung - Methoden und Tricks](20bau02.md) 
-**Baustoff-Kapitel:** 
-[1. Gibt es "aufsteigende Feuchte"?](21bausto.md) 
-[2. Erneuerung oder Erhalt von Altputzen, Fassadenanstrichprobleme](22bausto.md) 
-[3. Erneuerung oder Erhalt von Altfenstern](23bausto.md) 
-[4. Geeignete und ungeeignete Farbsysteme auf Holzuntergründen im Innen- und Außenbereich](23bau08.md) 
-[5. Holzschutz ohne Gift](23bau16.md) 
-[6. Luftkalkmörtel für alle Zwecke?](26bausto.md) 
-[7. Mineralische untergrundverträgliche Anstrichsysteme](26bau07.md) 
-[8. Ertüchtigung historischer Gründungen](28bausto.md) 
-[9. Natursteinrestaurierung/Naturstein](29bausto.md) 
-[9a. Steinboden](29bau07.md) 
+bau07.md) 
 [9b. Reinigungsverfahren für verschmutzte Altoberflächen](29bau08.md) 
 [10. Wandbildner im Altbau](29bau09.md) 
 [10a. Fachwerkbau](29bau16.md) \+ [Fußbodenaufbau](29bau20.md) 

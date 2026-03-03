@@ -1,9 +1,16 @@
 ---
+nav: "index.md, 6prxratg.md"
 title: "오래된 주택 복원 및 역사적 건축물‧기념물의 보존"
 description: "리노베이션, 복원 및 보수를 위한 건축 매거진. 역사건축물 소유자를 위한 조언 및 요령 - 잘못된 정보 및 실제로 효과적인 방법들."
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/korea.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Asia & Middle East](asia.md)  
+# 오래된 주택 복원 및 역사적 건축물‧기념물의 보존
+**리노베이션, 복원 및 보수를 위한 건축 매거진. 역사건축물 소유자를 위한 조언 및 요령 - 잘못된 정보 및 실제로 효과적인 방법들.**  
+_von Konrad Fischer_
 
 <center markdown>
 
@@ -293,7 +300,7 @@ X축: 노출 시간. Y축: 섭씨온도. 주의: Rth 값/ U 값은 온도 변화
 
 기계번역에서: [www.international.icomos.org/e_venice.htm](http://www.international.icomos.org/e_venice.htm)
 
-# **베니스 헌장**
+## **베니스 헌장**
 
 <center markdown>
 

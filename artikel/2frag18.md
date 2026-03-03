@@ -1,13 +1,20 @@
 ---
-title: "Aus der Internet-Fragestunde der Altbau und Denkmalpflege ..."
-description: "Altbaufragen von AZ: Homepage-Download oder auf CD kaufen."
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Aus der Internet-Fragestunde: Download"
+description: "Antworten auf Fragen zum Download der Homepage am Stück und der Option, Inhalte auf einer Web-DVD zu erwerben."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2frag18.htm"
+updated: "16.06.2008"
 ---
+
+[🠔 Zur Übersicht: Altbau FAQ](2frag.md)  
+# Aus der Internet-Fragestunde: Download
+**Antworten auf Fragen zum Download der Homepage am Stück und der Option, Inhalte auf einer Web-DVD zu erwerben.**  
+_von Konrad Fischer • aktualisiert 16.06.2008_
 
 Konrad Fischer 
 
-# Aus der Internet-Fragestunde und Bauberatung
+## Aus der Internet-Fragestunde und Bauberatung
 
 **(aktualisiert 16.06.08)** 
 

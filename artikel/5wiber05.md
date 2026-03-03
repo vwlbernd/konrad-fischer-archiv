@@ -1,15 +1,22 @@
 ---
-title: "Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der ..."
-description: "Konrad Fischer Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 5"
-author: " "
+nav: "11planme.md"
+title: "Die Machbarkeitsstudie und Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 5"
+description: "Eine Wirtschaftlichkeitsberechnung des Planers bezeugt wirtschaftliche Kompetenz als sinnvolle Ergänzung seiner technischen und gestalterischen Fähigkeiten."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/5wiber05.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Wirtschaftlichkeit](5wiber.md)  
+# Die Machbarkeitsstudie und Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 5
+**Eine Wirtschaftlichkeitsberechnung des Planers bezeugt wirtschaftliche Kompetenz als sinnvolle Ergänzung seiner technischen und gestalterischen Fähigkeiten.**  
+_von Konrad Fischer_
 
 Konrad Fischer 
 
-# Die Machbarkeitsstudie und Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 5
 
-[Seite 1](5wiber.md) [2](5wiber02.md) [3](5wiber03.md) [4](5wiber04.md) **5** [6](5wiber06.md) [7](5wiber07.md) [8](5wiber08.md) [9](5wiber09.md) [10](5wiber10.md) [11](5wiber11.md) [12](5wiber12.md) [13](5wiber13.md) [14](5wiber14.md)
+
+
 
 **Strategietips für den Planer**
 

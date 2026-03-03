@@ -1,13 +1,20 @@
 ---
-title: "Aus der Internet-Fragestunde der Altbau und Denkmalpflege ..."
-description: "Altbaufragen von AZ: Schimmel, Algen, Feuchte und Gifte im Dämmstoff - Energiesparen brutal."
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Aus der Internet-Fragestunde: Schimmel, Algen & Gifte im Haus"
+description: "Die dunkle Seite der Wärmedämmung: Warum künstlich eingepackte Wände zur Giftfalle werden und wie der Dämmwahn Schimmelpilze sowie Algenpest direkt in Ihr Zuhause holt."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2frag13.htm"
+updated: "05.05.2009"
 ---
+
+[🠔 Zur Übersicht: Altbau FAQ](2frag.md)  
+# Aus der Internet-Fragestunde: Schimmel, Algen & Gifte im Haus
+**Die dunkle Seite der Wärmedämmung: Warum künstlich eingepackte Wände zur Giftfalle werden und wie der Dämmwahn Schimmelpilze sowie Algenpest direkt in Ihr Zuhause holt.**  
+_von Konrad Fischer • aktualisiert 05.05.2009_
 
 Konrad Fischer 
 
-# Aus der Internet-Fragestunde und Bauberatung
+## Aus der Internet-Fragestunde und Bauberatung
 
 **(aktualisiert 5.05.09)** 
 

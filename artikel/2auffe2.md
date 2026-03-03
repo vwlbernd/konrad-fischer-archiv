@@ -1,15 +1,22 @@
 ---
-title: "Healing 'Rising Damp' in Old Buildings - Part Two - A Hoax of Moisture and Salts"
-description: "How to heal moistured houses, wet cellars & soaked walls - A Helpful Guide Against Wet Walls"
-author: " "
+title: "How to heal moistured houses, wet cellars & soaked walls - Part Two: The Hoax of Moisture and Salts"
+description: "A Helpful Guide Against Wet Walls"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2auffen.htm"
+nav: "index.md"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: English: Old House Repair](english.md)  
+# How to heal moistured houses, wet cellars & soaked walls - Part Two: The Hoax of Moisture and Salts
+**A Helpful Guide Against Wet Walls**  
+_von Konrad Fischer_
 
 [Konrad Fischer, Architect](1refernz.md): 
 
 ## Healing 'Rising Damp' in Masonry Walls and Cellars of Old Buildings - Part Two
 
-# How to heal moistured houses, wet cellars & soaked walls 
+## How to heal moistured houses, wet cellars & soaked walls
 
 A Helpful Guide Against Wet Walls
 

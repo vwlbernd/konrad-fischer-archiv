@@ -1,52 +1,42 @@
 ---
-title: "Einführung"
-description: "Manipulations- und Korruptionserscheinungen im Baustoffmarketing."
-author: " "
+title: "Altbautaugliche Verfahren und Baustoffe - Einführung 1"
+description: "Einblicke in altbautaugliche Verfahren und Baustoffe. Beleuchtet die Herausforderungen im modernen Bauwesen und die Notwendigkeit, zwischen Marketing und bewährten, glaubwürdigen Materialien zu unterscheiden."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/20bausto.htm"
+updated: "30.03.2009"
 ---
 
+[🠔 Zur Startseite](index.md) 
 # Altbautaugliche Verfahren und Baustoffe
-
-## Einführung 1 [und 2](20bau02.md)
-
- **(aktualisiert 30.03.09)** 
-Hinweis: Der Betreiber dieser Website haftet nicht für Rechtsverstöße auf Seiten, auf die sich externe Links beziehen. 
-
-Da es hier um die Praxis bei Altbau und Denkmalpflege geht, lassen sich baustoffliche Verweise und Zitate nicht immer ganz vermeiden. Es sind damit **keine** Empfehlungen oder Verdikte ausgesprochen. Für altbauverträgliche Produkte sollte Voraussetzung sein: Eignungsnachweis und qualifizierte Volldeklaration im Sinne des hier abzurufenden [Vorschlags](2volldek.md). 
+**Einblicke in altbautaugliche Verfahren und Baustoffe. Beleuchtet die Herausforderungen im modernen Bauwesen und die Notwendigkeit, zwischen Marketing und bewährten, glaubwürdigen Materialien zu unterscheiden.**  
+_von Konrad Fischer • aktualisiert 30.03.2009_
 
 [Was moderne Bauweisen für unerfahrene Bauherren bedeuten können](2mbu.md#das ergebnis) 
 
 [Periodensystem](https://www.lenntech.de/pse/pse.htm) komplett erklärt. Gesundheitliche und umwelttechnische Auswirkungen der Stoffe inkl.
 
-<center markdown>
-
-**Inhaltsverzeichnis Baustoffkapitel:** 
-Einführung zum Problemkreis "Modernes Bauen" 
-[Einige Tips zur Produktvermarktung](10hoai22.md) - Ihre raffinierten (von Raffen?) Methoden, Tricks und Betrugsmanöver 
-Zusammenfassung 
-Die anderen Kapitel: [0. Aktuelles](2baustof.md#aktuelles) 
-[1. Gibt es "aufsteigende Feuchte"?](2aufstfe.md) 
-[2. Erneuerung oder Erhalt von Altputzen](22bausto.md) 
-[3. Erneuerung oder Erhalt von Altfenstern](23bausto.md) 
-[4. Geeignete und ungeeignete Farbsysteme auf Holzuntergründen im Innen- und Außenbereich](23bau08.md) 
-[4a. Rostschutzanstrich](23bau10.md#rostschutzfarbe) 
- [5. Wirksamer bekämpfender und vorbeugender Holzschutz ohne Gift](23bau16.md) 
-[6. Luftkalkmörtel für Mauerwerk, Innen- und Außenputze, Dachdeckerbedarf, Verfugung und Verpressung](26bausto.md) 
-[7. Mineralische untergrundverträgliche Anstrichsysteme](26bau07.md) 
-[8. Ertüchtigung historischer Gründungen durch Stopfverfahren](28bausto.md) 
-[9. Natursteinrestaurierung/Naturstein](29bausto.md) 
-[9a. Boden/Verkleidung keramisch/mineralisch](29bau07.md) 
-[9b. Reinigungsverfahren für verschmutzte Altoberflächen](29bau08.md) 
-[10. Wandbildner im Altbau](29bau09.md) 
-[10a. Nachtrag: Fachwerkbau/Holzfußboden/Fußbodenaufbau allgemein](29bau16.md) 
-[11. Der Stahlbeton und Zement](2beton.md) 
-[12. Dachdeckung und -konstruktion](212baust.md) 
-[13. Wärmedämmung](213baust.md) 
-[14. Brandschutz im Altbau](2baustof.md#14) 
-[15. Arbeitssicherheit bei der Altbauinstandsetzung](2baustof.md#15) 
-[16. Links zu verwandten sonstigen Themenbereichen ](2baustof.md#16) 
-
-</center>
+> [!abstract]+ Kapitelübersicht: Altbau Restaurierung  
+> * **[🏠 Startseite](index.md)** • **🧱 Altbau Restaurieren** • **[📐 Planen im Altbau](11planme.md)** • **[🏚️ Das malträtierte Haus](7epass.md)** • **[🌍 Klima](7thuene1.md)**
+>
+> ---
+> 1. **Altbautaugliche Verfahren und Baustoffe - Einführung 1**
+> 2. [Altbautaugliche Verfahren und Baustoffe - Einführung 2](20bau02.md)
+> 3. [Feuchtigkeit im Keller - Ein Ratgeber](21bausto.md)
+> 4. [Fassadeninstandsetzung: Putz, WDVS und Anstrich](22bausto.md)
+> 5. [Alte Fenster - Erneuern oder Erhalten?](23bausto.md)
+> 6. [Die Kalk-Kapitel](26bausto.md)
+> 7. [Ertüchtigung historischer Gründungen](28bausto.md)
+> 8. [Natur- und Ziegelsteinrestaurierung](29bausto.md)
+> 9. [10. Wandbildner im Altbau (und überhaupt) im Vergleich](29bau09.md)
+> 10. [Stahlbeton und Zement – Jahrhundertbaustoff oder Sanierungsfalle?](2beton.md)
+> 11. [12. Dachdeckung und -konstruktion 1](212baust.md)
+> 12. [Der Schwindel mit Dämmstoff, Wärmedämmung, Fassadendämmung ...](213baust.md)
+> 13. [Brandschutz & Arbeitssicherheit](2baustof.md)
+> 14. [Schimmelpilzbefall durch und trotz Dämmung und Dichtung](7schim.md)
+> 15. [Energiesparen und Wärmeschutz am Altbau 1](7wsvoant.md)
+> 16. [Die Hüllflächentemperierung - Richtig oder falsch Heizen](7temper.md)
+> 17. [Vom Mißbrauch der Behördenmacht](4behoerd.md)
+> 18. [Gutachten - Empfehlungen und Strategien für den Bauherrn](3gutacht.md)
 
 <a id="einführung"></a>
 

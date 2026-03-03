@@ -1,11 +1,18 @@
 ---
-title: "Die häufigsten Fehler bei der Anwendung von Luftkalkmörtel 9"
-description: "Zu verarbeitungs- und objektbedingten Fehlerquellen."
-author: " "
+nav: "20bausto.md, 26bausto.md"
+title: "Kalk Anwendungsfehler 9: Salzbelastete Untergründe"
+description: "Ein Expertenbericht über salzbelastete Untergründe: Warum chemische Sperren und Opferputze oft scheitern und wie reiner Luftkalk den Salztransport zerstörungsfrei bewältigt."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2kalkf09.htm"
+updated: ""
 ---
 
-# Die häufigsten Fehler bei der Anwendung von 
+[🠔 Zur Übersicht: Kalk Anwendungsfehler](2kalkfel.md)  
+# Kalk Anwendungsfehler 9: Salzbelastete Untergründe
+**Ein Expertenbericht über salzbelastete Untergründe: Warum chemische Sperren und Opferputze oft scheitern und wie reiner Luftkalk den Salztransport zerstörungsfrei bewältigt.**  
+_von Konrad Fischer_
+
+## Die häufigsten Fehler bei der Anwendung von
 
 Luftkalkmörtel, 
 Kalkputz und Kalkanstrich 9
@@ -32,4 +39,3 @@ Was freilich nicht geht: Flächiger Mörtelauftrag, vielleicht gar auf 0 ausgezo
 
 [Weiter: Kalkfehler 10](2kalkf10.md) 
 
-[Kalkfehler Einleitung](2kalkfel.md) [Kalkfehler 1](2kalkf01.md) [Kalkfehler 2](2kalkf02.md) [Kalkfehler 3](2kalkf03.md) [Kalkfehler 4](2kalkf04.md) [Kalkfehler 5](2kalkf05.md) [Kalkfehler 6](2kalkf06.md) [Kalkfehler 7](2kalkf07.md) [Kalkfehler 8](2kalkf08.md) **Kalkfehler 9** [Kalkfehler 10](2kalkf10.md) [Kalkfehler 11](2kalkf11.md) [Kalkfehler 12](2kalkf12.md) [Kalkfehler 13](2kalkf13.md)

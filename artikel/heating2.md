@@ -1,11 +1,18 @@
 ---
-title: "Building structure / Interior Room Surface IR-Heating System - 2"
-description: "Improving the Indoor-Conditions / Indoor climate, Maintenance and Conservation of Old / Historic Buildings and Interiors of Patrimonial Monuments via a Interior Room Surface Heating System / Building Structure Warming System for Cold Building Structures - Examples"
-author: " "
+nav: "index.md"
+title: "The Room Surface / Room Envelope Heating System 2"
+description: "Sustainable interior room surface / building structure heating via IR-radiating heat for building conservation and perfect indoor climate without HVAC-Systems."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/heating2.htm"
+updated: ""
 ---
 
-# The Room Surface / Room Envelope Heating System 2 
+[🠔 Zur Übersicht: English: Old House Repair](english.md)  
+# The Room Surface / Room Envelope Heating System 2
+**Sustainable interior room surface / building structure heating via IR-radiating heat for building conservation and perfect indoor climate without HVAC-Systems.**  
+_von Konrad Fischer_
+
+
 Properly or Risky Heating
 
 ## Building conservation and the perfect indoor climate without HVAC-Systems 

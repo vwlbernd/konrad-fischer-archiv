@@ -1,13 +1,20 @@
 ---
+nav: "7epass.md"
 title: "Anwendung und Grenzen der Fourierschen Wärmeleitungsgleichung"
 description: "Prof. Dr.-Ing. habil. Claus Meier entlarvt die mathematischen Tricks, mit denen der deutsche Hausbau durch Pervertierung der Fourierschen Wärmeleitungsgleichung unter die Räder kam."
-author: " "
+author: "Claus Meier"
 original_url: "www.konrad-fischer-info.de/7fourier.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Widersprüche 1](7waefe33.md)  
+# Anwendung und Grenzen der Fourierschen Wärmeleitungsgleichung
+**Prof. Dr.-Ing. habil. Claus Meier entlarvt die mathematischen Tricks, mit denen der deutsche Hausbau durch Pervertierung der Fourierschen Wärmeleitungsgleichung unter die Räder kam.**  
+_von Claus Meier_
 
 ## Claus Meier, Nürnberg
 
-# Die Fouriersche Wärmeleitungsgleichung
+## Die Fouriersche Wärmeleitungsgleichung
 
 ### Vorbemerkung des Herausgebers
 
@@ -53,7 +60,7 @@ Link: [k/U-Wert-Narretei](2139bau.md#u-narretei) \+ [Fourierrechnung total](7wdv
 
 ## Claus Meier
 
-# Die Fouriersche Wärmeleitungsgleichung
+## Die Fouriersche Wärmeleitungsgleichung
 
 Der allgegenwärtige k-Wert [heute U-Wert] als Grundlage aller Energieberechnungen wird aus der Fourierschen Wärmeleitungsgleichung abgeleitet. Wie geschieht dies? 
 

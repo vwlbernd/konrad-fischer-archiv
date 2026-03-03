@@ -1,9 +1,16 @@
 ---
-title: "Schaden: Sanierputz auf schadsalzbelastetem Stallgewölbe und durchnäßtem Mauerwerk 8"
-description: "Gutachten zu Sanierputzschaden 3: Sanierputz - ein Opferputz-System?"
-author: " "
+nav: "20bausto.md, 21bausto.md"
+title: "Sanierputz/Sanierungsputz gem. WTA - ein Opferputz-System?"
+description: "Analyse eines Bauschadens durch Sanierputzversagen auf feuchtem und salzigem Untergrund. Dieser Gutachtenauszug 3 hinterfragt, ob Sanierputz ein Opferputz-System sein kann, und verneint dies."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2sani8.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Sanierputz-Schwindel](2sanipuz.md)  
+# Sanierputz/Sanierungsputz gem. WTA - ein Opferputz-System?
+**Analyse eines Bauschadens durch Sanierputzversagen auf feuchtem und salzigem Untergrund. Dieser Gutachtenauszug 3 hinterfragt, ob Sanierputz ein Opferputz-System sein kann, und verneint dies.**  
+_von Konrad Fischer_
 
 ### Ein Bauschaden duch Sanierputzversagen auf feuchtem und salzigem/Salpeterbelastetem/nitrat-/ammoniak-belastetem Untergrund - Gutachtenauszug 3
 

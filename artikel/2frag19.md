@@ -1,13 +1,20 @@
 ---
-title: "Aus der Internet-Fragestunde der Altbau und Denkmalpflege ..."
-description: "Altbaufragen von AZ: Verarbeiten von Luftkalkputz und Luftkalkmörtel, Handwerkersuche."
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Aus der Internet-Fragestunde: Luftkalk-Putzverarbeitung"
+description: "Wie Sie Luftkalkputz und -mörtel fehlerfrei verarbeiten und woran Sie Handwerker erkennen, die ihr Fach noch verstehen, statt nur Industriesäcke anzurühren."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2frag19.htm"
+updated: "16.06.2008"
 ---
+
+[🠔 Zur Übersicht: Altbau FAQ](2frag.md)  
+# Aus der Internet-Fragestunde: Luftkalk-Putzverarbeitung
+**Wie Sie Luftkalkputz und -mörtel fehlerfrei verarbeiten und woran Sie Handwerker erkennen, die ihr Fach noch verstehen, statt nur Industriesäcke anzurühren.**  
+_von Konrad Fischer • aktualisiert 16.06.2008_
 
 Konrad Fischer 
 
-# Aus der Internet-Fragestunde und Bauberatung
+## Aus der Internet-Fragestunde und Bauberatung
 
 **(aktualisiert 16.06.08)** 
 

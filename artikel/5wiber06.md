@@ -1,15 +1,22 @@
 ---
-title: "Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Hausinstandsetzung"
-description: "Konrad Fischer Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 6"
-author: " "
+nav: "11planme.md"
+title: "Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 6"
+description: "Detaillierte Erörterung der finanzwirtschaftlichen Betreuung und Projektplanung als entscheidende Grundlage für die erfolgreiche Sanierung von Altbauten, insbesondere Teil 6."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/5wiber06.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Wirtschaftlichkeit](5wiber.md)  
+# Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 6
+**Detaillierte Erörterung der finanzwirtschaftlichen Betreuung und Projektplanung als entscheidende Grundlage für die erfolgreiche Sanierung von Altbauten, insbesondere Teil 6.**  
+_von Konrad Fischer_
 
 Konrad Fischer 
 
-# Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 6
 
-[Seite 1](5wiber.md) [2](5wiber02.md) [3](5wiber03.md) [4](5wiber04.md) [5](5wiber05.md) **6** [7](5wiber07.md) [8](5wiber08.md) [9](5wiber09.md) [10](5wiber10.md) [11](5wiber11.md) [12](5wiber12.md) [13](5wiber13.md) [14](5wiber14.md)
+
+
 
 9. Gelingt es dem Bauherr bei der Projektvorbereitung und Projektplanung zu verdeutlichen, daß die finanzwirtschaftliche Betreuung durch seinen Planer nicht nur bei der Kosten-Nutzen-Analyse, sondern auch im einer erfolgreichen Finanzierung folgenden Bauablauf wichtig ist (fördertechnische Kostenzuweisung bei Änderungen der zuschußfähigen Ansätze in der bewilligten Finanzierungsgrundlage, Beratung bei Nachtrags- und Anschlußfinanzierung und Rückforderungsansprüchen bei Kostenunterschreitung, förderunschädliches Durchsetzen von Änderungswünschen, Loyalität im Hinblick auf erreichte Ausnahmeregelungen, Einwerbung von Sponsorengeldern, ...), stärkt das seine Bindung an den Planer. Diese Bauherrnbindung und das zugrundeliegende Bauherrenvertrauen ist oft nötig, auch weil die beteiligten Förderbehörden durchaus nicht jedem Architekten - und sei er noch so kompetent - den Auftrag gönnen könnten und dann seine Bindung zum Auftraggeber gerne zerstören: Mit dem nicht! Fördermittel nur mit einem/diesem Billig-Architekten (Verwandter, Bekannter des Förderbeamten oder als Maximal-HOAI-Dumpingpreis-Anbieter landesweit bekannt - als [von den Baufirmen bestochener Verwerter der von ihnen umsonst gegen Vergabe-Begünstigung gelieferten Planungspfuschereien](10hoai22.md) und Kostenexplosionsexperte vielleicht sogar bundesweit).
 

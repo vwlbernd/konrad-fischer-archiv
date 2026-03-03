@@ -1,19 +1,31 @@
 ---
+nav: "7thuene1.md"
 title: "Dr. Helmut Böttiger: Rette die Erde und bring Dich um!"
 description: "Klimaschutz brutal - der Tod trommelt Öko und alle tanzen mit."
-author: " "
+author: "Dr. Helmut Böttiger"
 original_url: "www.konrad-fischer-info.de/7boet1.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Klima](7thuene1.md)  
+# Dr. Helmut Böttiger: Rette die Erde und bring Dich um!
+**Klimaschutz brutal - der Tod trommelt Öko und alle tanzen mit.**  
+_von Dr. Helmut Böttiger_
+
+> [!abstract]+ Kapitelübersicht: Öko-Alarm Kritik  
+> 1. **Dr. Helmut Böttiger: Rette die Erde und bring Dich um!**
+> 2. [Politik der Kernenergie](7boet2.md)
+> 3. [Klimaänderung: Ein wissenschaftlicher Popanz?](7muellr.md)
 
 ## Dr. Helmut Böttiger, Wiesbaden
 
-# Rette die Erde und bring Dich um!
+## Rette die Erde und bring Dich um!
 
 ### Vorbemerkung des Herausgebers
 
 Die Klimaapokalyptik unserer junk science, den gleichgeschalteten Medien, der Öko-Mitläufer und der Ökopolitik / Umweltpolitik / Umweltschutzpolitik - eingefädelt in aller Raffinesse von dem Öko-Ministerialen Dr. Hartkopf im Auftrag des ganz im kommunistischen Sinne agierenden? Ministers Genscher, einst wie auch ein Brandtspion namens Guillaume flott und zielstrebig dahergetrabt aus der marxistisch verseuchten Ostzone (kennen Sie den EINSTEIN-BRIEF an den Spiegel, der offenbar nur wenige Tage danach Genschers stillschweigenden Rücktritt auslöste?), wird hier entlarvt. Wie funktioniert sie, wer sind die Urheber, und überhaupt warum?:
 
-# Rette die Erde und bring Dich um!
+## Rette die Erde und bring Dich um!
 
 Die letzten aktuellen Veröffentlichungen haben gezeigt: Die Hypothese _mehr CO 2 führe zu einer katastrophalen Klimakatastrophe_ läßt sich wissenschaftlich nicht aufrecht erhalten. Inzwischen verlassen die anerkanntesten der anerkannten Wissenschaftler das sinkende Schiff der Klimaangstmache, um ihre Reputation als Wissenschaftler zu retten, so Stephen Schneider vom National Centre for Atmospheric Research in Colorado, der uns erst eine kommende Eiszeit und dann den Wärmetod ankündigte, James Hansen von der NASA, der sich während der Hitzeperiode von 1988 zu 99 % sicher war, daß der Mensch für die Katastrophe verantwortlich sei, der berühmte Klimamodellierer aus Princeton, Jerry Mahlmann, und andere mehr.
 

@@ -1,17 +1,24 @@
 ---
-title: "Schwindelei? Aufsteigende Mauerfeuchtigkeit + Nasse Mauer ..."
-description: "Trockenlegungsexperten? - Planer und Gutachter"
-author: " "
+nav: "20bausto.md"
+title: "Trockenlegungsexperten? - Planer und Gutachter"
+description: "Eine kritische Abrechnung mit fachlich unsicheren Planern und Sachverständigen, deren teure Gutachten oft nur den Weg für bauzerstörende Sanierungsfehler und unnötige Kosten ebnen."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2auffe11.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Aufsteigend Feuchte?](2aufstfe.md)  
+# Trockenlegungsexperten? - Planer und Gutachter
+**Eine kritische Abrechnung mit fachlich unsicheren Planern und Sachverständigen, deren teure Gutachten oft nur den Weg für bauzerstörende Sanierungsfehler und unnötige Kosten ebnen.**  
+_von Konrad Fischer_
 
 ## Aufsteigende Mauerfeuchtigkeit + Nasse Mauer trockenlegen 11
 
 Aufsteigende Feuchte Kapitelübersicht 
 
-[1 - Einführung zur Problemlage](2aufstfe.md) [2 - Ein schrecklicher "Trockenlegungsfall"](2auffe02.md) [3 - Feuchtequellen](2auffe03.md) [4 - Ziegel-Mauerwerk und Aufsteigende Feuchte](2auffe04.md) [5 - Naturstein-Mauerwerk und Aufsteigende Feuchte](2auffe05.md) [6 - Nachträgliche Horizontalabdichtung historischen Mauerwerks? - Mauerwerksversalzung](2auffe06.md) [7 - Kondensat und Regen](2auffe07.md) [8 - Trockenlegung oder Bauwerksschäden durch Horizontalisolierung?](2auffe08.md) [9 - Trockenlegungsschwindel - die Marketingtricks](2auffe09.md) [10 - Elektroosmose und die typischen Trockenleger-Ausreden bei Mißerfolg](2auffe10.md) **11 - Trockenlegungsexperten? - Planer und Gutachter** [12 - Trockenlegung - Industrieberatung oder der gesunde Menschenverstand? Probleme und Lösungen](2auffe12.md) [13 - Mauertrockenlegung - Die klassischen Fehler](2auffe13.md) [14 - Nasse Wände sanieren - Was sagt die Wissenschaft?](2auffe14.md) [15 - Mauerfeuchte woher? Zum historischen und wissenschaftlichen Hintergrund](2auffe15.md) 
 
-# Trockenlegungsexperten? - 
+
+## Trockenlegungsexperten? -
 Planer und Gutachter
 
 Spezialisten in diesem bau- und kassenzerstörendem Tun rund um die "Trockenlegung", Mauerwerksentsalzung und Feuchtesanierung sind fachlich unsichere Planer und sogennante Sachverständige. Sie sind die simpelsten Opfer für die incentivgestützten Einflüsterungen der schlauen Sanierbranche. Zieh einem Baunarren eine Krawatte an, schon überzeugt er! Baukostensteigernden Brutalmaßnahmen füllen obendrein die Tasche, ohne daß dafür ein Gramm Planungsschmalz zu opfern wäre. Das Expertentum (Scherzpertentum) stützt sich gegenseitig wie beim [Sanierputz](2sanipuz.md), der [Energieeinsparverordnung](7wsvoant.md) und [blowerdoorgestützten Fensteraustausch ...](23bausto.md#3. erneuerung oder erhalt von altfenstern) bis zur Bewohnerselbstvergasung

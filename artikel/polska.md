@@ -1,13 +1,20 @@
 ---
-title: "Stare budownictwo i ochrona zabytków - informacje"
+nav: "index.md, 6prxratg.md"
+title: "Stare budownictwo i ochrona zabytków informacje"
 description: "Wskazówki i porady dla posiadaczy starych budynków."
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/polska.htm"
+updated: "04.06.2009"
 ---
 
 
 
-# 🇵🇱 Stare budownictwo i 
+[🠔 Zur Übersicht: Slavisk](slavisk.md)  
+# Stare budownictwo i ochrona zabytków informacje
+**Wskazówki i porady dla posiadaczy starych budynków.**  
+_von Konrad Fischer • aktualisiert 04.06.2009_
+
+## 🇵🇱 Stare budownictwo i
 ochrona zabytków informacje 🇵🇱
 
 

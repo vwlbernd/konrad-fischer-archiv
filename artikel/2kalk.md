@@ -1,11 +1,22 @@
 ---
+nav: "20bausto.md, 26bausto.md"
 title: "Luftkalkmörtel und seine aktuelle Vergütungspraxis 1"
-description: "Zum Stand der Fachdiskussion. Mit umfangreichen technischen Hinweisen und bauphysikalischen Tabellenwerten aus Forschungsergebnissen."
-author: " "
+description: "Aufklärung und ein paar kritische Worte zum Problem der Rezeptur von Kalkprodukten"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2kalk.htm"
+updated: ""
 ---
 
-# Luftkalkmörtel und seine Vergütung 
+[🠔 Zur Übersicht: Kalk](26bausto.md)  
+# Luftkalkmörtel und seine aktuelle Vergütungspraxis 1
+**Aufklärung und ein paar kritische Worte zum Problem der Rezeptur von Kalkprodukten**  
+_von Konrad Fischer_
+
+> [!abstract]+ Kapitelübersicht: Luftkalk Vergütung  
+> 1. **Luftkalkmörtel und seine aktuelle Vergütungspraxis 1**
+> 2. [Luftkalkmörtel und seine Vergütung 2](2kalk1.md)
+
+## Luftkalkmörtel und seine Vergütung
 
 Aufklärung und ein paar kritische Worte 
 zum Problem der Rezeptur von Kalkprodukten

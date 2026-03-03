@@ -1,17 +1,24 @@
 ---
-title: "Burgen, Schlösser und Anderes - Linksammlung 5"
+nav: "index.md, 8schloss.md"
+title: "Links und Tips für Burgenfreunde/Castles and Forts 5"
 description: "Links und Tips für Burgenfreunde/Castles and Forts 5."
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/8reise05.htm"
+updated: ""
 ---
 
-# Eine Reise zu Kunst, Baudenkmalen, Museen und Antiquitäten
+[🠔 Zur Übersicht: Burgen Links 1](8reise.md)  
+# Links und Tips für Burgenfreunde/Castles and Forts 5
+**Links und Tips für Burgenfreunde/Castles and Forts 5.**  
+_von Konrad Fischer_
+
+## Eine Reise zu Kunst, Baudenkmalen, Museen und Antiquitäten
 
 ## A journey to the past 12 (Mit einigen meiner Reiseskizzen/with some of my sketches)
 
 (Mit einigen meiner Reiseskizzen/with some of my sketches) 
 
-Seiten: [Links und Tips für Burgenfreunde/Castles and Forts 1](8reise.md) [2](8reise02.md) [3](8reise03.md) [4](8reise04.md) **5** [6](8reise06.md) [7](8reise07.md) [8](8reise08.md) [9](8reise09.md) [Gast im Schloß:10](8reise10.md) [Mittelalter und andere historische Epochen:11](8reise11.md) [Schlösser zu verkaufen/Castles for Sale:12](8reise12.md) [Kunsthandel/Antiquitäten/Antics/Antiques/Fine Art: 13](8reise13.md)
+
 
 _[Konrad Fischer](1refernz.md)_ 
 

@@ -1,11 +1,28 @@
 ---
-title: "Altbau- und Denkmalpflege - Kritische Fachbuchrezensionen"
-description: "Themen: Sanierputze, Bauwerksinstandsetzung, Anstriche, Beschichtung, Wertermittlung Baudenkmale, Wasserkraftanlagen, Kleinkraftwerk, Holzfachwerkbauten, ..."
-author: " "
+nav: "index.md, 8infober.md"
+title: "Rezensionen von Konrad Fischer für Fachbücher aus dem expert verlag GmbH - Fachverlag für Wirtschaft & Technik"
+description: "Kritische Fachbuchrezensionen von Konrad Fischer für den expert verlag GmbH zu Sanierputzen, Anstrichen, denkmalgeschützten Gebäuden, Wasserkraftanlagen und historischen Holzfachwerkbauten."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/8wetz.htm"
+updated: "09.04.2009"
 ---
 
+[🠔 Zur Übersicht: Quellen](8infober.md)  
 # Rezensionen von Konrad Fischer für Fachbücher aus dem expert verlag GmbH - Fachverlag für Wirtschaft & Technik
+**Kritische Fachbuchrezensionen von Konrad Fischer für den expert verlag GmbH zu Sanierputzen, Anstrichen, denkmalgeschützten Gebäuden, Wasserkraftanlagen und historischen Holzfachwerkbauten.**  
+_von Konrad Fischer • aktualisiert 09.04.2009_
+
+> [!abstract]+ Kapitelübersicht: Altbaukritik Fachbücher  
+> 1. **Rezensionen von Konrad Fischer für Fachbücher aus dem expert verlag GmbH - Fachverlag für Wirtschaft & Technik**
+> 2. [Fachwerkwörterbücher - eine Hilfe beim Lesen des Holznagels(?)](8ks2.md)
+> 3. [Gerd Ziesemann, Martin Krampfer, Heinz Knieriemen: Natürliche Farben, Anstriche und Verputze selber herstellen](8ziese.md)
+> 4. [Rezension - Petzet/Mader: Praktische Denkmalpflege](8rezpema.md)
+> 5. [Denkmalpflege für Architekten - Vom Grundwissen zur Gesamtleitung](8dpfl.md)
+> 6. [Rezension Zeune: Burgen, Symbole der Macht](8zeune.md)
+> 7. [Rezension Praxishandbuch Putz - Stoffe, Verarbeitung, Schadensvermeidung](8ross.md)
+> 8. [Relationen über Fortifikation der Südgrenzen des Habsburgerreiches](8kromp.md)
+
+
 
 ## Hermann G. Meier: Sanierputze, Ein wichtiger Bestandteil der Bauwerksinstandsetzung 
 

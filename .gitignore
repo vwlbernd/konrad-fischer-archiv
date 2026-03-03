@@ -1,9 +1,12 @@
 # Ignoriere den gesamten Ordner "geheim"
-/__pycache__/
-/docsify/
-/scripts/
-/sidebar/
-
+/__pycache__
+/docsify
+/scripts
+/sidebar
+/gemini
+/artikel/medien
+/artikel.bak
+/site/medien
 # Ignoriere alle .log Dateien
 *.py
 *.yml

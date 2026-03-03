@@ -1,9 +1,16 @@
 ---
-title: "Die Hüllflächentemperierung - Richtig oder falsch Heizen 25"
+nav: "20bausto.md"
+title: "Aus immer aktuellem Anlaß: Bauwerkstrocknung nach Überschwemmungs- und sonstigen Durchfeuchtungsschäden"
 description: "Bauwerkstrocknung nach Durchfeuchtung / Weitere Informationen."
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/7temp25.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Heizen](7temper.md)  
+# Aus immer aktuellem Anlaß: Bauwerkstrocknung nach Überschwemmungs- und sonstigen Durchfeuchtungsschäden
+**Bauwerkstrocknung nach Durchfeuchtung / Weitere Informationen.**  
+_von Konrad Fischer_
 
 [Konrad Fischer](1refernz.md) 
 Die Temperierung der Gebäude-Hüllflächen 25 
@@ -11,13 +18,13 @@ Die Temperierung der Gebäude-Hüllflächen 25
 ## Bauten-, Inventar-, Exponat-, Instrumenten- und Gesundheitsschutz durch richtiges Heizen, 
 Hüllflächentemperierung bzw. Bauteiltemperierung
 
-Temperierung Kapitel [1](7temp01.md) [2](7temp02.md) [3](7temp03.md) [4](7temp04.md) [5](7temp05.md) [6](7temp06.md) [7](7temp07.md) [8](7temp08.md) [9](7temp09.md) [10](7temp10.md) [11](7temp11.md) [12](7temp12.md) [13](7temp13.md) [14](7temp14.md) [15](7temp15.md) [16](7temp16.md) [17](7temp17.md) [18](7temp18.md) [19](7temp19.md) [20](7temp20.md) [21](7temp21.md) [22](7temp22.md) [23](7temp23.md) [24 - Erhaltung und/oder Umbau bestehender Heizsysteme / EnEV-Befreiung gem. § 25, Nachtabsenkung, Glas+Strahlung, Brennwert-Technik](7temp24.md) **25** 
+
 
 <a id="alte heizung erhalten"></a> 
 
 <a id="nachtrag"></a>
 
-# Aus immer aktuellem Anlaß: 
+## Aus immer aktuellem Anlaß:
 Bauwerkstrocknung nach Überschwemmungs- und sonstigen Durchfeuchtungsschäden
 
 War das Bauwerk überflutet oder nach Wasserleitungshavarie extrem durchfeuchtet, greift zunächst die luftbehandelnde Trocknungsmethode, die überschüssige Feuchte durch Kondensation aus der Raumluft zieht. Sie hat ihre Grenzen in der weiteren Zufuhr von warmer Feuchtluft (Sommerfall) und in der nur indirekten Wirkung auf die Feuchte in Bauteilen. Deswegen droht nach scheinbarer Trocknung der Raumumschließungsflächen der Schimmelbefall auf den nach wie vor vollgesogenen Wänden, Böden und Decken. Und dies so lange, bis eben ausreichend tiefgründig ausgetrocknet ist. Schlimm, wenn dies intakte oder gar frisch renovierte Flächenbetrifft.

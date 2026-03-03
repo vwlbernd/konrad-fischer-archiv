@@ -1,11 +1,18 @@
 ---
-title: "Kritische Stellungnahmen zur EnEV durch die Architektenkammern / Architekten aus Rheinland-Pfalz+Hessen / Berlin / Niedersachsen (Stand 1999-2000)."
-description: "Schon Geschichte: Einst mutige Gegenwehr aus der Architektenschaft gegen den staatlichen EnEV-Terror"
-author: " "
+nav: "7thuene1.md"
+title: "Von den sinnlosen Versuchen der deutschen Architektenschaft, dem staatlich sanktionierten Dämmterrorismus Einhalt zu gebieten."
+description: "Irrtümer, Fehler, vorprogrammierte Bauschäden und vorsätzliche Körperverletzung"
+author: "Christoph Schwan"
 original_url: "www.konrad-fischer-info.de/7enevrlp.htm"
+updated: "21.03.2001"
 ---
 
-# Kontra Energieeinsparverordnung EnEV 
+[🠔 Zur Übersicht: EEG Kritik](7eeg.md)  
+# Von den sinnlosen Versuchen der deutschen Architektenschaft, dem staatlich sanktionierten Dämmterrorismus Einhalt zu gebieten.
+**Irrtümer, Fehler, vorprogrammierte Bauschäden und vorsätzliche Körperverletzung**  
+_von Christoph Schwan • aktualisiert 21.03.2001_
+
+## Kontra Energieeinsparverordnung EnEV
 
 Irrtümer, Fehler, vorprogrammierte Bauschäden und vorsätzliche Körperverletzung
 

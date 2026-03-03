@@ -1,9 +1,16 @@
 ---
+nav: "20bausto.md"
 title: "Behördenprobleme - HOAI-Mißbrauch im Vertragswesen der öff. Hand"
 description: "Vom Mißbrauch der Behördenmacht. Wie er funktioniert, wie man sich wehren kann."
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/421voef.htm"
+updated: "26.05.2006"
 ---
+
+[🠔 Zur Übersicht: Behörden](4behoerd.md)  
+# Behördenprobleme - HOAI-Mißbrauch im Vertragswesen der öff. Hand
+**Vom Mißbrauch der Behördenmacht. Wie er funktioniert, wie man sich wehren kann.**  
+_von Konrad Fischer • aktualisiert 26.05.2006_
 
 **_"So geht´s in der Welt, 
 dass, wer öffentlich stehlen und rauben kann, 
@@ -18,19 +25,7 @@ Behördenprobleme
 Seite wg. Überfüllung nachträglich z.T. in Unterseiten geteilt. Alle Kapitel sind vom Inhaltsverzeichnis anlinkbar. 
 **(aktualisiert 26.05.06)**
 
-Inhalt: 
-[1. Baurecht und Ausnahmen](41brecht.md#1. baurecht und) 
-2. HOAI-Mißbrauch 
-[2.1 Im Vertragswesen der öffentlichen Hand](421voef.md#2. hoai) 
-[2.2 Finanzierungsrichtlinien der öffentlichen Fördergeber](4behoerd.md#finanzierungsrichtlinien) 
-[3. VOB-Manipulationen](4behoerd.md#3. vob) 
-[4. Stadtsanierung/Städtebauförderung/kirchliche und staatliche Denkmalpflege](4behoerd.md#4. stadtsanierung) 
-[5. Privatisierte, kommunale und staatliche Baubehörden](4behoerd.md#5. privatisierte) 
-[6. Technische Prüfbehörden](46techpr.md#6. technische) 
-[7. Wasser-/Abwasserwirtschaft](47wass.md#7. wasser-/abwasserwirtschaft) 
-[8. Hochschule](48hoch.md#8. hochschule) 
-[9. Regierungskriminalität](4behoerd.md#9. regierungskriminalität) 
-[10. Links](410links.md#10. links) 
+
 
 ---
 

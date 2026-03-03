@@ -1,9 +1,16 @@
 ---
-title: "Beratungsangebote zu Altbau und Denkmalpflege - Linksammlung 2"
-description: "Weitere Beratung und Information zu Denkmalpflege, Altbau usw. 2"
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Denkmalämter und verwandte Institutionen"
+description: "Eine umfassende Linksammlung zu Denkmalämtern und verwandten Institutionen in Deutschland, Österreich, der Schweiz und weiteren europäischen Ländern."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/8berat02.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Beratung Altbau](8berat.md)  
+# Denkmalämter und verwandte Institutionen
+**Eine umfassende Linksammlung zu Denkmalämtern und verwandten Institutionen in Deutschland, Österreich, der Schweiz und weiteren europäischen Ländern.**  
+_von Konrad Fischer_
 
 **2. Denkmalämter und verwandte Institutionen**
 

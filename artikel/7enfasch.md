@@ -1,9 +1,16 @@
 ---
-title: "Energie-Faschismus"
+nav: "7thuene1.md"
+title: "ENERGIE-FASCHISMUS"
 description: "Architekt Paul Bossert: Wie das Bundesministerium für Raumordnung, Bauwesen und Städtebau (BMBau) die Empfehlungen des Petitionsausschusses des Deutschen Bundestages missachtet."
-author: " "
+author: "Paul Bossert"
 original_url: "www.konrad-fischer-info.de/7enfasch.htm"
+updated: "25.06.1997"
 ---
+
+[🠔 Zur Übersicht: Schweizer Energiepolitik](7eneb.md)  
+# ENERGIE-FASCHISMUS
+**Architekt Paul Bossert: Wie das Bundesministerium für Raumordnung, Bauwesen und Städtebau (BMBau) die Empfehlungen des Petitionsausschusses des Deutschen Bundestages missachtet.**  
+_von Paul Bossert • aktualisiert 25.06.1997_
 
 Zeitlose Dokumente aus dem hoffnungslosen Kampf des Schweizer energieexperten Paul Bossert gegen die staatlich organisierte Ökokriminalität und den Ökolobbyismus
 

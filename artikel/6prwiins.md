@@ -1,11 +1,18 @@
 ---
-title: "Baudenkmäler wirtschaftlich instandsetzen - Preisgünstig Instandsetzen"
-description: "Praxis Ratgeber Wirtschaftliches Instandsetzen von Baudenkmälern - Planung - Finanzierung - Projektabwicklung. 1. Vorbemerkung"
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Wirtschaftliches Instandsetzen von Altbauten und Baudenkmälern – Kauf, Finanzierung, Planung und Projektorganisation"
+description: "Praxis Ratgeber: Kostengünstiges Instandsetzen von Altbauten und Baudenkmälern. Die besten Tipps und Tricks zu Kauf, Finanzierung, Planung und Projektorganisation."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/6prwiins.htm"
+updated: ""
 ---
 
-# Praxis Ratgeber zur Denkmalpflege 
+[🠔 Zur Übersicht: Bauberatung](6prxratg.md)  
+# Wirtschaftliches Instandsetzen von Altbauten und Baudenkmälern – Kauf, Finanzierung, Planung und Projektorganisation
+**Praxis Ratgeber: Kostengünstiges Instandsetzen von Altbauten und Baudenkmälern. Die besten Tipps und Tricks zu Kauf, Finanzierung, Planung und Projektorganisation.**  
+_von Konrad Fischer_
+
+## Praxis Ratgeber zur Denkmalpflege
 
 ## Kostengünstiges Instandsetzen von Altbauten und Baudenkmälern 
 Die besten Tipps und Tricks zu Kauf, Finanzierung, Planung und Projektorganisation - 1
@@ -19,7 +26,20 @@ Konrad Fischer
 
 Wirtschaftliches Instandsetzen von Altbauten und Baudenkmälern – Kauf, Finanzierung, Planung und Projektorganisation 
 
-**1. Vorbemerkung** [2. Der Immobilienkauf](6prwi02.md) [3. Öffentliche und private Förderung für die Instandsetzung von Baudenkmälern](6prwi03.md) [4. Von der Reparatur zur Zerstörung](6prwi04.md) [5. Entwurfsstrategie](6prwi05.md) [6. Der erste Planungsschritt](6prwi06.md) [7. Bestandsaufnahme mit System](6prwi07.md) [8. Nutzungsentwurf](6prwi08.md) [9. Reparaturplanung und Konstruktionsentwurf](6prwi09.md) [10. Leistungsbeschreibung, Baukosten und Bauablauf](6prwi10.md) [11. Investitionsziel / 12. Zusammenfassung / Empfohlene Fachliteratur zu Finanzierung und Technik](6prwi11.md) 
+> [!abstract]+ Kapitelübersicht: Denkmal instandsetzen  
+> 1. **Wirtschaftliches Instandsetzen von Altbauten und Baudenkmälern – Kauf, Finanzierung, Planung und Projektorganisation**
+> 2. [Wirtschaftliches Instandsetzen von Baudenkmälern: Der Immobilienkauf](6prwi02.md)
+> 3. [Öffentliche und private Förderung für die Instandsetzung von Baudenkmälern](6prwi03.md)
+> 4. [Wirtschaftliches Instandsetzen von Baudenkmälern – Von der Reparatur zur Zerstörung](6prwi04.md)
+> 5. [Wirtschaftliches Instandsetzen von Baudenkmälern – 5. Entwurfsstrategie](6prwi05.md)
+> 6. [Wirtschaftliches Instandsetzen von Baudenkmälern – Der erste Planungsschritt](6prwi06.md)
+> 7. [Wirtschaftliches Instandsetzen von Baudenkmälern: Bestandsaufnahme mit System](6prwi07.md)
+> 8. [Wirtschaftliches Instandsetzen von Baudenkmälern - 8. Nutzungsentwurf](6prwi08.md)
+> 9. [Wirtschaftliches Instandsetzen von Baudenkmälern: Reparaturplanung und Konstruktionsentwurf](6prwi09.md)
+> 10. [Wirtschaftliches Instandsetzen von Baudenkmälern – 10. Leistungsbeschreibung, Baukosten und Bauablauf](6prwi10.md)
+> 11. [Wirtschaftliches Instandsetzen von Baudenkmälern - Kauf, Finanzierung, Planung und Projektorganisation](6prwi11.md)
+
+
 
 1. Vorbemerkung 
 

@@ -1,9 +1,16 @@
 ---
-title: "Rezension Praxishandbuch Putz"
-description: "Rezension zu Hartmut Ross, Friedemann Stahl: Praxishandbuch Putz - Stoffe, Verarbeitung, Schadensvermeidung, Verlag Rudolf Müller, Köln 1997."
-author: " "
+nav: "index.md, 8infober.md"
+title: "Rezension Praxishandbuch Putz - Stoffe, Verarbeitung, Schadensvermeidung"
+description: "Kritische Rezension des 'Praxishandbuch Putz' von Hartmut Ross und Friedemann Stahl. Das Buch beleuchtet die Putzverarbeitung und Instandsetzung, wird jedoch auf Schwachstellen wie Zementzugaben und Schadsalze untersucht."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/8ross.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Altbaukritik Fachbücher](8wetz.md)  
+# Rezension Praxishandbuch Putz - Stoffe, Verarbeitung, Schadensvermeidung
+**Kritische Rezension des 'Praxishandbuch Putz' von Hartmut Ross und Friedemann Stahl. Das Buch beleuchtet die Putzverarbeitung und Instandsetzung, wird jedoch auf Schwachstellen wie Zementzugaben und Schadsalze untersucht.**  
+_von Konrad Fischer_
 
 Rezension 
 

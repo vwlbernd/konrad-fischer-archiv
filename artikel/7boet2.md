@@ -1,13 +1,20 @@
 ---
-title: "Atomenergie ökologisch umbauen / Atomaren Strahlungsabfall der ..."
-description: "Warum wird der ökologische Umbau der Atomkraft zur sicheren und preisgünstigsten Energiequelle weiter verweigert? Der Text sucht Antworten."
-author: " "
+nav: "7thuene1.md"
+title: "Politik der Kernenergie"
+description: "Dieser Fachaufsatz diskutiert den verweigerten ökologischen Umbau der Atomenergie zu einer preiswerteren, nachhaltigeren und sichereren Öko-Energiequelle und beleuchtet die Politik der Kernenergie."
+author: "Dr. Helmut Böttiger"
 original_url: "www.konrad-fischer-info.de/7boet2.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Öko-Alarm Kritik](7boet1.md)  
+# Politik der Kernenergie
+**Dieser Fachaufsatz diskutiert den verweigerten ökologischen Umbau der Atomenergie zu einer preiswerteren, nachhaltigeren und sichereren Öko-Energiequelle und beleuchtet die Politik der Kernenergie.**  
+_von Dr. Helmut Böttiger_
 
 Dr. Helmut Böttiger, Wiesbaden 
 
-# Politik der Kernenergie 
+
 
 ### Vorbemerkung des Herausgebers
 
@@ -21,7 +28,7 @@ Welcher Bürger, welcher Naturfreund hat überhaupt schon etwas gehört von den 
 
 ## Dr. Helmut Böttiger, Wiesbaden
 
-# Politik der Kernenergie 
+
 
 Der Parteitag der SPD 1956 in München forderte die rasche Entwicklung der friedlichen Nutzung der Kernenergie als objektive Voraussetzung für die wirksame Überwindung von Not und Elend insbesondere in den unterentwickelten Ländern. Kaum 20 Jahre später sollte das nicht mehr wahr sein. Heute fordert die gleiche Partei den Ausstieg aus der Kernenergie und die Rückkehr zu sogeannten alternativen Energiequellen: Sonne Wind und Biomasse. Hatte man sich 1956 geirrt oder ist die Überwindung der weltweiten materieller Not nicht mehr das Ziel der Partei? 
 

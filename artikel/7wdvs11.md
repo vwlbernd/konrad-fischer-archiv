@@ -1,40 +1,32 @@
 ---
+nav: "20bausto.md"
 title: "Energiesparen und Wärmeschutz am Altbau 11"
-description: "Dämmstoff-Marketing und der Bausachverständige Rolf Köneke"
-author: " "
+description: "Eine kleine unendliche Geschichte der Ökoabzocke"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/7wdvs11.htm"
+updated: ""
 ---
 
+[🠔 Zur Übersicht: Energiesparen](7wsvoant.md)  
 # Energiesparen und Wärmeschutz am Altbau 11
+**Eine kleine unendliche Geschichte der Ökoabzocke**  
+_von Konrad Fischer_
+
+
 
 ## Eine kleine unendliche Geschichte der Ökoabzocke 
 Althaus modernisieren, dämmen & Sanieren, Hauswand-Wärmedämmung
 
 ### Ersparnis & Kostenkalkulation / Kosten-Nutzen-Analyse / Wirtschaftlichkeit Althäuser-Isolation & Wohnungsbau wärmedämmen, Kritische Punkte Polystyren / Polystyrol / Styropor
 
-Energiesparen und Wärmeschutz Kapitel [Einleitung](7wsvoant.md) [1](7wdvs01.md) [2](7wdvs02.md) [3](7wdvs03.md) [4](7wdvs04.md) [5](7wdvs05.md) [6](7wdvs06.md) [7](7wdvs07.md) [8](7wdvs08.md) [9](7wdvs09.md) [10](7wdvs10.md) **11** [12](7wdvs12.md) [13](7wdvs13.md) [14](7wdvs14.md) [15](7wdvs15.md) [16](7wdvs16.md) [17](7wdvs17.md) [18](7wdvs18.md) [19](7wdvs19.md) [20](7wdvs20.md) [21](7wdvs21.md) 
+
 
 ## Von der Intelligenz moderner Baumethoden/Haustechnik/Schimmelpilzzüchtung usw. 
 Ökovampirismus: Klimaschutzblutsauger auf der Jagd nach Ihren letzten Kröten
 
 _[Konrad Fischer](1refernz.md)_ 
 
-**Glanzlichter dieser Seite:** 
-[Einleitung](7wsvoant.md) 
-[Apokalypsenlyrik](7wdvs04.md#apokalypsenlyrik) 
-[Wärmedämmung oder -speicherung, "Wissenschafterkenntnis" der etablierten Bauphysik?](7wdvs05.md#wã¤rmedã¤mmung) 
-[Kommentierte Meldungen zum Wohnklima und der "Niedrig"-Energiebauweise](7wdvs13.md#kommentierte) 
-[Nachhilfeunterricht in energiesparendem und wohngesundem Bauen](7wdvs17.md#einschub) - Das Professorenrätsel 
-[Interessante Schimmellinks](7wdvs21.md) 
-[Prof. Dr.-Ing. habil. Claus Meier bauphysikalische Beiträge](7wdvs21.md) 
-[Empfehlenswerte Klima- und Umweltliteratur](8buch22.md) 
-[Temperierung/Strahlungsheizung - der vernünftige Weg zum Energiesparen](7temper.md) 
-[Anfragen und Antworten zu Bauproblemen](2frag.md) 
-[Das Handwerkerquiz ](10hoai13.md)\+ [Das Planerquiz für schlaue Bauherrn](10hoai14.md) 
-[Leserbriefe zum besseren Bauen, Energiesparen und der Klimafrage](7lesbrif.md) 
-[Fenster-"Aufklärung"](23bausto.md) 
-**[Dämmstoffe im Zwielicht - Das Lichtenfelser Experiment](2139bau.md)** 
-Dr. Ulrich Berner, Geozentrum Hannover, [zu den gängigen Klimalügen](7thu55.md) (Buderus-/IWO-Forum: Die Ölheizung der Zukunft, 28.10.03, Kloster Banz)
+
 
 ---
 

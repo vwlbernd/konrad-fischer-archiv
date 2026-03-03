@@ -1,9 +1,16 @@
 ---
+nav: "index.md, 6prxratg.md"
 title: "Obnovení dávné budovy + Konzervace člen určitý dějinný Pomník"
-description: "Rada a hůl drába do člen určitý vlastnictví domù - Obvyklý nespravně pochopit + Jaký ve skutečnosti práce."
-author: " "
+description: "Bezplatné, nezávislé a kritické informace k opravám starých budov, restaurování a konzervaci památek."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/czeska.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Slavisk](slavisk.md)  
+# Obnovení dávné budovy + Konzervace člen určitý dějinný Pomník
+**Bezplatné, nezávislé a kritické informace k opravám starých budov, restaurování a konzervaci památek.**  
+_von Konrad Fischer_
 
 Skoušel jsi restaurovat svůj starý dům? Co se stalo? Skončilo tvoje odvážné restaurování, renování, rekonstrukce, modernizace nebo přestavování katastrofou? Všechny tvoje naděje a peníze jsou pryč? 
 

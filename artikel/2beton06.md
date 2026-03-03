@@ -1,19 +1,26 @@
 ---
-title: "Der Stahlbeton und der Zement - Problembeschreibungen 6"
-description: "Betonsanierung und die Zementberatung"
-author: " "
+nav: "20bausto.md"
+title: "Betonsanieren und die Zementberatung"
+description: "Schlimm, daß aus der sogenanten „Zementberatung“ zu den verschiedenen werkstofflichen Varianten der Betonsanierung so gut wie keine klaren, praxisgestützten Aussagen zur technisch besten Methode zu haben sind."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2beton06.htm"
+updated: ""
 ---
 
-# Der Stahlbeton und der Zement 6
+[🠔 Zur Übersicht: Stahlbeton](2beton.md)  
+# Betonsanieren und die Zementberatung
+**Schlimm, daß aus der sogenanten „Zementberatung“ zu den verschiedenen werkstofflichen Varianten der Betonsanierung so gut wie keine klaren, praxisgestützten Aussagen zur technisch besten Methode zu haben sind.**  
+_von Konrad Fischer_
+
+## Der Stahlbeton und der Zement 6
 
 Inhaltsverzeichnis der Betonkapitel 
 
-[1: Stahlbetonbau - Spitzenarchitektur?](2beton.md) [2: Betonschäden durch schlechte Baustoffqualität](2beton02.md) [3: Baustoff und Baupfusch für eine Sklavenhaltergesellschaft?](2beton03.md) [4: Macht Betonieren krank und sichert Arbeitsplätze?](2beton04.md) [5: Betonbau - eine Sakralbauweise?](2beton05.md) **6: Betonsanierung + Zementberatung, zerstörungsarm untersuchen, Tiefgarage, Nitrat + Chlorid** [7: Balkonien](2beton07.md) [8: Sichtbeton!](2beton08.md) [9: Betonbauschäden](2beton09.md) [10: Betonbrücken](2beton10.md) [11: Beton-Architekturphantasien](2beton11.md) [12: Materialdetails und Materialheimtücke](2beton12.md) [13: Stahlbeton und Krebsalarm](2beton13.md) [14: Stahlbeton-Merksätze](2beton14.md) [15: Einiges zum Zement](2beton15.md) [16: Zement - ein unreiner Baustoff](2beton16.md) 
+
 
 ---
 
-# 6. Betonsanieren und die Zementberatung
+## 6. Betonsanieren und die Zementberatung
 
 Schlimm, daß aus der sogenanten "Zementberatung" zu den verschiedenen werkstofflichen Varianten der Betonsanierung so gut wie keine klaren, praxisgestützten Aussagen zur technisch besten Methode zu haben sind. So jedenfalls nach meiner Recherche. Wie soll man nun die abgeplatzten Betonfehlstellen am wirtschaftlichsten sanieren - mit Spritzbeton, mit Zementmörtel, vielleicht chemiepampenveredelt? Was hält vergleichsweise am besten? Wie sieht es aus mit der Bildung sperrender Bindemittelhäutchen, für die die dispersionsvergüteten Reparaturmörtel leider nur unter Eingeweihten bekannt bzw. berüchtigt sind? Und was ist nun wirklich los mit dem Karbonatisierungsgeschehen unter craquelierten, gerissenen Kunstharz-CO2-Bremsen, die das eindringende Wasser eher zurückhalten als großzügig abtrocknen lassen?
 

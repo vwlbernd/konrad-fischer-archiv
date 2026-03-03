@@ -1,13 +1,20 @@
 ---
-title: "Aus der Internet-Fragestunde der Altbau und Denkmalpflege ..."
-description: "Altbaufragen von AZ: Gutachten, Schlechtachten, Sachverständige, Schwachverständige und Produktmarketing."
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Aus der Internet-Fragestunde: Gefälligkeitsgutachten & Schwachverständige"
+description: "Wie „unabhängige“ Sachverständige und das Produktmarketing der Industrie Hand in Hand gehen: Warum viele Gutachten nur dem Verkauf teurer Chemie dienen und nicht Ihrem Haus."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2frag09.htm"
+updated: "22.04.2008"
 ---
+
+[🠔 Zur Übersicht: Altbau FAQ](2frag.md)  
+# Aus der Internet-Fragestunde: Gefälligkeitsgutachten & Schwachverständige
+**Wie „unabhängige“ Sachverständige und das Produktmarketing der Industrie Hand in Hand gehen: Warum viele Gutachten nur dem Verkauf teurer Chemie dienen und nicht Ihrem Haus.**  
+_von Konrad Fischer • aktualisiert 22.04.2008_
 
 Konrad Fischer 
 
-# Aus der Internet-Fragestunde und Bauberatung
+## Aus der Internet-Fragestunde und Bauberatung
 
 **(aktualisiert 22.04.08)** 
 

@@ -1,36 +1,46 @@
 ---
-title: "Über Konrad Fischer"
-description: "Curriculum vitae / Biographie / Biografie (Lebenslauf) des Herausgebers und Autors mit Skizzen von Burgen und Schlössern."
-author: " "
+nav: "index.md"
+title: "Lebenslauf von Konrad Fischer"
+description: "Lebenslauf, Biographie von Konrad Fischer, dem Herausgeber und Webmeister des Online-Magazins „Altbau und Denkmalpflege Informationen“."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/1refernz.htm"
+updated: ""
 ---
 
-## Lebenslauf / Biographie / Curriculum vitae Konrad Fischer
+[🠔 Zur Übersicht: Startseite](index.md)  
+# Lebenslauf von Konrad Fischer
+**Lebenslauf und Biographie von Konrad Fischer, dem Herausgeber und Webmeister des Online-Magazins „Altbau und Denkmalpflege Informationen“.**  
+_von Konrad Fischer_
 
-Herausgeber und Webmeister des Online-Magazins [Altbau und Denkmalpflege Informationen](index.md) 
-[![Widmung: Bruder Hain - Mathias Claudius: Der Wandsbecker Bote](../medien/2HAINK.JPG)](2000.md#dedikation.) [![Interview Klimaschutz und Energiesparen Konrad Fischer](../medien/KFK.JPG)](http://www.youtube.com/watch?v=5vly1RKBdkM) ![Konrad Fischer beim Skizzieren](../medien/1konrad.jpg) 
-[Dedikation/Widmung](2000.md#dedikation.) [ Interview Klimaschutz](http://www.youtube.com/watch?v=5vly1RKBdkM) Beim Skizzieren 
+> [!abstract]+ Kapitelübersicht: Über Konrad Fischer  
+> 1. **Lebenslauf von Konrad Fischer**
+> 2. [Referenzen für Konrad Fischer](1mader.md)
+> 3. [Altbau/Denkmalpflege-Fortbildung aktuell: Seminare, Vorträge ...](12akt.md)
+> 4. [Referenz-Vorträge von Konrad Fischer](1sempub.md)
+> 5. [Fliesenbilder von Kindern - Die Geschenkidee](1fliesn.md)
 
-<center markdown>
 
-Was keiner wagt, das sollt ihr wagen, 
-Was keiner sagt, das sagt heraus, 
-Was keiner denkt, sollt ihr befragen, 
-Was keiner anfängt, das führt aus.
+<div class="grid cards" style="grid-template-columns: repeat(3, 1fr);" markdown>
 
-Wenn keiner ja sagt, sollt ihr's sagen, 
-Wenn keiner nein sagt, sagt doch nein, 
-Wenn alle zweifeln, wagt zu glauben, 
-Wenn alle mittun, steht allein!
+- [![Widmung: Bruder Hain - Mathias Claudius: Der Wandsbecker Bote](../medien/2HAINK.JPG)](2000.md#dedikation.)   
+  [Dedikation/Widmung](2000.md#dedikation.)
+- [![Interview Klimaschutz und Energiesparen Konrad Fischer](../medien/KFK.JPG)](http://www.youtube.com/watch?v=5vly1RKBdkM)  
+  [Interview Klimaschutz](http://www.youtube.com/watch?v=5vly1RKBdkM)
+- ![Konrad Fischer beim Skizzieren](../medien/1konrad.jpg)  
+  Beim Skizzieren
 
-Wo alle loben, habt Bedenken, 
-Wo alle spotten, spottet nicht, 
-Wo alle geizen, wagt zu schenken, 
-Wo alles dunkel ist, macht Licht! 
+</div>
 
-Walter Flex (6.7.1887 - 16.10.1917) 
-
-</center>
+> Was keiner wagt, das sollt ihr wagen, Was keiner sagt, das sagt heraus,  
+> Was keiner denkt, sollt ihr befragen, Was keiner anfängt, das führt aus.  
+> 
+> Wenn keiner ja sagt, sollt ihr's sagen, Wenn keiner nein sagt, sagt doch nein,  
+> Wenn alle zweifeln, wagt zu glauben, Wenn alle mittun, steht allein!
+> 
+> Wo alle loben, habt Bedenken, Wo alle spotten, spottet nicht,  
+> Wo alle geizen, wagt zu schenken, Wo alles dunkel ist, macht Licht! 
+> 
+> Walter Flex (6.7.1887 - 16.10.1917) 
 
 ---
 
@@ -63,7 +73,7 @@ Harburg 1998 (von dort stammt meine Oma väterlicherseits)
 <center markdown>
 
 Schwörbetze Kärwa 2008 mit der Schwürbitzer Blaskapelle: 
-[![Schwörbetze Kärwa 2008 mit der Schwürbitzer Blaskapelle - Alphornsolo](../medien/YOU61.JPG)](http://youtu.be/dnTcyX8ffto) . [![Schwörbetze Kärwa 2008 mit der Schwürbitzer Blaskapelle - Böhmischer Traum](../medien/YOU60.JPG)](http://youtu.be/32FJq94MPTI) 
+[![Schwörbetze Kärwa 2008 mit der Schwürbitzer Blaskapelle - Alphornsolo](../medien/YOU61.JPG)](https://youtu.be/dnTcyX8ffto) . [![Schwörbetze Kärwa 2008 mit der Schwürbitzer Blaskapelle - Böhmischer Traum](../medien/YOU60.JPG)](https://youtu.be/32FJq94MPTI) 
 
 </center>
 
@@ -243,7 +253,7 @@ Bild: [Tim Birkner](http://www.arpeggio.de)
 Oder hier, etwas anders verpackt, in meinem Musikvideo aus der Leipziger St. Thomas-Kirche: 
 Thomaskirche, Leipzig: Musik, Geschichte & Geheimnis + "Jauchzet, frohlocket" 
 aus J.S. Bachs Weihnachtsoratorium (Konrad Fischer im Cello) 
-[![Thomaskirche, Leipzig - Musik, Geschichte - Geheimnis + 'Jauchzet, frohlocket'](../medien/YOU59.JPG)](http://youtu.be/fET3JCock6Q) 
+[![Thomaskirche, Leipzig - Musik, Geschichte - Geheimnis + 'Jauchzet, frohlocket'](../medien/YOU59.JPG)](https://youtu.be/fET3JCock6Q) 
 
 Musikalische Aktivitäten der Familie Fischer auf Video.wmv: 
 [![Leopold Mozart Schlittenfahrt / Sleigh ride - Instrumentalcollegium Lichtenfels 19.12.2006](../medien/MOZART.JPG) Leopold Mozart: Schlittenfahrt](MOZART.WMV) Instrumental-Collegium Lichtenfels (m. Editha + Konrad Fischer), Ltg. Heinz Wilk, 19.12.2006 2MB [![Christoph Graupner: Boureeé+Dmitri Schostakowitsch: Marsch. Willi Fischer 24.06.2007](../medien/WILLI02.JPG) Graupner: Bourreé + Schostakowitsch: Marsch](BOURREE.WMV) m. Wilhelm Fischer, 24.06.2007 0,7MB 
@@ -291,9 +301,9 @@ Drei Volksmusik-Sätze / Tanzmusikstücke aus der Notenhandschrift des Josef Kal
 [Ode an die Freude (Ludwig van Beethoven) - 7MB](FREUDE.WMV) 
 
 Das siebenbürgische Bläserquintett (Dietmar Ehrlich: 1. Trompete und Leitung, Edith Fischer: 2. Trompete, Konrad Fischer: 3. Trompete, Willi Fischer: Tenorhorn, Hans Theil: Baßtuba) spielt auf zur Muttertagsfeier: 
-[![Das siebenbürgische Bläserquintett \(Dietmar Ehrlich: 1. Trompete, Edith Fischer: 2. Trompete, Konrad Fischer: 3. Trompete, Willi Fischer: Tenorhorn, Hans Theil: Baßtuba\) spielt auf zur Muttertagsfeier](../medien/YOU58.JPG)](http://youtu.be/l9jrlbZqBOA) 
+[![Das siebenbürgische Bläserquintett \(Dietmar Ehrlich: 1. Trompete, Edith Fischer: 2. Trompete, Konrad Fischer: 3. Trompete, Willi Fischer: Tenorhorn, Hans Theil: Baßtuba\) spielt auf zur Muttertagsfeier](../medien/YOU58.JPG)](https://youtu.be/l9jrlbZqBOA) 
 Grindelwald - Härrlich/Grässlich - Mein Alpenvideo bei Youtube: 
-[![Grindelwald - Härrlich/Grässlich - Mein Alpenvideo](../medien/YOU57.JPG)](http://youtu.be/pkDRMqZZVSY) 
+[![Grindelwald - Härrlich/Grässlich - Mein Alpenvideo](../medien/YOU57.JPG)](https://youtu.be/pkDRMqZZVSY) 
 
 [Arpeggio](http://www.arpeggio.de) - Tonstudio Tim Birkner. Mit lesenswerten Klassik-CD-Rezensionen und Bestellshop! 
 
@@ -390,7 +400,7 @@ Schloßkirche Cappenberg 1991
 <center markdown>
 
 Konrad Fischer: Fassaden energetisch richtig und kostensparend sanieren 1 
-[![Fassaden energetisch richtig sanieren](../medien/YOU04.JPG)](http://youtu.be/OpbEO8kV-PU) 
+[![Fassaden energetisch richtig sanieren](../medien/YOU04.JPG)](https://youtu.be/OpbEO8kV-PU) 
 [Teil 2](http://www.youtube.com/watch?v=Y1NSxAW15Cc) [Teil 3](http://www.youtube.com/watch?v=RAT7VzBo8k0) [Teil 4](http://www.youtube.com/watch?v=6TBII25iVQk) [Teil 5](http://www.youtube.com/watch?v=Kb0C4KiZvVA) 
 
 </center>
@@ -508,7 +518,7 @@ Links zu [Beratungsprojekten und anderen Referenzobjekten Altbausanierung und Ne
 <center markdown>
 
 [Reichenstein in der Eifel - Wir gründen ein Kloster](http://www.kloster-reichenstein.de) - Auszug aus der gregorianischen Complet der Benediktinermönche aus Bellaigue / Spendenaufruf (Video von Konrad Fischer) 
-[![Reichenstein in der Eifel - Wir gründen ein Kloster](../medien/YOU56.JPG)](http://youtu.be/f6dYKbW1VaA) 
+[![Reichenstein in der Eifel - Wir gründen ein Kloster](../medien/YOU56.JPG)](https://youtu.be/f6dYKbW1VaA) 
 
 </center>
 
@@ -582,3 +592,15 @@ Since 1979 free study travels to Denmark, France, Greece, Italy, Netherlands, Po
 2015 Shanghai, study travel combined with an invitation of the Tongji University 
 
 Hochstadt 16/01/25
+
+<style>
+  .grid.cards img {
+    height: 250px;    
+    width: 100%; 
+    object-fit: contain;
+  }
+  .grid.cards li:has(img) {
+    list-style: none;
+    text-align: center;
+  }
+</style>

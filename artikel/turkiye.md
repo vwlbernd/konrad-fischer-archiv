@@ -1,9 +1,16 @@
 ---
+nav: "index.md, 6prxratg.md"
 title: "Eski bina + tarihi anıt onarım, koruma, bakım, substans konservasyonu"
-description: "Eski bina ve tarihi eser sahiplerine deneyim, tamir ve onarım tavsiyeleri ve tarihi anıtların bakımı"
-author: " "
+description: "Hier finden Sie freie, unabhängige und kritische Informationen zur Sanierung alter Gebäude und zur Reparatur und Konservierung von Baudenkmälern."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/turkiye.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Asia & Middle East](asia.md)  
+# Eski bina + tarihi anıt onarım, koruma, bakım, substans konservasyonu
+**Hier finden Sie freie, unabhängige und kritische Informationen zur Sanierung alter Gebäude und zur Reparatur und Konservierung von Baudenkmälern.**  
+_von Konrad Fischer_
 
 Eskı evini onardınmı? Bütin onarım çalımaları bosa ciktı? ne olmak? belgili tanımlık yürekli iş -in yenilik, eski sağlığına kavuşturma ya da modernization başaramamak? tüm senin para ve umut etmek be kayıp? 
 

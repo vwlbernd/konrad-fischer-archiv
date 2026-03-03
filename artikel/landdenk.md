@@ -1,16 +1,23 @@
 ---
-title: "Skizzen von der Exkursion der Jahrestagung der Vereinigung der Landesdenkmalpfleger 99"
-description: "Konrad Fischers Skizzen von der Exkursion der Jahrestagung der Vereinigung der Landesdenkmalpfleger in der Bundesrepublik Deutschland 67. Tag für Denkmalpflege Bundeshauptstadt Bonn Beethovenhalle ..."
-author: " "
+nav: "index.md"
+title: "Architektur-Skizzen Architectural Sketches Croquis Dessin von Konrad Fischer auf der Exkursion der Sektion C - Bautechnik am 9.6.1999"
+description: "Eine spannende Exkursion zu Baudenkmälern und Denkmalprojekten im westlichen Umfeld von Bonn und Bad Neuenahr/Ahrweiler, bei der zwischen den Exkursionsorten und an diesen doch immer mal eine Minute Zeit für eine kleine Handskizze blieb."
+author: "Konrad Fischer"
+updated: "09.06.1999"
 original_url: "www.konrad-fischer-info.de/landdenk.htm"
 ---
+
+[🠔 Zur Übersicht: Burgen & Schlösser kaufen](8schloss.md)  
+# Architektur-Skizzen Architectural Sketches Croquis Dessin von Konrad Fischer auf der Exkursion der Sektion C - Bautechnik am 9.6.1999
+**Eine spannende Exkursion zu Baudenkmälern und Denkmalprojekten im westlichen Umfeld von Bonn und Bad Neuenahr/Ahrweiler, bei der zwischen den Exkursionsorten und an diesen doch immer mal eine Minute Zeit für eine kleine Handskizze blieb.**  
+_von Konrad Fischer • aktualisiert 09.06.1999_
 
 ## Jahrestagung der [Vereinigung der Landesdenkmalpfleger in der Bundesrepublik Deutschland](http://www.denkmalpflege-forum.de/) 
 67. Tag für Denkmalpflege, Bundeshauptstadt Bonn, Beethovenhalle, 7.-10. Juni 1999
 
 [Jahrestagungs-Vortrag Konrad Fischer zur Erhaltenden Instandsetzung (ergänzte Version)](11erhins.md)
 
-# Architektur-Skizzen Architectural Sketches Croquis Dessin von Konrad Fischer auf der Exkursion der Sektion C - Bautechnik am 9.6.1999
+
 
 Führung: Prof. Dr. Jörg Schulze, Dr. Monika Herzog, Dipl.-Ing. Octavia Zanger, Ltd. Restaurator Gerd Bauer Eine spannende Exkursion zu Baudenkmälern und Denkmalprojekten im westlichen Umfeld von Bonn und Bad Neuenahr/Ahrweiler, bei der zwischen den Exkursionsorten und an diesen doch immer mal eine Minute Zeit für eine kleine Handskizze blieb. Eine wunderbare Region mit umwerfenden Motiven und spannenden touristischen Highlights. Wer dort mal Kultur- und/oder Wanderurlaub verbringen will, sollte die hier gezeigten Motive mit in Erwägung ziehen, es lohnt sich. Doch jetzt zu den Motiven für meinen Zeichenstift: 
 

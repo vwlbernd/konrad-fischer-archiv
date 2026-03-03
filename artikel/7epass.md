@@ -1,68 +1,78 @@
 ---
-title: "Das malträtierte Haus"
-description: "Energiesparen - aber wie! Prof. Meier zum Schwindel mit Dämmstoffen, Energieausweis / Energiepass und Klimaschutz."
-author: " "
+title: "Das malträtierte Haus - Kontra falsche Wärmedämmung"
+description: "Energiesparen - aber wie! Der Schwindel mit Dämmstoffen, Energieausweis und Klimaschutz."
+author: "Prof. Dr.-Ing. habil. Claus Meier (Nürnberg)"
+updated: "November 2006"
 original_url: "www.konrad-fischer-info.de/7epass.htm"
 ---
 
-### Claus Meier
+[🠔 Zur Startseite](index.md) 
+# Das malträtierte Haus - Kontra falsche Wärmedämmung
+**Energiesparen - aber wie! Der Schwindel mit Dämmstoffen, Energieausweis und Klimaschutz.**  
+_von Prof. Dr.-Ing. habil. Claus Meier (Nürnberg)_  
+_erschienen in: "Deutsche Wohnungswirtschaft" (DWW), November 2006 S. 363, doch ewig aktuell!_  
 
-# Das malträtierte Haus 
+> [!abstract]+ Kapitelübersicht: Das malträtierte Haus  
+> * **[🏠 Startseite](index.md)** • **[🧱 Altbau Restaurieren](20bausto.md)** • **[📐 Planen im Altbau](11planme.md)** • **🏚️ Das malträtierte Haus** • **[🌍 Klima](7thuene1.md)**
+>
+> ---
+> 1. **Das malträtierte Haus - Kontra falsche Wärmedämmung**
+> 2. [Contra EnEV 2000](7waefe.md)
+> 3. [Wärme- und Feuchteschutz beim Altbau - Theorie und Wirklichkeit 1](7waefe02.md)
+> 4. [Dämmschichtdicke, Vollziegelwand, Natursteinfassade, Bruchsteinfassade - Prof. Meiers kontroverse Beiträge zum Energiesparen 10](7waefe10.md)
+> 5. [Wohnungsbestand und Wärmeschutz 1](7waefe12.md)
+> 6. [Rechtliche Randbedingungen des Gebäudewärmeschutzes 1](7waefe19.md)
+> 7. [Niedrigenergie- und Passivhaus im Kreuzfeuer 1](7waefe22.md)
+> 8. [Widersprüche im Wärmeschutz - Die allgegenwärtige k/U-Wert Euphorie 1](7waefe33.md)
+> 9. [DIN-Normen im Spiegel der Rechtsprechung und öffentlichen Kritik](2mbu.md)
 
-Kontra falsche Wärmedämmung und Energiespar-Betrug
-
-Weitere Info zum [Schwindel mit dem Energiepaß / Energieausweis](7wdvs02.md) 
+Weitere Info zum [Schwindel mit dem Energieausweis](7wdvs02.md) 
 (inkl. Fristenregelung und Ausnahmen) 
 
-# Das malträtierte Haus
-
-(erschienen in: "Deutsche Wohnungswirtschaft" (DWW), November 2006 S. 363, doch ewig aktuell!) 
-Von Prof. Dr.-Ing. habil. Claus Meier 
-Nürnberg 
-
-**Einleitung** 
+## Einleitung 
 
 Nach der EU-Energieeffizienzrichtlinie 2002/91/EG soll nun auch für den Gebäudebestand ein [Energieausweis](7wdvs02.md) zur Pflicht gemacht werden. Dabei wird nach der Gesamtenergieeffizienz der Gebäude gefragt, wobei die EU-Richtlinie unterschiedliche Energieausweise zuläßt. In der Begründung zur Richtlinie heißt es: "Nach dem vorliegenden Entwurf sollen Energieausweise auf der Grundlage sowohl des errechneten Energiebedarfs als auch des gemessenen Energieverbrauchs in allen Fällen zulässig sein". Selbst die Energieeinsparverordnung sieht im § 13, Absatz (5) die Möglichkeit eines “Energieverbrauchskennwertes vor. Sehr entscheidend ist dabei der Unterschied beider Ausweise: Der Bedarf wird vorher berechnet (Energiebedarfsausweis), der Verbrauch wird nachher gemessen (Energieverbrauchsausweis). Die Frage lautet nun: "Worauf kann man sich verlassen?" 
 
 Von der "dena" (Deutsche Energie-Agentur) wurde im Auftrag der Bundesregierung ein [bedarfsbasierter Energiepass](7wdvs02.md) entwickelt. Hier also wird das vorherige Rechnen favorisiert. Diese administrative Einseitigkeit stößt auf erhebliche Bedenken, zumal noch nirgends nachgewiesen werden konnte, dass die im Planungs-Vorfeld vorgeschlagenen Energieeinsparmaßnahmen, basierend eben auf Bedarfsberechnungen, tatsächlich zutreffen und darüber hinaus auch noch “energieeffizient“ seien – dies wird immer nur behauptet, erzählt und kolportiert. Konkrete Beispiele nämlich bezeugen unwiderlegbar das Gegenteil. Deshalb schlagen Kritiker wie der Autor Prof. Meier Alarm: 
 
-**Heizkostenvergleiche** 
+## Heizkostenvergleiche
 
 Ob nun für die Einhaltung der EU-Richtlinie Bedarfsrechungen oder Verbrauchsmessungen zu wählen sind, das kann allein schon aufgrund bereits vorliegender Veröffentlichungen entschieden werden. Nur drei dieser Belege werden genannt: 
 
-(Im Rahmen eines Auftrages der Stadt Wedel im Jahre 1988 wurden neben den errechneten Energiebedarfswerten auch die Energieverbrauchsdaten der Stadtwerke statistisch ausgewertet. Dabei wurden Trends für die in Massivbauweise erstellten Gebäude vor 1945 sowie für Gebäude von 1977 bis 1988, die damit in die Periode der Wärmeschutzverordnungen fielen, in Form von Regressionsgeraden festgestellt. 
+Im Rahmen eines Auftrages der Stadt Wedel im Jahre 1988 wurden neben den errechneten Energiebedarfswerten auch die Energieverbrauchsdaten der Stadtwerke statistisch ausgewertet. Dabei wurden Trends für die in Massivbauweise erstellten Gebäude vor 1945 sowie für Gebäude von 1977 bis 1988, die damit in die Periode der Wärmeschutzverordnungen fielen, in Form von Regressionsgeraden festgestellt. 
 
 <center markdown>
 
-Konrad Fischer: Fassaden energetisch richtig und kostensparend sanieren 1 
+Konrad Fischer: Fassaden energetisch richtig und kostensparend sanieren 1  
 
+[![Hier klicken, um das Video zu sehen](../medien/OpbEO8kV-PU.jpg)](https://www.youtube.com/watch?v=OpbEO8kV-PU)  
 [Teil 2](http://www.youtube.com/watch?v=Y1NSxAW15Cc) [Teil 3](http://www.youtube.com/watch?v=RAT7VzBo8k0) [Teil 4](http://www.youtube.com/watch?v=6TBII25iVQk) [Teil 5](http://www.youtube.com/watch?v=Kb0C4KiZvVA) 
 
 </center>
 
- Die Ergebnisse sind ernüchternd. Bei den vor 1945 errichteten Massivbauten wird ein höherer Bedarf berechnet als der tatsächlich anfallende Verbrauch. Bei den von 1977 bis 1988 errichteten Gebäuden, die somit einer Wärmeschutzverordnung und damit weitgehend einer rechnerisch motivierten “Dämmerei“ unterliegen, wird jedoch ein niedrigerer Bedarf berechnet, als der tatsächlich anfallende Verbrauch. Es wird bei den mit Dämmstoff versehenden Bauten in Realität also mehr verbraucht, als die Rechnung vorgibt. Da einmal mehr (Massivbau) und einmal weniger (mit Dämmschichten versehen) “berechnet“ wurde, liegt hier beim Rechnen ein methodischer Fehler vor. 
+Die Ergebnisse sind ernüchternd. Bei den vor 1945 errichteten Massivbauten wird ein höherer Bedarf berechnet als der tatsächlich anfallende Verbrauch. Bei den von 1977 bis 1988 errichteten Gebäuden, die somit einer Wärmeschutzverordnung und damit weitgehend einer rechnerisch motivierten “Dämmerei“ unterliegen, wird jedoch ein niedrigerer Bedarf berechnet, als der tatsächlich anfallende Verbrauch. Es wird bei den mit Dämmstoff versehenden Bauten in Realität also mehr verbraucht, als die Rechnung vorgibt. Da einmal mehr (Massivbau) und einmal weniger (mit Dämmschichten versehen) “berechnet“ wurde, liegt hier beim Rechnen ein methodischer Fehler vor. 
 
-(Ein [sehr interessantes Ergebnis zur Energieverbrauchsanalyse steuert auch Prof. Fehrenberg aus Hildesheim bei](7fehrtab.md). Es wurden die Heizkosten dreier gleichartiger und großer Wohngebäude ab dem Jahre 1976 miteinander verglichen, die Heizkosten verliefen fast völlig synchron. Dann wurde im Jahre 1988 ein Haus mit einem WDV-System versehen (4 cm Polystyrol + 1 cm Verblender). Was war der energetische Erfolg? Die Heizkosten verliefen weiterhin synchron, damit aber war die energetische Aufrüstung mit Dämmstoff zwecklos. Die ausgesperrte Solarenergie machte alles zunichte. Vor allem aber wurden durch diese “energetische Sanierung“ die Feuchteverhältnisse der Außenhülle verschlechtert. Die Dämmstoffe sammeln infolge dampfdichterer Außenputze Tauwasser an und durchfeuchten die Konstruktion – Feuchthäuser sind die Folge. 
+Ein [sehr interessantes Ergebnis zur Energieverbrauchsanalyse steuert auch Prof. Fehrenberg aus Hildesheim bei](7fehrtab.md). Es wurden die Heizkosten dreier gleichartiger und großer Wohngebäude ab dem Jahre 1976 miteinander verglichen, die Heizkosten verliefen fast völlig synchron. Dann wurde im Jahre 1988 ein Haus mit einem WDV-System versehen (4 cm Polystyrol + 1 cm Verblender). Was war der energetische Erfolg? Die Heizkosten verliefen weiterhin synchron, damit aber war die energetische Aufrüstung mit Dämmstoff zwecklos. Die ausgesperrte Solarenergie machte alles zunichte. Vor allem aber wurden durch diese “energetische Sanierung“ die Feuchteverhältnisse der Außenhülle verschlechtert. Die Dämmstoffe sammeln infolge dampfdichterer Außenputze Tauwasser an und durchfeuchten die Konstruktion – Feuchthäuser sind die Folge. 
 
-**Welche Aussagekraft hat nun ein Energiebedarfswert?** 
+### Welche Aussagekraft hat nun ein Energiebedarfswert? 
 
 Ein bundesweiter zeitnaher Feldversuch, bei dem die EU-Richtlinie zur Berechnung der Energiebilanz getestet wurde, erbrachte beim Nürnberger Rathaus für die Bedarfsanalyse, aufgestellt von einem renommierten Bauphysiker, ein überraschendes Ergebnis. "Nach der neuen EU-Richtlinie liegt der Heizenergiebedarf mit 252 Kilowattstunden pro Quadratmeter und Jahr rein rechnerisch doppelt so hoch wie der tatsächlich bisherige Verbrauchswert" wird gemeldet und weiter heißt es dann: "Das zeige die derzeitigen Schwächen der neuen Rechenmethodik". Zum Schluß wird zu diesem katastrophalen "Rechen-Ergebnis" als Entschuldigung beschwichtigend noch angemerkt: "Der Energiepass sei vielmehr eine Bewußtseinssache und soll die gesamte Öffentlichkeit zum Energiesparen animieren". Deutlicher kann das ganze Fiasko einer fehlerhaften Rechnerei nicht dokumentiert werden. 
 
 Konsequenz: Allein diese drei Beispiele zeigen: Hände weg von einer rechnerisch ermittelten Energiebedarfszahl. Es handelt sich eben nicht nur, wie erläutert, um derzeitige "Schwächen", sondern ausnahmslos um einen methodischen Rechensalat, der einem Energiebedarfsausweis zugrunde liegt. Es wird schlichtweg falsch gerechnet. Nur allein die Verbrauchszahlen ergeben ein realistisches Bild. Deshalb darf bei einer freien Wahlmöglichkeit nur der Energieverbrauchsausweis eingeführt werden. Hier sind die Gründe: 
 
-**Wärmeschutz** 
+## Wärmeschutz 
 
 Das derzeitige Bauen wird durch die praktizierende Bauphysik, die sich fast ausschließlich auf Rechnungen stützt, zu stark beeinflußt. Laut herkömmlicher bauphysikalischer Meinung ist das Haus, die dritte Haut des Menschen, meist nicht genug gegen Kälte gedämmt und auch nicht luftdicht genug. Deshalb propagieren "Experten" der Szene einen besseren Wärmeschutz und die Dichtheit der Gebäude, damit Wärme weniger entweichen könne. Ein klettenhaft verbundenes Netzwerk von Bauphysikern, Energieberatern und die "dena", empfiehlt deshalb, allein gestützt auf Berechnungen, unter anderem stets Wärmedämmungen und dichte Fenster - und die Regierung unterstützt dies mit entsprechenden Verordnungen. 
 
-**Instationäre Betrachtungsweise** 
+### Instationäre Betrachtungsweise
 
 Schon seit jeher wird unser Klima von der Sonne und der Solarstrahlung bestimmt. Da der 24stündige Tag/Nacht-Rhythmus stets vorliegt, gibt es bei speicherfähigem Material, also bei Massivbauten und damit auch beim Gebäudebestand, Phasen der Solarenergieaufladung durch Speicherung am Tage und Phasen der Energieentladung bei Nacht. Dieses Wechselspiel von Energieflüssen wird als instationär bezeichnet und führt infolge der Nutzung kostenloser Solarenergie zur Entlastung der Heizanlage. Wärmeverluste werden damit deutlich reduziert. Die offizielle Bauphysik allerdings ignoriert den Einfluß der Solarenergie bei massiven Wänden und denkt somit stationär. 
 
-**Stationäre Betrachtungsweise** 
+### Stationäre Betrachtungsweise
 
 In Fachbüchern wird hier vom Beharrungszustand gesprochen. Er besagt, dass sich bei konstanten Lufttemperaturen innen und außen die geradlinige Temperaturverteilung im Bauteil, ein Charakteristikum für den Beharrungszustand, eingependelt und stabilisiert hat. Bei massiven Bauteilen kann dies viele Tage oder sogar Wochen dauern. Da der 24stündige Tag/Nacht-Rhythmus zu ständig wechselnden Luft- und auch Oberflächentemperaturen führt, verhindert allein dies das Einpendeln in den Beharrungszustand. Die Temperaturverhältnisse im Bauteil sind somit nie in Ruhe, so dass ein Beharrungszustand in Realität nie eintreten kann. Das aber bedeutet: 
 
-**Der U-Wert ist unbrauchbar** 
+### Der U-Wert ist unbrauchbar
 
 Alle Energiebedarfsberechnungen basieren auf dem Beharrungszustand; das kann in jedem Fachbuch und auch in der DIN nachgelesen werden. Das Maß dieser Rechnerei ist dabei ausschließlich der U-Wert. Somit ist dieser für die Berechnung von realen Wärmeverlusten nicht brauchbar. G. Hauser, ein glühender Vertreter des Beharrungszustandes, bestätigt dies sogar und beschreibt die Wirkungsweise des U-Wertes wie folgt: 
 
@@ -79,7 +89,7 @@ Diese Aussagen sind eindeutig. Argumentative Versuche, den U-Wert auch für inst
 
 Die überproportional hohen Energieverluste gegenüber den "Bedarfsberechnungen" mittels U-Wert werden nun in ablenkender Weise auch noch den "Wärmebrücken" angelastet. Dies ist wiederum der Versuch, die grundsätzliche Fehlerhaftigkeit der Rechnung durch herbeigezauberte Fremdeinflüsse zu erklären. Insofern werden fälschlicherweise die Wärmebrückeneffekte völlig überbewertet; eine "Wärmebrückenhysterie" ist ausgebrochen. 
 
-**Viel Dämmstoff ist unnütz** 
+### Viel Dämmstoff ist unnütz
 
 Wird der Beharrungszustand nun trotzdem zur Grundlage energetischer Überlegungen gemacht und die nicht vorliegende Gültigkeit des U-Wertes lediglich nur angenommen, z. B. bei den weitgehend speicherlosen Leichtbauten, so ist folgendes festzustellen: 
 
@@ -101,7 +111,7 @@ Infolge dieser unausrottbaren U-Wert-Ideologie wird beim "verordneten" Wärmesch
 
 Deshalb sind Energiebedarfsberechnungen mit dem U-Wert Scheinrechnungen und dienen nur der Vermarktung von Dämmstoff, der jedoch für eine zu erzielende Behaglichkeit von Gebäuden ungeeignet ist. 
 
-**Lichtenfelser Experiment** 
+### Lichtenfelser Experiment
 
 Die Hilflosigkeit von Dämmstoff bei Temperaturveränderungen, die ja ständig auftreten, zeigt sehr eindrucksvoll das [Lichtenfelser Experiment](2139bau.md). Hierbei wurden Temperaturveränderungen verschiedener Baustoffe ermittelt, wobei die Einstrahlung einer 150 W Lampe nach 10 Minuten auf der Rückseite einer 4 cm Schicht zu sehr unterschiedlichen Temperaturen führte: 
 
@@ -115,7 +125,7 @@ Vollziegel 20,9°C 23,4°C
 
 Diese Ergebnisse lösten Überraschung und Erstaunen, aber auch Protest aus, denn immerhin wird der Fachwelt seit über 30 Jahren erzählt, die Dämmung (sprich U-Wert) sei der entscheidende Part im Wärmeschutz von Gebäuden. Der Tabelle jedoch ist zu entnehmen, dass bei den "Dämmstoffen" die Wärme im Bauteil sehr schnell hindurcheilt und auf der Rückseite zu hohen Oberflächentemperaturen von knapp 36 und 60°C führt. Dies aber ist eine Folge fehlenden Speichervermögens. Immerhin sagt Cords-Parchim in seinem Buch "Technische Bauhygiene": "Für alle Räume, die unter Sonneneinstrahlung leiden können, sollte ein gewisser Wärmeinhalt der Wände sichergestellt sein". Hohe Wärmeinhalte bieten aber nur schwere, massive Baustoffe. 
 
-**Temperaturstabilität** 
+### Temperaturstabilität
 
 Da infolge der ständigen Temperaturveränderungen im Tagesrhythmus Temperaturstabilität gefragt ist, kann auf die Speicherfähigkeit (und damit auf die Schwere des Baustoffes) nicht verzichtet werden. Dämmstoff ist hierfür unbrauchbar, da das notwendige Speichervermögen fehlt. 
 
@@ -125,7 +135,7 @@ Da "Niedrigenergiehäuser" und "Passivhäuser" weitgehend aus "Dämmstoff" beste
 
 Um wohnbehagliche Räume zu schaffen, darf auf eine schwere, massive, also speicherfähige Konstruktion nicht verzichtet werden. Dies bezieht sich auf Wände, aber auch auf Dächer; hier muss dann statt Dämmstoff Massivholz verwendet werden. 
 
-**Thermografie** 
+### Thermografie
 
 Stets wird auch versucht, die vorliegenden bautechnisch sehr fragwürdigen Dämm-Tendenzen durch bunte Bilder der [Thermografie](7wdvs06.md) zu untermauern. Bei diesem im Moment sehr beliebten Messverfahren zeigen Infrarotbilder die Temperaturen der Außenfronten eines Hauses. In den roten, gelben und weißen Bereichen sind die Temperaturen am höchsten und angeblich verliert das Haus hier am meisten Wärme. Stimmt das denn? 
 
@@ -134,7 +144,7 @@ Die Infrarot-Kamera misst lediglich Oberflächentemperaturen. Einer Temperatur k
 Eine hohe Oberflächentemperatur wird damit schlichtweg falsch gedeutet, diese physikalische Fehlinterpretaion der Solarstrahlung führt dann aber auch zu fehlerhaften Schlußfolgerungen. Unsinnige "Therapievorschläge" sind dann leider die Folge – es heißt dann lapidar: "Um den Wärmedurchfluß zu mindern, muß wegen "schlechter" Dämmung die Wand gedämmt werden". Die "schlechte Dämmung" jedoch wird dann ausschließlich mit dem "schlechten" U-Wert einer massiven Wand begründet. Die Speicherfähigkeit der Konstruktion wird dabei jedoch strikt negiert und ausgeklammert. Dies ist verantwortungslos, denn es führt zu den im Energiebedarfsausweis berechneten fehlerhaften Energiebedarfszahlen. Es ist schlichtweg absurd und kriminell, was hier abläuft. 
 Den sehr eindrucksvollen, farbigen Thermografiebildern muss man mit Vorsicht begegnen; meist wird damit nur versucht, eine unsinnige "Dämmverbesserung" der Fassade zu begründen und durchzusetzen – es locken eben halt die großen Aufträge. 
 
-**Feuchteschutz** 
+## Feuchteschutz
 
 [Algen- und Schimmelhäuser](7schim.md) gehören bereits zum Alltag. Was sind die Ursachen? 
 
@@ -153,7 +163,7 @@ Ein guter Nährboden (Zucker, Eiweiß, Lignin) und ein saures Milieu mit pH-Wert
 
 Die dominierende Ursache für Schimmelpilz ist neben fragwürdigen und problembehafteten Dämmkonstruktionen die zu hohe relative Feuchte im Innenraum. Wenn es sich also um eine Konvektionsheizung handelt, dann muss dafür gesorgt werden, dass diese hohe Feuchte erst garnicht entstehen kann. Dies geschieht durch Heizen und Lüften. 
 
-**Lüftungsgewohnheiten** 
+### Lüftungsgewohnheiten
 
 Ursprünglich geschah dies meist durch die [Kippstellung des Fensters](23bausto.md). Diese Art des Lüftens muss jedoch verworfen werden, weil damit der aufsteigende warme Luftstrom beim Heizkörper direkt ins Freie geleitet wird. Energieverschwendung ist die Folge. 
 
@@ -171,11 +181,11 @@ Stets werden von “Energieberatern“ und neuerdings auch von "zertifizierten S
 
 Es muß deshalb mit Nachdruck auf die schadenträchtigen Nachteile einer "energetischen Sanierung" mit Wärmedämmverbundsystemen und neuen Fenstern hingewiesen werden. 
 
-**Wirtschaftlichkeit** 
+## Wirtschaftlichkeit
 
 Das im Energieeinsparungsgesetz (EnEG § 5) und der Energieeinsparungsverordnung (EnEV § 25) enthaltene Wirtschaftlichkeitsgebot wird durch das geforderte Anforderungsniveau permanent mißachtet. Selbst die mit dem U-Wert zu groß berechneten Energieeinsparungen (richtige Zahlen würden die wirtschaftliche Situation noch verschlimmern) sind viel zu gering, um eine Amortisation der Investitionskosten sicherzustellen - man investiert für eine unwirtschaftliche Maßnahme, halt für die Katz. Die nach der EnEV durchgeführten Energieeinsparungsmaßnahmen sind deshalb auch aus wirtschaftlicher Sicht abzulehnen. Geforderte Superdämmungen mit kleinen U-Werten sind allein schon wegen der Hyperbeltragik automatisch unwirtschaftlich - und damit sogar gesetzwidrig. "Dämmstoff-Maximierung" bedeutet deshalb Täuschung der Kunden; dies aber geschieht stetig und systematisch. 
 
-**EnEV-Befreiung** 
+### EnEV-Befreiung
 
 Der in der EnEV enthaltene § 25 "Befreiungen" [früher 17] weist hier den Weg aus der wirtschaftlichen Sackgasse. Dieser lautet: 
 
@@ -183,7 +193,7 @@ Der in der EnEV enthaltene § 25 "Befreiungen" [früher 17] weist hier den Weg a
 
 Dieser [Paragraph ermöglicht den Einstieg zum Ausstieg aus der Energieeinsparverordnung](7temp24.md), denn die in der EnEV geforderten Maßnahmen sind durchweg unwirtschaftlich. Der §17 "Befreiungen" wird deshalb zur generellen Anwendung empfohlen. 
 
-**Bayerische Regelung** 
+### Bayerische Regelung
 
 In Bayern gibt es darüber hinaus noch eine "Zuständigkeits- und Durchführungsverordnung EnEV" (ZVEnEV, ab 2017 AVEn mit neuen, nahezu gleichlautenden §§), die im § 9 die Zuständigkeit und Durchführung des § 25 (17 alt) EnEV (Befreiungen) regelt. Dieser § 9 in der ZVEnEV lautet: 
 
@@ -205,11 +215,11 @@ im Bauwesen tätige Ingenieure nach Art. 4 Abs. 2 (BayIKaBauG) mit mindestens dr
 
 Die Eintragung in die Liste der Kammern muss beantragt werden. Diese [Prozedur zur Vermeidung von bautechnischem Unfug](7temp24.md) sollte auch von den anderen Bundesländern übernommen werden. Bauwilligen, die sich dem Dämm-Diktat der EnEV entziehen möchten, könnte so definitiv geholfen werden. 
 
-**Fragwürdige Energieeinsparverordnung** 
+## Fragwürdige Energieeinsparverordnung
 
 Bei den immensen inhaltlichen und methodischen Fehlern in der "angewandten Bauphysik" kann dann natürlich auch die Energieeinsparverordnung (EnEV) nicht stimmen. Unwirtschaftlichkeit und bautechnische Fehlerhaftigkeit werden somit zum Standard neuzeitlichen Bauens. Widersprüchlicher und absurder kann die Bausituation nicht sein. 
 
-**Verheerende Streuungen** 
+### Verheerende Streuungen
 
 In Kenntnis der vielen bautechnischen Mißstände muß dann auch die Aussagekraft der EnEV gesehen und bewertet werden – und die ist miserabel. Die Ungenauigkeit in den Energiebedarfsberechnungen wird sogar durch eine DIN-Norm bestätigt. Die DIN EN 832 "Berechnung des Heizenergiebedarfs" gilt für die EnEV als rechnerische Grundlage. Das vorgeschriebene Nachweisverfahren wird im Anhang L an einem Beispiel erläutert, das Ergebnis für die Heizperiode lautet: 
 
@@ -226,7 +236,7 @@ und das ist immerhin das 2,53 fache. Eine derartige Streuung entbehrt jeder soli
 
 Die Ergebnisse einer "Energiebedarfsrechnung" sind deshalb als äußerst fehlerhaft einzustufen, sie sind eine Fata Morgana. Dies wird unausweichlich offenkundig, wenn später der Energieverbrauch vorliegt. 
 
-**Absurde Rechnerei** 
+### Absurde Rechnerei
 
 Wer glaubt, mit der EnEV würden annehmbare Ergebnisse berechnet werden können, der irrt, denn diese immensen Streuungen sind hausgemacht. Immerhin steht auf dem Formular für die Energiebedarfsberechnung: "Die angegebenen Werte des Jahres-Primärenergiebedarfs und des Endenergiebedarfs sind vornehmlich für die überschlägig vergleichende Beurteilung von Gebäuden und Gebäudeentwürfen vorgesehen. Sie erlauben nur bedingt Rückschlüsse auf den tatsächlichen Energieverbrauch, weil die Berechnung dieser Werte auch normierte Randbedingungen etwa hinsichtlich des Klimas, der Heizdauer, der Innentemperaturen, des Luftwechsels, der solaren und internen Wärmegewinne und des Warmwasserbedarfs zugrunde liegen". 
 
@@ -242,7 +252,7 @@ Die Kritik an der EnEV ist berechtigt. Verantwortungsloser kann sich Ingenieursd
 
 Wenn die Möglichkeit zur Befreiung von der EnEV nach § 25 (17 alt) genutzt wird, sollte bei zu erwartendem Widerspruch immer darauf bestanden werden, dass für die vorgebrachten Gegenargumente und offerierten Aussagen Garantie und Haftung übernommen werden. Es ist dann sehr schnell zu erkennen, dass man davor – aus verständlichen Gründen – zurückschreckt und dieses Ansinnen zurückweisen wird. Damit aber trennt sich dann beim Bauen sehr schnell die Spreu vom Weizen. Die Scharlatane entlarven sich selbst, wenn sie für ihre Aussagen Verantwortung übernehmen sollen und dafür garantieren und haften müssen. 
 
-**Fehlerhafte DIN-Vorschriften** 
+### Fehlerhafte DIN-Vorschriften
 
 Die Vorstellungen vieler Fachleute über DIN müssen korrigiert werden. All die bauphysikalisch-technischen Widersprüche und Fehler beim Bauen sind nun auch in DIN-Vorschriften zu finden. Fehlerhaftes Bauen wird damit durch DIN legitimiert. Dies ist nicht verwunderlich, denn DIN ist ein privatrechtlicher Verein und ein Instrument der Wirtschaft. DIN sagt selbst: 
 
@@ -279,7 +289,7 @@ DIN-Normen werden allerdings rechtsverbindlich, wenn sie vertraglich vereinbart 
 Was passiert, wenn nachweislich eine fehlerhafte und falsche Norm – und die gibt es wirklich zuhauf - unfreiwillig zum Vertragsbestandteil wird, wie dies mit jedem Leistungsverzeichnis geschieht? Juristisch gesehen handelt es sich hier dann um eine völlig verfahrene Situation. Baut man richtig, wird gegen den Vertrag verstoßen; beachtet man jedoch den Vertrag, dann wird falsch gebaut. Damit ergibt sich ein bautechnisches Chaos und ein Eldorado für juristische Streitereien. 
 Konsequenz: Wer sich also in bautechnischen Fragen auf DIN stützt, kann böse Überraschungen erleben - es sei denn, zur Rechtfertigung von gemachten bautechnischen Fehlern beruft man sich vehement auf DIN, um dem Schadenersatz nach BGB eventuell entkommen zu können; hierfür finden sich DIN-gläubige"Gutachter" und "Sachverständige" zur Genüge. 
 
-**Nur der Verbauch zählt** 
+### Nur der Verbauch zählt
 
 Dass nur der Verbrauch und nicht irgend eine zusammengewürfelte Zahl maßgebend ist, wird auch vom Bundesgerichtshof in Karlsruhe bestätigt. Im Az. ZR VII 212/05 wird klargestellt, dass Kosten für die zentrale Beheizung und die Warmwasserversorgung grundsätzlich verbrauchsabhängig abgerechnet werden müssen. 
 
@@ -287,7 +297,7 @@ Wird nun der Energieverbrauchsausweis, aus welchen Gründen auch immer, verhinde
 
 Es wird eben alles getan, um das spätere Fiasko einer durch einen Energiebedarfsausweis bedingten blamablen Fehlprognose erklären zu können. Schuld daran sind dann immer "die anderen", wie z. B. die Nutzer, die ja nicht in der Lage seien, die genialen Vorstellungen und Empfehlungen einer "Energiespar-Elite" umzusetzen. Dabei handelt es sich hierbei doch wahrlich nur um ausgesprochene Stümperei! Das böse Erwachen kommt spätestens bei der Heizkostenabrechnung. Deshalb kann, weil nur Verbrauchsmessungen realistische Zahlen hergeben, wenn überhaupt, nur der Energieverbrauchsausweis eingeführt werden. 
 
-**Schlußbemerkung** 
+## Schlußbemerkung
 
 Die fehlerhaften bautechnischen Entwicklungen im Sinne der Industrie-Lobbyisten und Gewinnmaximierer können nur durch die Einführung des Energiebedarfsausweises forciert und durchgesetzt werden. Damit wird dann den vorgetragenen Wünschen der Bauindustrie entsprochen, die sich mit diesen fragwürdigen Aktionen volle Auftragsbücher verspricht. 
 
@@ -301,7 +311,7 @@ Aufgrund des bisher Gesagten wird, um sich realistischen Verhältnissen wieder z
 
 Es muß ein gemeinsamer Nenner gefunden werden, der die Basis für sachbezogene bautechnische Empfehlungen abgeben kann. Naturgesetze, die Mathematik und die Logik sind deshalb unverzichtbare Werkzeuge, um hier zügig voranzukommen. Die Zeit ist reif. Wenn es gelingt, kursierende Aussagen zu widerlegen, so muß dieses Vorgehen im Interesse einer notwendigen Wahrheitsfindung akzeptiert werden. Alles andere führt am Thema vorbei. 
 
-**Literatur zum Thema:** 
+## Literatur zum Thema:
 
 Berner, U.; Streif H.: "Klimafakten – Der Rückblick, ein Schlüssel für die Zukunft". Hrsg. von: Bundesanstalt für Geowissenschaften und Rohstoffe Hannover; Institut für Geowissenschaftliche Gemeinschaftsaufgaben Hannover; Niedersächsische Landesamt für Bodenforschung Hannover. E. Schweizerbart´sche Verlagsbuchhandlung Stuttgart, 2000. 
 Cords-Parchim, W.: "Technische Bauhygiene". Teubner Verlag Leipzig, 1953. 
@@ -317,27 +327,21 @@ Meier, C.: "Richtig bauen – Bauphysik im Zwielicht – Probleme und Lösungen"
 Postman, N.: "Die zweite Aufklärung". 1999, Berlin Verlag 
 Steinbuch, K.: "Maßlos informiert. Die Enteignung unseres Denkens". Goldmann Sachbuch 11248, 11/1979. 
 
-**Der Autor** 
+## Der Autor
 
 Prof. Dr.-Ing. habil. Claus Meier 
 Jahrgang 1932, Architekt SRL, Studium TU Berlin. Tätigkeit im Industriebau. Assistent am Institut für Städtebau TU Berlin (Promotion, Habilitation), Lehrtätigkeit an der TU Berlin bis 1997. Leiter des Hochbauamtes Nürnberg, Wissenschaftlicher Direktor am Baureferat Nürnberg bis 1997. Mitglied des Beirates für Denkmalerhaltung (BFD) der Deutschen Burgenvereinigung (DBV). Mitglied des Arbeitskreises Gesundes Haus (AGH). 
 Methodische Grundlagenarbeiten auf den Gebieten Wärmeschutz, Feuchteschutz, Schallschutz, Ökonomie und Ökologie. Autor von Fachbüchern und umfangreichen Fachveröffentlichungen. Bundesweite Aktivitäten zur bauphysikalischen Versachlichung des Bauens. 
 
-**Prof. Meiers weitere kontroversen Beiträge zum Energiesparen:** 
+---
 
-[Prof. Meier: Contra EnEV](7waefe.md#contra enev 2000) 
-[Prof. Meier: Wärme- und Feuchteschutz beim Altbau - Theorie und Wirklichkeit 1](7waefe02.md) [2](7waefe03.md) [3](7waefe04.md) [4](7waefe05.md) [5](7waefe06.md) [6](7waefe07.md) [7](7waefe08.md) [ 8](7waefe09.md) 
-[Prof. Meier: Verbundsysteme für die Fassade-kritisch betrachtet 1](7waefe10.md) [2](7waefe11.md) 
-[Prof. Meier: Wohnungsbaubestand und Wärmeschutz 1](7waefe12.md) [2](7waefe13.md) [3](7waefe14.md) [4](7waefe15.md) [5](7waefe16.md) [6](7waefe17.md) [7](7waefe18.md) 
-[Prof. Meier: Rechtliche Randbedingungen des Gebäudewärmeschutzes 1](7waefe19.md) [2](7waefe20.md) [3](7waefe21.md) 
-[Prof. Meier: Niedrigenergie- und Passivhäuser im Kreuzfeuer/Contra Passivhaus 1](7waefe22.md) [2](7waefe23.md) [3](7waefe24.md) [4](7waefe25.md) [5](7waefe26.md) [6](7waefe27.md) [7](7waefe28.md) [8](7waefe29.md) [9](7waefe30.md) [10](7waefe31.md) [11](7waefe32.md) 
-[Prof. Meier: Widersprüche im Wärmeschutz - Die allgegenwärtige k/U-Wert Euphorie 1](7waefe33.md) [2](7waefe34.md) 
+Weiterführend: [Der organisierte Schwindel mit dem Energieausweis](7wdvs02.md) 
 
-Weiterführend: [Der organisierte Schwindel mit dem Energiepaß / Energieausweis](7wdvs02.md) 
+---
 
-Nachträge des Herausgebers: 
+## Nachträge des Herausgebers: 
 
-1. Vorsicht Rechtssprechung! 
+### 1. Vorsicht Rechtssprechung! 
 
 Wie sich nun der Energiepaß zum Nachteil des Mieters auswirkt, zeigen zwei Fälle aus der jüngeren Rechtssprechung: 
 
@@ -353,7 +357,7 @@ Das Gericht sieht es als allgemeinkundig an, dass bis 2007 nur ein geringer Teil
 
 Und weil nun u.a. der doofe Verieter im Unterschied zu der vom Fraunhofer-Institut bestätigten Masse der klugen Hausbesitzer sein Geld mit energetischer Sanierung verjuckt hat, und irgend ein Energieberater / Wärmepassausteller / Sachverständiger [rein fiktive und in der Praxis allermeist nicht vorhandene Einsparungen](7fehrtab.md) gegenüber dem möglicherweise genau für solche gräßlichen Schwindeleien erfundenen "Energiebedarf" gem. "Energiebedarfsberechnung" behauptet, verliert der mit WDVS und Mietkostensteigerung schon zweimal beschissene Mieter zum dritten auch den Prozeß. Wegen nur angeblicher, aber gerichtlich bestätigter doller "Wohnwertverbesserung". Heilix Blechla! 
 
-2. Das EEG 
+### 2. Das EEG 
 
 Ein besonders heimtückischer Streich zur Maximierung der Einkünfte aus der Dämmstoffproduktion ist dann die Einführung des Erneuerbare Energien Wärme Gesetzes, kurz EEWärmeG, zum 1.1.09. Da die Erfüllung der damit eingeführten Quoten zur Zwangsbeteiligung angeblich erneuerbarer Energien an der Wärmeerzeugung in neuen Gebäuden (im gräßlich ökodurchseuchten Land Baden-Württemberg auch in Altbauten) sich kaum ein normaler Mensch leisten kann - wer außer Opfern der Ökoprofitpropaganda baut schon gerne zwei Heizsysteme in die Bude, wenn doch eines genügt? - haben sich die Gesetzeserlasser bzw. deren Hintermänner ein schönes Mausloch ausgedacht: Mehr Dämmen!: 
 

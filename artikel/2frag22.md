@@ -1,13 +1,20 @@
 ---
-title: "Aus der Internet-Fragestunde der Altbau und Denkmalpflege ..."
-description: "Altbaufragen von AZ: Mit was sollen wir Wände bauen und müssen Massivwände zusätzlich gedämmt werden?"
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Aus der Internet-Fragestunde: Massivbau vs. Dämmwahn"
+description: "Die Wahrheit über schwere Wände und den Wärmeschutz: Warum Massivbauten keine Zusatzdämmung brauchen und wie die Industrie den Ziegel durch bauphysikalisch fragwürdige Systeme ersetzt."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2frag22.htm"
+updated: "16.06.2008"
 ---
+
+[🠔 Zur Übersicht: Altbau FAQ](2frag.md)  
+# Aus der Internet-Fragestunde: Massivbau vs. Dämmwahn
+**Die Wahrheit über schwere Wände und den Wärmeschutz: Warum Massivbauten keine Zusatzdämmung brauchen und wie die Industrie den Ziegel durch bauphysikalisch fragwürdige Systeme ersetzt.**  
+_von Konrad Fischer • aktualisiert 16.06.2008_
 
 Konrad Fischer 
 
-# Aus der Internet-Fragestunde und Bauberatung
+## Aus der Internet-Fragestunde und Bauberatung
 
 **(aktualisiert 16.06.08)** 
 

@@ -1,15 +1,22 @@
 ---
-title: "Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Bauwerkssanierung"
-description: "Konrad Fischer Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 3"
-author: " "
+nav: "11planme.md"
+title: "Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 3"
+description: "Wie können neben öffentlichen Förderinstanzen und Stiftungen nicht nur Sponsoren, sondern auch Betreiber aus Wirtschaft und Kultur für Denkmalvorhaben gewonnen werden? Bürgerbeteiligung, PPPartnership?"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/5wiber03.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Wirtschaftlichkeit](5wiber.md)  
+# Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 3
+**Wie können neben öffentlichen Förderinstanzen und Stiftungen nicht nur Sponsoren, sondern auch Betreiber aus Wirtschaft und Kultur für Denkmalvorhaben gewonnen werden? Bürgerbeteiligung, PPPartnership?**  
+_von Konrad Fischer_
 
 Konrad Fischer 
 
-# Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 3
 
-[Seite 1](5wiber.md) [2](5wiber02.md) **3** [4](5wiber04.md) [5](5wiber05.md) [6](5wiber06.md) [7](5wiber07.md) [8](5wiber08.md) [9](5wiber09.md) [10](5wiber10.md) [11](5wiber11.md) [12](5wiber12.md) [13](5wiber13.md) [14](5wiber14.md)
+
+
 
 Wie können neben öffentlichen Förderinstanzen und Stiftungen nicht nur Sponsoren, sondern auch Betreiber aus Wirtschaft und Kultur für Denkmalvorhaben gewonnen werden? Bürgerbeteiligung, PPPartnership? Echtes Retro-Marketing, also Exklusivität, Geheimniskrämerei, Gerüchteküche, Affront, Überraschung, Unterhaltsamkeit, Schwindelei? Gut, wenn die Zukunftsberatung auch weiß, worauf es dabei ankommt. Das Betriebsmodell darf sich nämlich nicht nur auf dem Papier und der Exceltabelle rechnen, es muß auch praktisch an "den Mann" gebracht werden und tatsächlich aufgehen können. Wo sind also die Finanzmittel überhaupt aufzutreiben, nach denen die öffentlich niedergewirtschafteten Kassen nun vergeblich schreien? Wer hier brauchbare Konzepte hat, verdient nicht nur seine Planungskosten zu Recht, sondern ist auch bei der Beteiligung öffentlicher Haushaltsmittel zur Ergänzungsfinanzierung im Vorteil, oder? Und schafft vielleicht auch die Einhaltung der geschätzten Baukosten im vorhandenen Budget. 
 

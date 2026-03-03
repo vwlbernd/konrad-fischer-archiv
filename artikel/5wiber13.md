@@ -1,15 +1,22 @@
 ---
-title: "Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der ..."
+nav: "11planme.md"
+title: "Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 13"
 description: "Konrad Fischer Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 13"
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/5wiber13.htm"
+updated: "22.06.2010"
 ---
+
+[🠔 Zur Übersicht: Wirtschaftlichkeit](5wiber.md)  
+# Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 13
+**Konrad Fischer Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 13**  
+_von Konrad Fischer • aktualisiert 22.06.2010_
 
 Konrad Fischer 
 
-# Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 13
 
-[Seite 1](5wiber.md) [2](5wiber02.md) [3](5wiber03.md) [4](5wiber04.md) [5](5wiber05.md) [6](5wiber06.md) [7](5wiber07.md) [8](5wiber08.md) [9](5wiber09.md) [10](5wiber10.md) [11](5wiber11.md) [12](5wiber12.md) **13** [14](5wiber14.md)
+
+
 
 <a id="zwei"></a>
 

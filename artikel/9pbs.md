@@ -1,13 +1,37 @@
 ---
-title: "Kostenexplosion und Leistungsbeschreibung - Zusammenhänge und ..."
-description: "Die kostensichere Leistungsbeschreibung mit dem Positionsbausteinsystem."
-author: " "
+nav: "11planme.md"
+title: "DAS POSITIONSBAUSTEINSYSTEM"
+description: "Begriffsklärung und Anwendungshilfen für Planer und Bauherren. Detaillierte Ausführungen zu Altbau, Sanierung, Denkmalpflege, HOAI, Kostenschätzung, Ausschreibung, LV, VOB, AVA und Software."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/9pbs.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Planen im Altbau](11planme.md)  
+# DAS POSITIONSBAUSTEINSYSTEM
+**Begriffsklärung und Anwendungshilfen für Planer und Bauherren. Detaillierte Ausführungen zu Altbau, Sanierung, Denkmalpflege, HOAI, Kostenschätzung, Ausschreibung, LV, VOB, AVA und Software.**  
+_von Konrad Fischer_
+
+> [!abstract]+ Kapitelübersicht: Planung & Kosten  
+> 1. **DAS POSITIONSBAUSTEINSYSTEM**
+> 2. [Kostenexplosion und Leistungsbeschreibung - Zusammenhänge, Probleme, Lösungen](9pbs01.md)
+> 3. [Planungskosten, Planungshonorar und HOAI im Altbau 1](10hoai.md)
+> 4. [Planungskosten im Altbau 7](10hoai07.md)
+> 5. [Planungskosten im Altbau 10: Luxusplanung als Überlebenskunst](10hoai10.md)
+> 6. [Handwerker-Quiz für Bauherren - Pfusch + Planungskosten im Altbau 13](10hoai13.md)
+> 7. [Das lustige Planerquiz - Planungskosten im Altbau 14](10hoai14.md)
+> 8. [Deutschland wählt die Superplanung](10hoai15.md)
+> 9. [Bauherren-Quiz](10hoai16.md)
+> 10. [Ziel- und qualitätsbezogene Vergabekriterien für den Planungsauftrag](10hoai17.md)
+> 11. [Planungskosten im Altbau 20](10hoai20.md)
+> 12. [Planungskosten im Altbau 26](10hoai26.md)
+> 13. [Planungskosten im Altbau 27](10hoai27.md)
+> 14. [Die Ausschreibung von Planungsleistungen bei der Altbausanierung, Denkmalpflege und dem Denkmalschutz, die Unterschreitung der Mindestsätze sowie die Bedeutung des Mindestpreischarakters gem. HOAI](10vof.md)
+> 15. [CAD und AVA im Altbau - Kann es schärfere Info gegen Vergabebetrüger geben?](9cadava.md)
 
 [Das Positionsbausteinsystem als Bestandteil einer AVA-Software](http://www.crusius-online.com/Produkte/PBS/AFrame.htm)
 
-# DAS POSITIONSBAUSTEINSYSTEM
+
 
 ## DIE BESCHREIBUNG VON BAULEISTUNGEN GEMÄSS VOB UND HOAI
 

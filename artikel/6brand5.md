@@ -1,19 +1,26 @@
 ---
-title: "Brandschutz im Baudenkmal - praktisch umsetzbar und denkmalgerecht 5"
-description: "Hinweise zu den typischen Brandgefahren und Lösungsmöglichkeiten des Brandschutzes am Baudenkmal."
-author: " "
+nav: "20bausto.md, 2baustof.md"
+title: "Brandschutz im Baudenkmal - Organisatorische Brandschutzmaßnahmen"
+description: "Neben den organisatorischen Vorkehrungen zur Brandvorbeugung sind in einem Kulturdenkmal auch organisatorische Maßnahmen zur Brandbekämpfung und Kulturgutbergung erforderlich."
+author: "Dipl.-Ing. Sylwester Kabat"
 original_url: "www.konrad-fischer-info.de/6brand5.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Brandschutz Altbau](6brand.md)  
+# Brandschutz im Baudenkmal - Organisatorische Brandschutzmaßnahmen
+**Neben den organisatorischen Vorkehrungen zur Brandvorbeugung sind in einem Kulturdenkmal auch organisatorische Maßnahmen zur Brandbekämpfung und Kulturgutbergung erforderlich.**  
+_von Dipl.-Ing. Sylwester Kabat_
 
 Dipl.-Ing. Sylwester Kabat 
 
-# Brandschutz im Baudenkmal – 
+## Brandschutz im Baudenkmal –
 
 Praktisch umsetzbar und denkmalgerecht 5 
 
 Ein Seminarbeitrag zum Vorbeugenden Brandschutz
 
-[Seite 1](6brand.md) [2](6brand2.md) [3](6brand3.md) [4](6brand4.md) **5**
+
 
 ## Organisatorische Brandschutzmaßnahmen
 

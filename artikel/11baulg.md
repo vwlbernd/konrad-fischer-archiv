@@ -1,11 +1,23 @@
 ---
-title: "BAULEITUNG IM BESTAND 1"
-description: "Die Objektüberwachung am Altbau - Probleme und Lösungen."
-author: " "
+nav: "11planme.md"
+title: "Bauleitung, Objektüberwachung gem. HOAI, Terminkontrolle, Kostenkontrolle, Kostensteuerung, Abrechnung, Rechnungsprüfung, Mangel und Gewährleistung - Probleme und Lösungen"
+description: "Besondere Anforderungen und prüf- und steuertechnische Aufgaben der Bauleitung bei der Objektüberwachung für Baumaßnahmen im Bestand."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/11baulg.htm-"
+updated: ""
 ---
 
-# Bauleitung im Bestand 1
+[🠔 Zur Übersicht: Planen im Altbau](11planme.md)  
+# Bauleitung, Objektüberwachung gem. HOAI, Terminkontrolle, Kostenkontrolle, Kostensteuerung, Abrechnung, Rechnungsprüfung, Mangel und Gewährleistung - Probleme und Lösungen
+**Besondere Anforderungen und prüf- und steuertechnische Aufgaben der Bauleitung bei der Objektüberwachung für Baumaßnahmen im Bestand.**  
+_von Konrad Fischer_
+
+> [!abstract]+ Kapitelübersicht: Bauleitung Bestand I  
+> 1. **Bauleitung, Objektüberwachung gem. HOAI, Terminkontrolle, Kostenkontrolle, Kostensteuerung, Abrechnung, Rechnungsprüfung, Mangel und Gewährleistung - Probleme und Lösungen**
+> 2. [Bauleitung, Objektüberwachung gem. HOAI, Terminkontrolle, Kostenkontrolle, Kostensteuerung, Abrechnung, Rechnungsprüfung, Mangel und Gewährleistung - Probleme und Lösungen](11baulg1.md)
+> 3. [Die Befreiung vom Staatsterror der kaminfeuergestützten Hinterzimmer-Ökodiktatur rund um die Wärmeschutzverordnung WSVO, die nachfolgende Energieeinsparverordnung EnEV und das Erneuerbare-Energien-Wärmegesetz EEWärmeG / EEWG](2wsvoant.md)
+
+## Bauleitung im Bestand 1
 
 ## Bauleitung, Objektüberwachung gem. HOAI, Terminkontrolle, Kostenkontrolle, Kostensteuerung, Abrechnung, Rechnungsprüfung, Mangel und Gewährleistung - Probleme und Lösungen
 

@@ -1,26 +1,39 @@
 ---
-title: "Niedrigenergiehaus + Passivhaus im Kreuzfeuer 1"
-description: "Energiesparen - aber richtig! Prof. Meiers Kritik am Dämmwahn 22 - Passivhaus + Niedrigenergiehaus."
-author: " "
+nav: "7epass.md"
+title: "Niedrigenergie- und Passivhaus im Kreuzfeuer 1"
+description: "Zur Einstimmung ein Bericht aus der Praxis: Es dauert etwas, bis geprellte Niedrigenergiehausbesitzer/Passivhausbauherrn hinter die ganze Wahrheit kommen. Und dann ist es meist zu spät."
+author: "Claus Meier"
 original_url: "www.konrad-fischer-info.de/7waefe22.htm"
+updated: ""
 ---
 
-# Prof. Meiers kontroverse Beiträge zum Energiesparen 22
+[🠔 Zur Übersicht: Das malträtierte Haus](7epass.md)  
+# Niedrigenergie- und Passivhaus im Kreuzfeuer 1
+**Zur Einstimmung ein Bericht aus der Praxis: Es dauert etwas, bis geprellte Niedrigenergiehausbesitzer/Passivhausbauherrn hinter die ganze Wahrheit kommen. Und dann ist es meist zu spät.**  
+_von Claus Meier_
 
-[Das malträtierte Haus - zum Dämmschwindel und Energiepaß-Betrug](7epass.md) 
-[Contra EnEV](7waefe.md) 
-[Wärme- und Feuchteschutz beim Altbau - Theorie und Wirklichkeit 1](7waefe02.md) [2](7waefe03.md) [3](7waefe04.md) [4](7waefe05.md) [5](7waefe06.md) [6](7waefe07.md) [7](7waefe08.md) [ 8](7waefe09.md) 
-[Verbundsysteme für die Fassade-kritisch betrachtet 1](7waefe10.md) [2](7waefe11.md) 
-[Wohnungsbaubestand und Wärmeschutz 1](7waefe12.md) [2](7waefe13.md) [3](7waefe14.md) [4](7waefe15.md) [5](7waefe16.md) [6](7waefe17.md) [7](7waefe18.md) 
-[Rechtliche Randbedingungen des Gebäudewärmeschutzes 1](7waefe19.md) [2](7waefe20.md) [3](7waefe21.md) 
-**Niedrigenergie- und Passivhäuser im Kreuzfeuer/Contra Passivhaus 1** [2](7waefe23.md) [3](7waefe24.md) [4](7waefe25.md) [5](7waefe26.md) [6](7waefe27.md) [7](7waefe28.md) [8](7waefe29.md) [9](7waefe30.md) [10](7waefe31.md) [11](7waefe32.md) 
-[Widersprüche im Wärmeschutz - Die allgegenwärtige k/U-Wert Euphorie 1](7waefe33.md) [2](7waefe34.md) 
+## Prof. Meiers kontroverse Beiträge zum Energiesparen 22
+
+> [!abstract]+ Kapitelübersicht: Passivhaus 1  
+> 1. **Niedrigenergie- und Passivhaus im Kreuzfeuer 1**
+> 2. [Prof. Meiers kontroverse Beiträge zur Wirtschaftlichkeit und zum Energiesparen 23](7waefe23.md)
+> 3. [Niedrigenergie- und Passivhaus im Kreuzfeuer 3](7waefe24.md)
+> 4. [Niedrigenergie- und Passivhaus im Kreuzfeuer 4](7waefe25.md)
+> 5. [Niedrigenergie- und Passivhaus im Kreuzfeuer 5](7waefe26.md)
+> 6. [Niedrigenergie- und Passivhaus im Kreuzfeuer 6](7waefe27.md)
+> 7. [Prof. Meiers kontroverse Beiträge zum Energiesparen 28](7waefe28.md)
+> 8. [Niedrigenergie- und Passivhaus im Kreuzfeuer 8](7waefe29.md)
+> 9. [Niedrigenergie- und Passivhaus im Kreuzfeuer 9](7waefe30.md)
+> 10. [Prof. Meiers kontroverse Beiträge zum Energiesparen 31](7waefe31.md)
+> 11. [Niedrigenergie- und Passivhaus im Kreuzfeuer 11](7waefe32.md)
+
+
 
 Zur Einstimmung ein Bericht aus der Praxis: 
 
 Es dauert etwas, bis geprellte Niedrigenergiehausbesitzer/Passivhausbauherrn hinter die ganze Wahrheit kommen. Und dann ist es meist zu spät. Ein exemplarischen Fall aus Frankfurt am Main - Praunheim: 
 
-[![Pilzverseuchte und vermorschte Niedrigenergie-Holzhäuser der Frankfurter ABG Holding](../medien/YOU50.JPG)](http://youtu.be/7yiL2kdoHj0) 
+[![Pilzverseuchte und vermorschte Niedrigenergie-Holzhäuser der Frankfurter ABG Holding](../medien/YOU50.JPG)](https://youtu.be/7yiL2kdoHj0) 
 
 Prof. Dr.-Ing. habil. Claus Meier 
 Architekt SRL 

@@ -1,22 +1,47 @@
 ---
-title: "Klimawandel, Klimakatastrophe, Klimapanik? Wieso? Warum? Cui bono ..."
-description: "Wetter-Aufklärung, Kritik + Ketzereien am Klimaschutz-Terrorismus, Treibhausschwindel, Klimaveränderung, Globale Erwärmung, Klimaerwärmung, ... 1 Einleitung - Zum Ein- oder Abgewöhnen"
-author: " "
+nav: "7thuene1.md"
+title: "Klimawandel - Wieso? Klimahorror - Cui bono? + Argus-Kommentar Nairobi Report"
+description: "Wetter-Aufklärung, Kritik + Ketzereien an Politikkatastrophe, am Klimaschutz-Terrorismus, Treibhausschwindel + CO2-Emissions/Ausstoß-Minderungsprogramm, Klimaveränderung, Globale Erwärmung, Klimaerwärmung, Klima"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/7argus.htm"
+updated: "22.11.2009"
 ---
+
+[🠔 Zur Übersicht: Klima](7thuene1.md)  
+# Klimawandel - Wieso? Klimahorror - Cui bono? + Argus-Kommentar Nairobi Report
+**Wetter-Aufklärung, Kritik + Ketzereien an Politikkatastrophe, am Klimaschutz-Terrorismus, Treibhausschwindel + CO2-Emissions/Ausstoß-Minderungsprogramm, Klimaveränderung, Globale Erwärmung, Klimaerwärmung, Klima**  
+_von Konrad Fischer • aktualisiert 22.11.2009_
 
 ****AKTUELL:**** 22.11.2009: Climategate 1 - **[Angloamerikanische Wissenschaftskriminelle erfanden den Klimaschwindel - auch Deutsche Professoren dabei!](http://www.welt.de/wissenschaft/article5294872/Die-Tricks-der-Forscher-beim-Klimawandel.html)** 
 Climategate 2 - **[Entlarvt: Menschengemachte Erderwärmung - ein Schwindel der Grünen Klimaschutzgelderpresser](http://www.eike-klima-energie.eu/news-anzeige/dreiste-manipulation-der-wichtigsten-temperaturdaten-zur-welttemperatur-nicht-mehr-auszuschliessen-das-daten-desaster-der-ipcc-klimazentrums-cru-climate-research-unit-der-universitaet-east-anglia/)** 
 Schon wieder? Umweltbundesamt: [Staatlich organisierter **Völkermord mittels Entgasung/Klimaschutz/CO2-Reduktion?**](7thu51.md)
 
-# Klimawandel - Wieso? Klimahorror - Cui bono? + Argus-Kommentar Nairobi Report
+
 
 ## Wollt ihr den totalen Klimaschutz? Ökofaschismus Brutal 
 Der gröbste Klotz auf den groben Keil 1
 
 ##### Wetter-Aufklärung, Kritik + Ketzereien an Politikkatastrophe, am Klimaschutz-Terrorismus, Treibhausschwindel + CO2-Emissions/Ausstoß-Minderungsprogramm, Klimaveränderung, Globale Erwärmung, Klimaerwärmung, Klimawandel-Hysterie, Panikmache + Klimafakten
 
-Inhalt: **1. Einleitung - Zum Ein- oder Abgewöhnen** [2. Panik-Publizistik bis zum Abwinken - Einige boshafte Tiraden](7arg02.md) [3. Heil Öko!](7arg03.md) [4. Ökohetze und Öko-Aberglauben](7arg04.md) [5. Klimaschutz-Manipulation der Generation Sponge-Bob](7arg05.md) [6. Futurologie, Umweltdiktatur und Klimaschutzterror des großen Ökobruders als Zurück zur Steinzeit](7arg06.md) [7. CO2-Lügen und -Wahrheiten 1](7arg07.md) [8. CO2-Lügen und -Wahrheiten 2 - inkl. Die Ozonlochfrage](7arg08.md) [9. Germany merkelized from East to West](7arg09.md) [10. Klimaleugner ins KZ! Vergasen! (Aber bitte CO2-frei!)](7arg10.md) [11. Atommärchen für PISAner](7arg11.md) [12. Weltrettung durch UN-Klimaratten - und wie?](7arg12.md) [13. Ökobrain-Controlling im Totenkopf](7arg13.md) [14. Wie funktioniert der Ökoschwindel / Klimaschutz-Betrug 1?](7arg14.md) [15. Wie funktioniert der Ökoschwindel / Klimaschutz-Betrug 2? - Politik, Wissenschaft und Ökomedien](7arg15.md) [16. Wie funktioniert der Ökoschwindel / Klimaschutz-Betrug 3? Al Gore - ein polnischer Lügner?](7arg16.md) [17. Wie funktioniert der Ökoschwindel / Klimaschutz-Betrug 4? Sogar in Bayern!](7arg17.md) [18. Wie funktioniert der Ökoschwindel / Klimaschutz-Betrug 5? Klimaschutz-Gewinner und -Verlierer](7arg18.md) [19. Öko-Katastrophismus/-Alarmismus und Verknappung als Herrschafts- und Marketinginstrumente](7arg19.md) [20. Klima, Klimaforscher, der IPCC Vorbericht und die Wahrheit](7arg20.md) [21. Argus: Nairobi Report (Vers. 3.3) - Die Klimakatastrophe - was ist wirklich dran? - Vorwort](7arg21.md) [22. Die Klimakatastrophe - 1. Gibt es eine wesentliche Erwärmung über die normalen Schwankungen hinaus?](7arg22.md) [23. Die Klimakatastrophe - 2. Ist der CO2-Anstieg der in der Atmosphäre seit ca. 100 Jahren zu beobachten ist, die wesentliche Ursache dafür? Und wenn ja, hat der Mensch mit seiner technischen CO2-Erzeugung daran einen maßgeblichen Anteil?](7arg23.md) [24. Die Klimakatastrophe - 3. Ist dieser Klimawandel insgesamt schädlich oder eher nützlich?](7arg24.md) [25. Die Klimakatastrophe - 4. Können wir, die Menschheit insgesamt, realistischerweise etwas dagegen tun?](7arg25.md) [26. Die Klimakatastrophe - 5. Kosten und Nutzen, oder warum geht es uns direkt an?](7arg26.md) [27. Die Klimakatastrophe - 6. Wie konnte es zu dieser weltweiten Hysterie kommen?](7arg27.md) 
+> [!abstract]+ Kapitelübersicht: Klimawandel - Cui bono?  
+> 1. **Klimawandel - Wieso? Klimahorror - Cui bono? + Argus-Kommentar Nairobi Report**
+> 2. [Klimawandel 2: Panik-Publizistik bis zum Abwinken - Einige boshafte Tiraden](7arg02.md)
+> 3. [3. Heil Öko!](7arg03.md)
+> 4. [4. Ökohetze und Öko-Aberglauben](7arg04.md)
+> 5. [5. Klimaschutz-Manipulation der Generation Sponge-Bob](7arg05.md)
+> 6. [Klimawandel - Wieso? Klimahorror - Cui bono?](7arg06.md)
+> 7. [7. CO2-Lügen und -Wahrheiten 1](7arg07.md)
+> 8. [Klimawandel - Wieso? Klimahorror - Cui bono?](7arg09.md)
+> 9. [10. Klimaleugner ins KZ! Vergasen! (Aber bitte CO2-frei!)](7arg10.md)
+> 10. [Atommärchen für PISAner](7arg11.md)
+> 11. [Klimawandel - Wieso? Klimahorror - Cui bono?](7arg12.md)
+> 12. [13. Ökobrain-Controlling im Totenkopf](7arg13.md)
+> 13. [14. Wie funktioniert der Ökoschwindel / Klimaschutz-Betrug 1?](7arg14.md)
+> 14. [19. Öko-Katastrophismus/-Alarmismus und Verknappung als Herrschafts- und Marketinginstrumente](7arg19.md)
+> 15. [Klima, Klimaforscher, der IPCC Vorbericht und die Wahrheit](7arg20.md)
+> 16. [21. Argus: Nairobi Report (Vers. 3.3) - Die Klimakatastrophe - was ist wirklich dran?](7arg21.md)
+
+
 
 <center markdown>
 
@@ -69,7 +94,7 @@ Auch läßt sich der Schluß ziehen, daß ein kluger Mann nie das Urteil des Vol
 
  14. April 2010! Die erste Lücke ist in die Klimaschutzfront der etablierten politischen Spitzenverbrecher geschlagen. Die CDU-Ratsfraktion Hannover gibt das verbrecherische Klimalügen auf und zeigt als erste CDU-Gruppierung bundesweit unfaßbare, da von politikfernen, unabhängigen und echten Experten induzierte Einsicht (während alle anderen bei der auf puren Lug und Trug des Climategate ausgebauten CO2-Abzocke der Klimakanzlerin und ihrer weltweit agierenden Helfershelfer noch mitmachen, von den Klima-Perversen und Öko-Volksschädlingen der RotGrünLinkenLiberalen ganz zu schweigen). Doch lesen Sie selbst: 
 
-# P R E S S E M I T T E I L U N G
+## P R E S S E M I T T E I L U N G
 
 Für Nachfragen steht Ihnen unser Fraktionsvorsitzender Jens Seidel unter der Tel.-Nr.: 0151 – 40 400 463 zur Verfügung 
 14.04.2010 

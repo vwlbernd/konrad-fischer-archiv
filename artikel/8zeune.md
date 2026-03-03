@@ -1,11 +1,18 @@
 ---
+nav: "index.md, 8infober.md"
 title: "Rezension Zeune: Burgen, Symbole der Macht"
-description: "Rezension Joachim Zeune: Burgen, Symbole der Macht."
-author: " "
+description: "Rezension von Dr. Joachim Zeunes 'Burgen, Symbole der Macht', die ein neues Bild der mittelalterlichen Burg zeichnet. Beleuchtet die Symbolik von Burgen und kritisiert den Umgang mit ihnen in der Bauforschung."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/8zeune.htm"
+updated: ""
 ---
 
-# Dr. Joachim Zeune: Burgen, Symbole der Macht 
+[🠔 Zur Übersicht: Altbaukritik Fachbücher](8wetz.md)  
+# Rezension Zeune: Burgen, Symbole der Macht
+**Rezension von Dr. Joachim Zeunes 'Burgen, Symbole der Macht', die ein neues Bild der mittelalterlichen Burg zeichnet. Beleuchtet die Symbolik von Burgen und kritisiert den Umgang mit ihnen in der Bauforschung.**  
+_von Konrad Fischer_
+
+## Dr. Joachim Zeune: Burgen, Symbole der Macht
 Ein neues Bild der mittelalterlichen Burg
 
 ### Eine Rezension von Konrad Fischer

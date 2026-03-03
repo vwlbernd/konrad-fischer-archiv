@@ -1,19 +1,26 @@
 ---
-title: "Der Stahlbeton und der Zement - Problembeschreibungen 7"
-description: "Balkonien: Rund um die Balkonzerrottung und Balkonsanierung"
-author: " "
+nav: "20bausto.md"
+title: "Balkonien"
+description: "Warum Balkone zu den anfälligsten Bauteilen gehören und wie fehlerhafte Betoninstandsetzungen oft mehr Schaden als Nutzen anrichten."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2beton07.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Stahlbeton](2beton.md)  
+# Balkonien
+**Warum Balkone zu den anfälligsten Bauteilen gehören und wie fehlerhafte Betoninstandsetzungen oft mehr Schaden als Nutzen anrichten.**  
+_von Konrad Fischer_
 
 <a id="11. der stahlbeton und der zement"></a>
 
-# Der Stahlbeton und der Zement 7
+## Der Stahlbeton und der Zement 7
 
 Inhaltsverzeichnis der Betonkapitel 
 
-[1: Stahlbetonbau - Spitzenarchitektur?](2beton.md) [2: Betonschäden durch schlechte Baustoffqualität](2beton02.md) [3: Baustoff und Baupfusch für eine Sklavenhaltergesellschaft?](2beton03.md) [4: Macht Betonieren krank und sichert Arbeitsplätze?](2beton04.md) [5: Betonbau - eine Sakralbauweise?](2beton05.md) [6: Betonsanierung + Zementberatung, zerstörungsarm untersuchen, Tiefgarage, Nitrat + Chlorid](2beton06.md) **7: Balkonien** [8: Sichtbeton!](2beton08.md) [9: Betonbauschäden](2beton09.md) [10: Betonbrücken](2beton10.md) [11: Beton-Architekturphantasien](2beton11.md) [12: Materialdetails und Materialheimtücke](2beton12.md) [13: Stahlbeton und Krebsalarm](2beton13.md) [14: Stahlbeton-Merksätze](2beton14.md) [15: Einiges zum Zement](2beton15.md) [16: Zement - ein unreiner Baustoff](2beton16.md) 
 
-# <a id="balkonien"></a>Betonprobleme 7. Balkonien 
+
+## <a id="balkonien"></a>Betonprobleme 7. Balkonien
 
 Der Balkon gilt als eines der größten Sorgenkinder der Hausbesitzer und stellt dem Saniergewerbe außerordentliche Herausforderungen. Als Kühlschrank und Raucher-Rampe, als Zusatzwohnfläche und Grillplatz, zum Wäschetrocknen und hin und wieder sogar als Sitzplatz oder Aussichtsplattform genutzt, ragt der typische Balkon aus der Fassade heraus und sich der Witterung entgegen. Diese gestalterische Wichtigtuerei geht in unserern Breitegraden erfahrungsgemäß nicht allzulange gut - trotz aller bautechnischen und baukonstruktiven Anstrengungen. Das italiensüchtige Bauteil Balkon als Merkmal afrikanisch-arabischer Flachdachkultur entartet dank genialer Architektenkunst auch hierzulande leider meist zum vorprogrammierten Reinfall. So sieht das schon in Italien an den bewehrten / bewährten Stahlbeton-Balkonkonstruktionen aus: 
 ![Balkonschaden durch Verrostung des Stahlbetons](../medien/2BET05.JPG) 

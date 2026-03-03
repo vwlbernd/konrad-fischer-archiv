@@ -1,11 +1,18 @@
 ---
+nav: "index.md, 6prxratg.md"
 title: "Restauro della Vecchia Casa + Conservazione del Monumento Storico"
-description: "Esperienza, punte, trucchi e consiglio per le costruzioni antiche, eredità culturale e monumenti storici."
-author: " "
+description: "Esperienza e consiglio per finanziare il progetto rivitalizzare vecchie costruzioni e le fasi della ristrutturazione, le impiego materiali edili ristrutturazione facciate e le tutela beni architettonici, costruzioni antiche, eredità culturale e monumenti storici"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/italia2.htm"
+updated: ""
 ---
 
 
+
+[🠔 Zur Übersicht: Roman & Balkan](roman.md)  
+# Restauro della Vecchia Casa + Conservazione del Monumento Storico
+**Esperienza e consiglio per finanziare il progetto rivitalizzare vecchie costruzioni e le fasi della ristrutturazione, le impiego materiali edili ristrutturazione facciate e le tutela beni architettonici, costruzioni antiche, eredità culturale e monumenti storici**  
+_von Konrad Fischer_
 
 ## _Restauro della Vecchia Casa +🇮🇹 
 Conservazione del Monumento Storico_

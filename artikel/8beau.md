@@ -1,9 +1,16 @@
 ---
-title: "Skizzen von Burgen und Schlösser im Beaujolais - Châteaux du Beaujolais"
-description: "Konrad Fischers Skizzen im Beaujolais"
-author: " "
+nav: "index.md"
+title: "Burgen und Schlösser im Beaujolais - Châteaux du Beaujolais"
+description: "Plein-Air-Reiseskizzen/Architektur-Skizzen von Konrad Fischer 1996"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/8beau.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Burgen & Schlösser kaufen](8schloss.md)  
+# Burgen und Schlösser im Beaujolais - Châteaux du Beaujolais
+**Plein-Air-Reiseskizzen/Architektur-Skizzen von Konrad Fischer 1996**  
+_von Konrad Fischer_
 
 **Burgen und Schlösser im Beaujolais - Châteaux du Beaujolais**
 

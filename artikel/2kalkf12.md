@@ -1,11 +1,18 @@
 ---
-title: "Die häufigsten Fehler bei der Anwendung von Luftkalkmörtel 11"
-description: "Zu verarbeitungs- und objektbedingten Fehlerquellen."
-author: " "
+nav: "20bausto.md, 26bausto.md"
+title: "Kalk Anwendungsfehler 12: Versteckte Details und Werkzeugfehler"
+description: "Ein Expertenbericht über unterschätzte Sanierungsfehler: Warum falsches Werkzeug und mangelnde Untergrundvorbereitung Ihren Kalkputz ruinieren, selbst wenn die Mischung stimmt."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2kalkf12.htm"
+updated: ""
 ---
 
-# Die häufigsten Fehler bei der Anwendung von 
+[🠔 Zur Übersicht: Kalk Anwendungsfehler](2kalkfel.md)  
+# Kalk Anwendungsfehler 12: Versteckte Details und Werkzeugfehler
+**Ein Expertenbericht über unterschätzte Sanierungsfehler: Warum falsches Werkzeug und mangelnde Untergrundvorbereitung Ihren Kalkputz ruinieren, selbst wenn die Mischung stimmt.**  
+_von Konrad Fischer_
+
+## Die häufigsten Fehler bei der Anwendung von
 
 Luftkalkmörtel, 
 Kalkputz und Kalkanstrich 12

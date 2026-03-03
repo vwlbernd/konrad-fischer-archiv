@@ -1,11 +1,18 @@
 ---
-title: "Baudenkmäler wirtschaftlich instandsetzen - Preisgünstig Instandsetzen"
-description: "Praxis Ratgeber Wirtschaftliches Instandsetzen von Baudenkmälern - Planung - Finanzierung - Projektabwicklung 3. Öffentliche und private Förderung für die Instandsetzung von Baudenkmälern"
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Öffentliche und private Förderung für die Instandsetzung von Baudenkmälern"
+description: "Viele Baudenkmäler können nur mit großen Zuschüssen aus öffentlichen Mitteln erhalten werden. Dafür gibt es direkte und indirekte Subventionen für die Baumaßnahmen und teils auch für die Bauplanung."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/6prwi03.htm"
+updated: ""
 ---
 
-# Praxis Ratgeber zur Denkmalpflege 
+[🠔 Zur Übersicht: Denkmal instandsetzen](6prwiins.md)  
+# Öffentliche und private Förderung für die Instandsetzung von Baudenkmälern
+**Viele Baudenkmäler können nur mit großen Zuschüssen aus öffentlichen Mitteln erhalten werden. Dafür gibt es direkte und indirekte Subventionen für die Baumaßnahmen und teils auch für die Bauplanung.**  
+_von Konrad Fischer_
+
+## Praxis Ratgeber zur Denkmalpflege
 
 ## Wirtschaftliches Instandsetzen von Baudenkmälern 
 Kauf, Finanzierung, Planung und Projektorganisation 3
@@ -20,7 +27,7 @@ Konrad Fischer
 
 Wirtschaftliches Instandsetzen von Baudenkmälern – Kauf, Finanzierung, Planung und Projektorganisation 
 
-[1. Vorbemerkung](6prwiins.md) [2. Der Immobilienkauf](6prwi02.md) **3. Öffentliche und private Förderung für die Instandsetzung von Baudenkmälern** [4. Von der Reparatur zur Zerstörung](6prwi04.md) [5. Entwurfsstrategie](6prwi05.md) [6. Der erste Planungsschritt](6prwi06.md) [7. Bestandsaufnahme mit System](6prwi07.md) [8. Nutzungsentwurf](6prwi08.md) [9. Reparaturplanung und Konstruktionsentwurf](6prwi09.md) [10. Leistungsbeschreibung, Baukosten und Bauablauf](6prwi10.md) [11. Investitionsziel / 12. Zusammenfassung / Empfohlene Fachliteratur zu Finanzierung und Technik](6prwi11.md) 
+
 
 3. Öffentliche und private Förderung für die Instandsetzung von Baudenkmälern 
 

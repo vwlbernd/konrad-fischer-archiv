@@ -1,15 +1,22 @@
 ---
-title: "Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Bauwerksinstandsetzung"
-description: "Konrad Fischer Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 14"
-author: " "
+nav: "11planme.md"
+title: "Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 14"
+description: "Beispiel Bauberatung bei Konfliktlage des Vermieters / Hausbesitzers zwischen Erhaltung und Abbruch/Neubau:"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/5wiber14.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Wirtschaftlichkeit](5wiber.md)  
+# Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 14
+**Beispiel Bauberatung bei Konfliktlage des Vermieters / Hausbesitzers zwischen Erhaltung und Abbruch/Neubau:**  
+_von Konrad Fischer_
 
 Konrad Fischer 
 
-# Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 14
 
-[Seite 1](5wiber.md) [2](5wiber02.md) [3](5wiber03.md) [4](5wiber04.md) [5](5wiber05.md) [6](5wiber06.md) [7](5wiber07.md) [8](5wiber08.md) [9](5wiber09.md) [10](5wiber10.md) [11](5wiber11.md) [12](5wiber12.md) [13](5wiber13.md) **14**
+
+
 
 <a id="abbruch/neubau"></a>Beispiel Bauberatung bei Konfliktlage des Vermieters / Hausbesitzers zwischen Erhaltung und Abbruch/Neubau:
 

@@ -1,9 +1,16 @@
 ---
-title: "Beratungsangebote zu Altbau und Denkmalpflege - Linksammlung 5"
+nav: "index.md, 6prxratg.md"
+title: "5 Diverse Denkmal- und Museumslinks deutsch und international"
 description: "Diverse Denkmal- und Museumslinks deutsch und international."
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/8berat05.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Beratung Altbau](8berat.md)  
+# 5 Diverse Denkmal- und Museumslinks deutsch und international
+**Diverse Denkmal- und Museumslinks deutsch und international.**  
+_von Konrad Fischer_
 
 <center markdown>
 

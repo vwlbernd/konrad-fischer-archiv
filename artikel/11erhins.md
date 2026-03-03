@@ -1,25 +1,37 @@
 ---
-title: "Sparsam Planen + Bauen im Altbau - Altbausanierung - Altbau sanieren 1"
-description: "Kostengünstige Altbauplanung + Altbausanierung / Gebäudesanierung / Bauwerkssanierung - Bestandsaufnahme - Gebäudeplanung Tragwerksplanung / Statik - Haustechnikplanung / Technische Ausrüstung / Gebäudetechnik - Info und Tipps"
-author: " "
+nav: "11planme.md"
+title: "Sparsam Planen und Bauen im Altbau - Voraussetzungen und Methoden der Sparsanierung 1"
+description: "Allzuoft fehlt beim Bauen und Sanieren das Geld. Eine kostengünstige Altbausanierung erfordert geschicktes Vorgehen und Abstriche, besonders wenn der fast leere Beutel das Budget diktiert."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/11erhins.htm"
+updated: ""
 ---
 
+[🠔 Zur Übersicht: Planen im Altbau](11planme.md)  
 # Sparsam Planen und Bauen im Altbau - Voraussetzungen und Methoden der Sparsanierung 1
+**Allzuoft fehlt beim Bauen und Sanieren das Geld. Eine kostengünstige Altbausanierung erfordert geschicktes Vorgehen und Abstriche, besonders wenn der fast leere Beutel das Budget diktiert.**  
+_von Konrad Fischer_
+
+
 
  **Vorsicht: Ein ungeschminkter Praxisbericht** 
 (Ein Schelm, wer Böses dabei denkt...) 
 
-Kapitelübersicht: 
-**1: Einleitung: 1.1** [1.2](11erh02.md) [1.3](11erh03.md) [1.4](11erh04.md) [Der Krieg gegen die Bausubstanz:1.5](11erh05.md) [1.6](11erh06.md) [1.7](11erh07.md) [1.8](11erh08.md) [1.9](11erh09.md) [1.10](11erh10.md) [1.11](11erh11.md) 
-[Kapitel 1: Projektentwicklung: 1.12](11erh12.md) 
-[Kapitel 2: Bauvorbereitung 1.13](11erh13.md) [1.14](11erh14.md) 
-[Kapitel 3: Funktions-, Entwurfs-, Ausführungs- und Kostenplanung mit Einbindung der Eigenleistung: 1.15](11erh15.md) 
-[Kapitel 4: Konstruktionsplanung: 1.16](11erh16.md) [ Haustechnikplanung: 1.17](11erh17.md) 
-[Altbaugeeignete Reparaturverfahren und Alternativen zu zerstörerischen Sanierverfahren 1](11erhin2.md) [2.2](11erhin3.md) 
-[Kapitel 5: Maßnahmen- und Kostenplanung 
-Kapitel 6: Bauablauf 
-Kapitel 7: Planungsvoraussetzungen](11erhin4.md) 
+> [!abstract]+ Kapitelübersicht: Sparsam sanieren  
+> 1. **Sparsam Planen und Bauen im Altbau - Voraussetzungen und Methoden der Sparsanierung 1**
+> 2. [Sparsam Planen und Bauen im Altbau](11erh02.md)
+> 3. [Bauforschung, Befunduntersuchung, Bauarchäologie als Kostenfalle im Altbau](11erh03.md)
+> 4. [Denkmalpflege & Denkmalschutz: Der Restaurator und der Konservator als Totengräber der Originalsubstanz des Baudenkmals](11erh04.md)
+> 5. [Der Vernichtungskrieg gegen die Bausubstanz - Ursachen und Verlauf](11erh05.md)
+> 6. [Altbausanierung: Finanzierung Planung, Projektfinanzierung, Projektentwicklung](11erh12.md)
+> 7. [Altbausanierungs-Planung: Bestandsaufnahme & Aufmaß](11erh13.md)
+> 8. [Fassadenrestaurierung/Fassadensanierung: Musterachse - Beispiel Rathaus Bremen](11erh14.md)
+> 9. [Sparsam Planen und Bauen im Altbau - Voraussetzungen und Methoden 1.15](11erh15.md)
+> 10. [Sparsam erhaltende Konstruktionsplanung Fachplanung Haustechnik / Gebäudetechnik / Gebäudeausrüstung & Tragwerksplanung im Altbau, Denkmalschutz & Denkmalpflege](11erh16.md)
+> 11. [Heiztechnik-Planung - Haustechnikplanung & Kosten](11erh17.md)
+> 12. [Altbausanierung, Denkmalschutz, Denkmalpflege, Bausanierung: Sparsam Planen und Bauen im Altbau - Die erhaltende Instandsetzung - Teil 2](11erhin2.md)
+
+
 
 [Konrad Fischer Dipl.-Ing. Univ. Architekt BYAK](1refernz.md) 
 Beirat für Denkmalerhaltung der Deutschen Burgenvereinigung e.V.
@@ -114,7 +126,7 @@ Was sich Deutschlands Nachkriegsaufbau hierbei geleistet hat, spottet allerdings
 Konrad Fischer: Fassaden energetisch richtig und kostensparend sanieren 
 [![Fassaden energetisch richtig sanieren](../medien/YOU04.JPG)](http://www.youtube.com/playlist?list=PL386F9E7676C84932) 
 und neu: 
-[![Die kostengünstige, kostensichere & denkmalgerechte Sanierung - Vortrag Münster 8.10.2013 Informationsveranstaltung Ministerium Bauen, Wohnen, Stadtentwicklung, Verkehr Nordrhein-Westfalen & NRW.BANK für Untere Denkmalbehörden, Bewilligungsbehörden](../medien/YOU79.JPG)](http://youtu.be/CgVET6gLD7Q) 
+[![Die kostengünstige, kostensichere & denkmalgerechte Sanierung - Vortrag Münster 8.10.2013 Informationsveranstaltung Ministerium Bauen, Wohnen, Stadtentwicklung, Verkehr Nordrhein-Westfalen & NRW.BANK für Untere Denkmalbehörden, Bewilligungsbehörden](../medien/YOU79.JPG)](https://youtu.be/CgVET6gLD7Q) 
 
 </center>
 

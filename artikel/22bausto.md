@@ -1,16 +1,37 @@
 ---
-title: "Fassade, Putz & Anstrich"
-description: "Putz, Farbe, Synthetikanstriche, Dispersionsanstriche und Wärmedämmung"
-author: " "
+nav: "20bausto.md"
+title: "Fassadeninstandsetzung: Putz, WDVS und Anstrich"
+description: "Erneuerung oder Erhalt von Altputzen und Alt-Anstrichen."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/22bausto.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Altbau Restaurierung](20bausto.md)  
+# Fassadeninstandsetzung: Putz, WDVS und Anstrich
+**Erneuerung oder Erhalt von Altputzen und Alt-Anstrichen.**  
+_von Konrad Fischer_
 
 ## Altbautaugliche Verfahren und Baustoffe 
 2. Erneuerung oder Erhalt von Altputzen und Alt-Anstrichen
 
 ### Fassadeninstandsetzung: Putz, WDVS und Anstrich - Probleme und Lösungen 1
 
-**Seite 1[2](22bau2.md) [3](22bau3.md) [4](22bau4.md) [5](22bau5.md) [6](22bau6.md) [7](22bau7.md) [8](22bau8.md) [9](22bau9.md)** 
+> [!abstract]+ Kapitelübersicht: Fassade & Anstrich  
+> 1. **Fassadeninstandsetzung: Putz, WDVS und Anstrich**
+> 2. [Fassadeninstandsetzung 2: Bindemittelreiche Werktrockenmörtel](22bau2.md)
+> 3. [Fassadeninstandsetzung 3: Ein Potpourri der staatlichen Denkmalpflege ...](22bau3.md)
+> 4. [Fassadeninstandsetzung 4: Schäden durch Wasserglas und Silikatputz](22bau4.md)
+> 5. [Fassadeninstandsetzung 5: Materialimmanente Schadensrisiken](22bau5.md)
+> 6. [Fassadeninstandsetzung 6: Silikatfarben Probleme](22bau6.md)
+> 7. [Fassadeninstandsetzung 7: Grundprobleme zu dichter und zu fester Anstriche](22bau7.md)
+> 8. [Fassadeninstandsetzung 8: Denkmalpflege in Bayern](22bau8.md)
+> 9. [Fassadeninstandsetzung 9: Sanierputzprobleme und Taubenabwehr](22bau9.md)
+> 10. [Hydrophobierte oder gar wärmedämmende Kunstharzfarben: Einführung](2lotus.md)
+> 11. [Die erhaltende Instandsetzung von historischen Putzfassaden](6prputz.md)
+> 12. [Die malträtierte Haut: Kalk vs. Silikat in der Denkmalpflege](2ivo.md)
+
+
 
 Hinweis: Da es hier um die Praxis bei Altbau und Denkmalpflege geht, lassen sich baustoffliche Verweise und Zitate nicht immer ganz vermeiden. Es sind damit **keine** Empfehlungen oder Verdikte ausgesprochen. Für altbauverträgliche Produkte sollte Voraussetzung sein: Eignungsnachweis und qualifizierte Volldeklaration im Sinne des hier abzurufenden [Vorschlags](2volldek.md). 
 
@@ -59,7 +80,7 @@ _Papst Paul IV.
 
 <a id="altputzen"></a>
 
-# 2. Fassadeninstandsetzung: Putz, WDVS und Anstrich - Probleme und Lösungen 1
+## 2. Fassadeninstandsetzung: Putz, WDVS und Anstrich - Probleme und Lösungen 1
 
 **Kapitel[2](22bau2.md) [3](22bau3.md) [4](22bau4.md) [5](22bau5.md) [6](22bau6.md) [7](22bau7.md) [8](22bau8.md) [9](22bau9.md)**
 

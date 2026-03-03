@@ -1,18 +1,25 @@
 ---
-title: "Schwindelei? Trocknung nasser Wände + aufsteigende Feuchte 7"
-description: "Kondensat und Regen"
-author: " "
+nav: "20bausto.md"
+title: "Kondensat und Hygroskopie im naßkalten Keller und sonstwo"
+description: "Warum Sommerlüftung Wände erst recht nass macht und Schadsalze die Luftfeuchtigkeit wie ein Schwamm in das Mauerwerk saugen."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2auffe07.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Aufsteigend Feuchte?](2aufstfe.md)  
+# Kondensat und Hygroskopie im naßkalten Keller und sonstwo
+**Warum Sommerlüftung Wände erst recht nass macht und Schadsalze die Luftfeuchtigkeit wie ein Schwamm in das Mauerwerk saugen.**  
+_von Konrad Fischer_
 
 ## Trocknung nasser Wände + aufsteigende Feuchtigkeit 7 
 Kondensat und Hygroskopie im naßkalten Keller und sonstwo
 
 Aufsteigende Feuchte Kapitelübersicht 
 
-[1 - Einführung zur Problemlage](2aufstfe.md) [2 - Ein schrecklicher "Trockenlegungsfall"](2auffe02.md) [3 - Feuchtequellen](2auffe03.md) [4 - Ziegel-Mauerwerk und Aufsteigende Feuchte](2auffe04.md) [5 - Naturstein-Mauerwerk und Aufsteigende Feuchte](2auffe05.md) [6 - Nachträgliche Horizontalabdichtung historischen Mauerwerks? - Mauerwerksversalzung](2auffe06.md) **7 - Kondensat und Regen** [8 - Trockenlegung oder Bauwerksschäden durch Horizontalisolierung?](2auffe08.md) [9 - Trockenlegungsschwindel - die Marketingtricks](2auffe09.md) [10 - Elektroosmose und die typischen Trockenleger-Ausreden bei Mißerfolg](2auffe10.md) [11 - Trockenlegungsexperten? - Planer und Gutachter](2auffe11.md) [12 - Trockenlegung - Industrieberatung oder der gesunde Menschenverstand? Probleme und Lösungen](2auffe12.md) [13 - Mauertrockenlegung - Die klassischen Fehler](2auffe13.md) [14 - Nasse Wände sanieren - Was sagt die Wissenschaft?](2auffe14.md) [15 - Mauerfeuchte woher? Zum historischen und wissenschaftlichen Hintergrund](2auffe15.md) 
 
-# 2. Kondensation
+
+## 2. Kondensation
 
 Der Mauerfuß steckt im kalten Erdreich. An ihm kondensiert täglich, auch und vor allem im Sommerhalbjahr, eine Unmenge von Luftfeuchte als Kondenswasser. Natürlich gilt das auch für die im Vergleich zur Raumluft oder gar zuströmenden Wärmluft von Außen kühleren Bauteile innen wie Innen- und Außenwände, Decken und Böden, Mobiliar und Lagergut. Nicht gerade wenige Hausbesitzer kommen an schwülheißen Sommertagen auf die Idee, ausgerechnet jetzt ihre dumpfkühlen Kellerlöcher mit Außenluft zu "belüften", um sie mittels weit geöffneter, auf Durchzug und sekundenschnellen Luftaustausch gestellter Kellerfenster, man höre und staune - zu TROCKNEN! 
 
@@ -27,7 +34,7 @@ Wirksame Gegenmaßnahmen:
 - Entsalzung hygroskopisch aktiver Schadsalzfrachten mit dafür geeigneten Techniken, 
 - Wandbeschichtung mit offenporigen, perfekt kapillaraktiv trocknenden und feuchteverträglichen Beschichtungen zum Abpuffern der Feuchtespitzen. Kapillarsperrende Polymere wie in Dispersions-, Silikonharz- und "Mineralfarben/Dispersionssilikatfarben" dürfen da nicht drin sein. 
 
-# 3. Beregnung
+## 3. Beregnung
 
 <center markdown>
 

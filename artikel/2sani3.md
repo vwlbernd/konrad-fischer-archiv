@@ -1,9 +1,16 @@
 ---
+nav: "20bausto.md, 21bausto.md"
 title: "Schwindel: Sanierputz auf versalzter nasser Wand - Heilt er wirklich? 3"
-description: "4\. Begünstigen Sanierputze die Austrocknung des Mauerwerwerks? 5. Entsprechen die Sanierputze gem. WTA dem WTA-Merkblatt 2-2-91, Sanierputze? Pfusch? Betrug und Scharlatanerie? Abzocke? Dummes für Dummies, Doofes für Doofe, Deppertes für Deppen?"
-author: " "
+description: "4. Begünstigen Sanierputze die Austrocknung des Mauerwerwerks? 5. Entsprechen die Sanierputze gem. WTA dem WTA-Merkblatt 2-2-91, Sanierputze? Pfusch? Betrug und Scharlatanerie? Abzocke? Dummes für Dummies, Doofes für Doofe, Deppertes für Deppen?"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2sani3.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Sanierputz-Schwindel](2sanipuz.md)  
+# Schwindel: Sanierputz auf versalzter nasser Wand - Heilt er wirklich? 3
+**4. Begünstigen Sanierputze die Austrocknung des Mauerwerwerks? 5. Entsprechen die Sanierputze gem. WTA dem WTA-Merkblatt 2-2-91, Sanierputze? Pfusch? Betrug und Scharlatanerie? Abzocke? Dummes für Dummies, Doofes für Doofe, Deppertes für Deppen?**  
+_von Konrad Fischer_
 
 ### Sanierputz - Was kann er, was nicht? 3
 

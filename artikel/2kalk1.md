@@ -1,11 +1,18 @@
 ---
-title: "Luftkalkmörtel und seine aktuelle Vergütungspraxis 2"
-description: "Zur Vergütungspraxis bei Luftkalkmörtel, Schadensphänomenen und Einsatzgrenzen bei Polymerbeschichtung."
-author: " "
+nav: "20bausto.md, 26bausto.md"
+title: "Luftkalkmörtel und seine Vergütung 2"
+description: "Zur Vergütung von Luftkalkmörtel unter Berücksichtigung von typischen Schadensphänomenen und Einsatzgrenzen bei falscher Verarbeitung und Polymerbeschichtung."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2kalk1.htm"
+updated: ""
 ---
 
-# Luftkalkmörtel und seine Vergütung 2 
+[🠔 Zur Übersicht: Luftkalk Vergütung](2kalk.md)  
+# Luftkalkmörtel und seine Vergütung 2
+**Zur Vergütung von Luftkalkmörtel unter Berücksichtigung von typischen Schadensphänomenen und Einsatzgrenzen bei falscher Verarbeitung und Polymerbeschichtung.**  
+_von Konrad Fischer_
+
+
 
 Aufklärung und ein paar kritische Worte 
 zum Problem der Rezepturen von Kalkprodukten

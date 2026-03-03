@@ -1,9 +1,23 @@
+---
+nav: "index.md, 8schloss.md"
+title: "Schöne Links rund ums Mittelalter und andere historischen Epochen / Historic sites"
+description: "Eine Reise zu Kunst, Baudenkmalen, Museen und Antiquitäten. A journey to the past 11."
+author: "Konrad Fischer"
+original_url: "www.konrad-fischer-info.de/8reise11.htm"
+updated: ""
+---
+
+[🠔 Zur Übersicht: Burgen Links 1](8reise.md)  
+# Schöne Links rund ums Mittelalter und andere historischen Epochen / Historic sites
+**Eine Reise zu Kunst, Baudenkmalen, Museen und Antiquitäten. A journey to the past 11.**  
+_von Konrad Fischer_
+
 **Eine Reise zu Kunst, Baudenkmalen, Museen und Antiquitäten 
 A journey to the past 11** 
 
 (Mit einigen meiner Reiseskizzen/with some of my sketches) 
 
-Seiten: [Links und Tips für Burgenfreunde/Castles and Forts 1](8reise.md) [2](8reise02.md) [3](8reise03.md) [4](8reise04.md) [5](8reise05.md) [6](8reise06.md) [7](8reise07.md) [8](8reise08.md) [9](8reise09.md) <a id="gast im"></a>[Gast im Schloß: 10](8reise10.md) <a id="schöne links"></a>**Mittelalter und andere historische Epochen: 11** <a id="schlösser zu verkaufen"></a>[Schlösser zu verkaufen/Castles for Sale: 12](8reise12.md) <a id="kunst"></a><a id="kunsthandel/antics/antiques/antiquitäten"></a>[Kunsthandel/Antiquitäten/Antics/Antiques/Fine Art: 13](8reise13.md)
+
 
 [Konrad Fischer](1refernz.md)
 

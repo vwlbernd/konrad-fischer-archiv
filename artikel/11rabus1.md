@@ -1,13 +1,20 @@
 ---
-title: "DAS RAUMBUCHSYSTEM - Aufgabenstellung und Umsetzung"
-description: "Von der Bestandsaufnahme zur Ausschreibung mit systematischer Bauteil-, Schadens- und Maßnahmenerfassung."
-author: " "
+nav: "11planme.md"
+title: "DIE AUFGABENSTELLUNG DES RAUMBUCHSYSTEMS"
+description: "Mit diesem System erfolgt die Zustandsbeschreibung des Bestands. Art und Umfang der erforderlichen Baumaßnahmen werden dabei berücksichtigt. Es wird angewendet bei Umbau, Modernisierung, Instandsetzung und Instandhaltung geschädigter Altbauten."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/11rabus1.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Raumbuch Einführung](11rabus.md)  
+# DIE AUFGABENSTELLUNG DES RAUMBUCHSYSTEMS
+**Mit diesem System erfolgt die Zustandsbeschreibung des Bestands. Art und Umfang der erforderlichen Baumaßnahmen werden dabei berücksichtigt. Es wird angewendet bei Umbau, Modernisierung, Instandsetzung und Instandhaltung geschädigter Altbauten.**  
+_von Konrad Fischer_
 
 Konrad Fischer 
 
-# DAS RAUMBUCHSYSTEM
+## DAS RAUMBUCHSYSTEM
 
 Zurück zur **[VORBEMERKUNG](11rabus.md)**
 

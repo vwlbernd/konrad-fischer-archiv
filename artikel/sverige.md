@@ -1,9 +1,16 @@
 ---
-title: "Renovering gamla hus + Restaurering historiska monument + Byggnadsvård"
-description: "Rådgivning, tips och tricks för husägarna av de historiska byggnader - Vanlig fel + vad fungerar egentligen."
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Restaurering av gamla hus + Beskydd av historiska monument 🇸🇪 🇫🇮"
+description: "Rådgivning, tips och tricks för vård av gamla byggnader – Vanliga fel och vad som faktiskt fungerar."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/sverige.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Nordisk](nordisk.md)  
+# Restaurering av gamla hus + Beskydd av historiska monument 🇸🇪 🇫🇮
+**Rådgivning, tips och tricks för vård av gamla byggnader – Vanliga fel och vad som faktiskt fungerar.**  
+_von Konrad Fischer_
 
  Restaurering av gamla hus + 
 Beskydd av historiska monument 🇸🇪 🇫🇮 

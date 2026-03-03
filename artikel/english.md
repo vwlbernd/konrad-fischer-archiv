@@ -1,13 +1,38 @@
 ---
-title: "Old House + Historic Monument News+Information - Repair ..."
-description: "News, Experience and advice for those, who owe, want, like or manage with old house ancient building historic monument: castle, church, cathedral, palace, ..."
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Restoration of the old house and Conservation of the historic Monument"
+description: "Advice, database and tips for owners, landlords and tenants of historic buildings regarding renovation, restoration and repair."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/english.htm"
+updated: ""
 ---
 
 
 
-# Restoration of the old house +🇬🇧🇺🇸 
+[🠔 Zur Übersicht: Languages](sitemap8.md)  
+# Restoration of the old house and Conservation of the historic Monument
+**Advice, database and tips for owners, landlords and tenants of historic buildings regarding renovation, restoration and repair.**  
+_von Konrad Fischer_
+
+> [!abstract]+ Kapitelübersicht: English: Old House Repair  
+> 1. **Restoration of the old house and Conservation of the historic Monument**
+> 2. [Restoration & Conservation of Historic Monuments: Tips, Tricks, Advice](english2.md)
+> 3. [Low-cost Repair and Rehabilitation of Old Buildings and Historical Monuments](repair.md)
+> 4. [Mold Attack - Moisture, Asthma and Allergy in the sick Building](7mold.md)
+> 5. [Mold Attack - What to do? A Guide - Part 2](7mold02.md)
+> 6. [Mold and Mildew Attack - What to do?](7mildew.md)
+> 7. [Mold and Mildew Attack - What to do? - Part 2](7mildew2.md)
+> 8. [The Fraud of the Rising Damp - Part One](2auffen.md)
+> 9. [How to heal moistured houses, wet cellars & soaked walls - Part Two: The Hoax of Moisture and Salts](2auffe2.md)
+> 10. [Building structure / Interior Room Surface IR-Heating System 1 - Properly or Risky Heating + HVAC](heating.md)
+> 11. [The Room Surface / Room Envelope Heating System 2](heating2.md)
+> 12. [Traditional Craftsmanship in Modern Mortars – Does it Work in Practice?](2rilem.md)
+> 13. [English FAQs: Building Repair, Historic Mortars, and Wood Protection](2frag20.md)
+> 14. [The American high school system: Facts and evaluation I](school.md)
+> 15. [The American high school system: Facts and evaluation II](school2.md)
+> 16. [The American high school system: Facts and evaluation III](school3.md)
+
+## Restoration of the old house +🇬🇧🇺🇸
 Conservation of the historic Monument
 
 ## Architecture Magazine for Renovation, Restoration and Repair
@@ -712,6 +737,7 @@ Baroque half-timbered framework house before and after repair with traditional a
 <center markdown>
 
 [Kloster Reichenstein](http://www.kloster-reichenstein.de) - Fundraising-Video 
+[![YouTube Video Vorschau](../medien/f6dYKbW1VaA.jpg)](https://www.youtube.com/watch?v=f6dYKbW1VaA)
 
 </center>
 

@@ -1,38 +1,28 @@
 ---
-title: "Beratungsangebote- Linksammlung 17"
-description: "Strategie-Tipps Homepage, Web Marketing + Internet-Starter, Reich werden im WWW"
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Mindestens 10 erprobte DIY-Tipps zum Homepage-Marketing für Internet-Anfänger"
+description: "Umfassende DIY-Tipps für Homepage-Marketing und Online-Auftritt. Erfahren Sie, wie Internet-Anfänger durch Webdesign und gezieltes Online-Marketing erfolgreich im WWW werden können."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/8berat17.htm"
+updated: ""
 ---
 
-# Spezial: Strategie-Tipps Homepagemarketing und Online-Auftritt
+[🠔 Zur Übersicht: Beratung Altbau](8berat.md)  
+# Mindestens 10 erprobte DIY-Tipps zum Homepage-Marketing für Internet-Anfänger
+**Umfassende DIY-Tipps für Homepage-Marketing und Online-Auftritt. Erfahren Sie, wie Internet-Anfänger durch Webdesign und gezieltes Online-Marketing erfolgreich im WWW werden können.**  
+_von Konrad Fischer_
+
+## Spezial: Strategie-Tipps Homepagemarketing und Online-Auftritt
 
 ## WWW-Internet-Strategien - aber wie? 
 Web-Anfänger? Erprobte Tipps & Tricks 
 Reich werden durch DIY-Webdesign ohne Designer & Online-Marketing?
 
-Beratungs-Webseite in Unterkapitel aufgeteilt: 
-[1. Zum Einstieg](8berat.md) 
-[2. Denkmalämter und verwandte Institutionen](8berat02.md) 
-[3. Denkmalpflege, Altbau und Stadtentwicklung ](8berat03.md) 
-[4. Translozierung / Relocation von Baudenkmalen](8berat04.md) 
-[5. Diverse Denkmal- und Museumslinks deutsch und international](8berat05.md) 
-[6. Aufsätze und Vorträge zu Problemen der Denkmalpflege](8berat06.md) 
-[7. Restauratoreninfo](8berat07.md) 
-[8. Internationale Denkmal- und Restaurierungslinks](8berat08.md) 
-[9. Altbauarchitekten / -handwerker](8berat09.md) 
-[10. Bauwesen allgemein / Ausschreibungsinfo / DIY-Info 1](8berat10.md) 
-[11. Bauwesen allgemein / Ausschreibungsinfo / DIY-Info 2](8berat11.md) 
-[12. Recht und Steuer / Verbraucherschutz](8berat12.md) 
-[13. Versicherungen](8berat13.md) 
-[14. Mieten/Vermieten/Immobilien/Baudenkmal/Schloß/Castle kaufen/Bauen auf dem Lande - Landwirtschaftsinfo](8berat14.md) 
-[15. Ausgewählte Umweltlinks](8berat15.md) 
-[16. Weitere Informationen/Medien/Suchmaschinen/Gesundheit/Links zu schönen/frechen Seiten](8berat16.md) 
-[17. PS. Tips für Internet-Anfänger](8berat17.md)
+
 
 <center markdown>
 
-# Mindestens 10 erprobte DIY-Tipps zum Homepage-Marketing für Internet-Anfänger
+
 
 ## Homepage selber basteln - Reich werden im WWW?
 

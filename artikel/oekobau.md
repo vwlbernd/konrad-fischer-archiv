@@ -1,11 +1,26 @@
 ---
-title: "Das ökologische Bauen und die Baubiologie - eine kritische Auseinandersetzung ..."
-description: "Baubiologie, Ökobau und gesundes Bauen - Richtig und falsch."
-author: " "
+nav: "index.md, altbau.md"
+title: "Das ökologische Bauen und die Baubiologie - eine kritischsatirische Abrechnung 1"
+description: "Eine kritisch-satirische Abrechnung über ökologisches Bauen, Baubiologie und gesundes Bauen – Richtig und falsch in der Praxis."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/oekobau.htm"
+updated: ""
 ---
 
-# Vorsicht! KEIN Ratgeber!
+[🠔 Zur Übersicht: Pfusch-Anleitung (Satire)](altbau.md)  
+# Das ökologische Bauen und die Baubiologie - eine kritischsatirische Abrechnung 1
+**Eine kritisch-satirische Abrechnung über ökologisches Bauen, Baubiologie und gesundes Bauen – Richtig und falsch in der Praxis.**  
+_von Konrad Fischer_
+
+> [!abstract]+ Kapitelübersicht: Ökobau  
+> 1. **Das ökologische Bauen und die Baubiologie - eine kritischsatirische Abrechnung 1**
+> 2. [Das ökologische Bauen und die Baubiologie - eine kritischsatirische Abrechnung 1](oekobau2.md)
+> 3. [Das ökologische Bauen und die Baubiologie - eine kritischsatirische Abrechnung 1](oekobau3.md)
+> 4. [Das ökologische Bauen und die Baubiologie - eine kritischsatirische Abrechnung 4](oekobau4.md)
+> 5. [Das ökologische Bauen und die Baubiologie - eine kritischsatirische Abrechnung 5](oekobau5.md)
+> 6. [Das ökologische Bauen und die Baubiologie - eine kritischsatirische Abrechnung 6](oekobau6.md)
+
+## Vorsicht! KEIN Ratgeber!
 
 
 

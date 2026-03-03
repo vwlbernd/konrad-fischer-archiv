@@ -1,17 +1,43 @@
 ---
-title: "Fenster"
-description: "Fensterperversionen - Zu Anstrichsystemen auf Holzuntergründen innen und außen - Holzschutz mit und ohne Gift."
-author: " "
+nav: "20bausto.md"
+title: "Alte Fenster - Erneuern oder Erhalten?"
+description: "Analyse der Probleme beim Austausch alter Fenster und Türen: Heizkostenersparnis vs. Schimmelbildung. Ein Fallbeispiel zeigt die Risiken moderner, komplettdichter Fenster."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/23bausto.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Altbau Restaurierung](20bausto.md)  
+# Alte Fenster - Erneuern oder Erhalten?
+**Analyse der Probleme beim Austausch alter Fenster und Türen: Heizkostenersparnis vs. Schimmelbildung. Ein Fallbeispiel zeigt die Risiken moderner, komplettdichter Fenster.**  
+_von Konrad Fischer_
 
 ## Altbautaugliche Verfahren und Baustoffe 
 Kapitel 3+4+5 - Fenster / Holzanstrich / Holzschutz
 
-Kapitel: Fensterprobleme: **1. Alte Fenster - Erneuern oder Erhalten?** [<a id="klimatisierung"></a>[2. Die Schadensfolgen moderner Fenster - Betrug am Kunden durch Schwachverstand? Problem: Klimatisierung + Lüftungsanlage](23bau02.md)] [3. Thema Glas und schwitzende Fenster](23bau03.md) [4. Historische Bleiglasfenster](23bau04.md) [<a id="fensterbau frontale 2000"></a>[5. Tendenzen der Fensterperversion - Lüften / Dichten](23bau05.md)] [6. Feuchte- u. Energieproblematik am Fenster](23bau06.md) [7. Zu guter Letzt - warum gute Fenster weggeschmissen werden](23bau07.md) 
-Holzanstrich: [<a id="4. geeignete und ungeeignete farbsysteme auf"></a>[8. Geeignete + ungeeignete Farbsysteme auf Holzuntergründen im Innen- u. Außenbereich](23bau08.md)] [9. Fensterhandwerk - quo vadis?](23bau09.md) [<a id="fachwerkanstrich"></a><a id="rostschutzfarbe"></a>[10. Hinweise zum Fachwerkanstrich außen / Rostschutzfarbe - Anstrich auf Eisen](23bau10.md)] 
-Fensterbestandsaufnahme + Instandsetzungsplanung: [<a id="best. u. ausschr. altfenster"></a>[11. Bestandsaufnahme + Ausschreibung zur Erhaltung alter Fenster](23bau11.md)] [12. Praxistaugliche Bestandsaufnahme von Fensterkonstruktionen - Anforderungen + Ziele](23bau12.md) [13. Arbeitsvoraussetzungen der Bestandsaufnahme historischer Fensterkonstruktionen](23bau13.md) [14. Reparaturplanung für alte Fenster](23bau14.md) [15. Kostenberechnung + Ausschreibung für die Instandsetzung historischer Fensterkonstruktionen](23bau15.md) 
-Holzschutz:[<a id="5. wirksamer bekämpfender und vorbeugender"></a>[16. Holzschutz ohne Gift](23bau16.md)] [17. Giftfreien Holzschutz gegen Widerstände verwirklichen](23bau17.md) [<a id="holzschutzlinks"></a><a id="surftipps für dialektiker"></a>[18. Sind zugelassene vergiftete Holzschutzmittel unschädlich? / Surftips für Dialektiker - Gegenteilige/Ergänzende Links - Nix + niemand glauben - Bilden Sie sich eine eigene Meinung](23bau18.md)] 
+> [!abstract]+ Kapitelübersicht: Fenster & Holzschutz  
+> 1. **Alte Fenster - Erneuern oder Erhalten?**
+> 2. [Die Schadensfolgen moderner Fenster - Problem Lüftungsanlage + Klimaanlage, kontrollierte Wohnraumlüftung [2]](23bau02.md)
+> 3. [Fensterprobleme 3 - Isolierfenster / Isolierglas](23bau03.md)
+> 4. [Historische Bleiglasfenster](23bau04.md)
+> 5. [Tendenzen des Fensterperversion - Lüften und/oder Dichten](23bau05.md)
+> 6. [Feuchte- und Energieproblematik am Fenster](23bau06.md)
+> 7. [Zu guter Letzt - warum dennoch gute Fenster weggeschmissen und mit Pfuschfenstern gnadenlos erneuert werden [7]](23bau07.md)
+> 8. [Geeignete und ungeeignete Farbsysteme auf Holzuntergründen im Innen- und Außenbereich](23bau08.md)
+> 9. [Fensterhandwerk - quo vadis?](23bau09.md)
+> 10. [Hinweise zum Thema: Fachwerkanstrich außen](23bau10.md)
+> 11. [Bestandsaufnahme und Ausschreibung für die Erhaltung von alten Fenstern](23bau11.md)
+> 12. [Praxistaugliche Bestandsaufnahme von Fensterkonstruktionen - Anforderungen und Ziele](23bau12.md)
+> 13. [Arbeitsvoraussetzungen der Bestandsaufnahme von historischen Fensterkonstruktionen](23bau13.md)
+> 14. [Reparaturplanung für historische Fensterkonstruktionen](23bau14.md)
+> 15. [Kostenberechnung und Ausschreibung für die Instandsetzung historischer Fensterkonstruktionen](23bau15.md)
+> 16. [Info zu Schädlingsbefall und holzzerstörenden Befall](23bau16.md)
+> 17. [Haus und Holz vergiften und zerstören mit giftigen Holzschutzmitteln nach DIN 68 800 oder giftfreien Holzschutz gegen Widerstände verwirklichen [17]](23bau17.md)
+> 18. [Sind zugelassene vergiftete Holzschutzmittel für Menschen unschädlich?](23bau18.md)
+> 19. [Historische / Alte Fenster und Türen - erhalten / instandsetzen oder erneuern / modernisieren?](11fet.md)
+> 20. [Anstrich auf Holzoberflächen](2oel.md)
+
+
 
 Hinweis: Wie es um die Erhaltung oder Erneuerung alter Fenster und Türen aussieht, wie man dafür eine kostengünstige Bestandsaufnahme, Planung und Ausschreibung erstellt, lesen Sie im Detail hier: 
 
@@ -32,7 +58,7 @@ _Papst Paul IV.
 
 <a id="3. erneuerung oder erhalt von altfenstern"></a>
 
-# 3. Alte Fenster - Erneuern oder Erhalten? [1]
+## 3. Alte Fenster - Erneuern oder Erhalten? [1]
 
 ![](../medien/MWFEA.JPG)Barockfenster vor ... ![](../medien/MWFEN.JPG)... und nach Reparatur und Ergänzung durch Innenfenster 
 

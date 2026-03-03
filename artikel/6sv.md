@@ -1,11 +1,18 @@
 ---
-title: "Denkmalpflege/Denkmalschutz/Restaurierung/Konservierung/Rekonstruktion/Sanierung - Kritik"
-description: "Nachdenkliches, Besinnliches, Empfehlenswertes, Dummes und Freches aus und zur Denkmalpflege."
-author: " "
+nav: "index.md"
+title: "Denkmalpflege / Denkmalschutz / Restaurierung / Konservierung / Rekonstruktion / Sanierung - Kritik"
+description: "Kritische Betrachtung von Denkmalpflege, Denkmalschutz, Restaurierung und Sanierung. Eine Auseinandersetzung mit der Praxis, Ideologie und den Folgen von Eingriffen am Baudenkmal."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/6sv.htm"
+updated: ""
 ---
 
+[🠔 Zur Übersicht: Bauberatung](6prxratg.md)  
 # Denkmalpflege / Denkmalschutz / Restaurierung / Konservierung / Rekonstruktion / Sanierung - Kritik
+**Kritische Betrachtung von Denkmalpflege, Denkmalschutz, Restaurierung und Sanierung. Eine Auseinandersetzung mit der Praxis, Ideologie und den Folgen von Eingriffen am Baudenkmal.**  
+_von Konrad Fischer_
+
+
 
 ### Vorträge, pointierte Kurzfassungen - Meinungen aus und zur musealen und Baudenkmalpflege - Schloßmuseum und Museumsschloß - 
 und eine reiche Literaturauswahl für die Liebhaber von Burgen und Schlössern

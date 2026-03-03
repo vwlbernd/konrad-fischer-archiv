@@ -1,13 +1,20 @@
 ---
-title: "Prof. Ivo Hammer: DIE MALTRÄTIERTE HAUT"
-description: "Anmerkungen zur Behandlung verputzter Architekturoberfläche in der Denkmalpflege mit Silikatfarbe / Silikatanstrich / Reinsilikatfarbe oder Kalktünche / Kalkfärbelung."
-author: " "
+nav: "20bausto.md"
+title: "Die malträtierte Haut: Kalk vs. Silikat in der Denkmalpflege"
+description: "Warum moderne Anstriche historische Fassaden ersticken und das Plädoyer für die Rückkehr zur echten Kalktünche."
+author: "Ivo Hammer, Wien"
 original_url: "www.konrad-fischer-info.de/2ivo.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Fassade & Anstrich](22bausto.md)  
+# Die malträtierte Haut: Kalk vs. Silikat in der Denkmalpflege
+**Warum moderne Anstriche historische Fassaden ersticken und das Plädoyer für die Rückkehr zur echten Kalktünche.**  
+_von Ivo Hammer, Wien_
 
 Ivo Hammer, Wien 
 
-# Die malträtierte Haut
+## Die malträtierte Haut
 
 ## Anmerkungen zur Behandlung verputzter Architekturoberfläche in der Denkmalpflege
 

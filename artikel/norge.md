@@ -1,13 +1,20 @@
 ---
-title: "Restaurering av gamle hus + Konservering / Bevaring av en ..."
+title: "Restaurering av gamle hus + Konservering av en historisk bygning"
 description: "Råd, byggeskikkveileder og tipps for eiere av historiske byggverk og fredte bygg - Vanlige feil + Hva virkelig virker."
-author: " "
+author: "Konrad Fischer"
+updated: ""
+nav: "index.md, 6prxratg.md"
 original_url: "www.konrad-f Fischer-info.de/norge.htm"
 ---
 
 
 
-# Restaurering av gamle hus + 🇳🇴 
+[🠔 Zur Übersicht: Nordisk](nordisk.md)  
+# Restaurering av gamle hus + Konservering av en historisk bygning
+**Råd, byggeskikkveileder og tipps for eiere av historiske byggverk og fredte bygg - Vanlige feil + Hva virkelig virker.**  
+_von Konrad Fischer_
+
+## Restaurering av gamle hus + 🇳🇴
 Konservering av en historisk bygning
 
 Arkitektur magasin for restaurering, renovasjon, oppussing, modernisering og reparasjon 

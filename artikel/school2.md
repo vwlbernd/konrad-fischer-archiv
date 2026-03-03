@@ -1,6 +1,20 @@
+---
+nav: "index.md"
+title: "The American high school system: Facts and evaluation II"
+description: "An in-depth analysis of the American high school system, covering its four-year program, daily schedule, grading, and extracurriculars, presented as a school thesis from Meranier-Gymnasium Lichtenfels."
+author: "Felix Lindner"
+original_url: "www.konrad-fischer-info.de/school2.htm"
+updated: "25.01.2008"
+---
+
+[🠔 Zur Übersicht: English: Old House Repair](english.md)  
+# The American high school system: Facts and evaluation II
+**An in-depth analysis of the American high school system, covering its four-year program, daily schedule, grading, and extracurriculars, presented as a school thesis from Meranier-Gymnasium Lichtenfels.**  
+_von Felix Lindner • aktualisiert 25.01.2008_
+
 ### Felix Lindner
 
-# The American high school system: 
+## The American high school system:
 Facts and evaluation II
 
 ## Facharbeit aus dem Fach Englisch 

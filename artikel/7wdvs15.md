@@ -1,21 +1,26 @@
 ---
-title: "Energiesparen und Wärmeschutz am Altbau 15"
-description: "Wohnklima? in vorschriftsgemäß gedämmten Bauwerken"
-author: " "
+nav: "20bausto.md"
+title: "Wohnklima? in vorschriftsgemäß gedämmten Bauwerken"
+description: "Kritische Analyse des Wohnklimas in gedämmten Bauwerken, die sich mit Schimmelpilzbefall und den daraus resultierenden Problemen in deutschen Wohnungen auseinandersetzt."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/7wdvs15.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Energiesparen](7wsvoant.md)  
+# Wohnklima? in vorschriftsgemäß gedämmten Bauwerken
+**Kritische Analyse des Wohnklimas in gedämmten Bauwerken, die sich mit Schimmelpilzbefall und den daraus resultierenden Problemen in deutschen Wohnungen auseinandersetzt.**  
+_von Konrad Fischer_
 
 _[Konrad Fischer](1refernz.md)_
 
 ## Energiesparen und Wärmeschutz am Altbau 15 - Wohnklima? in vorschriftsgemäß gedämmten Bauwerken
 
-Von der Intelligenz moderner Baumethoden/Haustechnik/Schimmelpilzzüchtung usw. 
-Wissenschaftsdogmatik am Bau und in den Klima-Simulatoren 
-Energiesparen und Wärmeschutz Kapitel [Einleitung](7wsvoant.md) [1](7wdvs01.md) [2](7wdvs02.md) [3](7wdvs03.md) [4](7wdvs04.md) [5](7wdvs05.md) [6](7wdvs06.md) [7](7wdvs07.md) [8](7wdvs08.md) [9](7wdvs09.md) [10](7wdvs10.md) [11](7wdvs11.md) [12](7wdvs12.md) [13](7wdvs13.md) [14](7wdvs14.md) **15** [16](7wdvs16.md) [17](7wdvs17.md) [18](7wdvs18.md) [19](7wdvs19.md) [20](7wdvs20.md) [21](7wdvs21.md) 
+
 
 <a id="aus einer anzeige"></a>
 
-# Wohnklima? in vorschriftsgemäß gedämmten Bauwerken
+
 
 > Zur Schimmelpest: [Energie Journal des _**stern** _46/2000](21316bau.md#stern)
 > 

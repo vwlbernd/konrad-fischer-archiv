@@ -1,15 +1,22 @@
 ---
-title: "Characterisation of old mortars with respect to their repair"
-description: "Traditional Craftmanship in modern Mortars - Does it work in practice? With some good links to Scotland, Castles, building research and conservation."
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Traditional Craftsmanship in Modern Mortars – Does it Work in Practice?"
+description: "This article discusses the use of lime mortar in old building restoration, highlighting the need for traditional craftsmanship to avoid mistakes and damage to newly used materials and original facades."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2rilem.htm"
+updated: "14.11.2008"
 ---
+
+[🠔 Zur Übersicht: English: Old House Repair](english.md)  
+# Traditional Craftsmanship in Modern Mortars – Does it Work in Practice?
+**This article discusses the use of lime mortar in old building restoration, highlighting the need for traditional craftsmanship to avoid mistakes and damage to newly used materials and original facades.**  
+_von Konrad Fischer • aktualisiert 14.11.2008_
 
 <a id="international"></a>
 
 ## International Workshop 12.-15. Mai 1999 
 
-# "Characterisation of old mortars with respect to their repair"
+## "Characterisation of old mortars with respect to their repair"
 
 **(updated 14.11.08)**
 

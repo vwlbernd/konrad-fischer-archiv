@@ -1,9 +1,16 @@
 ---
+nav: "index.md, 6prxratg.md"
 title: "Αποκατάσταση του παλαιού σπιτιού + συντήρηση του ιστορικού μνημείου"
-description: "Περιοδικό αρχιτεκτονικής για την ανακαίνιση, την αποκατάσταση και την επισκευή - Συμβουλές και άκρες για τους ιδιοκτήτες των ιστορικών κτηρίων."
-author: " "
+description: "Free, independent, critical, and controversial information on repairing old buildings, and the restoration and preservation of historical monuments."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/ellas.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Roman & Balkan](roman.md)  
+# Αποκατάσταση του παλαιού σπιτιού + συντήρηση του ιστορικού μνημείου
+**Free, independent, critical, and controversial information on repairing old buildings, and the restoration and preservation of historical monuments.**  
+_von Konrad Fischer_
 
 Αποκαταστήσατε το παλαιό κτήριό σας; Αυτό που συμβαίνει; Η τολμηρή εργασία της ανακαίνισης, της αναδημιουργίας, της αποκατάστασης ή του εκσυγχρονισμού απέτυχε; Όλες τα χρήματα και η ελπίδα σας χάνονται;
 

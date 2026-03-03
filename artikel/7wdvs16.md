@@ -1,17 +1,22 @@
 ---
-title: "Energiesparen und Wärmeschutz am Altbau 16"
-description: "Wohnungslüftung in gedämmten Buden - Fluch oder Segen?"
-author: " "
+nav: "20bausto.md"
+title: "Wohnungslüftung in gedämmten Buden - Fluch oder Segen?"
+description: "Dieser Text analysiert die Lüftungsproblematik in gedämmten Gebäuden und die Wirksamkeit moderner Anlagentechnik als Lösung für Feuchtemisere. Er hinterfragt die Effizienz bei der Reduktion von Schadstoffen und Schimmel."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/7wdvs16.htm"
+updated: "04.04.2009"
 ---
+
+[🠔 Zur Übersicht: Energiesparen](7wsvoant.md)  
+# Wohnungslüftung in gedämmten Buden - Fluch oder Segen?
+**Dieser Text analysiert die Lüftungsproblematik in gedämmten Gebäuden und die Wirksamkeit moderner Anlagentechnik als Lösung für Feuchtemisere. Er hinterfragt die Effizienz bei der Reduktion von Schadstoffen und Schimmel.**  
+_von Konrad Fischer • aktualisiert 04.04.2009_
 
 _[Konrad Fischer](1refernz.md)_
 
 ## Energiesparen und Wärmeschutz am Altbau 16 - Wie sollen wir richtig bauen?
 
-Von der Intelligenz moderner Baumethoden/Haustechnik/Schimmelpilzzüchtung usw. 
-Wissenschaftsdogmatik am Bau und in den Klima-Simulatoren 
-Energiesparen und Wärmeschutz Kapitel [Einleitung](7wsvoant.md) [1a](7wdvs01.md) [2](7wdvs02.md) [3](7wdvs03.md) [4](7wdvs04.md) [5](7wdvs05.md) [6](7wdvs06.md) [7](7wdvs07.md) [8](7wdvs08.md) [9](7wdvs09.md) [10](7wdvs10.md) [11](7wdvs11.md) [12](7wdvs12.md) [13](7wdvs13.md) [14](7wdvs14.md) [15](7wdvs15.md) **16** [17](7wdvs17.md) [18](7wdvs18.md) [19](7wdvs19.md) [20](7wdvs20.md) [21](7wdvs21.md) 
+
 
 **(aktualisiert 4.04.09)** 
 

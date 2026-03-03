@@ -1,9 +1,16 @@
 ---
-title: "Restauration de la Maison Ancienne + Conservation des Monuments ..."
-description: "Conseils et aide pour les propriétaires d'anciens bâtiments et les mâitre d'œuvre de restauration, réhabilitation et rénovation de vieilles maisons, ..."
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Restauration de la Maison Ancienne + Conservation des Monuments 🇫🇷🇨🇦🇧🇪"
+description: "Conseils et aide pour les propriétaires d'anciens bâtiments et les mâitre d'œuvre de la rénovation et des maisons historiques"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/francais.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Roman & Balkan](roman.md)  
+# Restauration de la Maison Ancienne + Conservation des Monuments 🇫🇷🇨🇦🇧🇪
+**Conseils et aide pour les propriétaires d'anciens bâtiments et les mâitre d'œuvre de la rénovation et des maisons historiques**  
+_von Konrad Fischer_
 
  Restauration de la Maison Ancienne + 
 Conservation des Monuments 🇫🇷🇨🇦🇧🇪 

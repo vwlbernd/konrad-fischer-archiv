@@ -1,20 +1,20 @@
 ---
+nav: "7epass.md"
 title: "Niedrigenergie- und Passivhaus im Kreuzfeuer 11"
-description: "Energiesparen - aber richtig! Prof. Meiers kontroverse Beiträge zum Dämmwahn 32."
-author: " "
+description: "Prof. Meiers kritischer Beitrag in Bauhandwerk/Bausanierung (1/2001) als "Contra Passivhaus" gegen die Pro-Argumente von Dr. Feist, beleuchtet Schwachstellen und Mythen der Bauweise."
+author: "Prof. Dr.-Ing. habil. Claus Meier"
 original_url: "www.konrad-fischer-info.de/7waefe32.htm"
+updated: "01.01.2001"
 ---
 
-# Prof. Meiers kontroverse Beiträge zum Energiesparen 32
+[🠔 Zur Übersicht: Passivhaus 1](7waefe22.md)  
+# Niedrigenergie- und Passivhaus im Kreuzfeuer 11
+**Prof. Meiers kritischer Beitrag in Bauhandwerk/Bausanierung (1/2001) als "Contra Passivhaus" gegen die Pro-Argumente von Dr. Feist, beleuchtet Schwachstellen und Mythen der Bauweise.**  
+_von Prof. Dr.-Ing. habil. Claus Meier • aktualisiert 01.01.2001_
 
-[Das malträtierte Haus - zum Dämmschwindel und Energiepaß-Betrug](7epass.md) 
-[Contra EnEV](7waefe.md) 
-[Wärme- und Feuchteschutz beim Altbau - Theorie und Wirklichkeit 1](7waefe02.md) [2](7waefe03.md) [3](7waefe04.md) [4](7waefe05.md) [5](7waefe06.md) [6](7waefe07.md) [7](7waefe08.md) [ 8](7waefe09.md) 
-[Verbundsysteme für die Fassade-kritisch betrachtet 1](7waefe10.md) [2](7waefe11.md) 
-[Wohnungsbaubestand und Wärmeschutz 1](7waefe12.md) [2](7waefe13.md) [3](7waefe14.md) [4](7waefe15.md) [5](7waefe16.md) [6](7waefe17.md) [7](7waefe18.md) 
-[Rechtliche Randbedingungen des Gebäudewärmeschutzes 1](7waefe19.md) [2](7waefe20.md) [3](7waefe21.md) 
-[Niedrigenergie- und Passivhäuser im Kreuzfeuer/Contra Passivhaus 1](7waefe22.md) [2](7waefe23.md) [3](7waefe24.md) [4](7waefe25.md) [5](7waefe26.md) [6](7waefe27.md) [7](7waefe28.md) [8](7waefe29.md) [9](7waefe30.md) [10](7waefe31.md) **11** 
-[Widersprüche im Wärmeschutz - Die allgegenwärtige k/U-Wert Euphorie 1](7waefe33.md) [2](7waefe34.md) 
+## Prof. Meiers kontroverse Beiträge zum Energiesparen 32
+
+
 
 Prof. Dr.-Ing. habil. Claus Meier 
 Architekt SRL 
@@ -24,7 +24,7 @@ Tel.: 0911/6897526 Fax: 0911/6897527
 
 <a id="niedrigenergie- und passivhäuser im kreuzfeuer"></a>
 
-# Niedrigenergie- und Passivhaus im Kreuzfeuer 11
+
 
 In Bauhandwerk/Bausanierung erschien dann 1/2001 folgender Beitrag Prof. Meiers als Contra Passivhaus gegen eine Pro von Dr. Feist, das wegen seiner rein werbenden Behauptungen hier nichts zu suchen hat:
 

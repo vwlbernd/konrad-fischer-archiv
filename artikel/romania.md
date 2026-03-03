@@ -1,9 +1,16 @@
 ---
+nav: "index.md, 6prxratg.md"
 title: "Restaurarea Caselor Vechi + Conservarea Monumentelor Istorice"
-description: "Recomandări, tips şi tricuri pentru proprietarii clădirilor istorice - Greşeli uzuale + Ce realmente funcţionează."
-author: " "
+description: "Online-Informaţii independente şi critice pentru repararea clădirilor vechi, restaurarea şi întreţinerea monumentelor istorice de arhitectură, şi conservarea valorilor de artă. Evită greșelile uzuale."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/romania.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Roman & Balkan](roman.md)  
+# Restaurarea Caselor Vechi + Conservarea Monumentelor Istorice
+**Online-Informaţii independente şi critice pentru repararea clădirilor vechi, restaurarea şi întreţinerea monumentelor istorice de arhitectură, şi conservarea valorilor de artă. Evită greșelile uzuale.**  
+_von Konrad Fischer_
 
 A eşuat deja şantierul tău? Restaurarea sau renovarea, sanarea, modernisarea si modifcarea căsuţei istorice din piatră, lemn şi mortar s-a dus pe rîpă? Ai prăpădit banii tăi cu greu adunaţi şi succesele meşterilor, sclavilor şi ciubucarilor, munca ta şi Do-it-Yourself, ajutorul vecinilor şi toate speranţele? Pierduţi şi dispăruţi pe veşnicie? 
 

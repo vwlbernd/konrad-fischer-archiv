@@ -1,9 +1,16 @@
 ---
-title: "Architekt Gerhard Bolten: WDVS - Ein Konflikt zwischen Aesthetik, Energiesparen und Technik."
-description: "Architekt Gerhard Bolten, Hamburg: Kritische Anmerkungen zur Extremdämmung."
-author: " "
+nav: "7epass.md"
+title: "WDVS: Ein Konflikt zwischen Aesthetik, Energiesparen und Technik"
+description: "Architekt Gerhard Bolten analysiert den Konflikt zwischen Ästhetik und Extremdämmung: Warum die künstliche Einpackung unserer Häuser technisch fragwürdig und baukulturell verheerend ist."
+author: "Gerhard Bolten"
 original_url: "www.konrad-fischer-info.de/2bolten.htm"
+updated: "08.02.2005"
 ---
+
+[🠔 Zur Übersicht: Widersprüche 1](7waefe33.md)  
+# WDVS: Ein Konflikt zwischen Aesthetik, Energiesparen und Technik
+**Architekt Gerhard Bolten analysiert den Konflikt zwischen Ästhetik und Extremdämmung: Warum die künstliche Einpackung unserer Häuser technisch fragwürdig und baukulturell verheerend ist.**  
+_von Gerhard Bolten • aktualisiert 08.02.2005_
 
 Ein kritischer Fachbeitrag zum Energiesparthema aus Hamburg. Vom Nachrichtenmagazin SPIEGEL am 26.3.2005 zusammengefaßt publiziert: "Klimaschutz - Algen am Haus". Für diese Webseitenveröffentlichung vom Autor freigegeben.
 
@@ -18,7 +25,7 @@ Veranstalter : Initiative Arbeit und Umwelschutz c/o Behörde für Stadtentwickl
 Tagung 8.Februar 2005. 
 Eröffnungsreferat [Gerhard Bolten](http://www.gerhard-bolten.de)
 
-EINLEITUNG
+## EINLEITUNG
 
 2003 hat das ArchitekturCentrum ein Kongreß zu Zukunft der Siedlungen aus den 50er und 60er Jahren veranstaltet. Ein Ergebnis war die Erkenntnis, daß man sich stärker mit den stadtgestalterischen Folgen der Umstrukturierung dieser Gebäude auseinandersetzen müsse. Im Mai war ich vom Initiativkreis "Arbeit und Umweltschutz" gebeten, etwas zu Perspektiven für die Hamburger Wohnsiedlungen" zu sagen. Weil diese Äußerungen teilweise kritisch ausfielen, bin ich jetzt geladen und angekündigt mit einem Referat zu **"Welchen Einfluß haben Wärmedämmverbundsysteme auf das Stadtbild?"**
 

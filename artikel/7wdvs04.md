@@ -1,15 +1,22 @@
 ---
-title: "Energiesparen, und Klimalügen 4"
-description: "Wetter, Klima und Apokalypsenlyrik - Aufklärung"
-author: " "
+nav: "20bausto.md"
+title: "Energiesparen, Klimalügen, Klimaschwindel, Klimapolitik, Solarenergie, Solartechnik 4 - Eine kleine unendliche Geschichte der Ökoabzocke"
+description: "Von der Intelligenz moderner Baumethoden/Haustechnik/Schimmelpilzzüchtung usw. Ökovampirismus: Klimaschutzblutsauger auf der Jagd. Bevor wir mit der Kritik anfangen, erst mal ein paar gute Worte zur ökologisch sinnvollen Solartechnik vorab: Selbstverständlich hat der Solarstrom und die Solarstromgewinnung wie alle Dinge zwei Seiten - eine Licht- und eine Schattenseite. Erst mal die sonnige Seite der Medaille: Daß man mit Solarzellen im Outdoorbereich bzw. dort, wo es absolut keine Steckdose für das Handy, iPhone, PDA, das Laptop, den Akku-Rasierer, MP3-Player (iPod), Radioapparat, Navigationsgeräte, Videokamera und Digitalkamera / Digital-Fotoapparat und Taschenrechner für das Trekking oder sonstwie auf Reisen zur Verfügung hat, sind mobile Solarmodule bzw. ein mobiles Solar-Ladegerät mit Solar-Akku das Mittel der Wahl und sozusagen lebenswichtig, teils auch überlebenswichtig. Und wer als Reisender schon mal mit einem leeren Handy-Akku blöd herumgestanden ist, beim Wandern, Bergwandern, Bergtour, Wüstentour oder im Urwald Amazoniens, auf Fluß, See oder Meer, Radtour, Reittour, Kanutour oder Paddeltour, beim Campen / Camping oder mit defektem Wohnmobil, der weiß genau, was es bedeuten würde, dann eine Solarzellenanlage als faltbares oder rollbares Solarmodul / Solarpanel / Solar-Faltmodul auf Basis der Dünnschichttechnologie CIGS (Kupfer-Indium-Gallium-Diselenid) oder a-Si (amorphes Silizium) zu haben, aus der man seinen notwendigen Strom zum Betrieb der schönen modernen Gerätschaften aufladen / zapfen / nachladen kann. Freilich nur tagsüber bei Sonne am Himmel. Fazit: Mobile Solarmodule dienen einem guten Zweck und sind - dort wo alle anderen Stromquellen versagen bzw. fehlen - unersetzlich und deswegen eine prima Sache, jawollja!"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/7wdvs04.htm"
+updated: ""
 ---
 
-# Energiesparen und Wärmeschutz am Altbau 4
+[🠔 Zur Übersicht: Energiesparen](7wsvoant.md)  
+# Energiesparen, Klimalügen, Klimaschwindel, Klimapolitik, Solarenergie, Solartechnik 4 - Eine kleine unendliche Geschichte der Ökoabzocke
+**Von der Intelligenz moderner Baumethoden/Haustechnik/Schimmelpilzzüchtung usw. Ökovampirismus: Klimaschutzblutsauger auf der Jagd. Bevor wir mit der Kritik anfangen, erst mal ein paar gute Worte zur ökologisch sinnvollen Solartechnik vorab: Selbstverständlich hat der Solarstrom und die Solarstromgewinnung wie alle Dinge zwei Seiten - eine Licht- und eine Schattenseite. Erst mal die sonnige Seite der Medaille: Daß man mit Solarzellen im Outdoorbereich bzw. dort, wo es absolut keine Steckdose für das Handy, iPhone, PDA, das Laptop, den Akku-Rasierer, MP3-Player (iPod), Radioapparat, Navigationsgeräte, Videokamera und Digitalkamera / Digital-Fotoapparat und Taschenrechner für das Trekking oder sonstwie auf Reisen zur Verfügung hat, sind mobile Solarmodule bzw. ein mobiles Solar-Ladegerät mit Solar-Akku das Mittel der Wahl und sozusagen lebenswichtig, teils auch überlebenswichtig. Und wer als Reisender schon mal mit einem leeren Handy-Akku blöd herumgestanden ist, beim Wandern, Bergwandern, Bergtour, Wüstentour oder im Urwald Amazoniens, auf Fluß, See oder Meer, Radtour, Reittour, Kanutour oder Paddeltour, beim Campen / Camping oder mit defektem Wohnmobil, der weiß genau, was es bedeuten würde, dann eine Solarzellenanlage als faltbares oder rollbares Solarmodul / Solarpanel / Solar-Faltmodul auf Basis der Dünnschichttechnologie CIGS (Kupfer-Indium-Gallium-Diselenid) oder a-Si (amorphes Silizium) zu haben, aus der man seinen notwendigen Strom zum Betrieb der schönen modernen Gerätschaften aufladen / zapfen / nachladen kann. Freilich nur tagsüber bei Sonne am Himmel. Fazit: Mobile Solarmodule dienen einem guten Zweck und sind - dort wo alle anderen Stromquellen versagen bzw. fehlen - unersetzlich und deswegen eine prima Sache, jawollja!**  
+_von Konrad Fischer_
+
+## Energiesparen und Wärmeschutz am Altbau 4
 
 ## Energiesparen, Klimalügen, Klimaschwindel, Klimapolitik, Solarenergie, Solartechnik 4 - Eine kleine unendliche Geschichte der Ökoabzocke
 
-Kapitel [Einleitung](7wsvoant.md) [1](7wdvs01.md) [2](7wdvs02.md) [3](7wdvs03.md) **4** [5](7wdvs05.md) [6](7wdvs06.md) [7](7wdvs07.md) [8](7wdvs08.md) [9](7wdvs09.md) [10](7wdvs10.md) [11](7wdvs11.md) [12](7wdvs12.md) [13](7wdvs13.md) [14](7wdvs14.md) [15](7wdvs15.md) [16](7wdvs16.md) [17](7wdvs17.md) [18](7wdvs18.md) [19](7wdvs19.md) [20](7wdvs20.md) [21](7wdvs21.md) 
+
 
 ## Von der Intelligenz moderner Baumethoden/Haustechnik/Schimmelpilzzüchtung usw. 
 Ökovampirismus: Klimaschutzblutsauger auf der Jagd
@@ -575,12 +582,12 @@ Weitere Info zum solaren Wahnsinn und Aufklärungsfilme zur Energiegesetzgebung:
 
 <center markdown>
 
-[![Altbau und Energiespargesetze - Wahnsinn oder Methode?](../medien/YOU01.JPG)](http://youtu.be/xBp0lAxF-nU) [![Ökostrom & EEG - Fluch oder Segen?](../medien/YOU07.JPG)](http://youtu.be/2rlotB0Zog4) 
+[![Altbau und Energiespargesetze - Wahnsinn oder Methode?](../medien/YOU01.JPG)](https://youtu.be/xBp0lAxF-nU) [![Ökostrom & EEG - Fluch oder Segen?](../medien/YOU07.JPG)](https://youtu.be/2rlotB0Zog4) 
 
 ### **TV-TIPPS:**
 
 [21.11, 21.15 Uhr: BR "Geld & Leben - Zeitbombe Photovoltaik"](http://www.br.de/fernsehen/bayerisches-fernsehen/sendungen/geld-und-leben-das-wirtschaftsmagazin/wirtschaft-solar-brand100.html) - mit Konrad Fischer 
-[![Brandgefahr bei Photovoltaikanlagen \(BR - 'Geld und Leben' am 21.11.2011](../medien/YOU08.JPG)](http://youtu.be/DNqE-ZmNjUQ) 
+[![Brandgefahr bei Photovoltaikanlagen \(BR - 'Geld und Leben' am 21.11.2011](../medien/YOU08.JPG)](https://youtu.be/DNqE-ZmNjUQ) 
 [Brandgefährliches auf unseren Dächern???? - Aus photovoltaik.com](http://www.photovoltaikforum.com/pv-news-f25/brandgefaehrliches-auf-unseren-daechern--t71697.html) 
 Solarbrandinfo im [Ketzerforum: Wie geht die Feuerwehr bei einem Dachstuhlbrand vor, wenn eine Photovoltaikanlage installiert ist?](http://freezonechef.servertalk.in/freezonechef-post-56240.html) 
 

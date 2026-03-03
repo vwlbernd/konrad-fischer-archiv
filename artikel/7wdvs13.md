@@ -1,18 +1,22 @@
 ---
-title: "Energiesparen und Wärmeschutz am Altbau 13"
-description: "Kommentierte Meldungen zum Wohnklima und der 'Niedrig'-Energie-/'Passiv'-hausbauweise gem. U-/k-Wert - Feuchte, Schimmel und Algen auf gedämmten Fassaden"
-author: " "
+nav: "20bausto.md"
+title: "Energiesparen und Wärmeschutz am Altbau 13: WDVS Mängel und Schäden"
+description: "Analyse von Mängeln und Schäden an WDVS-Fassaden, einschließlich Feuchte, Schimmel und Algenbildung, sowie deren Auswirkungen auf das Wohnklima. Beispiele und Sanierungshinweise."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/7wdvs13.htm"
+updated: "04.04.2009"
 ---
+
+[🠔 Zur Übersicht: Energiesparen](7wsvoant.md)  
+# Energiesparen und Wärmeschutz am Altbau 13: WDVS Mängel und Schäden
+**Analyse von Mängeln und Schäden an WDVS-Fassaden, einschließlich Feuchte, Schimmel und Algenbildung, sowie deren Auswirkungen auf das Wohnklima. Beispiele und Sanierungshinweise.**  
+_von Konrad Fischer • aktualisiert 04.04.2009_
 
 _[Konrad Fischer](1refernz.md)_
 
 ## Energiesparen und Wärmeschutz am Altbau 13 - WDVS Wärmedämmverbundsystem - Typische Mängel und Schäden
 
-Von der Intelligenz moderner Baumethoden/Haustechnik/Schimmelpilzzüchtung usw. 
-Wissenschaftsdogmatik am Bau und in den Klima-Simulatoren 
-Energiesparen und Wärmeschutz Kapitel [Einleitung](7wsvoant.md) [1](7wdvs01.md) [2](7wdvs02.md) [3](7wdvs03.md) [4](7wdvs04.md) [5](7wdvs05.md) [6](7wdvs06.md) [7](7wdvs07.md) [8](7wdvs08.md) [9](7wdvs09.md) [10](7wdvs10.md) [11](7wdvs11.md) [12](7wdvs12.md) **13** [14](7wdvs14.md) [15](7wdvs15.md) [16](7wdvs16.md) [17](7wdvs17.md) [18](7wdvs18.md) [19](7wdvs19.md) [20](7wdvs20.md) [21](7wdvs21.md) 
-**(aktualisiert 4.04.09)** 
+
 
 <a id="kommentierte"></a>
 
@@ -318,7 +322,7 @@ Hinzu kommt aber das Tauwasser, das im feuchtluftgeschwängerten und - bis auf w
 
 Was man hierzu wissen sollte: ~ 1000 : 1 ist das Verhältnis zwischen Kapillartransport und Dampfdiffusion, wenn es um Feuchtetransport in Baustoffen geht. Und wenn sie eben keine Kapillaraktivität aufweisen, bleibt die eingedampfte Brühe eben drin. Verdampfen geht auch schlecht, weil im Dämmstoffschaumbläschen ebensowenig wie im Dämmgespinst oder der Dämmflockenschüttung keine kleinen grünen Männchen mit Tauchsieder drinsitzen, die die zwangsweise angereicherte Flüssigkeit ordentlich verdampfen. Ein Phänomen, das übrigens auch den hinter Dampfbremsen verborgenen Dämmplunder im Dach oder in der Wand betrifft. 
 
-Genau diesen Auffeuchtungsprozeß im diffusionsoffenen, aber kapillarlosen Dämmstoff PUR haben wir im Fassaden-Isolierklinkerfall in ["45 Minuten - Wahnsinn Wärmedämmung"](http://youtu.be/MKeRe7FA4Gs) (NDR) aufgezeigt. Und hinter dem wassergeschwängerten Dämmstoff war die alte Außenwand nahezu komplett vom Schwarzschimmel befallen, wie sich nun beim Abreißen der komplett nassen Dämmhaut bestätigt hat. 
+Genau diesen Auffeuchtungsprozeß im diffusionsoffenen, aber kapillarlosen Dämmstoff PUR haben wir im Fassaden-Isolierklinkerfall in ["45 Minuten - Wahnsinn Wärmedämmung"](https://youtu.be/MKeRe7FA4Gs) (NDR) aufgezeigt. Und hinter dem wassergeschwängerten Dämmstoff war die alte Außenwand nahezu komplett vom Schwarzschimmel befallen, wie sich nun beim Abreißen der komplett nassen Dämmhaut bestätigt hat. 
 
 Sowas kommt eben raus, wenn intelligenzgeschwängerte Hausverwalter, erfahrene Planer und brave Handwerker dem scherzpertengläubigen Hausbesitzer beibringen, daß er unbedingt dämmen muß. 
 

@@ -1,12 +1,44 @@
 ---
-title: "Energiesparen"
+nav: "20bausto.md"
+title: "Energiesparen und Wärmeschutz am Altbau 1"
 description: "Vom Betrug mit Bauphysik und Klimatologie - Wirtschaftlich, energiesparend und gesund bauen - Wie geht das? Einleitung - Aecht bayerischer Ökogrusel - Lohnt sich Energiesparen?"
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/7wsvoant.htm"
+updated: ""
 ---
 
-**Energiesparen und Wärmeschutz am Altbau 1** 
-Energiesparen und Wärmeschutz Kapitel **1** [1a](7wdvs01.md) [2](7wdvs02.md) [3](7wdvs03.md) [4](7wdvs04.md) [5](7wdvs05.md) [6](7wdvs06.md) [7](7wdvs07.md) [8](7wdvs08.md) [9](7wdvs09.md) [10](7wdvs10.md) [11](7wdvs11.md) [12](7wdvs12.md) [13](7wdvs13.md) [14](7wdvs14.md) [15](7wdvs15.md) [16](7wdvs16.md) [17](7wdvs17.md) [18](7wdvs18.md) [19](7wdvs19.md) [20](7wdvs20.md) [21](7wdvs21.md) 
+[🠔 Zur Übersicht: Altbau Restaurierung](20bausto.md)  
+# Energiesparen und Wärmeschutz am Altbau 1
+**Vom Betrug mit Bauphysik und Klimatologie - Wirtschaftlich, energiesparend und gesund bauen - Wie geht das? Einleitung - Aecht bayerischer Ökogrusel - Lohnt sich Energiesparen?**  
+_von Konrad Fischer_
+
+> [!abstract]+ Kapitelübersicht: Energiesparen  
+> 1. **Energiesparen und Wärmeschutz am Altbau 1**
+> 2. [Energiesparen und Wärmeschutz am Altbau 1a - Wie sollen wir richtig bauen?](7wdvs01.md)
+> 3. [EnEV-Energieausweis/Energiepass-Schwindel: Altbau-Energieberatung, Architektur+Wärmeschutz 2](7wdvs02.md)
+> 4. [Energiesparen und Wärmeschutz am Altbau 3](7wdvs03.md)
+> 5. [Energiesparen, Klimalügen, Klimaschwindel, Klimapolitik, Solarenergie, Solartechnik 4 - Eine kleine unendliche Geschichte der Ökoabzocke](7wdvs04.md)
+> 6. [Wärmedämmung oder -speicherung, Witze der etablierten Bauphysik?](7wdvs05.md)
+> 7. [Eine kleine unendliche Geschichte der Ökoabzocke](7wdvs06.md)
+> 8. [Energiesparen und Wärmeschutz am Altbau 7](7wdvs07.md)
+> 9. [Die Dämmfanatiker](7wdvs08.md)
+> 10. [Energiesparen und Wärmeschutz am Altbau 9 - Wie sollen wir richtig bauen?](7wdvs09.md)
+> 11. [Energiesparen und Wärmeschutz am Altbau 10: Wie funktioniert die k-Wert-Rechenkunst (neu U-Wert)?](7wdvs10.md)
+> 12. [Energiesparen und Wärmeschutz am Altbau 11](7wdvs11.md)
+> 13. [Energiesparen und Wärmeschutz am Altbau 12 - Wie sollen wir richtig bauen?](7wdvs12.md)
+> 14. [Energiesparen und Wärmeschutz am Altbau 13: WDVS Mängel und Schäden](7wdvs13.md)
+> 15. [Energiesparen und Wärmeschutz am Altbau 14](7wdvs14.md)
+> 16. [Wohnklima? in vorschriftsgemäß gedämmten Bauwerken](7wdvs15.md)
+> 17. [Wohnungslüftung in gedämmten Buden - Fluch oder Segen?](7wdvs16.md)
+> 18. [Energiesparen und Wärmeschutz am Altbau 17](7wdvs17.md)
+> 19. [Die Energetische Sanierung von Altbauten und ihre Folgen](7wdvs18.md)
+> 20. [Energiesparen und Wärmeschutz am Altbau 19 - Wohnraum-Schadstoffe und Schimmelpilzbefall / Scharzschimmel, woher und wieso?](7wdvs19.md)
+> 21. [Staatliches Energiesparen - ein Anschlag auf die Volksgesundheit?](7wdvs20.md)
+> 22. [Energiesparen und Wärmeschutz am Altbau 21 - Wie sollen wir richtig bauen?](7wdvs21.md)
+> 23. [Wärmedämmung / Wärmedämmverbundsystem / WDVS ja oder nein?](7fehrtab.md)
+> 24. [Dämmstoff/Wärmedämmung/WDVS ja oder nein? Teil 2](7fehrta2.md)
+
+
 
 ## Von der Intelligenz moderner Baumethoden / Haustechnik / Schimmelpilzzüchtung usw. 
 

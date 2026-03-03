@@ -1,17 +1,24 @@
 ---
-title: "Schwindelei? Aufsteigende Wandfeuchte + Mauerwerk-Trockenlegung 13"
-description: "Mauertrockenlegung - Die klassischen Fehler"
-author: " "
+nav: "20bausto.md"
+title: "Mauertrockenlegung - Die klassischen Fehler"
+description: "Die klassischen Fehler bei marktüblichen mechanischen, chemischen, elektrischen, magnetischen, esoterischen oder thermischen Trockenlegungs-Maßnahmen gegen Mauerfeuchte (nicht abschließend!):"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2auffe13.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Aufsteigend Feuchte?](2aufstfe.md)  
+# Mauertrockenlegung - Die klassischen Fehler
+**Die klassischen Fehler bei marktüblichen mechanischen, chemischen, elektrischen, magnetischen, esoterischen oder thermischen Trockenlegungs-Maßnahmen gegen Mauerfeuchte (nicht abschließend!):**  
+_von Konrad Fischer_
 
 ## Aufsteigende Wandfeuchte + Mauerwerk-Trockenlegung 13
 
 Aufsteigende Feuchte Kapitelübersicht 
 
-[1 - Einführung zur Problemlage](2aufstfe.md) [2 - Ein schrecklicher "Trockenlegungsfall"](2auffe02.md) [3 - Feuchtequellen](2auffe03.md) [4 - Ziegel-Mauerwerk und Aufsteigende Feuchte](2auffe04.md) [5 - Naturstein-Mauerwerk und Aufsteigende Feuchte](2auffe05.md) [6 - Nachträgliche Horizontalabdichtung historischen Mauerwerks? - Mauerwerksversalzung](2auffe06.md) [7 - Kondensat und Regen](2auffe07.md) [8 - Trockenlegung oder Bauwerksschäden durch Horizontalisolierung?](2auffe08.md) [9 - Trockenlegungsschwindel - die Marketingtricks](2auffe09.md) [10 - Elektroosmose und die typischen Trockenleger-Ausreden bei Mißerfolg](2auffe10.md) [11 - Trockenlegungsexperten? - Planer und Gutachter](2auffe11.md) [12 - Trockenlegung - Industrieberatung oder der gesunde Menschenverstand? Probleme und Lösungen](2auffe12.md) **13 - Mauertrockenlegung - Die klassischen Fehler** [14 - Nasse Wände sanieren - Was sagt die Wissenschaft?](2auffe14.md) [15 - Mauerfeuchte woher? Zum historischen und wissenschaftlichen Hintergrund](2auffe15.md) 
 
-# Mauertrockenlegung - 
+
+## Mauertrockenlegung -
 Die klassischen Fehler
 
 Die klassischen Fehler bei den marktüblichen mechanischen, chemischen, elektrischen, magnetischen, esoterischen oder thermischen Trockenlegungs-Maßnahmen gegen die Mauerfeuchte sind (Aufzählung nicht abschließend!):

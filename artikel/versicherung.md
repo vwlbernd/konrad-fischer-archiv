@@ -1,13 +1,20 @@
 ---
-title: "Sinnvoll? Bauversicherung, Bauleistungsversicherung, Wohngebäudeversicherung"
-description: "Welche Versicherung brauchen Bauherren + Hausbesitzer, was ist wichtig?: Bauwesensversicherung, Brandversicherung, Feuerrohbauversicherung, Elementarschadensversicherung, Gewässerschaden-Haftpflichversicherung, Rechtsschutzversicherung, Tipps Brandschadensabwicklung"
-author: " "
+nav: "20bausto.md"
+title: "Bauversicherungen und Hausversicherungen"
+description: "Eine kleine Übersicht für Bauherren und Hausbesitzer mit praktischen Beispielen zur Brandschadensabwicklung und den dort üblichen Versicherungstricks"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/versicherung.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Brand- & Arbeitssicherheit](2baustof.md)  
+# Bauversicherungen und Hausversicherungen
+**Eine kleine Übersicht für Bauherren und Hausbesitzer mit praktischen Beispielen zur Brandschadensabwicklung und den dort üblichen Versicherungstricks**  
+_von Konrad Fischer_
 
 Konrad Fischer 
 
-# Bauleistungsversicherung, Baustellenversicherung, Wohngebäudeversicherung, Hausratversicherung und andere Hausversicherungen
+## Bauleistungsversicherung, Baustellenversicherung, Wohngebäudeversicherung, Hausratversicherung und andere Hausversicherungen
 
 ## Eine kleine Übersicht für Bauherren und Hausbesitzer 
 mit praktischen Beispielen zur Brandschadensabwicklung und den dort üblichen Versicherungstricks

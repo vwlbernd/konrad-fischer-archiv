@@ -1,13 +1,20 @@
 ---
-title: "Praxis Ratgeber der Deutschen Burgenvereinigung e.V.: Altbau und Wärmeschutz 4."
-description: ""
-author: " "
+nav: "20bausto.md, 213baust.md"
+title: "DBV Praxis Ratgeber: Altbau und Wärmeschutz - 13 Fragen und Antworten [4]"
+description: "Der traditionelle Altbau mit seiner schweren Bausubstanzbesitzt eine hohe Speicherfähigkeit. Sie nutzt die kostenlos zur Verfügung stehende Solarstrahlung. Es widerspricht der Wirklichkeit, bei speicherfähigem Material den k-Wert/aktuell: U-Wert nach DIN 4108 zu verwenden."
+author: "Claus Meier"
 original_url: "www.konrad-fischer-info.de/6prwsch4.htm"
+updated: "19.12.2005"
 ---
+
+[🠔 Zur Übersicht: Dämmung Ratgeber 1](6prwsch.md)  
+# DBV Praxis Ratgeber: Altbau und Wärmeschutz - 13 Fragen und Antworten [4]
+**Der traditionelle Altbau mit seiner schweren Bausubstanzbesitzt eine hohe Speicherfähigkeit. Sie nutzt die kostenlos zur Verfügung stehende Solarstrahlung. Es widerspricht der Wirklichkeit, bei speicherfähigem Material den k-Wert/aktuell: U-Wert nach DIN 4108 zu verwenden.**  
+_von Claus Meier • aktualisiert 19.12.2005_
 
 Claus Meier 
 
-# DBV Praxis Ratgeber zur Denkmalpflege
+## DBV Praxis Ratgeber zur Denkmalpflege
 
 ## Altbau und Wärmeschutz - 13 Fragen und Antworten [4]
 
@@ -17,7 +24,7 @@ BEIRAT FÜR DENKMALERHALTUNG
 
 Text leicht aktualisiert 19.12.2005 durch Redaktion K. Fischer 
 
-Seite [1](6prwsch.md) [2](6prwsch2.md) [3](6prwsch3.md) **4** [5](6prwsch5.md) [6](6prwsch6.md) [7](6prwsch7.md) [8](6prwsch8.md) [9](6prwsch9.md)
+
 
 **6. Welche Alternativen gibt es zur Energieeinsparung im Altbau?**
 

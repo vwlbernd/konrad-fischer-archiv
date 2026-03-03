@@ -1,11 +1,18 @@
 ---
-title: "Paul Bossert: MINERGIE"
-description: "Energie verschleudern, Geld vergeuden und Gesundheit ruinieren!"
-author: " "
+nav: "7thuene1.md"
+title: "Energie verschleudern, Geld vergeuden und Gesundheit ruinieren!"
+description: "Der MINERGIE-Standard als dümmste Leistung der Schweizer ÖKO-Demokratur, ihrer Mitläufer und Helfershelfer"
+author: "Paul Bossert"
 original_url: "www.konrad-fischer-info.de/7minerg.htm"
+updated: "15.10.1999"
 ---
 
-# Energie verschleudern, Geld vergeuden und Gesundheit ruinieren! 
+[🠔 Zur Übersicht: Schweizer Energiepolitik](7eneb.md)  
+# Energie verschleudern, Geld vergeuden und Gesundheit ruinieren!
+**Der MINERGIE-Standard als dümmste Leistung der Schweizer ÖKO-Demokratur, ihrer Mitläufer und Helfershelfer**  
+_von Paul Bossert • aktualisiert 15.10.1999_
+
+
 
 Der MINERGIE-Standard als dümmste Leistung der Schweizer ÖKO-Demokratur, ihrer Mitläufer und Helfershelfer 
 
@@ -15,7 +22,7 @@ Der MINERGIE-Standard soll nach Meinung einiger "Energiefachexperten", Wärmedä
 
 ## MINERGIE-Standard bedeutet:
 
-# Energie verschleudern, Geld vergeuden und Gesundheit ruinieren!
+
 
 Der MINERGIE-Standard wurde ursprünglich vom Amt für Abfall, Wasser, Energie und Luft (AWEL) des Kantons Zürich in die Welt gesetzt. Dieser Standard basiert hauptsächlich auf rein theoretischen Annahmen, die bis heute wissenschaftlich nicht gesichert sind. Der MINERGIE-Standard orientiert sich an der fiktiven und fixen Behauptung, dass massgebliche Energieeinsparungen im Wesentlichen nur durch die Verminderung der Wärmeleitung - sogenannter U-Wert (früher k-Wert) - bei der Gebüdehülle erzielbar seien.
 
@@ -33,7 +40,7 @@ Konrad Fischer: Fassaden energetisch richtig und kostensparend sanieren 1
 
 [Teil 2](http://www.youtube.com/watch?v=Y1NSxAW15Cc) [Teil 3](http://www.youtube.com/watch?v=RAT7VzBo8k0) [Teil 4](http://www.youtube.com/watch?v=6TBII25iVQk) [Teil 5](http://www.youtube.com/watch?v=Kb0C4KiZvVA) 
 
-[![BR-Geld & Leben Wärmedämmung + Wirtschaftlichkeit am 24.01.2011 mit Konrad Fischer](../medien/YOU03.JPG)](http://youtu.be/tjHIOrnSFso) 
+[![BR-Geld & Leben Wärmedämmung + Wirtschaftlichkeit am 24.01.2011 mit Konrad Fischer](../medien/YOU03.JPG)](https://youtu.be/tjHIOrnSFso) 
 
 </center>
 

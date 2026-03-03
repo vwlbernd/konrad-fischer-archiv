@@ -1,11 +1,18 @@
 ---
-title: "Giftfreier Holzschutz - ein Greuel oder DIE Lösung?"
-description: "Holzschutz-Fachinfo zu Holzschädlingen und holzzerstörenden Befall durch Hausschwamm, Brauner Kellerschwamm, Weißer Porenschwamm, Moderfäule, Hausbock, ..."
-author: " "
+nav: "20bausto.md"
+title: "Holzschutz ohne Gift: Sanierung statt Vergiftung"
+description: "Der ultimative Leitfaden gegen Hausschwamm, Hausbock und Fäule: Warum konstruktive Trockenlegung jede Chemie schlägt und wie Sie holzzerstörende Pilze und Insekten ohne gesundheitliche Risiken stoppen."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2hsm.htm"
+updated: ""
 ---
 
-# Holzschutz mit und ohne Gift
+[🠔 Zur Übersicht: Wand & Fachwerk](29bau09.md)  
+# Holzschutz ohne Gift: Sanierung statt Vergiftung
+**Der ultimative Leitfaden gegen Hausschwamm, Hausbock und Fäule: Warum konstruktive Trockenlegung jede Chemie schlägt und wie Sie holzzerstörende Pilze und Insekten ohne gesundheitliche Risiken stoppen.**  
+_von Konrad Fischer_
+
+## Holzschutz mit und ohne Gift
 
 ### Holzschutz-Fachinfo zu Holzschädlingen und holzzerstörenden Befall wie Korrosionsfäule, Destruktionsfäule, Naßfäule, Trockenfäule, Moderfäule, Würfelbruch und Holzfraß durch Hausschwamm (Serpula lacrymans), Brauner Kellerschwamm/Kellerwarzenschwamm (Coniophora puteana), Weißer Porenschwamm (Antrodia vaillantii), Moderfäule, Gemeiner Hausbock (Hylotrupes bajulus L.), Brauner Splintholzkäfer (Lyctus brunneus), Holzwurm (Anobium punctatum, Anobien), Gescheckter/Bunter Nagekäfer, Totenuhr (Xestobium rufovillosum), Termiten usw.
 
@@ -20,7 +27,7 @@ Eines Tages in den 80ern erschien die Kripo in meinem Büro, um die Todesursache
 
 Unsere Normengläubigkeit muß also auf den Prüfstand, denn es kann doch nicht das Gelbe vom Ei sein, mit Giften wie Lindan, PCB und auch Natriumborat (Borax), Kupferlösungen und Chromaten im Haus das Wohnumfeld und die Baukonstruktion gegen allerlei Tierchen, Schimmel und Mikroorganismen herumzuschützen, und dabei den Menschen außer Acht zu lassen. Dabei ist zur Wirkung der üblichen Giftkeulen anzumerken, daß sie zwar zugelassen sind, weil sie für Lebewesen tödliche Gifte enthalten, daß aber die Norm-Prüfverfahren für die Zulassung der vergifteten Tunke diese im Einsatz am Bau nur bedingt bis überhaupt nicht prüfen und damit eine echte Schutzwirkung im gewollten Sinne nicht unbedingt vorliegt. Wer sagt denn, daß ein Schadinsekt so dumm ist, und die vergiftete Oberfläche frißt und nicht ausspuckt? Und wer sagt denn, daß die Toxizität noch im gewollten Sinne vorliegt, wenn das Gift in die sonstige Suppe gemischt wurde? Die Fälle des Neubefalls trotz Vergiftung sind Legion! Wir müssen also nach Alternativen zu den gängigen und genormten Gefahrstoffen suchen, in den Methoden und den anzuwendenden Mitteln. Am Markt gibt es dafür ja verschiedene Lösungen, allerdings mangels Gift (!) bisher nicht RAL-, normungs- und zulassungsfähig.
 
-[![Altbau und Energiespargesetze - Wahnsinn oder Methode?](../medien/YOU20.JPG)](http://youtu.be/xBp0lAxF-nU) 
+[![Altbau und Energiespargesetze - Wahnsinn oder Methode?](../medien/YOU20.JPG)](https://youtu.be/xBp0lAxF-nU) 
 Deutsche Giftmischer zum Wohle der Umsätze in der Baubranche 
 
 Wobei die Nachfrage nach Lösungen, die das schädlingsbefallene Haus nicht dauerhaft in eine Sondermülldeponie verwandelt, durchaus auch Seltsamkeiten erzeugt. Wer sagt denn beispielsweise, daß nach einer Vergasungsbehandlung mit Giftgasen ein neuer Schädlingsbefall sicher ausgeschlossen ist? Ebenso wie bei einer thermischen Heißluftbehandlung, die zwar wie das Giftgas im Anwendungszeitraum absolut tödlich und vernichten sein mag, dafür Holz- und Kosntruktionsrisse wegen thermischer Erhitzung, Temperaturspannung und Trocknungsschwund erzeugt, dem zwar durch Befeuchtungstechnik vorgebeugt werden soll, aber auf alle betroffenen Bauteile dennoch erheblichen mechanischen/klimatischen Streß ausübt. Und wenn wir darüber nachdenken - ja, das dürfen wir uns durchaus gönnen, auch bei solch kritischen Fragen voller Angst, Zweifel und Pein, Schmer, Not und Märchenhaftem, daß Holzschädlinge nun mal leben, und als vom lieben Gott erschaffene raffinierte Überlebenskünstler wie wir alle nur darauf warten, daß wieder günstigere Zeiten kommen und der Tisch wieder mal besser gedeckt sein wird, als im ausgedörrten oder vergasten Trockenholz, dann wird uns sofort bewußt, worum es wirklich geht beim dauerhaften Holzschutz: 

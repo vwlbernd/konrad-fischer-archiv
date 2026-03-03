@@ -1,11 +1,18 @@
 ---
-title: "Die häufigsten Fehler bei der Anwendung von Luftkalkmörtel 4"
-description: "Zu verarbeitungs- und objektbedingten Fehlerquellen."
-author: " "
+nav: "20bausto.md, 26bausto.md"
+title: "Kalk Anwendungsfehler 4: Schlechte Untergrundvorbereitung"
+description: "Ein Expertenbericht über die Vorbereitung des Untergrunds: Warum trockenes Mauerwerk dem Kalk den Lebenssaft entzieht und wie Sie durch intensives Wässern totale Ablösungen vermeiden."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2kalkf04.htm"
+updated: ""
 ---
 
-# Die häufigsten Fehler bei der Anwendung von 
+[🠔 Zur Übersicht: Kalk Anwendungsfehler](2kalkfel.md)  
+# Kalk Anwendungsfehler 4: Schlechte Untergrundvorbereitung
+**Ein Expertenbericht über die Vorbereitung des Untergrunds: Warum trockenes Mauerwerk dem Kalk den Lebenssaft entzieht und wie Sie durch intensives Wässern totale Ablösungen vermeiden.**  
+_von Konrad Fischer_
+
+## Die häufigsten Fehler bei der Anwendung von
 
 Luftkalkmörtel, 
 Kalkputz und Kalkanstrich 4

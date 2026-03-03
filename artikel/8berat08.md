@@ -1,9 +1,16 @@
 ---
-title: "Beratungsangebote zu Altbau und Denkmalpflege - Linksammlung 8"
-description: "Weitere Beratung und Information zu Denkmalpflege, Altbau usw. 8"
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "8 Internationale Denkmal- und Restaurierungslinks"
+description: "Eine Sammlung von 8 internationalen Links zu Denkmalpflege, Restaurierung und historischen Gebäuden weltweit."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/8berat08.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Beratung Altbau](8berat.md)  
+# 8 Internationale Denkmal- und Restaurierungslinks
+**Eine Sammlung von 8 internationalen Links zu Denkmalpflege, Restaurierung und historischen Gebäuden weltweit.**  
+_von Konrad Fischer_
 
 8 Internationale Denkmal- und Restaurierungslinks 
 

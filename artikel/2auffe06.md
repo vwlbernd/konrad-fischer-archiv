@@ -1,9 +1,16 @@
 ---
-title: "Schwindelei? Aufsteigende Mauerfeuchte + Bauwerks-Trockenlegung 6"
-description: "Nachträgliche Horizontalabdichtung historischen Mauerwerks? - Mauerwerksversalzung"
-author: " "
+nav: "20bausto.md"
+title: "Nachträgliche Horizontalabdichtung und Mauerwerksversalzung"
+description: "Umfassende Betrachtung der nachträglichen Horizontalabdichtung historischen Mauerwerks. Analyse von Mauerwerksversalzung und den physikalischen Grundlagen der Feuchtedurchdringung in Baustoffen."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2auffe06.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Aufsteigend Feuchte?](2aufstfe.md)  
+# Nachträgliche Horizontalabdichtung und Mauerwerksversalzung
+**Umfassende Betrachtung der nachträglichen Horizontalabdichtung historischen Mauerwerks. Analyse von Mauerwerksversalzung und den physikalischen Grundlagen der Feuchtedurchdringung in Baustoffen.**  
+_von Konrad Fischer_
 
 ## Aufsteigende Mauerfeuchte + Bauwerks-Trockenlegung 6: 
 Mauerfeuchte, Horizontal-Abdichtung Mauerwerk, Mauerwerksversalzung + Bauwerks-Trockenlegung
@@ -12,11 +19,11 @@ Mauerfeuchte, Horizontal-Abdichtung Mauerwerk, Mauerwerksversalzung + Bauwerks-T
 
 Aufsteigende Feuchte Kapitelübersicht 
 
-[1 - Einführung zur Problemlage](2aufstfe.md) [2 - Ein schrecklicher "Trockenlegungsfall"](2auffe02.md) [3 - Feuchtequellen](2auffe03.md) [4 - Ziegel-Mauerwerk und Aufsteigende Feuchte](2auffe04.md) [5 - Naturstein-Mauerwerk und Aufsteigende Feuchte](2auffe05.md) **6 - Nachträgliche Horizontalabdichtung historischen Mauerwerks? - Mauerwerksversalzung / Feuchte Wände - warum?** [7 - Kondensat und Regen](2auffe07.md) [8 - Trockenlegung oder Bauwerksschäden durch Horizontalisolierung?](2auffe08.md) [9 - Trockenlegungsschwindel - die Marketingtricks](2auffe09.md) [10 - Elektroosmose und die typischen Trockenleger-Ausreden bei Mißerfolg](2auffe10.md) [11 - Trockenlegungsexperten? - Planer und Gutachter](2auffe11.md) [12 - Trockenlegung - Industrieberatung oder der gesunde Menschenverstand? Probleme und Lösungen](2auffe12.md) [13 - Mauertrockenlegung - Die klassischen Fehler](2auffe13.md) [14 - Nasse Wände sanieren - Was sagt die Wissenschaft?](2auffe14.md) [15 - Mauerfeuchte woher? Zum historischen und wissenschaftlichen Hintergrund](2auffe15.md) 
+
 
 bausubstanz 7/98: Konrad Fischer: 
 
-# Nachträgliche Horizontalabdichtung historischen Mauerwerks 
+## Nachträgliche Horizontalabdichtung historischen Mauerwerks
 Feuchte Wände - warum?
 
 (ergänzte Fassung)

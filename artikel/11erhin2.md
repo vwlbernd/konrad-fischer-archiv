@@ -1,9 +1,21 @@
 ---
-title: "Sparsam Planen und Bauen im Altbau 2.1"
+nav: "11planme.md, 11erhins.md"
+title: "Altbausanierung, Denkmalschutz, Denkmalpflege, Bausanierung: Sparsam Planen und Bauen im Altbau - Die erhaltende Instandsetzung - Teil 2"
 description: "Altbaugeeignete Reparaturverfahren und Alternativen zu zerstörerischen Sanierverfahren."
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/11erhin2.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Sparsam sanieren](11erhins.md)  
+# Altbausanierung, Denkmalschutz, Denkmalpflege, Bausanierung: Sparsam Planen und Bauen im Altbau - Die erhaltende Instandsetzung - Teil 2
+**Altbaugeeignete Reparaturverfahren und Alternativen zu zerstörerischen Sanierverfahren.**  
+_von Konrad Fischer_
+
+> [!abstract]+ Kapitelübersicht: Reparieren statt Neu  
+> 1. **Altbausanierung, Denkmalschutz, Denkmalpflege, Bausanierung: Sparsam Planen und Bauen im Altbau - Die erhaltende Instandsetzung - Teil 2**
+> 2. [Sparsam Planen und Bauen im Altbau 2.2](11erhin3.md)
+> 3. [Sparsam Planen und Bauen im Altbau - Die erhaltende Instandsetzung - Teil 3 und Schluß](11erhin4.md)
 
 **[Die erhaltende Instandsetzung - Teil 1](11erhins.md)** 
 

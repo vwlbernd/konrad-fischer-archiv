@@ -111,8 +111,8 @@ Hier und auf den folgenden Seiten (nur für hartgesottene, nervenstarke Skeptike
 <center markdown>
 
  Hochhaus-Fassade / Altbau sanieren oder mit WDVS dämmen? Fassadendämmung / Fassadenisolierung / Vollwärmeschutz / Wärmedämmverbundsystem (WDVS) - Macht das Sinn? 
-[![Altbau und Energiespargesetze - Wahnsinn oder Methode?](../medien/YOU211.JPG)](http://youtu.be/xBp0lAxF-nU) [![Hochhaus-/Altbau-Fassade - Instandsetzen oder Vollwärmeschutz?](../medien/YOU02.JPG)](http://youtu.be/edZ5O0hg7J4) 
-[![BR-Geld&Leben Wenn Dämmung unwirtschaftlich wird - Wärmedämmung + Wirtschaftlichkeit am 24.01.2011 mit Konrad Fischer](../medien/YOU03.JPG)](http://youtu.be/tjHIOrnSFso) [![Fassaden energetisch richtig sanieren](../medien/YOU04.JPG)](http://youtu.be/OpbEO8kV-PU) 
+[![Altbau und Energiespargesetze - Wahnsinn oder Methode?](../medien/YOU211.JPG)](https://youtu.be/xBp0lAxF-nU) [![Hochhaus-/Altbau-Fassade - Instandsetzen oder Vollwärmeschutz?](../medien/YOU02.JPG)](https://youtu.be/edZ5O0hg7J4) 
+[![BR-Geld&Leben Wenn Dämmung unwirtschaftlich wird - Wärmedämmung + Wirtschaftlichkeit am 24.01.2011 mit Konrad Fischer](../medien/YOU03.JPG)](https://youtu.be/tjHIOrnSFso) [![Fassaden energetisch richtig sanieren](../medien/YOU04.JPG)](https://youtu.be/OpbEO8kV-PU) 
 [Teil 2](http://www.youtube.com/watch?v=Y1NSxAW15Cc) [Teil 3](http://www.youtube.com/watch?v=RAT7VzBo8k0) [Teil 4](http://www.youtube.com/watch?v=6TBII25iVQk) [Teil 5](http://www.youtube.com/watch?v=Kb0C4KiZvVA) 
 
 </center>
@@ -122,13 +122,13 @@ Hier und auf den folgenden Seiten (nur für hartgesottene, nervenstarke Skeptike
 <center markdown>
 
 3 sat hitec 23.1.12: Die verpackte Republik 1 und 2 - für Fortbildungszwecke kritisch kommentiert von Konrad Fischer 
-[![3sat hitec 16.01.2012: Die ver&uumlpackte Republik 1 - für Fortbildungszwecke kritisch kommentiert von Konrad Fischer](../medien/YOU41.JPG)](http://youtu.be/2ZiMf5v4jIo) [Teil 2](http://youtu.be/_eEOKDi8cpI) 
+[![3sat hitec 16.01.2012: Die ver&uumlpackte Republik 1 - für Fortbildungszwecke kritisch kommentiert von Konrad Fischer](../medien/YOU41.JPG)](https://youtu.be/2ZiMf5v4jIo) [Teil 2](https://youtu.be/_eEOKDi8cpI) 
 
-[23.11.11: ARD "Plusminus - Dämmwahn"](http://youtu.be/6Q53pe4CecU) - mit Prof. Jens Fehrenberg, ö.b.u.v. Sachverständiger für Gebäudeschäden und kritischer Kommentierung der Youtube-Version 
-[![ARD Plusminus 23.11.2011: Dämmwahn](../medien/YOU19.JPG)](http://youtu.be/Sx5p5n9q5uQ) 
+[23.11.11: ARD "Plusminus - Dämmwahn"](https://youtu.be/6Q53pe4CecU) - mit Prof. Jens Fehrenberg, ö.b.u.v. Sachverständiger für Gebäudeschäden und kritischer Kommentierung der Youtube-Version 
+[![ARD Plusminus 23.11.2011: Dämmwahn](../medien/YOU19.JPG)](https://youtu.be/Sx5p5n9q5uQ) 
 NDR-Trailer "Gefährliches WDVS" & "Wärmebild-Schwindel"- mit Konrad Fischer: 
 [NDR "Dämmen oder nicht Dämmen?"](http://web.archive.org/web/20140210100111/http://www.ndr.de/fernsehen/sendungen/45_min/hintergrund/waermedaemmung121.html) - Kritische Worte vom Feinsten 
-[![NDR 45 Min - Wahnsinn Wärmedämmung](../medien/YOU24.JPG)](http://youtu.be/MKeRe7FA4Gs). [![NDR 45 Min - Wahnsinn Gefährliche Wärmedämmung](../medien/YOU25.JPG)](http://youtu.be/rXzRlyyM7bY) 
+[![NDR 45 Min - Wahnsinn Wärmedämmung](../medien/YOU24.JPG)](https://youtu.be/MKeRe7FA4Gs). [![NDR 45 Min - Wahnsinn Gefährliche Wärmedämmung](../medien/YOU25.JPG)](https://youtu.be/rXzRlyyM7bY) 
 Die Tricks der Energieberater mit der Wärmebildkamera: 
 [![Schwindel mit Wärmebildkamera - Konrad Fischer und der NDR entlarven die Tricks der Energieberater](../medien/YOU23.JPG)](http://www.dailymotion.com/video/k5VbuUYVB10Lfkf8HsU) 
 _Ergänzend:_ Spiegel online - Enthüllungsjournalist Güven Purtul entlarvt EnEV-Anschlag auf Hab&Gut, Leib&Leben: 
@@ -222,7 +222,7 @@ Sie brauchen vielleicht etwas Aufklärung, einen Blick hinter die Kulissen? Im W
 
 <center markdown>
 
-[![Prof. Dr.-Ing. habil. Claus Meier Nürnberg: Fragwürdige Vorschriften fördern ungesundes Wohnen durch falsches Bauen und falsches Heizen ](../medien/YOU40.JPG)](http://youtu.be/VZFhgOBPrBI) 
+[![Prof. Dr.-Ing. habil. Claus Meier Nürnberg: Fragwürdige Vorschriften fördern ungesundes Wohnen durch falsches Bauen und falsches Heizen ](../medien/YOU40.JPG)](https://youtu.be/VZFhgOBPrBI) 
 
 </center>
 
@@ -248,7 +248,7 @@ So verhält es sich also mit den Lieblingsbaustoffen der Ökoterroristen zur ang
 
 Einer Regierungskriminalität, die es auch schaffte, den kontrollierten Abbruch des Worldtradecenters mittels Sprengung den Völkern als islamischen Angriff zu verkaufen, und das friedliebende deutsche Volk in von oben diktierte ANgriffskriege zu verwickeln, schafft es freilich auch, uns die widerlichsten Klimaschutzlügen aufs Auge zu drücken und uns zu zwingen, für die Vernichtung unserer Bausubstanz unsere eigenen Ersparnisse dreinzugeben. Weitere 911-Info hier (ORF-Film): 
 
-[![ORF 1: Die 9/11-Lügen unserer Regierungen](../medien/YOU42.JPG)](http://youtu.be/SvrMjU_VO2I) 
+[![ORF 1: Die 9/11-Lügen unserer Regierungen](../medien/YOU42.JPG)](https://youtu.be/SvrMjU_VO2I) 
 
 <a id="ifb"></a>Und wie verhält sich eigentlich die tatsächliche Gesamtwirtschaftlichkeit eines regierungsamtlich geförderten und erzwungenen Fassadensystems, wenn man eine längere Zeitperiode betrachtet? Dirk Fanslau-Görlitz, Martin Pfeiffer, Janet Simon und Yasemin Wildebrand stellten sich diese drängende Frage auch und geben in ihrem "Atlas - Bauen im Bestand", Verlagsges. Müller, 2008, im Kapitel I.3: "Nachhaltige Modernisierung" auf Seite 59 eine Tabelle an, aus der die folgenden Kostendaten und Instandsetzungszyklen für verschiedene Fassadensysteme bei Betrachtung einer Periode von 80 Jahren aufgeführt werden. Dieses Buch kann als wahre Fundgrube bezeichnet werden, soweit man sich für Baukosten und Wirtschaftlichkeitsbetrachtungen gerade im Zusammenhang mit derzeit anstehenden Neubauten oder auch Sanierungen interessiert. 
 
@@ -293,7 +293,7 @@ Nun soll mir mal ein Planer oder Energieberater erklären, wie sich das grottige
 
 Natürlich gibt es auch einen rein emotionalen Zugang zur Erklärung, warum Bauherren auf den Vollwärmeschutz mit Anlauf hereinfallen und das ganze Haus mit Styropor umwickeln (Vorsicht! Keine Satire!): 
 
-[![Michl Müller: Vollwärmeschutz der Liebe](../medien/YOU43.JPG)](http://youtu.be/UxGiAqnb6ZI)
+[![Michl Müller: Vollwärmeschutz der Liebe](../medien/YOU43.JPG)](https://youtu.be/UxGiAqnb6ZI)
 
 Ein berühmter Nebengipfel in unserem Meinungsterror- und Lügenländle: Wie die armen Bausimpel und Altbausanierer von den "Energiesparprofis" abgenudelt und medial besudelt werden, können Sie hier als Einstieg mal selber sehen. Schon echt lustig wenn nicht geradezu irrwitzig, wie die folgende Thermographie deren gewillkürte Aussagekraft einer "energetischen Sanierung / Ertüchtigung" zur Minderung des CO2-Kohlendioxid-Ausstoßes, als Klimaschutz-Maßnahme und auch überhaupt zur allgemeinen Weltrettung vor der globalen Erwärmung entlarvt:
 
@@ -329,7 +329,7 @@ Die Öffentlichkeit und Politik wird für die Durchsetzung des Energieabzockens 
 **_[Entscheiden Sie selbst: Dieser Link bietet auch die Kehrseite der Medaille](7wsvoant.md)_**
 
 Nachschlag: Politik, Bundesregierung, Koalitionsvereinbarung und Schweinekrippe - wer sind unsere Regenten?: 
-[![Die Bundesregierung - okkupiert durch Korruption? System Merkel-Mafia?](../medien/YOU39.JPG)](http://youtu.be/_h2tAWwnPjY) 
+[![Die Bundesregierung - okkupiert durch Korruption? System Merkel-Mafia?](../medien/YOU39.JPG)](https://youtu.be/_h2tAWwnPjY) 
 
 </center>
 
@@ -355,7 +355,7 @@ Ja, für eine derart staatsterroristische Klimaschutz-Stachanowerei der auf das 
 
 <center markdown>
 
-[![How to cut carbon emissions - Ökofaschismus morgen](../medien/YOU38.JPG)](http://youtu.be/s395oCDCf6c) 
+[![How to cut carbon emissions - Ökofaschismus morgen](../medien/YOU38.JPG)](https://youtu.be/s395oCDCf6c) 
 
 </center>
 

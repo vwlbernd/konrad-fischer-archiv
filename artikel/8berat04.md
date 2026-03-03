@@ -1,9 +1,16 @@
 ---
-title: "Beratungsangebote zu Altbau und Denkmalpflege - Linksammlung 4"
-description: "Weitere Beratung und Information zu Denkmalpflege, Altbau usw. 4"
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "4 Translozierung / Relocation von Baudenkmalen"
+description: "Wenn nichts mehr geht außer Abriß: Die Translozierung / Relocation des historischen Bauwerks an einen neuen Standort. Dafür gibt es viele Spezialisten, aber auch viele Richtlinien."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/8berat04.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Beratung Altbau](8berat.md)  
+# 4 Translozierung / Relocation von Baudenkmalen
+**Wenn nichts mehr geht außer Abriß: Die Translozierung / Relocation des historischen Bauwerks an einen neuen Standort. Dafür gibt es viele Spezialisten, aber auch viele Richtlinien.**  
+_von Konrad Fischer_
 
 4 Translozierung / Relocation von Baudenkmalen 
 

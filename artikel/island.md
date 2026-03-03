@@ -1,9 +1,16 @@
 ---
+nav: "index.md, 6prxratg.md"
 title: "Viðhalda og varðveita af gamall hús + Varðveisla af sögufrægur Minnismerki"
-description: "Arkitektúr Magasín fyrir Viðgerð, Endursmíði og Gera við"
-author: " "
+description: "Frjáls, sjálfstæður og gagnrýninn upplýsingar um viðgerðir, endursmíði og varðveislu gamalla bygginga og sögulegra minnisvarða."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/island.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Nordisk](nordisk.md)  
+# Viðhalda og varðveita af gamall hús + Varðveisla af sögufrægur Minnismerki
+**Frjáls, sjálfstæður og gagnrýninn upplýsingar um viðgerðir, endursmíði og varðveislu gamalla bygginga og sögulegra minnisvarða.**  
+_von Konrad Fischer_
 
 Gerði þú gera við þinn gömul bygging? Hvaða gerast? Djarfur listaverk viðgerð, endurbygging, endurhæfing eða modernization mislukkaður? Allur þinn peningar og von er glataður? 
 

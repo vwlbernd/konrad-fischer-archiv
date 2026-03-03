@@ -1,17 +1,24 @@
 ---
-title: "Burgen, Schlösser und Anderes - Linksammlung 6"
-description: "Links und Tips für Burgenfreunde/Castles and Fortresses 6."
-author: " "
+nav: "index.md, 8schloss.md"
+title: "Links und Tips für Burgenfreunde/Castles and Forts 6"
+description: "Hier finden Sie Links zu Burgen und Schlössern sowie zugehörigen Informationen der Länder bzw. historischen Regionen Österreich, Habsburger Reich, Ungarn, KuK-Monarchie, Preußen, Deutschordensland, Polen, Niederlande/Holland, Siebenbürgen, Rumänien."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/8reise06.htm"
+updated: ""
 ---
 
-# Eine Reise zu Kunst, Baudenkmalen, Museen und Antiquitäten
+[🠔 Zur Übersicht: Burgen Links 1](8reise.md)  
+# Links und Tips für Burgenfreunde/Castles and Forts 6
+**Hier finden Sie Links zu Burgen und Schlössern sowie zugehörigen Informationen der Länder bzw. historischen Regionen Österreich, Habsburger Reich, Ungarn, KuK-Monarchie, Preußen, Deutschordensland, Polen, Niederlande/Holland, Siebenbürgen, Rumänien.**  
+_von Konrad Fischer_
+
+## Eine Reise zu Kunst, Baudenkmalen, Museen und Antiquitäten
 
 ## A journey to the past 12 (Mit einigen meiner Reiseskizzen/with some of my sketches)
 
 (Mit einigen meiner Reiseskizzen/with some of my sketches) 
 
-Seiten: [Links und Tips für Burgenfreunde/Castles and Forts 1](8reise.md) [2](8reise02.md) [3](8reise03.md) [4](8reise04.md) [5](8reise05.md) **6** [7](8reise07.md) [8](8reise08.md) [9](8reise09.md) [Gast im Schloß:10](8reise10.md) [Mittelalter und andere historische Epochen:11](8reise11.md) [Schlösser zu verkaufen/Castles for Sale:12](8reise12.md) [Kunsthandel/Antiquitäten/Antics/Antiques/Fine Art: 13](8reise13.md)
+
 
 _[Konrad Fischer](1refernz.md)_ 
 

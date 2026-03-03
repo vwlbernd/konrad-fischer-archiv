@@ -1,9 +1,16 @@
 ---
+nav: "index.md, 6prxratg.md"
 title: "Restauracija stara Kuća + Konzervacija istorijski Spomenik"
-description: "Arhitektura Magazin - Restauracija, Obnavljanje, Utočište, Popravljanje - Običan pogreška + Šta realno utvrde."
-author: " "
+description: "Slobodne, nezavisne, kritičke i kontroverzne informacije o obnavljanju starih kuća, restauraciji istorijskih spomenika i očuvanju umetničkih dela, uz energetsku produktivnost."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/srbija.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Slavisk](slavisk.md)  
+# Restauracija stara Kuća + Konzervacija istorijski Spomenik
+**Slobodne, nezavisne, kritičke i kontroverzne informacije o obnavljanju starih kuća, restauraciji istorijskih spomenika i očuvanju umetničkih dela, uz energetsku produktivnost.**  
+_von Konrad Fischer_
 
  Da li obnavljate vase stare kuće? Sta se desava? Hrabri pokusaji obnove, rekonstrukcije, rehabilitacije ili modernizacije su izostali? Sav vas novac I nade su izgubljeni? 
 

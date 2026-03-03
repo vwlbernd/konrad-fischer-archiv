@@ -1,9 +1,16 @@
 ---
-title: "Dipl.-Ing.Manfred Müller: Diskussion UBA-Broschüre: Klimaänderung: Ein wissenschaftlicher Popanz?"
+nav: "7thuene1.md"
+title: "Klimaänderung: Ein wissenschaftlicher Popanz?"
 description: "Diskussion der UBA-Broschüre Klimaänderung: Ein wissenschaftlicher Popanz?"
-author: " "
+author: "Manfred Müller"
 original_url: "www.konrad-fischer-info.de/7muellr.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Öko-Alarm Kritik](7boet1.md)  
+# Klimaänderung: Ein wissenschaftlicher Popanz?
+**Diskussion der UBA-Broschüre Klimaänderung: Ein wissenschaftlicher Popanz?**  
+_von Manfred Müller_
 
 Dipl.-Ing. Manfred Müller 
 Amselweg 2 
@@ -12,7 +19,7 @@ Tel. 06128-71084 Fax -71085
 
 ## Diskussion der UBA-Broschüre 
 
-# "Klimaänderung: 
+## "Klimaänderung:
 
 Ein wissenschaftlicher Popanz?"
 

@@ -1,17 +1,24 @@
 ---
-title: "Brandschutz in historischen Bauten 3"
+nav: "20bausto.md, 2baustof.md"
+title: "Grundsätze des Brandschutzes"
 description: "Praxis Ratgeber der Deutschen Burgenvereinigung zum Brandschutz im Altbau."
-author: " "
+author: "Sylwester Kabat"
 original_url: "www.konrad-fischer-info.de/6kabat3.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Brandschutz Altbau](6brand.md)  
+# Grundsätze des Brandschutzes
+**Praxis Ratgeber der Deutschen Burgenvereinigung zum Brandschutz im Altbau.**  
+_von Sylwester Kabat_
 
 ## Dipl.-Ing. Sylwester Kabat
 
-# Brandschutz in historischen Bauten / im Altbau 3 
+## Brandschutz in historischen Bauten / im Altbau 3
 
 Ein DBV-Praxisratgeber zum Vorbeugenden Brandschutz
 
-[Seite 1](6kabat.md) [2](6kabat2.md) **3** [4](6kabat4.md) [5](6kabat5.md) [6](6kabat6.md) [7](6kabat7.md)
+
 
 **2. Grundsätze des Brandschutzes**
 

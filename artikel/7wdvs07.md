@@ -1,15 +1,22 @@
 ---
+nav: "20bausto.md"
 title: "Energiesparen und Wärmeschutz am Altbau 7"
-description: "Die GRÜNEN -Wahrheitsliebhaber? Zu den Kosten der Förderung Erneuerbarer Energien"
-author: " "
+description: "Eine kleine unendliche Geschichte der Ökoabzocke. Ökovampirismus: Klimaschutzblutsauger auf der Jagd nach Ihren letzten Kröten."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/7wdvs07.htm"
+updated: "25.05.2008"
 ---
 
+[🠔 Zur Übersicht: Energiesparen](7wsvoant.md)  
 # Energiesparen und Wärmeschutz am Altbau 7
+**Eine kleine unendliche Geschichte der Ökoabzocke. Ökovampirismus: Klimaschutzblutsauger auf der Jagd nach Ihren letzten Kröten.**  
+_von Konrad Fischer • aktualisiert 25.05.2008_
+
+
 
 ## Eine kleine unendliche Geschichte der Ökoabzocke
 
-Energiesparen und Wärmeschutz Kapitel [Einleitung](7wsvoant.md) [1](7wdvs01.md) [2](7wdvs02.md) [3](7wdvs03.md) [4](7wdvs04.md) [5](7wdvs05.md) [6](7wdvs06.md) **7** [8](7wdvs08.md) [9](7wdvs09.md) [10](7wdvs10.md) [11](7wdvs11.md) [12](7wdvs12.md) [13](7wdvs13.md) [14](7wdvs14.md) [15](7wdvs15.md) [16](7wdvs16.md) [17](7wdvs17.md) [18](7wdvs18.md) [19](7wdvs19.md) [20](7wdvs20.md) [21](7wdvs21.md) 
+
 
 ## Von der Intelligenz moderner Baumethoden/Haustechnik/Schimmelpilzzüchtung usw. 
 Ökovampirismus: Klimaschutzblutsauger auf der Jagd nach Ihren letzten Kröten
@@ -17,24 +24,7 @@ Energiesparen und Wärmeschutz Kapitel [Einleitung](7wsvoant.md) [1](7wdvs01.md)
 _[Konrad Fischer](1refernz.md)_ 
 **(aktualisiert 25.05.08)** 
 
-**Glanzlichter dieser Seite:** 
-[Aktuelles](7wsvoant.md#aktuelles) 
-[Einleitung](7wsvoant.md#einleitung) 
-[Apokalypsenlyrik](7wdvs04.md#apokalypsenlyrik) 
-[Wärmedämmung oder -speicherung, "Wissenschafterkenntnis" der etablierten Bauphysik?](7wdvs05.md#wã¤rmedã¤mmung) 
-[Kommentierte Meldungen zum Wohnklima und der "Niedrig"-Energiebauweise](7wdvs13.md#kommentierte) 
-[Nachhilfeunterricht in energiesparendem und wohngesundem Bauen - Das Professorenrätsel](7wdvs17.md#einschub) 
-[Interessante Schimmellinks](7wdvs21.md) 
-[Prof. Dr.-Ing. habil. Claus Meier bauphysikalische Beiträge](7waefe.md) 
-[Empfehlenswerte Klima- und Umweltliteratur](8buch22.md)> 
-[Temperierung/Strahlungsheizung](7temper.md) 
-[Anfragen und Antworten zu Bauproblemen](2frag.md) 
-[Das Handwerkerquiz ](10hoai13.md)\+ [Das Planerquiz für schlaue Bauherrn](10hoai14.md) 
-[Zum besseren Bauen, Energiesparen und der Klimafrage](7lesbrif.md) 
-[Fenster-"Aufklärung"](23bausto.md) 
-[Dämmstoffe im Zwielicht - Das Lichtenfelser Experiment](2139bau.md) 
-[Strafanzeige gegen Glaswollehersteller](http://www.mythen-post.ch/datei_news_25_5_02/strafanzeige_i_news_25_5_02.htm) wg. Betrug 
-Dr. Ulrich Berner, Geozentrum Hannover, **[zu den gängigen Klimalügen](7thu55.md)** (Buderus-/IWO-Forum: Die Ölheizung der Zukunft, 28.10.03, Kloster Banz)
+
 
 ---
 

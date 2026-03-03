@@ -1,13 +1,20 @@
 ---
-title: "Anstrich auf Holzoberflächen 2"
-description: "Kritisches Materialwissen zu den Bestandteilen von Öl- und Lackanstrichen."
-author: " "
+nav: "20bausto.md, 23bausto.md"
+title: "Materialwissen & Praxis: Leinöl- & Kunstharz-Anstriche auf Holzoberflächen"
+description: "Materialwissen und Praxis zu Leinöl-, Kunstharz-, Naturharz- und Lack-Anstrichsystemen. Fokus auf Bindemittel, deren Eigenschaften und Anwendung bei Malerarbeiten zur Instandsetzung von Holzfenstern und -bauteilen."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2oel1.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Holzanstriche](2oel.md)  
+# Materialwissen & Praxis: Leinöl- & Kunstharz-Anstriche auf Holzoberflächen
+**Materialwissen und Praxis zu Leinöl-, Kunstharz-, Naturharz- und Lack-Anstrichsystemen. Fokus auf Bindemittel, deren Eigenschaften und Anwendung bei Malerarbeiten zur Instandsetzung von Holzfenstern und -bauteilen.**  
+_von Konrad Fischer_
 
 Konrad Fischer 
 
-# Anstrich auf Holzoberflächen 
+## Anstrich auf Holzoberflächen
 Leinölfarbe / Naturölfarbe / Kunstharzfarbe auf Holzoberflächen / Fensterrestaurierung 2
 
 ## Materialwissen und Praxis zu Leinöl-/Kunstharz-/Naturharz-/Lack-Anstrichsystemen, Malerarbeiten/Lackiererarbeiten zur Instandsetzung/Beschichtung von Holzfenstern/Holzbauteilen/Holzoberflächen 

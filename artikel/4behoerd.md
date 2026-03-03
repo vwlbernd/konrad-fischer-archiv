@@ -1,25 +1,30 @@
 ---
-title: "Behörden - Vom Mißbrauch der Behördenmacht. Wie er funktioniert, wie man sich wehren kann."
-description: ""
-author: " "
+nav: "20bausto.md"
+title: "Vom Mißbrauch der Behördenmacht"
+description: "Behörden - Vom Mißbrauch der Behördenmacht. Wie er funktioniert, wie man sich wehren kann."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/4behoerd.htm"
+updated: ""
 ---
 
-# Problem: Beamte, Behörden & Politik
+[🠔 Zur Übersicht: Altbau Restaurierung](20bausto.md)  
+# Vom Mißbrauch der Behördenmacht
+**Behörden - Vom Mißbrauch der Behördenmacht. Wie er funktioniert, wie man sich wehren kann.**  
+_von Konrad Fischer_
 
-Seite in Unterseiten geteilt. Alle Kapitel vom Inhaltsverzeichnis und aus dem Text anlinkbar. 
-**Inhaltsverzeichnis** 
-<a id="inhalt:"></a>Inhalt: 
-[1. Baurecht und Ausnahmen](41brecht.md#1. baurecht und) 
-2. HOAI-Mißbrauch 
-[2.1 Im Vertragswesen der öffentlichen Hand](421voef.md#2. hoai) 
-2.2 Finanzierungsrichtlinien der öffentlichen Fördergeber 
-3. VOB-Manipulationen 
-4. Stadtsanierung/Städtebauförderung/kirchliche und staatliche Denkmalpflege 
-5. Privatisierte, kommunale und staatliche Baubehörden - Private Hausverwaltungen 
-[6. Technische Prüfbehörden](46techpr.md) 
-[7. Wasser-/Abwasserwirtschaft](47wass.md) 
-[8. Hochschule](48hoch.md) 9. Regierungskriminalität [10. Links](410links.md) 
+## Problem: Beamte, Behörden & Politik
+
+> [!abstract]+ Kapitelübersicht: Behörden  
+> 1. **Vom Mißbrauch der Behördenmacht**
+> 2. [Baurecht und Ausnahmen](41brecht.md)
+> 3. [Behördenprobleme - HOAI-Mißbrauch im Vertragswesen der öff. Hand](421voef.md)
+> 4. [Technische Prüfbehörden](46techpr.md)
+> 5. [Behördenprobleme - Wasser-/Abwasserwirtschaft und sonstiger Tiefbau](47wass.md)
+> 6. [Korruption an der Hochschule](48hoch.md)
+> 7. [Die kostenexplodierende Planungsqualität im öffentlichen Bauen](4kostex.md)
+> 8. [Behördenprobleme - Links](410links.md)
+
+
 
 <a id="1. baurecht und"></a>**[1. Baurecht und Ausnahmen](41brecht.md) 
 <a id="2. hoai"></a>2. HOAI-Mißbrauch** 

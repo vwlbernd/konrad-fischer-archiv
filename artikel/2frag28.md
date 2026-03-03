@@ -1,13 +1,20 @@
 ---
-title: "Aus der Internet-Fragestunde der Altbau und Denkmalpflege ..."
-description: "Altbaufragen von AZ: Burgenkauf und Beratung vor Erwerb."
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Aus der Internet-Fragestunde: Burgenkauf und Beratung"
+description: "Vom Traum zum Albtraum? Was Sie vor dem Kauf von Burgen und Schlössern wissen müssen: Warum Denkmalschutzbehörden oft falsch beraten und wie Sie die Sanierungskosten historischer Monumente realistisch einschätzen."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2frag28.htm"
+updated: "16.06.2008"
 ---
+
+[🠔 Zur Übersicht: Altbau FAQ](2frag.md)  
+# Aus der Internet-Fragestunde: Burgenkauf und Beratung
+**Vom Traum zum Albtraum? Was Sie vor dem Kauf von Burgen und Schlössern wissen müssen: Warum Denkmalschutzbehörden oft falsch beraten und wie Sie die Sanierungskosten historischer Monumente realistisch einschätzen.**  
+_von Konrad Fischer • aktualisiert 16.06.2008_
 
 Konrad Fischer 
 
-# Aus der Internet-Fragestunde und Bauberatung
+## Aus der Internet-Fragestunde und Bauberatung
 
 **(aktualisiert 16.06.08)** 
 

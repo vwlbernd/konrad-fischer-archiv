@@ -1,11 +1,18 @@
 ---
+nav: "index.md"
 title: "Svindleri med den opstigende fugt 3"
-description: "Kontrovers med opstigende fugt: Efterfølgende horisontalisolering fugter murerne."
-author: " "
+description: "Specialister i ødelæggende bedrageri, usikre „eksperter“: arkitekter og ingeniører, ofre for smart saneringsbranche. Øgede byggeomkostninger uden at løse rodproblemet."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2aufdk3.htm"
+updated: "20.06.2009"
 ---
 
-# Opstigende fugt og fugtspærre mod opstigende fugt på sokkel og vægge? 
+[🠔 Zur Übersicht: Fugt-Svindel 1](2auffdk.md)  
+# Svindleri med den opstigende fugt 3
+**Specialister i ødelæggende bedrageri, usikre „eksperter“: arkitekter og ingeniører, ofre for smart saneringsbranche. Øgede byggeomkostninger uden at løse rodproblemet.**  
+_von Konrad Fischer • aktualisiert 20.06.2009_
+
+## Opstigende fugt og fugtspærre mod opstigende fugt på sokkel og vægge?
 
 Information og oplysning 
 
@@ -13,7 +20,7 @@ Kapitel 3
 
 **(Opdateret 20.06.09)** 
 
-## [Kap. 1](2auffdk.md) [2](2aufdk2.md) **3** [4](2aufdk4.md) [5](2aufdk5.md) [6](2aufdk7.md) [7](2aufdk7.md) [8](2aufdk8.md)
+
 
  
 

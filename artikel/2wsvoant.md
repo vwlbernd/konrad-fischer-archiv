@@ -1,11 +1,18 @@
 ---
-title: "Antrag auf Ausnahme/Befreiung gem. WSVO"
-description: "Eine scharfe Waffe gegen den Betrug der Wärmeschutzverordnung für Jedermann."
-author: " "
+nav: "11planme.md"
+title: "Die Befreiung vom Staatsterror der kaminfeuergestützten Hinterzimmer-Ökodiktatur rund um die Wärmeschutzverordnung WSVO, die nachfolgende Energieeinsparverordnung EnEV und das Erneuerbare-Energien-Wärmegesetz EEWärmeG / EEWG"
+description: "Eine von mir persönlich auf Grundlage der Befreiungs- und Ausnahmeparagraphen entwickelte und mehrfach erfolgreich "durchgebrachte" Antragsversion für die Ausnahme/Befreiung von der Wärmeschutzverordnung WSVO."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2wsvoant.htm"
+updated: "01.01.2016"
 ---
 
+[🠔 Zur Übersicht: Bauleitung Bestand I](11baulg.md)  
 # Die Befreiung vom Staatsterror der kaminfeuergestützten Hinterzimmer-Ökodiktatur rund um die Wärmeschutzverordnung WSVO, die nachfolgende Energieeinsparverordnung EnEV und das Erneuerbare-Energien-Wärmegesetz EEWärmeG / EEWG
+**Eine von mir persönlich auf Grundlage der Befreiungs- und Ausnahmeparagraphen entwickelte und mehrfach erfolgreich "durchgebrachte" Antragsversion für die Ausnahme/Befreiung von der Wärmeschutzverordnung WSVO.**  
+_von Konrad Fischer • aktualisiert 01.01.2016_
+
+
 
 ## Praktische Hilfe gegen staatlich bzw. gesetzlich geschütztes Abkassieren der die deutsche Gesetzgebung dominierenden Lobbyisten für Hinz & Kunz
 

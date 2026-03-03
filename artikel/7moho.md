@@ -1,13 +1,20 @@
 ---
+nav: "index.md, 6prxratg.md"
 title: "El ataque del moho - ¿qué hacer? Una guía"
-description: "Información para detectar, prevenir y eliminar hongos y moho como Aspergillus nidulans y Aspergillus niger, Aspergillus versicolor, Aspergillus fumigatus, Aspergillus flavus, Penicillium chrysogenum, Penicillium expansum, Penicillium verrucosum, Penicillium viridicatum, Fusarium, Stachybotrys chartarum (atra), Acremonium, Alternaria, Aureobasidium, Basidiospores, Basidiomycetes, Poria incrassata, Botrytis, Chaetomium, Cladosporium, Trichoderma, Ulocladium sin usar lejía tóxica y nociva."
-author: " "
+description: "Guía completa para detectar, rehabilitar, prevenir y eliminar hongos y moho tóxico como Aspergillus, Penicillium, Fusarium y Stachybotrys, evitando lejías nocivas. Incluye síntomas y soluciones en viviendas."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/7moho.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Roman & Balkan](roman.md)  
+# El ataque del moho - ¿qué hacer? Una guía
+**Guía completa para detectar, rehabilitar, prevenir y eliminar hongos y moho tóxico como Aspergillus, Penicillium, Fusarium y Stachybotrys, evitando lejías nocivas. Incluye síntomas y soluciones en viviendas.**  
+_von Konrad Fischer_
 
 Arquitecto Konrad Fischer 
 
-# El ataque del moho - ¿qué hacer?
+## El ataque del moho - ¿qué hacer?
 
 ## Una guía
 

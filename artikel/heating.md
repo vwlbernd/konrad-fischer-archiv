@@ -1,11 +1,18 @@
 ---
 title: "Building structure / Interior Room Surface IR-Heating System 1 - Properly or Risky Heating + HVAC"
-description: "Improving the Indoor-Conditions / Indoor climate, Maintenance and Conservation of Old / Historic Buildings and Interiors of Patrimonial Monuments via a Interior Room Surface Heating System / Building Structure Warming System for Cold Building Structures - Examples"
-author: " "
+description: "Optimizing indoor climate and conservation of historic buildings. This page explores interior room surface heating for cold structures, addressing challenges in maintaining healthy, hygienic, and structurally sound environments."
+author: "Konrad Fischer"
+updated: ""
+nav: "index.md, 6prxratg.md"
 original_url: "www.konrad-fischer-info.de/heating.htm"
 ---
 
-# The Room Surface / Room Envelope Heating System 1 
+[🠔 Zur Übersicht: English: Old House Repair](english.md)  
+# Building structure / Interior Room Surface IR-Heating System 1 - Properly or Risky Heating + HVAC
+**Optimizing indoor climate and conservation of historic buildings. This page explores interior room surface heating for cold structures, addressing challenges in maintaining healthy, hygienic, and structurally sound environments.**  
+_von Konrad Fischer_
+
+## The Room Surface / Room Envelope Heating System 1
 Properly or Risky Heating
 
 ## Building conservation and the perfect indoor climate without HVAC-Systems 

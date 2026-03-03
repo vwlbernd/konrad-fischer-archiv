@@ -1,4 +1,18 @@
-# Brandchronik Solarbrand - PV-Solaranlage in Brand und Feuer
+---
+nav: "20bausto.md"
+title: "Brandchronik Solarbrand - PV-Solaranlage in Brand und Feuer - Zeitbombe Photovoltaik-Dachanlage, Selbstentzündung, PV-Explosion"
+description: "Als die wohl größte Gefahr für Photovoltaikanlagen gelten - selten bekannt! - Überspannungsschäden bzw. Kurzschlußschäden mit Lichtbogenbildung, die die zwar schwer entflammbaren, aber freilich brennbaren Anlagenbestandteile "explosiv zünden"."
+author: "Konrad Fischer"
+original_url: "www.konrad-fischer-info.de/pvbrand.htm"
+updated: ""
+---
+
+[🠔 Zur Übersicht: Heizen](7temper.md)  
+# Brandchronik Solarbrand - PV-Solaranlage in Brand und Feuer - Zeitbombe Photovoltaik-Dachanlage, Selbstentzündung, PV-Explosion
+**Als die wohl größte Gefahr für Photovoltaikanlagen gelten - selten bekannt! - Überspannungsschäden bzw. Kurzschlußschäden mit Lichtbogenbildung, die die zwar schwer entflammbaren, aber freilich brennbaren Anlagenbestandteile "explosiv zünden".**  
+_von Konrad Fischer_
+
+## Brandchronik Solarbrand - PV-Solaranlage in Brand und Feuer
 
 ## Chronologische Fallsammlung PV-Solarbrände
 
@@ -36,16 +50,16 @@ Das hochwertigere Kabelmaterial ist aus einer halogenfreien vernetzten Polyolefi
 <center markdown>
 
 Aufklärungsfilme zur Energiegesetzgebung: 
-[![Altbau und Energiespargesetze - Wahnsinn oder Methode?](../medien/YOU01.JPG)](http://youtu.be/xBp0lAxF-nU) [![Ökostrom & EEG - Fluch oder Segen?](../medien/YOU07.JPG)](http://youtu.be/2rlotB0Zog4) 
+[![Altbau und Energiespargesetze - Wahnsinn oder Methode?](../medien/YOU01.JPG)](https://youtu.be/xBp0lAxF-nU) [![Ökostrom & EEG - Fluch oder Segen?](../medien/YOU07.JPG)](https://youtu.be/2rlotB0Zog4) 
 
 ### **TV- und Videotipps:**
 
 [21.11, 21.15 Uhr: BR "Geld & Leben - Zeitbombe Photovoltaik"](http://www.br.de/fernsehen/bayerisches-fernsehen/sendungen/geld-und-leben-das-wirtschaftsmagazin/wirtschaft-solar-brand100.html) - mit Konrad Fischer 
-[![Brandgefahr bei Photovoltaikanlagen \(BR - 'Geld und Leben' am 21.11.2011](../medien/YOU08.JPG)](http://youtu.be/DNqE-ZmNjUQ) 
-[![Gefährliche Schäden an Photovoltaikanlagen](../medien/YOU28.JPG)](http://youtu.be/BV7tTONz4jI) 
-[![ARD Plusminus - Brandgefahr bei Photovoltaikanlagen](../medien/YOU26.JPG)](http://youtu.be/_h1IZiGqKa4) 
+[![Brandgefahr bei Photovoltaikanlagen \(BR - 'Geld und Leben' am 21.11.2011](../medien/YOU08.JPG)](https://youtu.be/DNqE-ZmNjUQ) 
+[![Gefährliche Schäden an Photovoltaikanlagen](../medien/YOU28.JPG)](https://youtu.be/BV7tTONz4jI) 
+[![ARD Plusminus - Brandgefahr bei Photovoltaikanlagen](../medien/YOU26.JPG)](https://youtu.be/_h1IZiGqKa4) 
 [ARD PLUSMINUS 11.01.2012: Photovoltaik-Brände - Gefährliche Energieerzeugung auf dem Dach](http://www.daserste.de/plusminus/beitrag_dyn~uid,4wx9rs54sya89hzf~cm.asp) 
-[![Solarwahn und ästhetische Umweltverschmutzung \(3sat Kulturzeit am 10.10.2012\)](../medien/YOU27.JPG)](http://youtu.be/roWb9I5UhcU) 
+[![Solarwahn und ästhetische Umweltverschmutzung \(3sat Kulturzeit am 10.10.2012\)](../medien/YOU27.JPG)](https://youtu.be/roWb9I5UhcU) 
 Solarwahn und ästhetische Umweltverschmutzung (3sat Kulturzeit am 10.10.2012) - Öko-Ästhetizismus der Kulturelite ... 
 [Brandgefährliches auf unseren Dächern???? - Aus photovoltaik.com](http://www.photovoltaikforum.com/pv-news-f25/brandgefaehrliches-auf-unseren-daechern--t71697.html) 
 Solarbrandinfo im [Ketzerforum: Wie geht die Feuerwehr bei einem Dachstuhlbrand vor, wenn eine Photovoltaikanlage installiert ist?](http://freezonechef.servertalk.in/freezonechef-post-56240.html) 
@@ -144,7 +158,7 @@ Hier einige rußige Kostproben der Brandserie von abgefackelten Solaranlagen auf
 
 <center markdown>
 
-[![Großbrand Photovoltaikanlage Hohenaspe](../medien/YOU11.JPG)](http://youtu.be/aTwgNCX3428)
+[![Großbrand Photovoltaikanlage Hohenaspe](../medien/YOU11.JPG)](https://youtu.be/aTwgNCX3428)
 
 </center>
 
@@ -153,7 +167,7 @@ Hier einige rußige Kostproben der Brandserie von abgefackelten Solaranlagen auf
 
 <center markdown>
 
-[![Bayerischer Rundfunk BR 2010: Gefahr Photovoltaik](../medien/YOU12.JPG)](http://youtu.be/zoxnDujgRiU)
+[![Bayerischer Rundfunk BR 2010: Gefahr Photovoltaik](../medien/YOU12.JPG)](https://youtu.be/zoxnDujgRiU)
 
 </center>
 
@@ -165,7 +179,7 @@ Hier einige rußige Kostproben der Brandserie von abgefackelten Solaranlagen auf
 
 <center markdown>
 
-[![Zwei Scheunen mit PV-Anlagen brennen in Goldern und werden durch Brand zerstört](../medien/YOU13.JPG)](http://youtu.be/stqmrbRwclM)
+[![Zwei Scheunen mit PV-Anlagen brennen in Goldern und werden durch Brand zerstört](../medien/YOU13.JPG)](https://youtu.be/stqmrbRwclM)
 
 </center>
 
@@ -181,7 +195,7 @@ Hier einige rußige Kostproben der Brandserie von abgefackelten Solaranlagen auf
 
 <center markdown>
 
-[![23.04.2010 - Bammental: Photovoltaikanlage in Flammen, Großbrand - 150 Feuerwehrleute bei Brand im Einsatz](../medien/YOU14.JPG)](http://youtu.be/kF4sSJN-0CQ)
+[![23.04.2010 - Bammental: Photovoltaikanlage in Flammen, Großbrand - 150 Feuerwehrleute bei Brand im Einsatz](../medien/YOU14.JPG)](https://youtu.be/kF4sSJN-0CQ)
 
 </center>
 
@@ -279,7 +293,7 @@ Januar 2011: [Rindelbach](http://www.schwaebische.de/region/ostalb/ellwangen/sta
 
 <center markdown>
 
-[![Roydorf Scheunenbrand 700000 Euro Schaden](../medien/YOU09.JPG)](http://youtu.be/aMceppQ5oa0)
+[![Roydorf Scheunenbrand 700000 Euro Schaden](../medien/YOU09.JPG)](https://youtu.be/aMceppQ5oa0)
 
 </center>
 
@@ -1267,7 +1281,7 @@ Und für alle, die noch an die Sinnhaftigkeit der Photovoltaik glauben, weil man
 
 Break: Der bisher genialste Beitrag Frankens zur emotionalen Seite der herzerglühenden und beseelenden "Photovoltaik auf dem Dach" und ihrer ökoschmarotzenden Klimaschutzparasiten: (Vorsicht! Keine Satire!): 
 
-[![Michl Müller: Vollwärmeschutz der Liebe](../medien/YOU43.JPG)](http://youtu.be/UxGiAqnb6ZI)
+[![Michl Müller: Vollwärmeschutz der Liebe](../medien/YOU43.JPG)](https://youtu.be/UxGiAqnb6ZI)
 
 ### Solaranlagen - Photovoltaikanlagen - Fotovoltaikanlagen - Risiko für das Leben der Feuerwehrler?
 
@@ -1287,7 +1301,7 @@ von [Bo Hanus](http://c1.websale.net/cgi/wsaffil/wsaffil.cgi?act=callshop&shopid
 
 <center markdown>
 
-[![ARD Odysso: Feuerwehr unter Strom - Reportage mit Lena Ganschow](../medien/YOU16.JPG)](http://youtu.be/VDdnDeLuxEo) 
+[![ARD Odysso: Feuerwehr unter Strom - Reportage mit Lena Ganschow](../medien/YOU16.JPG)](https://youtu.be/VDdnDeLuxEo) 
 [Gefahr Photovoltaik](https://youtu.be/zoxnDujgRiU) 
 [Brandgefährlich- Seminar zu Löscharbeiten bei Photovoltaik Anlagen](https://youtu.be/VUnubPXdGp4) 
 [Kopfball - Solarzellenbrand](https://youtu.be/aJyQgD1HA3Y) 
@@ -1342,7 +1356,7 @@ Die meisten Solarmodule enthalten hochgiftige und in üblichen Elektro- und Elek
 
 <center markdown>
 
-[![BR Geld und Leben - Solarschmarotzer Solarparasiten Ökoschmarotzer Ökoparasiten Solaranlage Photovoltaik](../medien/YOU20.JPG)](http://youtu.be/dDIr7H0gAW)
+[![BR Geld und Leben - Solarschmarotzer Solarparasiten Ökoschmarotzer Ökoparasiten Solaranlage Photovoltaik](../medien/YOU20.JPG)](https://youtu.be/dDIr7H0gAW)
 
 </center>
 

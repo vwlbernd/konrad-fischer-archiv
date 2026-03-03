@@ -1,9 +1,16 @@
 ---
-title: "Formulare und Planungshilfen zum Planen und Bauen im Bestand ..."
-description: "Formulare zum Planen und Bauen im Bestand, Altbau und Denkmal."
-author: " "
+nav: "11planme.md"
+title: "Planungs- und Organisationshilfen für Bauherrn + Planer"
+description: "Praktisch bewährte Hilfe für die Altbausanierung."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/11form.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Raumbuch Einführung](11rabus.md)  
+# Planungs- und Organisationshilfen für Bauherrn + Planer
+**Praktisch bewährte Hilfe für die Altbausanierung.**  
+_von Konrad Fischer_
 
 ## Den Altbau sanieren - ohne Kostenexplosion, ohne Honorarcrash? 
 
@@ -11,7 +18,7 @@ Statt Billigheimern Qualitätsangebote?
 
 Mit altbaugerechtem Werkzeug kann es vielleicht auch Ihnen manchmal gelingen: 
 
-# Planungs- und Organisationshilfen 
+## Planungs- und Organisationshilfen
 für Bauherrn + Planer
 
 **_Praktisch_ bewährte Hilfe für die Altbausanierung**

@@ -1,13 +1,20 @@
 ---
-title: "Aus der Internet-Fragestunde der Altbau und Denkmalpflege ..."
-description: "Altbaufragen von AZ: 10 Goldene Regeln für Bauherren zur Planung."
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Aus der Internet-Fragestunde: 10 Goldene Regeln für Bauherren"
+description: "Konrad Fischers ultimative Strategie gegen Kostenexplosion und Pfusch. Warum Sie erst denken und dann dämmen sollten und wie Sie die Kontrolle über Ihr Sanierungsprojekt behalten."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2frag29.htm"
+updated: "16.06.2008"
 ---
+
+[🠔 Zur Übersicht: Altbau FAQ](2frag.md)  
+# Aus der Internet-Fragestunde: 10 Goldene Regeln für Bauherren
+**Konrad Fischers ultimative Strategie gegen Kostenexplosion und Pfusch. Warum Sie erst denken und dann dämmen sollten und wie Sie die Kontrolle über Ihr Sanierungsprojekt behalten.**  
+_von Konrad Fischer • aktualisiert 16.06.2008_
 
 Konrad Fischer 
 
-# Aus der Internet-Fragestunde und Bauberatung
+## Aus der Internet-Fragestunde und Bauberatung
 
 **(aktualisiert 16.06.08)** 
 

@@ -1,11 +1,18 @@
 ---
-title: "BAULEITUNG IM BESTAND 2"
-description: "Die Objektüberwachung am Altbau - Probleme und Lösungen."
-author: " "
+nav: "11planme.md"
+title: "Bauleitung, Objektüberwachung gem. HOAI, Terminkontrolle, Kostenkontrolle, Kostensteuerung, Abrechnung, Rechnungsprüfung, Mangel und Gewährleistung - Probleme und Lösungen"
+description: "Bauleitung, Objektüberwachung gem. HOAI, Terminkontrolle, Kostenkontrolle, Kostensteuerung, Abrechnung, Rechnungsprüfung, Mangel und Gewährleistung - Probleme und Lösungen"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/11baulg1.htm"
+updated: ""
 ---
 
-# Bauleitung im Bestand 2
+[🠔 Zur Übersicht: Bauleitung Bestand I](11baulg.md)  
+# Bauleitung, Objektüberwachung gem. HOAI, Terminkontrolle, Kostenkontrolle, Kostensteuerung, Abrechnung, Rechnungsprüfung, Mangel und Gewährleistung - Probleme und Lösungen
+**Bauleitung, Objektüberwachung gem. HOAI, Terminkontrolle, Kostenkontrolle, Kostensteuerung, Abrechnung, Rechnungsprüfung, Mangel und Gewährleistung - Probleme und Lösungen**  
+_von Konrad Fischer_
+
+## Bauleitung im Bestand 2
 
 ## Bauleitung, Objektüberwachung gem. HOAI, Terminkontrolle, Kostenkontrolle, Kostensteuerung, Abrechnung, Rechnungsprüfung, Mangel und Gewährleistung - Probleme und Lösungen
 

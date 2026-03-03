@@ -1,13 +1,20 @@
 ---
+nav: "20bausto.md"
 title: "Kalkputz und Mörtel am Baudenkmal"
-description: "Kalkputz und Mörtel am Baudenkmal - Beitrag für Rubrik Kontrovers - bausubstanz 5/99."
-author: " "
+description: "Kalk ist ein Lieblingsbaustoff der Denkmalpflege. Trotz der vielen Schäden mit modernen Baustoffen im Alt- und Neubau sind aber auch traditionelle Kalkprodukte nicht unproblematisch."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2prokalk.htm"
+updated: "01.03.2010"
 ---
+
+[🠔 Zur Übersicht: Kalk](26bausto.md)  
+# Kalkputz und Mörtel am Baudenkmal
+**Kalk ist ein Lieblingsbaustoff der Denkmalpflege. Trotz der vielen Schäden mit modernen Baustoffen im Alt- und Neubau sind aber auch traditionelle Kalkprodukte nicht unproblematisch.**  
+_von Konrad Fischer • aktualisiert 01.03.2010_
 
 Konrad Fischer 
 
-# Kalkputz und Mörtel am Baudenkmal 
+
 
 Beitrag für Rubrik "Kontrovers" - bausubstanz 5/99 (aktualisiert 3/10)
 

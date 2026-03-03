@@ -1,16 +1,22 @@
 ---
-title: "Die Hüllflächentemperierung - Richtig oder falsch Heizen 21"
-description: "Fensterglas, Wärmestrahlung, Heizung und Energiesparen. Glas und elektromagnetische Licht- und Wärme-Strahlung."
-author: " "
+nav: "20bausto.md"
+title: "Glas und die elektromagnetische Strahlung"
+description: "Analyse der Durchlässigkeit von Fensterglas für sichtbares Licht, UV- und Infrarotstrahlung. Erläuterung des Treibhauseffekts und Auswirkungen auf die Heiztechnik."
+author: "Prof. Dr. Claus Meier"
 original_url: "www.konrad-fischer-info.de/7temp21.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Heizen](7temper.md)  
+# Glas und die elektromagnetische Strahlung
+**Analyse der Durchlässigkeit von Fensterglas für sichtbares Licht, UV- und Infrarotstrahlung. Erläuterung des Treibhauseffekts und Auswirkungen auf die Heiztechnik.**  
+_von Prof. Dr. Claus Meier_
 
 ## Die Temperierung der Gebäude-Hüllflächen 21
 
-[Temperierung Start](7temper.md) - Kapitel [1 - Referenzschreiben eines Lesers zum Temperiereffekt](7temp01.md) [2 - Seit wann gibt es Temperierung? / Die Sauerei mit der Kirchenheizung](7temp02.md) [3 - Richtig oder falsch Heizen in der Kirche - Orgeln und Heizung](7temp03.md) [4 - Strahlungsgeschichtliches](7temp04.md) [5 - Der Umschwung pro Temperierung](7temp05.md) [6 - Wie funktioniert Temperierung? / Wirkprinzip Wärmestrahlung / Trocknungseffekt / Wärmeverlust: Konvektion kontra Strahlung](7temp06.md) [7 - Sachverständigengutachten über die Mängel der Temperieranlage (Auszug) / Gesetzgeber zur Anwendung EnEV bei Strahlungsheizung - Auslegungsfragen](7temp07.md) [8 - Energieverluste? Zur Dämmung temperierter Wände / Neon-Analogon](7temp08.md) [9 - Feuchte und Temperatur an der Wand](7temp09.md) [10 - Schwedenofen, Kachelofen, Lüftungsanlage + Klimaanlage - Vorhof zur Hölle?](7temp10.md) [11 - Temperiererfolg gegen feuchte Wände und nasse Mauern / Trockenlegung](7temp11.md) [12 - Großraum, Schloß, Kirche, Saal: Übliche Fehleinschätzungen und Kaputtsanierung](7temp12.md) [13 - Temperieren im Großraum - Kirche, Saal und Halle](7temp13.md) [14 - Temperierung und Hygiene](7temp14.md) [15 - Bauteilkorrosion als Folge des Warmluftstroms - Wartungsintervalle und Heiztechnik](7temp15.md) [16 - Temperierung mittels Rohr oder Kleinkonvektor/Sockelleiste/Heizleiste/Fußleistenheizung](7temp16.md) [17 - Projektbeispiele / Schloß Veitshöchheim](7temp17.md) [18 - Einbau von Temperieranlagen - Technische Hinweise](7temp18.md) [19 - Konfiguration und Bemessung der Temperieranlage](7temp19.md) [20 - Strahlungsheizung und Fensterkonstruktion](7temp20.md) **21 - Prof. Dr. Claus Meier: Glas und die elektromagnetische Strahlung / Die Tragödie der Strahlung in der Heiztechnik - Humane Strahlungswärme** [22 - VDI-Richtlinien, DIN-Norm und falsche Prüfberichte](7temp22.md) [23 - Energieerzeugung und Wirtschaftlichkeit - Probleme der Ökoenergieen](7temp23.md) [24 - Erhaltung und/oder Umbau bestehender Heizsysteme / EnEV-Befreiung gem. § 25, Nachtabsenkung, Glas+Strahlung, Brennwert-Technik](7temp24.md) 
-[25 - Bauwerkstrocknung nach Überschwemmungs- und sonstigen Durchfeuchtungsschäden / Weitere Informationen](7temp25.md) 
 
-# <a id="glas"></a>Glas und die elektromagnetische Strahlung
+
+## <a id="glas"></a>Glas und die elektromagnetische Strahlung
 
 _"Für sichtbares Licht ist die Durchlässigkeit besonders hoch; daher ist Fensterglas durchsichtig. Für langwellige Infrarotstrahlung aber ist Fensterglas nahezu völlig undurchlässig. Würden unsere Augen nur in diesem Bereich sehen, wäre Fensterglas so undurchsichtig wie eine Mauer aus Stein."[aus: www.weltderphysik.de/de/4587.php](http://www.weltderphysik.de/de/4587.php)_
 

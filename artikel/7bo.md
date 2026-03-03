@@ -1,13 +1,20 @@
 ---
+nav: "7thuene1.md"
 title: "Bosserts Hammer: Der Bundesdeutsche Sanierungsschwindel"
 description: "Zum betrügerischen Verhalten von Politik, Verwaltung und Wissenschaft in der Deutschen Energiepolitik. Das Abzocken der Bürger durch Energiebetrug."
-author: " "
+author: "Paul Bossert"
 original_url: "www.konrad-fischer-info.de/7bo.htm"
+updated: "05.01.2006"
 ---
+
+[🠔 Zur Übersicht: Schweizer Energiepolitik](7eneb.md)  
+# Bosserts Hammer: Der Bundesdeutsche Sanierungsschwindel
+**Zum betrügerischen Verhalten von Politik, Verwaltung und Wissenschaft in der Deutschen Energiepolitik. Das Abzocken der Bürger durch Energiebetrug.**  
+_von Paul Bossert • aktualisiert 05.01.2006_
 
 _Hinweis des Herausgebers: Der nachfolgende Text wird hier unverändert zur Diskussion gestellt. Für den Inhalt, der sich betr. der Sinnhaftigkeit von Dämmungen am Dach und Boden von der Position des Herausgebers unterscheidet, trägt der Autor die alleinige Verantwortung. 23.2.2006_ 
 
-# Der Bundesdeutsche Sanierungsschwindel vom 5. 1. 2006
+## Der Bundesdeutsche Sanierungsschwindel vom 5. 1. 2006
 
 ### Bundesministerium für Verkehr, Bau und Stadtentwicklung (BMVBS)
 

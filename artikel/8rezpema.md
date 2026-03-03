@@ -1,11 +1,18 @@
 ---
+nav: "index.md, 8infober.md"
 title: "Rezension - Petzet/Mader: Praktische Denkmalpflege"
-description: "Rezension - Petzet/Mader: Praktische Denkmalpflege. Michael Petzet, Gert Mader Praktische Denkmalpflege Stuttgart, Berlin, Köln, 1995: Verlag W. Kohlhammer, ..."
-author: " "
+description: "Umfassende Rezension des Buches 'Praktische Denkmalpflege' von Michael Petzet und Gert Mader (1995, W. Kohlhammer). Beleuchtet Denkmalpflege von Theorie (Geschichte, Grundsätze) bis Praxis (Voruntersuchung, Planung)."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/8rezpema.htm"
+updated: "09.04.2009"
 ---
 
-# Rezension - Petzet/Mader: Praktische Denkmalpflege 
+[🠔 Zur Übersicht: Altbaukritik Fachbücher](8wetz.md)  
+# Rezension - Petzet/Mader: Praktische Denkmalpflege
+**Umfassende Rezension des Buches 'Praktische Denkmalpflege' von Michael Petzet und Gert Mader (1995, W. Kohlhammer). Beleuchtet Denkmalpflege von Theorie (Geschichte, Grundsätze) bis Praxis (Voruntersuchung, Planung).**  
+_von Konrad Fischer • aktualisiert 09.04.2009_
+
+
 
 Michael Petzet, Gert Mader 
 

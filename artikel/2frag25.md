@@ -1,13 +1,20 @@
 ---
-title: "Aus der Internet-Fragestunde der Altbau und Denkmalpflege ..."
-description: "Aus der Internet-Fragestunde und Bauberatung:Mörtel und Putz"
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Aus der Internet-Fragestunde: Mörtel und Putz"
+description: "Fragen und Antworten zur Sanierung eines Altbaus (Baujahr 1876) in Thüringen, speziell zur Eigenherstellung und Verwendung von Kalkmörtel."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2frag25.htm"
+updated: "16.06.2008"
 ---
+
+[🠔 Zur Übersicht: Altbau FAQ](2frag.md)  
+# Aus der Internet-Fragestunde: Mörtel und Putz
+**Fragen und Antworten zur Sanierung eines Altbaus (Baujahr 1876) in Thüringen, speziell zur Eigenherstellung und Verwendung von Kalkmörtel.**  
+_von Konrad Fischer • aktualisiert 16.06.2008_
 
 Konrad Fischer 
 
-# Aus der Internet-Fragestunde und Bauberatung
+## Aus der Internet-Fragestunde und Bauberatung
 
 **(aktualisiert 16.06.08)** 
 

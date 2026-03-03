@@ -1,9 +1,16 @@
 ---
-title: "Restaurointi vanha rakennus - Konservointi & entisöinti ..."
-description: "Arkkitehtuuri Makasiini - Entisöinti, Restaurointi, Restaurrointi, Konservointi & Suojeluun - Tavallinen erehtyä + Mikä oikeastaan tehdas."
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Restaurointi vanha rakennus - Konservointi & entisöinti"
+description: "Kriittisiä näkökulmia vanhojen rakennusten ja historiallisten monumenttien restaurointiin. Vältä tyypillisiä virheitä ja säilytä kiinteistösi arvo asiantuntijatiedolla."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/suomi.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Nordisk](nordisk.md)  
+# Restaurointi vanha rakennus - Konservointi & entisöinti
+**Kriittisiä näkökulmia vanhojen rakennusten ja historiallisten monumenttien restaurointiin. Vältä tyypillisiä virheitä ja säilytä kiinteistösi arvo asiantuntijatiedolla.**  
+_von Konrad Fischer_
 
 Valmis te palauttaa sinun entisaikainen rakennus? Mikä esiintyä? häpeämätön aikaansaada -lta entistys, jälleenrakennus, hyvitys eli modernisointi epäonnistua? Aivan sinun raha ja odottaa on eksynyt? 
 

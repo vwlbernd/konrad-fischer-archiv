@@ -1,17 +1,24 @@
 ---
-title: "Brandschutz in historischen Bauten 5"
-description: "Praxis Ratgeber der Deutschen Burgenvereinigung zum Brandschutz im Altbau."
-author: " "
+nav: "20bausto.md, 2baustof.md"
+title: "Brandschutztechnische Verbesserung in Altbauten 2"
+description: "Ein DBV-Praxisratgeber zum Vorbeugenden Brandschutz im Altbau."
+author: "Dipl.-Ing. Sylwester Kabat"
 original_url: "www.konrad-fischer-info.de/6kabat5.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Brandschutz Altbau](6brand.md)  
+# Brandschutztechnische Verbesserung in Altbauten 2
+**Ein DBV-Praxisratgeber zum Vorbeugenden Brandschutz im Altbau.**  
+_von Dipl.-Ing. Sylwester Kabat_
 
 ## Dipl.-Ing. Sylwester Kabat
 
-# Brandschutz in historischen Bauten / im Altbau 5 
+## Brandschutz in historischen Bauten / im Altbau 5
 
 Ein DBV-Praxisratgeber zum Vorbeugenden Brandschutz
 
-[Seite 1](6kabat.md) [2](6kabat2.md) [3](6kabat3.md) [4](6kabat4.md) **5** [6](6kabat6.md) [7](6kabat7.md)
+
 
 **3.3 Welche baulichen, anlagentechnischen und organisatorischen Brandschutzmaßnahmen sind im Altbau sinnvoll?**
 

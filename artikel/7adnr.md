@@ -1,13 +1,20 @@
 ---
+nav: "7epass.md"
 title: "Einspruch der ADNR e.V. gegen den Entwurf der DIN 4108-2"
 description: "Kritische Würdigung der technisch unbegründeten Abkehr der DIN vom speicherfähigen Baustoff."
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/7adnr.htm"
+updated: "08.11.1999"
 ---
+
+[🠔 Zur Übersicht: DIN-Normen Kritik](2mbu.md)  
+# Einspruch der ADNR e.V. gegen den Entwurf der DIN 4108-2
+**Kritische Würdigung der technisch unbegründeten Abkehr der DIN vom speicherfähigen Baustoff.**  
+_von Konrad Fischer • aktualisiert 08.11.1999_
 
 ## Arbeitsgemeinschaft für Dämmstoffe aus nachwachsenden Rohstoffen ADNR e.V.
 
-# Einspruch der ADNR e.V. gegen den Entwurf der DIN 4108-2
+
 
 ### Dieser dem Normenausschuß Bauwesen fristgerecht vorgelegte wurde den Altbau und Denkmalpflege Informationen zur virtuellen Verbreitung übermittelt. Meiner Berichterstattungspflicht komme ich gerne nach:
 

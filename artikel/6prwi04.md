@@ -1,11 +1,18 @@
 ---
-title: "Baudenkmäler wirtschaftlich instandsetzen - Preisgünstig Instandsetzen"
-description: "Praxis Ratgeber Wirtschaftliches Instandsetzen von Baudenkmälern - Planung - Finanzierung - Projektabwicklung 4. Von der Reparatur zur Zerstörung"
-author: " "
+title: "Wirtschaftliches Instandsetzen von Baudenkmälern – Von der Reparatur zur Zerstörung"
+description: "Nicht immer kann man alte Häuser sparsam reparieren. Im Interessenskonflikt der Beteiligten und durch falsche Planungsmethoden verliert der Altbau sogar erhaltenswerte Substanz."
+author: "Konrad Fischer"
+updated: "02.09.2008"
+nav: "index.md, 6prxratg.md"
 original_url: "www.konrad-fischer-info.de/6prwi04.htm"
 ---
 
-# Praxis Ratgeber zur Denkmalpflege 
+[🠔 Zur Übersicht: Denkmal instandsetzen](6prwiins.md)  
+# Wirtschaftliches Instandsetzen von Baudenkmälern – Von der Reparatur zur Zerstörung
+**Nicht immer kann man alte Häuser sparsam reparieren. Im Interessenskonflikt der Beteiligten und durch falsche Planungsmethoden verliert der Altbau sogar erhaltenswerte Substanz.**  
+_von Konrad Fischer • aktualisiert 02.09.2008_
+
+## Praxis Ratgeber zur Denkmalpflege
 
 ## Wirtschaftliches Instandsetzen von Baudenkmälern 
 Kauf, Finanzierung, Planung und Projektorganisation 4
@@ -20,7 +27,7 @@ Konrad Fischer
 
 Wirtschaftliches Instandsetzen von Baudenkmälern – Kauf, Finanzierung, Planung und Projektorganisation 
 
-[1. Vorbemerkung](6prwiins.md) [2. Der Immobilienkauf](6prwi02.md) [3. Öffentliche und private Förderung für die Instandsetzung von Baudenkmälern](6prwi03.md) **4. Von der Reparatur zur Zerstörung** [5. Entwurfsstrategie](6prwi05.md) [6. Der erste Planungsschritt](6prwi06.md) [7. Bestandsaufnahme mit System](6prwi07.md) [8. Nutzungsentwurf](6prwi08.md) [9. Reparaturplanung und Konstruktionsentwurf](6prwi09.md) [10. Leistungsbeschreibung, Baukosten und Bauablauf](6prwi10.md) [11. Investitionsziel / 12. Zusammenfassung / Empfohlene Fachliteratur zu Finanzierung und Technik](6prwi11.md) 
+
 
 4. Von der Reparatur zur Zerstörung 
 
@@ -47,6 +54,4 @@ Konrad Fischer
 Dipl.-Ing. Architekt BYAK 
 Mitglied des Beirats für Denkmalerhaltung der Deutschen Burgenvereinigung e.V. 
 Hauptstr. 50, 96272 Hochstadt a. Main 
-[Telefon und Email](2berat.md#email) 
-
-[1. Vorbemerkung](6prwiins.md) [2. Der Immobilienkauf](6prwi02.md) [3. Öffentliche und private Förderung für die Instandsetzung von Baudenkmälern](6prwi03.md) **4. Von der Reparatur zur Zerstörung** [5. Entwurfsstrategie](6prwi05.md) [6. Der erste Planungsschritt](6prwi06.md) [7. Bestandsaufnahme mit System](6prwi07.md) [8. Nutzungsentwurf](6prwi08.md) [9. Reparaturplanung und Konstruktionsentwurf](6prwi09.md) [10. Leistungsbeschreibung, Baukosten und Bauablauf](6prwi10.md) [11. Investitionsziel / 12. Zusammenfassung / Empfohlene Fachliteratur zu Finanzierung und Technik](6prwi11.md)
+[Telefon und Email](2berat.md#email)

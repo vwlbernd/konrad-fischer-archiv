@@ -1,13 +1,20 @@
 ---
-title: "Aus der Internet-Fragestunde der Altbau und Denkmalpflege ..."
-description: "Altbaufragen von AZ: Feuchte, Trockenlegung, Salz, Kälte und Energiefragen im und am Haus."
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Aus der Internet-Fragestunde: Feuchte Mauern & Trockenlegungs-Mythen"
+description: "Warum teure Injektionen und Technik-Hokuspokus gegen Feuchtigkeit oft versagen: Ein Leitfaden über den richtigen Umgang mit Salzen, Kälte und den wahren Ursachen nasser Wände."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2frag11.htm"
+updated: "22.04.2008"
 ---
+
+[🠔 Zur Übersicht: Altbau FAQ](2frag.md)  
+# Aus der Internet-Fragestunde: Feuchte Mauern & Trockenlegungs-Mythen
+**Warum teure Injektionen und Technik-Hokuspokus gegen Feuchtigkeit oft versagen: Ein Leitfaden über den richtigen Umgang mit Salzen, Kälte und den wahren Ursachen nasser Wände.**  
+_von Konrad Fischer • aktualisiert 22.04.2008_
 
 Konrad Fischer 
 
-# Aus der Internet-Fragestunde und Bauberatung
+## Aus der Internet-Fragestunde und Bauberatung
 
 **(aktualisiert 22.04.08)** 
 

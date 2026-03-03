@@ -1,17 +1,24 @@
 ---
-title: "Svindleri med den opstigende fugt 6"
+nav: "index.md"
+title: "Opstigende fugt og fugtspærre mod opstigende fugt på sokkel og vægge"
 description: "Kontrovers med opstigende fugt: Efterfølgende horisontalisolering fugter murerne."
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2aufdk6.htm"
+updated: ""
 ---
 
-# Opstigende fugt og fugtspærre mod opstigende fugt på sokkel og vægge? 
+[🠔 Zur Übersicht: Fugt-Svindel 1](2auffdk.md)  
+# Opstigende fugt og fugtspærre mod opstigende fugt på sokkel og vægge
+**Kontrovers med opstigende fugt: Efterfølgende horisontalisolering fugter murerne.**  
+_von Konrad Fischer_
+
+## Opstigende fugt og fugtspærre mod opstigende fugt på sokkel og vægge?
 
 Information og oplysning 
 
 Kapitel 6
 
-## [Kap. 1](2auffdk.md) [2](2aufdk2.md) [3](2aufdk3.md) [4](2aufdk4.md) [5](2aufdk5.md) **6** [7](2aufdk7.md) [8](2aufdk8.md)
+
 
 
 

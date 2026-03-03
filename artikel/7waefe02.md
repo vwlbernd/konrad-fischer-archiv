@@ -1,32 +1,38 @@
 ---
-title: "Wärme- und Feuchteschutz beim Altbau - Theorie und Wirklichkeit 1"
-description: "Energiesparen - aber richtig! Prof. Meiers kontroverse Beiträge zum Dämmwahn 2."
-author: " "
+nav: "7epass.md"
+title: "Wärme- und Feuchteschutz im Altbau 1"
+description: "Bauen bedeutet Tradition, Baukultur und Charakter. Heute dominieren Lobbyismus und Markterfolg, was zu Fehlentwicklungen führt. Bewährtes Wissen ist weiterhin gültig; Begriffe müssen geklärt werden."
+author: "Prof. Dr.-Ing. habil. Claus Meier"
 original_url: "www.konrad-fischer-info.de/7waefe02.htm"
+updated: ""
 ---
 
-# Prof. Meiers kontroverse Beiträge zum Energiesparen 2
+[🠔 Zur Übersicht: Das malträtierte Haus](7epass.md)  
+# Wärme- und Feuchteschutz im Altbau 1
+**Bauen bedeutet Tradition, Baukultur und Charakter. Heute dominieren Lobbyismus und Markterfolg, was zu Fehlentwicklungen führt. Bewährtes Wissen ist weiterhin gültig; Begriffe müssen geklärt werden.**  
+_von Prof. Dr.-Ing. habil. Claus Meier_  
+_Architekt SRL_  
+_Neuendettelsauer Straße 39_  
+_90449 Nürnberg_  
+_Tel.: 0911/6897526 Fax: 0911/6897527_  
 
-[Das malträtierte Haus - zum Dämmschwindel und Energiepaß-Betrug](7epass.md) 
-[Contra EnEV](7waefe.md) 
-**Wärme- und Feuchteschutz beim Altbau - Theorie und Wirklichkeit 1** [2](7waefe03.md) [3](7waefe04.md) [4](7waefe05.md) [5](7waefe06.md) [6](7waefe07.md) [7](7waefe08.md) [ 8](7waefe09.md) 
-[Verbundsysteme für die Fassade-kritisch betrachtet 1](7waefe10.md) [2](7waefe11.md) 
-[Wohnungsbaubestand und Wärmeschutz 1](7waefe12.md) [2](7waefe13.md) [3](7waefe14.md) [4](7waefe15.md) [5](7waefe16.md) [6](7waefe17.md) [7](7waefe18.md) 
-[Rechtliche Randbedingungen des Gebäudewärmeschutzes 1](7waefe19.md) [2](7waefe20.md) [3](7waefe21.md) 
-[Niedrigenergie- und Passivhäuser im Kreuzfeuer/Contra Passivhaus 1](7waefe22.md) [2](7waefe23.md) [3](7waefe24.md) [4](7waefe25.md) [5](7waefe26.md) [6](7waefe27.md) [7](7waefe28.md) [8](7waefe29.md) [9](7waefe30.md) [10](7waefe31.md) [11](7waefe32.md) 
-[Widersprüche im Wärmeschutz - Die allgegenwärtige k/U-Wert Euphorie 1](7waefe33.md) [2](7waefe34.md) 
+## Prof. Meiers kontroverse Beiträge zum Energiesparen
 
-Prof. Dr.-Ing. habil. Claus Meier 
-Architekt SRL 
-Neuendettelsauer Straße 39 
-90449 Nürnberg 
-Tel.: 0911/6897526 Fax: 0911/6897527
+> [!abstract]+ Kapitelübersicht: Wärme & Feuchte 1  
+> 1. **Wärme- und Feuchteschutz beim Altbau 1**
+> 2. [Wärme- und Feuchteschutz beim Altbau - Theorie und Wirklichkeit 2](7waefe03.md)
+> 3. [Wärme- und Feuchteschutz beim Altbau - Theorie und Wirklichkeit 3](7waefe04.md)
+> 4. [Wärme- und Feuchteschutz beim Altbau - Theorie und Wirklichkeit 4](7waefe05.md)
+> 5. [Wärme- und Feuchteschutz beim Altbau - Theorie und Wirklichkeit 5](7waefe06.md)
+> 6. [Wärme- und Feuchteschutz beim Altbau - Theorie und Wirklichkeit 6](7waefe07.md)
+> 7. [Wärmeschutz und Feuchteschutz im ungedämmten oder nachträglich gedämmten Massivbau / Altbau - Theorie und Wirklichkeit 7](7waefe08.md)
+> 8. [Wärme- und Feuchteschutz beim Altbau - Theorie und Wirklichkeit 8](7waefe09.md)
 
-<a id="wärme- und feuchteschutz beim"></a>**Wärme- und Feuchteschutz beim Altbau - Theorie und Wirklichkeit 1**
+## <a id="wärme- und feuchteschutz beim"></a>Wärme- und Feuchteschutz beim Altbau - Theorie und Wirklichkeit 1
 
 Bauen bedeutet Tradition, Bauen bedeutet Baukultur, Bauen erfordert auch Charakter.Diese Basis droht, bedeutungslos zu werden, da eine virtuelle Scheinwelt dominiert. Im heutigen Bauen haben Lobbyismus und monetärer Markterfolg starken Einfluß. Das provoziert Fehlentwicklungen. Denkfehler und Fehlschlüsse sind die Ursache. Sie müssen in ihren Auswirkungen und ihrer Widersprüchlichkeit offengelegt werden. Bewährte Kenntnisse und gesichertes Wissen aus früheren Zeiten ist auch heute noch gültig. Gewisse Begriffe müssen zurechtgerückt, Zusammenhänge geklärt werden. Die Spreu vom Weizen zu trennen! Karl Steinbuch [1]: "Habe Mut, dich deines Verstandes ohne fremde Leitung zu bedienen". 
 
-**Rechtliche Aspekte**
+## Rechtliche Aspekte
 
 Baurechtlich wird das Baugeschehen beeinflußt durch: 
 
@@ -34,7 +40,7 @@ Allgemein anerkannte Regeln der Technik
 
 Diese Regeln bilden die Grundlage bautechnischen Schaffens, sind bewährte Methoden und dienen der Planung und Herstellung von Bauwerken. Sie sind Bestandteil des Werkvertrages. Sowohl das BGB als auch die VOB/B (als Ergänzung zum BGB) stützen sich auf a.a.R.d.Bt. Auch das Strafgesetzbuch kennt nur den Begriff der allgemein anerkanten Regel der Technik (§ 323). Diese Regeln entwickeln sich im Zusammenspiel von theoretischer Überlegung und praktischer Erfahrung und können auf eine jahrhundertalte Tradition zurückgreifen.
 
-DIN-Normen 
+## DIN-Normen 
 
 Im Bauvertragsrecht spielen die DIN-Normen erst dann eine Rolle, wenn sie als Vertragsbestandteil besonders vereinbart werden. Bei der technischen Umsetzung von DIN-Normen muß damit gerechnet werden, daß sowohl die Beachtung der DIN-Normen zu fehlerhaften, als auch die Nichtbeachtung zu fehlerfreien Lösungen führen können. Diese Aussage mag überraschen, wird aber durch folgende Feststellungen verständlich: DIN ist ein Selbstverwaltungsorgan der Wirtschaft und seit über 75 Jahren privatrechtlich organisiert. Im Vorspann von zusammengefaßten DIN-Normen steht in den "Hinweisen für den Anwender": "DIN-Normen sollen sich als "anerkannte Regeln der Technik" einführen. Bei sicherheitstechnischen Festlegungen in DIN-Normen besteht überdies eine tatsächliche Vermutung dafür, daß sie "anerkannte Regeln der Technik" sind.
 
@@ -48,7 +54,7 @@ Bei der Unverbindlichkeit der Normen ist auch der Versuch bedenklich, Normen nun
 
 Wegen der technischen Fehler in der DIN, übertriebener Kooperation mit der Wirtschaft und großem lobbyistischen Einfluß der Industrie müssen die DIN-Vorschriften mit großer Zurückhaltung und Vorsicht angewendet werden; Mehr Verlaß ist auf die a.a.R.d.Bt, die sich von der Bindung der Industrie loslösen (sollten).
 
-Energieeinsparungsgesetz 
+## Energieeinsparungsgesetz 
 
 Die Ermächtigungsgrundlage zum Erlaß der Wärmeschutzverordnungen enthält im §5 (1) das Wirtschaftlichkeitsgebot, im §5 (2) das Härtefallgebot: 
 
@@ -62,7 +68,7 @@ Dieser Absatz (2) findet sich deshalb im § 14 der Wärmeschutzverordnung 95 "H�
 
 Die eindeutigste Form einer unbilligen Härte ist die Unwirtschaftlichkeit (s. [Materialien zur Wirtschaftlichkeit](7wirt.exe) (Download selbstentpackende Word 6-Zip-Datei)->Anhang, beim Autor erhältlich).
 
-Wärmeschutzverordnung 
+## Wärmeschutzverordnung 
 
 Die Wärmeschutzverordnung 95 war seit dem 01.01.1995 in Kraft (die Energieeinsparverordnung EnEV seit 2002, novelliert ab 2007, 2009 ff.). Der methodische Aufbau unterscheidet sich nicht vom Aufbau früherer WSchVOen, trotz gegenteiliger Behauptungen. Der Lüftungswärmebedarf (51,4 kWh/m²a) und die internen Wärmegewinne (25 kWh/m²a) sind konstante Werte. Insofern reduziert sich das "Energiebilanzverfahren" zu einem km-Verfahren (Solargewinne können über kFeq -Werte berücksichtigt werden). Zur Erfüllung der verschärften Anforderungen müssen nur entsprechend kleinere k-Werte gewählt werden [5] (dies hat sich auch bei der inzwischen gültigen EnEV nicht geändert).
 

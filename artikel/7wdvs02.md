@@ -1,56 +1,28 @@
 ---
-title: "Energieausweis/Energiepass-Schwindel: Altbau-Energieberatung"
-description: "Der k- bzw. U-Wert und seine Folgen - Energieausweis/Energiepass/Verbrauchsausweis/Verbrauchspaß/Bedarfsausweis/Bedarfspaß \- Energieberater/Energieberatung"
-author: " "
+nav: "20bausto.md"
+title: "Der Schwindel mit dem EnEV-Energieausweis"
+description: "Ökovampirismus: Klimaschutzblutsauger auf der Jagd nach Ihren letzten Kröten"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/7wdvs02.htm"
+updated: ""
 ---
 
-# Energiesparen und Wärmeschutz am Altbau 2
-
-## Eine kleine unendliche Geschichte der Ökoabzocke - Ironiemodus an!
-
-Energiesparen und Wärmeschutz Kapitel [Einleitung](7wsvoant.md) [1](7wdvs01.md) **2** [3](7wdvs03.md) [4](7wdvs04.md) [5](7wdvs05.md) [6](7wdvs06.md) [7](7wdvs07.md) [8](7wdvs08.md) [9](7wdvs09.md) [10](7wdvs10.md) [11](7wdvs11.md) [12](7wdvs12.md) [13](7wdvs13.md) [14](7wdvs14.md) [15](7wdvs15.md) [16](7wdvs16.md) [17](7wdvs17.md) [18](7wdvs18.md) [19](7wdvs19.md) [20](7wdvs20.md) [21](7wdvs21.md) 
-
-## Von der Intelligenz moderner Baumethoden/Haustechnik/Schimmelpilzzüchtung usw. 
-Ökovampirismus: Klimaschutzblutsauger auf der Jagd nach Ihren letzten Kröten
-
-**Glanzlichter dieser Seite:** 
-[Einleitung](7wsvoant.md) 
-[Apokalypsenlyrik rund um den Pseudo-Klimaschutz](7wdvs04.md#apokalypsenlyrik) 
-[Wärmedämmung oder -speicherung, "Wissenschafterkenntnis" der etablierten Bauphysik?](7wdvs05.md#wã¤rmedã¤mmung) 
-[Kommentierte Meldungen zum Wohnklima und der "Niedrig"-Energiebauweise](7wdvs13.md#kommentierte) 
-[Nachhilfeunterricht in energiesparendem und wohngesundem Bauen](7wdvs17.md#einschub) - Das Professorenrätsel 
-[Interessante Schimmellinks](7wdvs21.md) 
-[Prof. Dr.-Ing. habil. Claus Meier bauphysikalische Beiträge](7wdvs21.md) 
-[Empfehlenswerte Klima- und Umweltliteratur](8buch22.md) 
-[Temperierung/Strahlungsheizung - der vernünftige Weg zum Energiesparen](7temper.md) 
-[Anfragen und Antworten zu Bauproblemen](2frag.md) 
-[Das Handwerkerquiz ](10hoai13.md)\+ [Das Planerquiz für schlaue Bauherrn](10hoai14.md) 
-[Leserbriefe zum besseren Bauen, Energiesparen und der Klimafrage](7lesbrif.md) 
-[Fenster-"Aufklärung"](23bausto.md) 
-**[Dämmstoffe im Zwielicht - Das Lichtenfelser Experiment](2139bau.md)** 
-Dr. Ulrich Berner, Geozentrum Hannover, [zu den gängigen Klimalügen](7thu55.md) (Buderus-/IWO-Forum: Die Ölheizung der Zukunft, 28.10.03, Kloster Banz) 
-
----
-
-## EnEV-Energieausweis/Energiepass-Schwindel: Altbau-Energieberatung, Architektur+Wärmeschutz 2
-
-### Der k- bzw. U-Wert und seine üblen Folgen für Ihre Gesundheit und Ihren Beutel
+[🠔 Zur Übersicht: Energiesparen](7wsvoant.md)  
+# Der Schwindel mit dem EnEV-Energieausweis
+**Der k- bzw. U-Wert und seine üblen Folgen für Ihre Gesundheit und Ihren Beutel**  
+_von Konrad Fischer_
 
 Leider hat der k-Wert (heute U-Wert), rechnerische Grundlage der Energiespartheorie, für die Praxis am Bau keine Bedeutung. Er gilt normgemäß nur im stationären Zustand, also im Labor. Siehe hierzu Details:
 
-<center markdown>
-
 Link: [k-Wert/U-Wert-Narretei](2139bau.md#u-narretei)
-
-</center>
 
 Die erwarteten Energieeinsparungen durch Dämmung sind an Massivbauten (Mauerwerksbau, Holzbau mit massiver Wand aus Bohlen, Mauerstein-/Lehm-Gefachen, Betonbau, ...) wie die meisten Baudenkmale sowie andere klassische und moderne Altbauten deswegen nirgends eingetreten und technisch auch nicht möglich. [Schäume und Gespinste können nämlich Wärmeabfluß in der Praxis nicht dämmen](2139bau.md). Dafür gibt es seit langem wissenschaftlich und praktisch unwiderlegbare [Beweise](7fehrtab.md). Auch bei der Wärme gilt ja Heraklits "Panta rhei - Alles fließt". Und die manipulative Labormesserei, die etwas anderes herauskriegt, befördert dadurch nur Baustoffsurrogate aus Schäumen, Porenschwammmsteinen und Gespinsten, nicht jedoch die für den Wärmedurchfluß wirklich schwer durchdringbaren ungelöcherten Massivstein und ungehäckseltes Massivholz bzw. andere echt massive Baumaterialien. Jeder kann das übrigens in punkto sommerlicher Wärmeschutz erfahren, wenn er nur mal in eine alte Kirche gehen würde, eine Burg oder sonst einen echten Massivbau. Und nur nach der bauphysikalischen Schwindeltheorie - da ohne Speicherfähigkeit der Bausubstanz und ohne Sonnenstrahl des Himmels - zum Anfeuern der Umsätze ihrer Lobbyisten dankbar aufgenommen von der "Klimaschutzpolitik" quer durch alle etablierten Parteien - können die Dämmstoffe Energie sparen. 
 
 <center markdown>
 
-Konrad Fischer: Fassaden energetisch richtig und kostensparend sanieren 1 
+Konrad Fischer: Fassaden energetisch richtig und kostensparend sanieren 1  
 
+[![Hier klicken, um das Video zu sehen](../medien/OpbEO8kV-PU.jpg)](https://www.youtube.com/watch?v=OpbEO8kV-PU)  
 [Teil 2](http://www.youtube.com/watch?v=Y1NSxAW15Cc) [Teil 3](http://www.youtube.com/watch?v=RAT7VzBo8k0) [Teil 4](http://www.youtube.com/watch?v=6TBII25iVQk) [Teil 5](http://www.youtube.com/watch?v=Kb0C4KiZvVA) 
 
 </center>

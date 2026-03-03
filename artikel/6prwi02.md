@@ -1,11 +1,18 @@
 ---
-title: "Baudenkmäler wirtschaftlich instandsetzen - Preisgünstig Instandsetzen"
+nav: "index.md, 6prxratg.md"
+title: "Wirtschaftliches Instandsetzen von Baudenkmälern: Der Immobilienkauf"
 description: "Praxis Ratgeber Wirtschaftliches Instandsetzen von Baudenkmälern - Planung - Finanzierung - Projektabwicklung 2. Der Immobilienkauf"
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/6prwi02.htm"
+updated: ""
 ---
 
-# Praxis Ratgeber zur Denkmalpflege 
+[🠔 Zur Übersicht: Denkmal instandsetzen](6prwiins.md)  
+# Wirtschaftliches Instandsetzen von Baudenkmälern: Der Immobilienkauf
+**Praxis Ratgeber Wirtschaftliches Instandsetzen von Baudenkmälern - Planung - Finanzierung - Projektabwicklung 2. Der Immobilienkauf**  
+_von Konrad Fischer_
+
+## Praxis Ratgeber zur Denkmalpflege
 
 ## Wirtschaftliches Instandsetzen von Baudenkmälern 
 Kauf, Finanzierung, Planung und Projektorganisation 2
@@ -20,7 +27,7 @@ Konrad Fischer
 
 Wirtschaftliches Instandsetzen von Baudenkmälern – Kauf, Finanzierung, Planung und Projektorganisation 
 
-[1. Vorbemerkung](6prwiins.md) **2. Der Immobilienkauf** [3. Öffentliche und private Förderung für die Instandsetzung von Baudenkmälern](6prwi03.md) [4. Von der Reparatur zur Zerstörung](6prwi04.md) [5. Entwurfsstrategie](6prwi05.md) [6. Der erste Planungsschritt](6prwi06.md) [7. Bestandsaufnahme mit System](6prwi07.md) [8. Nutzungsentwurf](6prwi08.md) [9. Reparaturplanung und Konstruktionsentwurf](6prwi09.md) [10. Leistungsbeschreibung, Baukosten und Bauablauf](6prwi10.md) [11. Investitionsziel / 12. Zusammenfassung / Empfohlene Fachliteratur zu Finanzierung und Technik](6prwi11.md) 
+
 
 2. Der Immobilienkauf 
 

@@ -1,9 +1,15 @@
 ---
-title: "Viðhalda og varðveita af gamall hús + Varðveisla af sögufrægur Minnismerki"
-description: "Arkitektúr Magasín fyrir Viðgerð, Endursmíði og Gera við + English Version"
-author: " "
+nav: "index.md"
+title: "The Repair of Old Buildings and the Restoration and Preservation of Historic Monuments"
+description: "Are your old building renovation efforts failing? Find free, independent, critical, and controversial information here on the repair of old buildings and the restoration and preservation of historic monuments."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/island.htm"
+updated: ""
 ---
+
+# The Repair of Old Buildings and the Restoration and Preservation of Historic Monuments
+**Are your old building renovation efforts failing? Find free, independent, critical, and controversial information here on the repair of old buildings and the restoration and preservation of historic monuments.**  
+_von Konrad Fischer_
 
 Did you refurbish your old building? What happens? The audacious work of renovation, reconstruction, rehabilitation or modernization failed a little bit? Nearly all your money and hope are lost? 
 

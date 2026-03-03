@@ -1,9 +1,16 @@
 ---
-title: "Die Sicherheits- und Gesundheitsschutz-Planung und -Koordination im Altbau 1"
+nav: "11planme.md"
+title: "Der Sicherheits- und Gesundheitsschutz im Altbau - Planungsaspekte bei denkmalgeschützter Sanierung 1"
 description: "Der SiGeKo im Altbau - Anmerkungen zu einem vernachlässigten Thema. Mit Ergänzungen des Leistungsbildes betr. Wirtschaftlichkeit und Konstruktionsberatung."
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2sigeko.htm"
+updated: "01.01.2010"
 ---
+
+[🠔 Zur Übersicht: Haustechnik Fehler I](10ht.md)  
+# Der Sicherheits- und Gesundheitsschutz im Altbau - Planungsaspekte bei denkmalgeschützter Sanierung 1
+**Der SiGeKo im Altbau - Anmerkungen zu einem vernachlässigten Thema. Mit Ergänzungen des Leistungsbildes betr. Wirtschaftlichkeit und Konstruktionsberatung.**  
+_von Konrad Fischer • aktualisiert 01.01.2010_
 
 [Konrad Fischer](1refernz.md)
 

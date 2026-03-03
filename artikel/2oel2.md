@@ -1,13 +1,20 @@
 ---
-title: "Anstrich auf Holzoberflächen 3"
-description: "Praktische Hinweise zu Farbsystemen und Malerarbeiten."
-author: " "
+nav: "20bausto.md, 23bausto.md"
+title: "Ölfarbanstriche auf alten und neuen Fenstern: Grundregeln"
+description: "Detaillierte Grundregeln und Arbeitsgänge für Ölfarbanstriche auf alten und neuen Fenstern, inklusive Untergrundvorbereitung und Durchführung."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2oel2.htm"
+updated: "19.03.2009"
 ---
+
+[🠔 Zur Übersicht: Holzanstriche](2oel.md)  
+# Ölfarbanstriche auf alten und neuen Fenstern: Grundregeln
+**Detaillierte Grundregeln und Arbeitsgänge für Ölfarbanstriche auf alten und neuen Fenstern, inklusive Untergrundvorbereitung und Durchführung.**  
+_von Konrad Fischer • aktualisiert 19.03.2009_
 
 Konrad Fischer 
 
-# Anstrich auf Holzoberflächen
+## Anstrich auf Holzoberflächen
 
 ## Baustoffe und handwerkliche Durchführung 3
 
@@ -17,7 +24,7 @@ Teil 1: **[Anstrich - Anforderungen und Eigenschaften ...](2oel.md)**
 
 Teil 2: **[Übliche Bestandteile von Außenanstrichen ...](2oel1.md)**
 
-# Ölfarbanstriche auf alten und neuen Fenstern: 
+## Ölfarbanstriche auf alten und neuen Fenstern:
 Grundregeln
 
 Voraussetzung im Aussenbereich: Kein Regen, keine Kälte, keine direkte Sonneneinstrahlung, also trockenes, warmes Wetter. Besser: Malerarbeiten an Altfenstern in Werkstatt, im Gebäude. 

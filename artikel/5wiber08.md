@@ -1,15 +1,22 @@
 ---
-title: "Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Gebäudesanierung"
+nav: "11planme.md"
+title: "Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 8"
 description: "Konrad Fischer Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 8"
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/5wiber08.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Wirtschaftlichkeit](5wiber.md)  
+# Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 8
+**Konrad Fischer Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 8**  
+_von Konrad Fischer_
 
 Konrad Fischer 
 
-# Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 8
 
-[Seite 1](5wiber.md) [2](5wiber02.md) [3](5wiber03.md) [4](5wiber04.md) [5](5wiber05.md) [6](5wiber06.md) [7](5wiber07.md) **8** [9](5wiber09.md) [10](5wiber10.md) [11](5wiber11.md) [12](5wiber12.md) [13](5wiber13.md) [14](5wiber14.md)
+
+
 
 Variante B: Die Kommune bzw. die Verwaltungsbeamten der Unteren Denkmalschutzbehörde "gönnen" dem Denkmaleigenümer nicht die Förderung, die er zur Rettung des Baudenkmals bräuchte. Dann heißt es "Städtebauförderung ist ausgelaufen" oder "Ihr Objekt ist nicht im Sanierungsgebiet, damit entfällt die Fördervoraussetzung". Ist natürlich alles Humbug. Was der Bauherr wissen muß: Städtebauförderung geht gesetzlich abgesichert immer und überall. Dafür gibt es ausreichend Gummiparagrafen und Einzelfallentscheidungsspielraum - wenn "die Hochmögenden" nur wollen. Vorteilhaft ist es, wenn der Bauherr politisch gut in der Kommune verankert ist. Auch familiäre und auf Gegengeschäften beruhende Bande und Gefälligkeits-Netzwerke / Strippenziehereien, Durchstechereien, Amigo-Bekanntschaften und alte Stasi-Seilschaften und vergleichbares zu den politisch und administrativ Etablierten der deutschtypischen Mafiaszene / Cosa nostra im weißen Kragen nützt. Golf-, Lions-Löwen- und Rotierer-Club, Parteibuch, Schützenverein, [Bürgermeistergeschäftsbeteiligung](http://www.schwerin-news.de/version2004/artikel313-axel-hoehn-spd-ob-kandidat.php), gemeinschaftliches [Kinderschänden, Damenbesuch](http://www.welt.de/politik/article896618/Bundesanwaeltin_Harms_erhaelt_Akteneinsicht.html) sowie Feuerwehr schaden nicht. Wenn alles nicht zieht, steht der Denkmalbauherr als Außenseiter oft auf fast verlorenem Posten und hat die Arschkarte gezogen. Dann muß er die Joker setzen. Einer: "Da das Projekt sich leider als wirtschaftlich untragbar erweisen hat, und leider die Kommune und das Denkmalamt keine Förderstrecke eröffnen - schenke ich halt notgedrungen der Stadt/dem Staat das Objekt." Jetzt gehen aber die Luschenwinkel der Kommunalisten/Staatsbeamten schnell in Richtung Erdmittelpunkt. Vielleicht setzt dann schon Umdenken ein. Wenn nicht, gibt es noch einige weitere hübsche und weniger hübsche Jokerchen mit noch viel mehr Gesichtswinkelentgleisungspotential. Motto: "Noch ist Polen nicht verloren" und "Nur wer aufgibt, hat verloren". Doch darüber dürfen wir nur im stillen Kämmerlein schwätzen, sonst verpufft die Wirkung zu schnell ;-)
 

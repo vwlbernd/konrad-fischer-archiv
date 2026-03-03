@@ -1,11 +1,18 @@
 ---
+nav: "11planme.md"
 title: "Entwurf im Bestand - Grundsätze und Arbeitsmethode"
-description: "Wirtschaftliches Planen und Bauen im Bestand - zu Voraussetzungen und Methoden."
-author: " "
+description: "Ein Ratgeber aus der Praxis für die Praxis von Architekten und Ingenieuren"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/11entwf.htm"
+updated: "15.04.2009"
 ---
 
-# Entwurf im Bestand - 
+[🠔 Zur Übersicht: Planen im Altbau](11planme.md)  
+# Entwurf im Bestand - Grundsätze und Arbeitsmethode
+**Ein Ratgeber aus der Praxis für die Praxis von Architekten und Ingenieuren**  
+_von Konrad Fischer • aktualisiert 15.04.2009_
+
+## Entwurf im Bestand -
 
 Grundsätze und Arbeitsmethode
 

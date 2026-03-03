@@ -1,9 +1,16 @@
 ---
-title: "RA Dr. Wolfgang Philipp: Streitschriften gegen die EU/BRD-Tyrannis"
-description: "Zur schleichenden Abschaffung unserer demokratischen Verfassungsrechte."
-author: " "
+nav: "index.md"
+title: "Das Antidiskriminierungs-Bundessicherheitshauptamt"
+description: "Analyse des Antidiskriminierungsgesetzes-Entwurfs von 2004, der weitreichende gesellschaftliche Änderungen vorsieht und als Einschränkung demokratischer Verfassungsrechte (freie Entfaltung, Meinungsäußerung) kritisiert wird."
+author: "Wolfgang Philipp"
 original_url: "www.konrad-fischer-info.de/8philipp.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Pfusch-Anleitung (Satire)](altbau.md)  
+# Das Antidiskriminierungs-Bundessicherheitshauptamt
+**Analyse des Antidiskriminierungsgesetzes-Entwurfs von 2004, der weitreichende gesellschaftliche Änderungen vorsieht und als Einschränkung demokratischer Verfassungsrechte (freie Entfaltung, Meinungsäußerung) kritisiert wird.**  
+_von Wolfgang Philipp_
 
 <center markdown>
 

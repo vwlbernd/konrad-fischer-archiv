@@ -1,11 +1,18 @@
 ---
-title: "Chronische Erkrankungen durch vorbeugende Diagnostik und Therapie verhindern"
-description: "Ein Beitrag meines Bauherren Dr. med. Wolfram Kersten, Bamberg im Zusammenhang mit der Neueröffnung seiner Praxis."
-author: " "
+nav: "index.md"
+title: "Chronische Erkrankungen sind hausgemacht und lassen sich durch vorbeugende Diagnostik und Therapie verhindern!"
+description: "Behandlung und Vorbeugung chronischer Erkrankungen wie Krebs, Herzinfarkt, Schlaganfall, Bluthochdruck, Diabetes mellitus, Arteriosklerose, Altersdemenz, Maculadegeneration, Allergien, Immundefizite, Umwelterkrankungen."
+author: "Dr. med. Wolfram Kersten"
 original_url: "www.konrad-fischer-info.de/medizin.htm"
+updated: ""
 ---
 
+[🠔 Zur Übersicht: Quellen](8infober.md)  
 # Chronische Erkrankungen sind hausgemacht und lassen sich durch vorbeugende Diagnostik und Therapie verhindern!
+**Behandlung und Vorbeugung chronischer Erkrankungen wie Krebs, Herzinfarkt, Schlaganfall, Bluthochdruck, Diabetes mellitus, Arteriosklerose, Altersdemenz, Maculadegeneration, Allergien, Immundefizite, Umwelterkrankungen.**  
+_von Dr. med. Wolfram Kersten_
+
+
 
 ### Zur Behandlung und Vorbeugung gegen Krebs, Herzinfarkt, Schlaganfall, Bluthochdruck, Diabetes mellitus, Arteriosklerose, Altersdemenz, Maculadegeneration, grüner und grauer Star, Allergien, Immundefizite und Umwelterkrankungen, degenerative Nervenerkrankungen u.a. Krankheitsbildern als Folge von ernährungsbedingten Mangelzuständen.
 

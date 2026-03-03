@@ -1,15 +1,38 @@
 ---
-title: "Wirtschaftlichkeit"
-description: "Konrad Fischer Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 1"
-author: " "
+nav: "11planme.md"
+title: "Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 1"
+description: "Bei fast jeder Altbausanierung steht die Wirtschaftlichkeitsfrage an erster Stelle. Trotzdem geht die Altbausanierung nicht gerade selten finanziell den Bach hinunter. Muß das aber wirklich sein?"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/5wiber.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Planen im Altbau](11planme.md)  
+# Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 1
+**Bei fast jeder Altbausanierung steht die Wirtschaftlichkeitsfrage an erster Stelle. Trotzdem geht die Altbausanierung nicht gerade selten finanziell den Bach hinunter. Muß das aber wirklich sein?**  
+_von Konrad Fischer_
 
 Konrad Fischer 
 
-# Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 1
 
-**Seite 1** [2](5wiber02.md) [3](5wiber03.md) [4](5wiber04.md) [5](5wiber05.md) [6](5wiber06.md) [7](5wiber07.md) [8](5wiber08.md) [9](5wiber09.md) [10](5wiber10.md) [11](5wiber11.md) [12](5wiber12.md) [13](5wiber13.md) [14](5wiber14.md)
+
+> [!abstract]+ Kapitelübersicht: Wirtschaftlichkeit  
+> 1. **Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 1**
+> 2. [Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 2](5wiber02.md)
+> 3. [Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 3](5wiber03.md)
+> 4. [Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 4](5wiber04.md)
+> 5. [Die Machbarkeitsstudie und Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 5](5wiber05.md)
+> 6. [Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 6](5wiber06.md)
+> 7. [Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 7](5wiber07.md)
+> 8. [Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 8](5wiber08.md)
+> 9. [Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 9](5wiber09.md)
+> 10. [4. Geheimnisse der Städtebauförderung](5wiber10.md)
+> 11. [Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 11](5wiber11.md)
+> 12. [Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 12](5wiber12.md)
+> 13. [Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 13](5wiber13.md)
+> 14. [Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 14](5wiber14.md)
+
+
 
 Bei fast jeder Altbausanierung steht die Wirtschaftlichkeitsfrage an erster Stelle. Trotzdem geht die Altbausanierung nicht gerade selten [finanziell den Bach hinunter](4behoerd.md#fall). Muß das aber wirklich sein? Hier einige Strategietipps, die im Bedarfsfall in meinem o.g. Buch **[Altbauten kostengünstig sanieren](http://www.gdigest.com/product_info.php?ref=79&products_id=1234)** in auch bautechnisch detaillierter Form weiter ausgeführt sind und nachgelesen werden können. 
 

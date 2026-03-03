@@ -1,11 +1,18 @@
 ---
-title: "Low-cost Repair, Renovation + Refurbishing of your old House"
-description: "Economizing Strategies for the Home Improvement, Building Refurbishing + Monument Preservation by a Low Budget - The Essentials for the Small Budget"
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Low-cost Repair and Rehabilitation of Old Buildings and Historical Monuments"
+description: "Economizing strategies for home improvement, building restoration, refurbishing and monument conservation on a low budget."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/repair.htm"
+updated: ""
 ---
 
+[🠔 Zur Übersicht: English: Old House Repair](english.md)  
 # Low-cost Repair and Rehabilitation of Old Buildings and Historical Monuments
+**Economizing strategies for home improvement, building restoration, refurbishing and monument conservation on a low budget.**  
+_von Konrad Fischer_
+
+
 
 #### A money-saving guide for wise homeowners and responsibles for patrimonial buildings & architectural heritage 
 

@@ -1,11 +1,18 @@
 ---
-title: "Luftkalkmörtel - immer ein Risiko?"
-description: "Vortrag bei EuroLime Forum 1998 Mainz, Mitschrift EuroLime Forum 2005 Ballenberg."
-author: " "
+nav: "20bausto.md"
+title: "Kalkputz und Mörtel am Baudenkmal"
+description: "Vortrag auf dem Internationalen Euro-Lime-Forum Mainz 1998: Kalkmörtel am Baudenkmal und Fallbeispiele aus Architektensicht."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2eurolim.htm"
+updated: ""
 ---
 
-# <a id="luftkalkmörtel"></a>Luftkalkmörtel und -anstrich in der Praxis
+[🠔 Zur Übersicht: Kalk](26bausto.md)  
+# Kalkputz und Mörtel am Baudenkmal
+**Vortrag auf dem Internationalen Euro-Lime-Forum Mainz 1998: Kalkmörtel am Baudenkmal und Fallbeispiele aus Architektensicht.**  
+_von Konrad Fischer_
+
+## <a id="luftkalkmörtel"></a>Luftkalkmörtel und -anstrich in der Praxis
 
 ## Internationales Euro-Lime-Forum Mainz 1.-3.5.1998 
 Kalkputz und Mörtel am Baudenkmal. Fallbeispiele aus der Sicht des Architekten
@@ -22,7 +29,7 @@ IFS Institut für Steinkonservierung e.V.
 Gemeinsame Einrichtung der staatl. Denkmalpflege Hessen, Rheinland-Pfalz, Saarland und Thüringen 
 Große Langgasse 29, 55116 Mainz 
 
-# Kalkputz und Mörtel am Baudenkmal
+
 
 Kalk ist ein Lieblingsbaustoff der Denkmalpflege. Trotz der vielen Schäden mit modernen Baustoffen sind aber auch Kalkprodukte nicht unproblematisch. Mißerfolge beeinträchtigen deren Ansehen. Darf man Kalkprodukten überhaupt Vertrauen schenken, oder sind diese bestenfalls ausnahmsweise einzusetzen? Will der Architekt reine Kalkprodukte anwenden, ohne chemische oder hochhydraulische Zutaten, drohen ihm regelmäßig drei Gefahren: 
 

@@ -1,11 +1,18 @@
 ---
+nav: "index.md, 6prxratg.md"
 title: "Информация к постройкам старины и охране памятников архитектуры"
-description: "Страница о строительстве для интересующегося русскоязычного населения."
-author: " "
+description: "Добро пожаловать и спасибо за твоё посещение. Эти страници созданны для информации по вопросам и проблемам всего что касается восстановления старых строительных сооружений, реставрации исторических монументов и памятников архитектуры, а так же сохр"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/rossija.htm"
+updated: ""
 ---
 
-# Информация к постройкам старины и охране памятников архитектуры 
+[🠔 Zur Übersicht: Slavisk](slavisk.md)  
+# Информация к постройкам старины и охране памятников архитектуры
+**Добро пожаловать и спасибо за твоё посещение. Эти страници созданны для информации по вопросам и проблемам всего что касается восстановления старых строительных сооружений, реставрации исторических монументов и памятников архитектуры, а так же сохр**  
+_von Konrad Fischer_
+
+
 
  Инж. (Dipl.-Ing.) [Конрад Фишер (Konrad Fischer)](1refernz.md) 
 Архитектор [Баварской Палаты Архитекторов (BYAK)](http://www.byak.de) 
@@ -32,7 +39,7 @@ _**Объяснение к картинкам:** (1), (2), (3), (4): [Разру
 <center markdown>
 
 Konrad Fischer: Fassaden energetisch richtig und kostensparend sanieren und trockenlegen 1 
-[![Fassaden energetisch richtig sanieren](../medien/YOU04.JPG)](http://youtu.be/OpbEO8kV-PU) 
+[![Fassaden energetisch richtig sanieren](../medien/YOU04.JPG)](https://youtu.be/OpbEO8kV-PU) 
 [Teil 2](http://www.youtube.com/watch?v=Y1NSxAW15Cc) [Teil 3](http://www.youtube.com/watch?v=RAT7VzBo8k0) [Teil 4](http://www.youtube.com/watch?v=6TBII25iVQk) [Teil 5](http://www.youtube.com/watch?v=Kb0C4KiZvVA) 
 
 </center>

@@ -1,9 +1,16 @@
 ---
+nav: "index.md"
 title: "Falsch deklarierte Baustoffe und Baustoffsysteme in der Denkmalpflege / für den Denkmalschutz"
 description: "Erforderliche Informationen zur Zusammensetzung und Anwendung - Entwurf für ein WTA-Merkblatt."
-author: " "
+author: "Dipl.-Ing. Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2volldek.htm"
+updated: "20.06.2009"
 ---
+
+[🠔 Zur Übersicht: Quellen](8infober.md)  
+# Falsch deklarierte Baustoffe und Baustoffsysteme in der Denkmalpflege / für den Denkmalschutz
+**Erforderliche Informationen zur Zusammensetzung und Anwendung - Entwurf für ein WTA-Merkblatt.**  
+_von Dipl.-Ing. Konrad Fischer • aktualisiert 20.06.2009_
 
 Nachdem sich viele Hersteller darin gefallen, durch fehlerhafte Inverkehrbringung ihrer Sanierprodukte gem. §3 Produkthaftungsgesetz den intelligenten Verbraucher und seine Leidensfähigkeit zu testen, hier einige Vorschläge, diese heftige Vermarktungsform zu mäßigen:
 

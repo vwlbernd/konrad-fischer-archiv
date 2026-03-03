@@ -1,9 +1,16 @@
 ---
+nav: "20bausto.md, 21bausto.md"
 title: "Schwindel? Sanierputz für feuchtes salziges Mauerwerk 4"
-description: "6\. Vermindern Sanierputze die Salzbelastung? 7. Welche Anstriche sind auf Sanierputzen geeignet?"
-author: " "
+description: "6. Vermindern Sanierputze die Salzbelastung? 7. Welche Anstriche sind auf Sanierputzen geeignet?"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2sani4.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Sanierputz-Schwindel](2sanipuz.md)  
+# Schwindel? Sanierputz für feuchtes salziges Mauerwerk 4
+**6. Vermindern Sanierputze die Salzbelastung? 7. Welche Anstriche sind auf Sanierputzen geeignet?**  
+_von Konrad Fischer_
 
 ### Sanierputz - Was kann er, was nicht? 4
 

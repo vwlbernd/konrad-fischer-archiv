@@ -1,9 +1,22 @@
 ---
+nav: "7thuene1.md"
 title: "Die Schweizerische Energiepolitik ist fragwürdig"
-description: "Zum betrügerischen Verhalten von Politik, Verwaltung und Wissenschaft in der Schweizer Energiepolitik. Das Abzocken der Bürger durch Energiebetrug."
-author: " "
+description: "Ein nach wie vor aktueller Beitrag zur staatlichen Energiesparschweinerei und Steuergeldveruntreuung - Mit vielen bemerkenswerten Details:"
+author: "Paul Bossert"
 original_url: "www.konrad-fischer-info.de/7eneb.htm"
+updated: "06.07.1999"
 ---
+
+[🠔 Zur Übersicht: Klima](7thuene1.md)  
+# Die Schweizerische Energiepolitik ist fragwürdig
+**Ein nach wie vor aktueller Beitrag zur staatlichen Energiesparschweinerei und Steuergeldveruntreuung - Mit vielen bemerkenswerten Details:**  
+_von Paul Bossert • aktualisiert 06.07.1999_
+
+> [!abstract]+ Kapitelübersicht: Schweizer Energiepolitik  
+> 1. **Die Schweizerische Energiepolitik ist fragwürdig**
+> 2. [ENERGIE-FASCHISMUS](7enfasch.md)
+> 3. [Energie verschleudern, Geld vergeuden und Gesundheit ruinieren!](7minerg.md)
+> 4. [Bosserts Hammer: Der Bundesdeutsche Sanierungsschwindel](7bo.md)
 
 Ein nach wie vor aktueller Beitrag zur staatlichen Energiesparschweinerei und Steuergeldveruntreuung - Mit vielen bemerkenswerten Details:** 
 Die Schweizerische Energiepolitik ist fragwürdig 

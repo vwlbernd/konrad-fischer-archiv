@@ -1,13 +1,20 @@
 ---
+nav: "7thuene1.md"
 title: "Das aufgeblasene Atommüll-Problem/Ein Popanz der Ölindustrie"
 description: "Märchen und Wahrheit beim Umgang mit Radionukleiden - ein Aufklärungsschocker zu Castor-Transport, Gorleben, Asse und der Anti-Atom-Angst."
-author: " "
+author: "Dr. Helmut Böttiger"
 original_url: "www.konrad-fischer-info.de/7boet4.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Glaubensbekenntnis](7argus2.md)  
+# Das aufgeblasene Atommüll-Problem/Ein Popanz der Ölindustrie
+**Märchen und Wahrheit beim Umgang mit Radionukleiden - ein Aufklärungsschocker zu Castor-Transport, Gorleben, Asse und der Anti-Atom-Angst.**  
+_von Dr. Helmut Böttiger_
 
 ## Dr. Helmut Böttiger, Wiesbaden
 
-# Das aufgeblasene Atommüll-Problem/Ein Popanz der Ölindustrie
+## Das aufgeblasene Atommüll-Problem/Ein Popanz der Ölindustrie
 
 ### Ein Gastbeitrag für die Altbau und Denkmal Informationen
 
@@ -35,7 +42,7 @@ Für alle Aufgeweckteren, die dennoch etwas mehr zum Thema wissen wollen, als di
 
 ### Dr. Helmut Böttiger
 
-# Das aufgeblasene Atommüll-Problem
+## Das aufgeblasene Atommüll-Problem
 
 „Die Angstmache mit dem Atom“ überschrieb _Der Spiegel_ im November 2007 (Heft 47 S. 19) einen längeren Artikel über verlogene „Legenden vom bösen Atom“ in der (auch eigenen) Berichterstattung. Atomgegnern, die noch selbst denken und diese und andere Hinweise ähnlicher Art wahrzunehmen, bleibt oft nur als letztes Argument: Nuklearabfälle bergen ein hohes Strahlenrisiko, das über Jahrtausende sicher eingeschlossen werden müsse; eine sichere Verwahrung über solange Zeiträume könne aber niemand gewährleisten. Kurz, „das Abfallproblem ist ungelöst.“ Aber ist es das wirklich?
 

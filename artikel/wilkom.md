@@ -1,11 +1,18 @@
 ---
-title: "Altbau und Denkmalpflege Informationen - Framesite rechts"
-description: "Altbau + Denkmalpflege Info - Das Online-Magazin zu Baustoffen und -schäden, Instandsetzungsverfahren, Altbaufinanzierung, HOAI-Fragen und vieles mehr."
-author: " "
+nav: "index.md"
+title: "Altbau und Denkmalpflege Informationen"
+description: "Das Online-Magazin zum Planen und Bauen im Bestand"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/wilkom.htm"
+updated: ""
 ---
 
-# Altbau und Denkmalpflege Informationen 
+[🠔 Zur Übersicht: Empfang](empfang2.md)  
+# Altbau und Denkmalpflege Informationen
+**Das Online-Magazin zum Planen und Bauen im Bestand**  
+_von Konrad Fischer_
+
+
 Das Online-Magazin zum Planen und Bauen im Bestand 
 Impressum/Kontakt
 

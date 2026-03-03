@@ -1,13 +1,20 @@
 ---
-title: "Informationen zu Museum, Kunst und Kultursponsoring"
-description: "Nachrichten, Links, Literaturauszüge, Tips und Trends zum Museum, zu Marketing, Kultur und Kunst für den Museologen, Museumsbesucher und -betreiber."
-author: " "
+nav: "index.md"
+title: "Museums-, Kunst- und Kultursponsoring Informationen"
+description: "Info zu Museum & Kultureinrichtungen, zu Marketing, Spendensammlung, Sponsoring, Fundraising, Kultur & Kunst"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/8museum.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Burgen & Schlösser kaufen](8schloss.md)  
+# Museums-, Kunst- und Kultursponsoring Informationen
+**Info zu Museum & Kultureinrichtungen, zu Marketing, Spendensammlung, Sponsoring, Fundraising, Kultur & Kunst**  
+_von Konrad Fischer_
 
 <a id="museums- und kultursponsoring informationen"></a> 
 
-# Museums-, Kunst- und Kultursponsoring Informationen
+
 
 ## Ein Museum finden, gründen & betreiben, Kunst & Kultursponsoring - Spender&Sponsoren finden 
 Info zu Museum & Kultureinrichtungen, zu Marketing, Spendensammlung, Sponsoring, Fundraising, Kultur & Kunst

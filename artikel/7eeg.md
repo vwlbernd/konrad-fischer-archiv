@@ -1,13 +1,28 @@
 ---
-title: "EEG-Verfassungsbeschwerde"
-description: "Bürger wehren sich gegen korrupte Ausbeutung per EEG-Gesetz."
-author: " "
+nav: "7thuene1.md"
+title: "Verfassungsbeschwerde gegen das Erneuerbare Energien Gesetz (EEG)"
+description: "Bürger erheben Verfassungsbeschwerde gegen das EEG wegen Verletzung des Grundrechts aus Art. 2 Abs. 1 GG (Privatautonomie) und finanzieller Mehrbelastung der Stromverbraucher."
+author: "Sieghart Lerche, Holger Lerche"
 original_url: "www.konrad-fischer-info.de/7eeg.htm"
+updated: "28.04.2005"
 ---
+
+[🠔 Zur Übersicht: Klima](7thuene1.md)  
+# Verfassungsbeschwerde gegen das Erneuerbare Energien Gesetz (EEG)
+**Bürger erheben Verfassungsbeschwerde gegen das EEG wegen Verletzung des Grundrechts aus Art. 2 Abs. 1 GG (Privatautonomie) und finanzieller Mehrbelastung der Stromverbraucher.**  
+_von Sieghart Lerche, Holger Lerche • aktualisiert 28.04.2005_
+
+> [!abstract]+ Kapitelübersicht: EEG Kritik  
+> 1. **Verfassungsbeschwerde gegen das Erneuerbare Energien Gesetz (EEG)**
+> 2. [Sind die Energie-Einsparverordnung 2002-2016 (EnEV), das Erneuerbare Energien Wärme Gesetz (EEWärmeG/EWärmeG BW) und das Energieeinsparungsgesetz verfassungswidrig und verstoßen gegen das Grundgesetz?](7enevver.md)
+> 3. [Die Energieeinsparverordnung (EnEV) und die EU-Richtlinie 2002/91/EG des europäischen Parlaments und des Rates vom 16. Dezember 2002 über die Gesamtenergieeffizienz von Gebäuden - ein Anschlag auf Volkswirtschaft und -gesundheit?](7intiv.md)
+> 4. [In Dämmbuden verrecken](enev.md)
+> 5. [Von den sinnlosen Versuchen der deutschen Architektenschaft, dem staatlich sanktionierten Dämmterrorismus Einhalt zu gebieten.](7enevrlp.md)
+> 6. [Paul Bosserts Kommentar zur BAK-Stellungnahme zum Referentenentwurf der EnEV 2000](7enevbak.md)
 
 ## Hier der für die Erstveröffentlichung auf dieser Webseite autorisierte Originaltext der
 
-# Verfassungsbeschwerde 
+## Verfassungsbeschwerde
 
 gegen das 
 

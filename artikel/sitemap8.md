@@ -1,6 +1,28 @@
+---
+title: Konrad Fischers Kompendium für Altbausanierung und Denkmalschutz
+description: Auf vielfachen Wunsch und zur Bekämpfung der oft gerügten "Unübersichtlichkeit" meiner riesigen Homepage finden Sie hier dank Google eine exklusive Suchmaschine für meine Homepage.
+author: Konrad Fischer
+updated:
+---
+
+[🠔 Zur Übersicht: Startseite](index.md)  
+# Konrad Fischers Kompendium für Altbausanierung und Denkmalschutz
+**Auf vielfachen Wunsch und zur Bekämpfung der oft gerügten "Unübersichtlichkeit" meiner riesigen Homepage finden Sie hier dank Google eine exklusive Suchmaschine für meine Homepage.**  
+_von Konrad Fischer_
+
+> [!abstract]+ Kapitelübersicht: Languages  
+> 1. **Konrad Fischers Kompendium für Altbausanierung und Denkmalschutz**
+> 2. [The International Dictionary of Building Terms and Architectural Terminology](terms.md)
+> 3. [Restauratie, Renovatie en Conservatie van Historische Monumenten en Oude Huizen](holland.md)
+> 4. [Restoration of the old house and Conservation of the historic Monument](english.md)
+> 5. [Restoration & Conservation of Historic Monuments: Tips, Tricks, Advice](nordisk.md)
+> 6. [Restoration & Conservation of Historic Monuments: Tips, Tricks, Advice](roman.md)
+> 7. [Restoration & Conservation of Historic Monuments: Tips, Tricks, Advice](slavisk.md)
+> 8. [Restoration & Conservation of Historic Monuments: Tips, Tricks, Advice](asia.md)
+
 ## Inhaltsverzeichnis / Sitemap / Suchen / Aktualisierungsinfo
 
-# "Altbau und Denkmalpflege Informationen"
+## "Altbau und Denkmalpflege Informationen"
 
 ## Konrad Fischers Kompendium für Altbausanierung und Denkmalschutz
 

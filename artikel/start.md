@@ -1,9 +1,16 @@
 ---
-title: "Info-Magazin Altbauten Baudenkmal Denkmalpflege Denkmalschutz"
-description: "Altbau + Denkmalpflege Info - Das kritische Online-Magazin zu Baustoffen und -schäden, Instandsetzungsverfahren, Altbaufinanzierung, HOAI-Fragen und vieles mehr ..."
-author: " "
+nav: "index.md"
+title: "Altbau und Denkmalpflege Informationen"
+description: "Das Architektur-Magazin zum Planen und Bauen im Bestand"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/start.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Empfang](empfang2.md)  
+# Altbau und Denkmalpflege Informationen
+**Das Architektur-Magazin zum Planen und Bauen im Bestand**  
+_von Konrad Fischer_
 
 <center markdown>
 

@@ -1,9 +1,21 @@
 ---
-title: "Energiekeinsparung im Altbau 150% - Aber sicher! 1. Warum ..."
+nav: "index.md, altbau.md"
+title: "Energiekeinsparung im Altbau 150 % - Aber sicher! 1. Warum Energiekeinsparen?"
 description: "Energiesparen und Klimaschutz im Altbau - 1. Warum Energiekeinsparen?"
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/energie.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Pfusch-Anleitung (Satire)](altbau.md)  
+# Energiekeinsparung im Altbau 150 % - Aber sicher! 1. Warum Energiekeinsparen?
+**Energiesparen und Klimaschutz im Altbau - 1. Warum Energiekeinsparen?**  
+_von Konrad Fischer_
+
+> [!abstract]+ Kapitelübersicht: Energiesparwunder  
+> 1. **Energiekeinsparung im Altbau 150 % - Aber sicher! 1. Warum Energiekeinsparen?**
+> 2. [Energiekeinsparung im Altbau 150% - 2. Der Energieberater und seine Energiebedarfsberechnung!](energie2.md)
+> 3. [Energiekeinsparung im Altbau 150% - 3. Energiesparmaßnahmen im Detail](energie3.md)
 
  **Vorsicht! Klimaschutz!** 
 **Energiekeinsparung im Altbau 150 % - 
@@ -34,10 +46,10 @@ Der trotzdem noch reichlich, allzureichlich vorhandene Kontobestand brennt weite
 <center markdown>
 
 Konrad Fischer: Fassaden energetisch richtig und kostensparend sanieren und trockenlegen 1 
-[![Fassaden energetisch richtig sanieren](../medien/YOU04.JPG)](http://youtu.be/OpbEO8kV-PU) 
+[![Fassaden energetisch richtig sanieren](../medien/YOU04.JPG)](https://youtu.be/OpbEO8kV-PU) 
 [Teil 2](http://www.youtube.com/watch?v=Y1NSxAW15Cc) [Teil 3](http://www.youtube.com/watch?v=RAT7VzBo8k0) [Teil 4](http://www.youtube.com/watch?v=6TBII25iVQk) [Teil 5](http://www.youtube.com/watch?v=Kb0C4KiZvVA) 
 
-[![BR-Geld & Leben Wärmedämmung + Wirtschaftlichkeit am 24.01.2011 mit Konrad Fischer](../medien/YOU03.JPG)](http://youtu.be/tjHIOrnSFso) 
+[![BR-Geld & Leben Wärmedämmung + Wirtschaftlichkeit am 24.01.2011 mit Konrad Fischer](../medien/YOU03.JPG)](https://youtu.be/tjHIOrnSFso) 
 
 </center>
 

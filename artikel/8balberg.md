@@ -1,13 +1,20 @@
 ---
-title: "Schweizerisches Freilichtmuseum für ländliche Kultur Ballenberg"
-description: "Fotos vom Rundgang im Freilichtmuseum Ballenberg Schweiz - Ländliche Kultur + Brauchtum,"
-author: " "
+nav: "index.md"
+title: "Schweizerisches Freilichtmuseum für ländliche Kultur Ballenberg: Exkursion mit Fotos"
+description: "Exkursion mit 244 Digital-Fotografien von Konrad Fischer im Schweizerischen Freilichtmuseum Ballenberg, aufgenommen anläßlich des EUROLIME-Meetings vom 6-8.8.05."
+author: "Konrad Fischer"
+updated: "08.08.2005"
 original_url: "www.konrad-fischer-info.de/8balberg.htm"
 ---
 
+[🠔 Zur Übersicht: Burgen & Schlösser kaufen](8schloss.md)  
+# Schweizerisches Freilichtmuseum für ländliche Kultur Ballenberg: Exkursion mit Fotos
+**Exkursion mit 244 Digital-Fotografien von Konrad Fischer im Schweizerischen Freilichtmuseum Ballenberg, aufgenommen anläßlich des EUROLIME-Meetings vom 6-8.8.05.**  
+_von Konrad Fischer • aktualisiert 08.08.2005_
+
 ### Exkursionsfotos von Konrad Fischer
 
-# Das 🇨🇭[ Schweizerische Freilichtmuseum für ländliche Kultur](http://www.ballenberg.ch) 🇨🇭 
+## Das 🇨🇭[ Schweizerische Freilichtmuseum für ländliche Kultur](http://www.ballenberg.ch) 🇨🇭
 auf dem Ballenberg in CH-3855 Brienz
 
 gegründet 1968, eingeweiht 1978 
@@ -16,7 +23,7 @@ gegründet 1968, eingeweiht 1978
 Grindelwald - Die Härrlichkeit und Hässlichkeit der Bergli - Ein Bergfilm 
 Die Gletscherschlucht in Grindelwald - Ein Talfilm
 
-# Exkursion
+## Exkursion
 
 ## mit 244 Digital-Fotografien von [Konrad Fischer](1refernz.md)
 

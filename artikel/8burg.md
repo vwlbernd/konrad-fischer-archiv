@@ -1,9 +1,16 @@
 ---
-title: "Burgen, Herrenhäuser, Ansitze, Schlösser zu verkaufen - Castles ..."
-description: "Aktuelle Angebote für alle, die gern Schloßherr werden möchten."
-author: " "
+nav: "index.md"
+title: "Burgen, Schlösser, Ansitze, Herrenhäuser und Spezialimmobilien in Deutschland zu verkaufen"
+description: "Sie suchen ein preisgünstiges deutsches Traumschloss, eine exklusive Romantik-Spezial-Immobilie am Rhein oder ein billiges ostdeutsches Herrenhaus? Hier finden Sie aktuelle Verkaufsangebote."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/8burg.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Burgen & Schlösser kaufen](8schloss.md)  
+# Burgen, Schlösser, Ansitze, Herrenhäuser und Spezialimmobilien in Deutschland zu verkaufen
+**Sie suchen ein preisgünstiges deutsches Traumschloss, eine exklusive Romantik-Spezial-Immobilie am Rhein oder ein billiges ostdeutsches Herrenhaus? Hier finden Sie aktuelle Verkaufsangebote.**  
+_von Konrad Fischer_
 
 <center markdown>
 

@@ -1,13 +1,20 @@
 ---
-title: "Special: Felix Lindn"
-description: ""
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "The American high school system: Facts and evaluation I"
+description: "The goal of this study is to answer basic questions about the American high school system. It covers the most important aspects of this school type and explains how it works, comparing it with the German system."
+author: "Felix Lindner"
 original_url: "www.konrad-fischer-info.de/school.htm"
+updated: "25.01.2008"
 ---
+
+[🠔 Zur Übersicht: English: Old House Repair](english.md)  
+# The American high school system: Facts and evaluation I
+**The goal of this study is to answer basic questions about the American high school system. It covers the most important aspects of this school type and explains how it works, comparing it with the German system.**  
+_von Felix Lindner • aktualisiert 25.01.2008_
 
 ### Felix Lindner
 
-# The American high school system: 
+## The American high school system:
 Facts and evaluation I
 
 ## Facharbeit aus dem Fach Englisch 

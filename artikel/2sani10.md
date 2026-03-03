@@ -1,9 +1,16 @@
 ---
-title: "Schaden: Sanierputz auf versalztem Stallgewölbe und Mauerwerk 10"
+nav: "20bausto.md, 21bausto.md"
+title: "Ein Bauschaden durch Sanierputzversagen auf feuchtem und salzigem Untergrund - Gutachtenauszug 5"
 description: "Gutachten zu Sanierputzschaden 5: Feuchtemessung und elektrische Leitfähigkeit"
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2sani10.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Sanierputz-Schwindel](2sanipuz.md)  
+# Ein Bauschaden durch Sanierputzversagen auf feuchtem und salzigem Untergrund - Gutachtenauszug 5
+**Gutachten zu Sanierputzschaden 5: Feuchtemessung und elektrische Leitfähigkeit**  
+_von Konrad Fischer_
 
 ### Ein Bauschaden duch Sanierputzversagen auf feuchtem und salzigem Untergrund - Gutachtenauszug 5
 

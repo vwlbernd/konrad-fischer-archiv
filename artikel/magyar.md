@@ -1,9 +1,16 @@
 ---
-title: "Helyreállítás -ból öreg ház + Megőrzés -ból történelmi Emlékmű"
-description: "Építészet Képeslap részére Tatarozás, Helyreállítás és Kijavít."
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Az öreg ház helyreállítása + Történelmi emlékmű megőrzése"
+description: "Tanácsok, tippek és trükkök történelmi épületek tulajdonosainak. Szokásos hibák + Mi működik válóban"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/magyar.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Roman & Balkan](roman.md)  
+# Az öreg ház helyreállítása + Történelmi emlékmű megőrzése
+**Tanácsok, tippek és trükkök történelmi épületek tulajdonosainak. Szokásos hibák + Mi működik válóban**  
+_von Konrad Fischer_
 
  Az öreg ház helyreállitása + 🇭🇺 
 Törtánelmi emlékmű megőrzése 

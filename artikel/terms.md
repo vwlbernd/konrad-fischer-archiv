@@ -1,11 +1,18 @@
 ---
-title: "Building Terms Dict - English, Albanian, Serbian, German, ..."
+nav: "index.md"
+title: "The International Dictionary of Building Terms and Architectural Terminology"
 description: "The International Dictionary of Building Terms and Architectural Terminology of Predrag Ničić - A Unique Online Resource for Translators / Translation"
-author: " "
+author: "Predrag Ničić"
 original_url: "www.konrad-fischer-info.de/terms.htm"
+updated: ""
 ---
 
-# Predrag Ničić 
+[🠔 Zur Übersicht: Languages](sitemap8.md)  
+# The International Dictionary of Building Terms and Architectural Terminology
+**The International Dictionary of Building Terms and Architectural Terminology of Predrag Ničić - A Unique Online Resource for Translators / Translation**  
+_von Predrag Ničić_
+
+## Predrag Ničić
 
 The International Dictionary 
 of Building Terms and 
@@ -29,7 +36,7 @@ ITALIAN
 
 GERMAN/DEUTSCH 
 
-# A
+## A
 
 Abbey
 

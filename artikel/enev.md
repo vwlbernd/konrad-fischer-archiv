@@ -1,11 +1,18 @@
 ---
-title: "Denkmalschutz, Altbau + EnEV - Energiesparen oder Energievergeuden?"
-description: "Bürgerwehr: Pressemitteilung/Petition an den Deutschen Bundestag gegen den amtlichen EnEV-Betrug/Beschiß mit der Energieeinsparverordnung."
-author: " "
+nav: "7thuene1.md"
+title: "In Dämmbuden verrecken"
+description: "Kritische Analyse des Dämmzwangs und der Energieeinsparverordnung (EnEV). EnEV-Maßnahmen führen zu Bau- und Gesundheitsschäden, verursachen keinen Energieverbrauch und belasten Volkswirtschaft und Gesellschaft."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/enev.htm"
+updated: ""
 ---
 
+[🠔 Zur Übersicht: EEG Kritik](7eeg.md)  
 # In Dämmbuden verrecken
+**Kritische Analyse des Dämmzwangs und der Energieeinsparverordnung (EnEV). EnEV-Maßnahmen führen zu Bau- und Gesundheitsschäden, verursachen keinen Energieverbrauch und belasten Volkswirtschaft und Gesellschaft.**  
+_von Konrad Fischer_
+
+
 
 Zum Gedenken an den unvergessenen und erfolglosen Streiter für Recht und Ordnung im Bausektor, gegen die Dämmstofflüge und gegen den Mißbrauch der Behörden durch interessensgeleitete Lobbyisten - **ROLF KÖNEKE** , Bausachverständiger (**+** 28.9.2002) 
 **(aktualisiert bis heute)**
@@ -83,7 +90,7 @@ Altbau und Denkmalpflege Informationen: [http://www.konrad-fischer-info.de](inde
 
 _Text kann hier beendet werden._
 
-[![BR-Geld & Leben Wärmedämmung + Wirtschaftlichkeit am 24.01.2011 mit Konrad Fischer](../medien/YOU03.JPG)](http://youtu.be/tjHIOrnSFso) 
+[![BR-Geld & Leben Wärmedämmung + Wirtschaftlichkeit am 24.01.2011 mit Konrad Fischer](../medien/YOU03.JPG)](https://youtu.be/tjHIOrnSFso) 
 
 </center>
 

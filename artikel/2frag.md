@@ -1,20 +1,54 @@
 ---
-title: "Aus der Internet-Fragestunde der Altbau und Denkmalpflege ..."
-description: "Altbaufragen von AZ: Einleitung und Anstrich, Mörtel, Farbe, Putz."
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Aus der Internet-Fragestunde: Einleitung"
+description: "Die ungeschminkte Wahrheit aus der Bauberatung: Antworten auf die brennendsten Fragen zu Sanierungsmythen und warum die Wahl der richtigen Farbe über das Schicksal Ihrer Fassade entscheidet."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2frag.htm"
+updated: ""
 ---
 
-# Aus der Internet-Fragestunde und Bauberatung
+[🠔 Zur Übersicht: Bauberatung](6prxratg.md)  
+# Aus der Internet-Fragestunde: Einleitung
+**Die ungeschminkte Wahrheit aus der Bauberatung: Antworten auf die brennendsten Fragen zu Sanierungsmythen und warum die Wahl der richtigen Farbe über das Schicksal Ihrer Fassade entscheidet.**  
+_von Konrad Fischer_
+
+## Aus der Internet-Fragestunde und Bauberatung
 
 Liebe Leser und Leserinnen der Altbau und Denkmalpflege Informationen,
 
 Sie finden hier (hin und wieder ergänzte/aktualisierte) Auszüge aus meiner Internet-Fragestunde (Achtung: Einige Beiträge stammen aus der Zeit, als ich mich noch mit "Umsonst"-Anfragen herumplacken konnte!) mit leidgeplagten Bauherren, Handwerkern, Kollegen und sonstig Interessierten am erfolgreichen Sanieren. Natürlich **ohne jegliche Gewähr und Haftung** , allerdings nach bestem Wissen und Gewissen.
 
-[Für Bauherren und Baufachleute: Tagesseminare bundesweit](12akt.md) 
-[Der kleine Unterschied: Industriegestützte Luxus- und Vernichtungsplanung](10hoai10.md) 
-[Das Handwerkerquiz ](10hoai13.md)\+ [Das Planerquiz für schlaue Bauherrn ](10hoai14.md) 
-[RA Heinicke: Rechtsinfos und Newsletter](http://www.ra-heinicke.de/html/rechtsinfos.htm)
+> [!abstract]+ Kapitelübersicht: Altbau FAQ  
+> 1. **Aus der Internet-Fragestunde: Einleitung**
+> 2. [Aus der Internet-Fragestunde: Anstrich](2frag02.md)
+> 3. [Aus der Internet-Fragestunde: Bauberatung/-fehler allgemein](2frag03.md)
+> 4. [Aus der Internet-Fragestunde: Architektenvertrag](2frag04.md)
+> 5. [Aus der Internet-Fragestunde: Hauskauf & Baurecht](2frag05.md)
+> 6. [Aus der Internet-Fragestunde: Burgen, Schlösser & Bauernhäuser](2frag06.md)
+> 7. [Aus der Internet-Fragestunde: Angebote und Rechnungen](2frag07.md)
+> 8. [Aus der Internet-Fragestunde:Brand- & Schallschutz](2frag08.md)
+> 9. [Aus der Internet-Fragestunde: Gefälligkeitsgutachten & Schwachverständige](2frag09.md)
+> 10. [Aus der Internet-Fragestunde: Solar-Schwindel & Bauberatung](2frag10.md)
+> 11. [Aus der Internet-Fragestunde: Feuchte Mauern & Trockenlegungs-Mythen](2frag11.md)
+> 12. [Aus der Internet-Fragestunde: Fachwerk-Rettung](2frag12.md)
+> 13. [Aus der Internet-Fragestunde: Schimmel, Algen & Gifte im Haus](2frag13.md)
+> 14. [Aus der Internet-Fragestunde: Lüftung und Schallschutz](2frag14.md)
+> 15. [Aus der Internet-Fragestunde: Holzschutz ohne Gift](2frag15.md)
+> 16. [Aus der Internet-Fragestunde: Temperierung statt Dämmwahn](2frag16.md)
+> 17. [Aus der Internet-Fragestunde: Temperierung statt Dämmwahn 2](2frag17.md)
+> 18. [Aus der Internet-Fragestunde: Download](2frag18.md)
+> 19. [Aus der Internet-Fragestunde: Luftkalk-Putzverarbeitung](2frag19.md)
+> 20. [Aus der Internet-Fragestunde: Architektur-Studium & Realität](2frag21.md)
+> 21. [Aus der Internet-Fragestunde: Massivbau vs. Dämmwahn](2frag22.md)
+> 22. [Aus der Internet-Fragestunde: Wohngifte im Neubau](2frag23.md)
+> 23. [Aus der Internet-Fragestunde: Finanzierung & Förder-Fallen](2frag24.md)
+> 24. [Aus der Internet-Fragestunde: Mörtel und Putz](2frag25.md)
+> 25. [Aus der Internet-Fragestunde: Fensteranstrich, -dichtung und -konstruktion im Altbau](2frag26.md)
+> 26. [Aus der Internet-Fragestunde: Klartext Bauberatung](2frag27.md)
+> 27. [Aus der Internet-Fragestunde: Burgenkauf und Beratung](2frag28.md)
+> 28. [Aus der Internet-Fragestunde: 10 Goldene Regeln für Bauherren](2frag29.md)
+
+
 
 Zur Wahrung der Vertraulichkeit sind die Namen der Anfragenden nur abgekürzt. Produktnamen und manche Konstruktionsratschläge habe ich ebenfalls unkenntlich gemacht, Sie wissen schon warum. Auf Grußformeln wird hier verzichtet, ebenso auf zu persönliche Anmerkungen. Wer selbst anfragen will, soll erst mal hier nachsehen (Tipp: Wortsuchfunktion des Browsers benutzen), ob sein Problem schon dran war. Das spart Zeit und Geld. Objektgerechte Detaillierung und Ergänzung erhalten Sie nur [hier,](2berat.md) nicht mit irgendeinem Mail oder Anruf.
 

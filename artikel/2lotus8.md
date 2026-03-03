@@ -1,13 +1,20 @@
 ---
-title: "Schmutz-, wasser- und energieverlustabweisende Wunderanstriche 8"
-description: "Dämmfarben und Lotuseffekt sorgen für Verunsicherung des Farbenkunden. Der Malerzeitschrift Die Mappe 10/99 und ÖKO-TEST 8/2000 bringen Aufklärung."
-author: " "
+nav: "20bausto.md, 22bausto.md"
+title: "Wärmedämmende Kunstharzfarben 8: Wunderbaustoff oder Fassadenpest?"
+description: "Produktversprechungen der Farben und Beschichtungen mit wasserabweisenden und selbstreinigenden Effekten kritisch betrachtet."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2lotus8.htm"
+updated: "11.06.2008"
 ---
+
+[🠔 Zur Übersicht: Kunstharzfarben I](2lotus.md)  
+# Wärmedämmende Kunstharzfarben 8: Wunderbaustoff oder Fassadenpest?
+**Produktversprechungen der Farben und Beschichtungen mit wasserabweisenden und selbstreinigenden Effekten kritisch betrachtet.**  
+_von Konrad Fischer • aktualisiert 11.06.2008_
 
 Konrad Fischer 
 
-# Wärmedämmende Kunstharzfarben 8 - 
+## Wärmedämmende Kunstharzfarben 8 -
 
 Wunderbaustoff oder Fassadenpest? 
 

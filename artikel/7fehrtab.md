@@ -1,11 +1,18 @@
 ---
-title: "Dämmstoff/Wärmedämmung/WDVS ja oder nein? Teil 1"
-description: "Dämmen Dämmstoffe? Lohnt sich Dämmstoffeinsatz im Bauwerk und an der Fassade? Heizkostenvergleiche aus der Praxis (Prof. Dipl.-Ing. Architekt Jens Fehrenberg und Prof. Dr. Werner, Prof. Dr.-Ing. Karl Gertis, Fraunhofer-Institut für Bauphysik, Abt. Bauforschung, Holzkirchen)."
-author: " "
+nav: "20bausto.md"
+title: "Wärmedämmung / Wärmedämmverbundsystem / WDVS ja oder nein?"
+description: "Dämmt Dämmstoff wie versprochen und berechnet? Lohnt sich Dämmstoffeinsatz im Bauwerk und an der Fassade? Heizkostenvergleiche aus der Praxis und die Folgen unsachgemäßer Dämmung."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/7fehrtab.htm"
+updated: ""
 ---
 
+[🠔 Zur Übersicht: Energiesparen](7wsvoant.md)  
 # Wärmedämmung / Wärmedämmverbundsystem / WDVS ja oder nein?
+**Dämmt Dämmstoff wie versprochen und berechnet? Lohnt sich Dämmstoffeinsatz im Bauwerk und an der Fassade? Heizkostenvergleiche aus der Praxis und die Folgen unsachgemäßer Dämmung.**  
+_von Konrad Fischer_
+
+
 
 Oder: 
 
@@ -40,7 +47,7 @@ Host mi? Es gibt also keinen Beweis, egal ob mit oder ohne Nutzer, daß der Däm
 
 <center markdown>
 
-[![CO2- und Öko-Bau-Interview mit Konrad Fischer](../medien/YOU05.JPG)](http://youtu.be/5vly1RKBdkM)
+[![CO2- und Öko-Bau-Interview mit Konrad Fischer](../medien/YOU05.JPG)](https://youtu.be/5vly1RKBdkM)
 
 </center>
 
@@ -67,7 +74,7 @@ Der Witz ist, daß die dabei ausgewerteten - massenweise (!) belegten und damit 
 
 Und stimmt es, daß Studien beweisen, daß Wärmedämmung auf der Fassade die Heizkosten nicht senkt, sondern steigert? 
 
-[![Energiewende absurd - Wärmedämmung kann Heizkosten steigern](../medien/YOU51.JPG)](http://youtu.be/hnOOL0q_GeA) 
+[![Energiewende absurd - Wärmedämmung kann Heizkosten steigern](../medien/YOU51.JPG)](https://youtu.be/hnOOL0q_GeA) 
 Jedenfalls sendet der WDR am 14.10.2010: [Energiewende absurd - Wärmedämmung kann Heizkosten steigern](http://www1.wdr.de/fernsehen/aks/themen/waermedaemmung104.html) 
 
 Und auch die interessante Studie des Heizkostenabrechners Techem: Kähler, Ohl, Pawellek, Klein, [Einsparpotentiale der Wärmeversorgung](http://www.tab.de/artikel/tab_Einsparpotentiale_der_Waermeversorgung_1717235.html), tab 5/2013, zeigte anhand 300.000 untersuchter Mehrfamilienhäuser auf, daß die Massivbauten bis 1983 wesentlich weniger als U-Wert-berechnet verbrauchen, dafür die neueren Dämm-Leichtbauten wesentlich mehr, als berechnet. Was natürlich die Wirtschaftlichkeit mangels Erreichen der versprochenen Einsparpotentiale ins feuchte Dämmstoffgrab beerdigt. Schauen Sie sich die im gelinkten Artikel enthaltenen Grafiken _"Ideallinie und Ausgleichsgerade Wärmebedarf und -verbrauch für die Raumheizung"_ und _"Ideallinie und AusgleichsgeradeWärmebedarf und -verbrauch für die Raumheizung"_ an, um die maßgeblichen Ergebnisse selber zu besichtigen. Und wenn Sie sich noch etwas baukonstruktive Detaillierung durch das geplagte Köpfchen gehen ließen, stießen auch Sie nach einigem Grübeln auf eine ungeheuere Tatsache: 
@@ -99,15 +106,15 @@ Mein Motto - Wir lassen es uns den offiziellen Energiesparschnulli seitens staat
 <center markdown>
 
  Hochhaus-Fassade / Altbau sanieren oder mit WDVS dämmen? Fassadendämmung / Fassadenisolierung / Vollwärmeschutz / Wärmedämmverbundsystem (WDVS) - Macht das Sinn? 
-[![Hochhaus-/Altbau-Fassade - Instandsetzen oder Vollwärmeschutz?](../medien/YOU02.JPG)](http://youtu.be/edZ5O0hg7J4) 
+[![Hochhaus-/Altbau-Fassade - Instandsetzen oder Vollwärmeschutz?](../medien/YOU02.JPG)](https://youtu.be/edZ5O0hg7J4) 
 
 Ökommunismus, Klimaschutzterror & Energie-Planwirtschaft - Aufklärungsvortrag auf dem Deutschen Sachverständigentag 
-[![Energieeinsparung und Heizsysteme - kritische Anmerkungen zur Wirtschaftlichkeit](../medien/YOU47.JPG)](http://youtu.be/G5RjstPchWM) 
+[![Energieeinsparung und Heizsysteme - kritische Anmerkungen zur Wirtschaftlichkeit](../medien/YOU47.JPG)](https://youtu.be/G5RjstPchWM) 
 
 Konrad Fischer: Fassaden energetisch richtig und kostensparend sanieren 
 [![Fassaden energetisch richtig sanieren](../medien/YOU04.JPG)](http://www.youtube.com/playlist?list=PL386F9E7676C84932) 
 und neu: 
-[![Die kostengünstige, kostensichere & denkmalgerechte Sanierung - Vortrag Münster 8.10.2013 Informationsveranstaltung Ministerium Bauen, Wohnen, Stadtentwicklung, Verkehr Nordrhein-Westfalen & NRW.BANK für Untere Denkmalbehörden, Bewilligungsbehörden](../medien/YOU79.JPG)](http://youtu.be/CgVET6gLD7Q) 
+[![Die kostengünstige, kostensichere & denkmalgerechte Sanierung - Vortrag Münster 8.10.2013 Informationsveranstaltung Ministerium Bauen, Wohnen, Stadtentwicklung, Verkehr Nordrhein-Westfalen & NRW.BANK für Untere Denkmalbehörden, Bewilligungsbehörden](../medien/YOU79.JPG)](https://youtu.be/CgVET6gLD7Q) 
 Bayer. Fernsehen: "Geld & Leben - Wenn Dämmung unwirtschaftlich wird 
 [![BR-Geld & Leben Wärmedämmung + Wirtschaftlichkeit am 24.01.2011 mit Konrad Fischer](../medien/YOU03.JPG)](https://youtu.be/tjHIOrnSFso) 
 

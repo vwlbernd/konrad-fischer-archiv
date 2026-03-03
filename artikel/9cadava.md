@@ -1,11 +1,18 @@
 ---
-title: "CAD und AVA im Bestand"
-description: "1\. CAD 2. AVA - Ein kleiner Vergabeexkurs für spekulative und qualifizierte Bieter Behördenmißbrauch im VOB-Bereich. 1. CAD, 2. Ausschreibung und Vergabe"
-author: " "
+nav: "11planme.md"
+title: "CAD und AVA im Altbau - Kann es schärfere Info gegen Vergabebetrüger geben?"
+description: "Arbeiten mit CAD und AVA im Altbau, insbesondere die Weiterbearbeitung von Bestandsplänen und die Schwierigkeiten bei VOB-konformen Ausschreibungen."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/9cadava.htm"
+updated: ""
 ---
 
+[🠔 Zur Übersicht: Planung & Kosten](9pbs.md)  
 # CAD und AVA im Altbau - Kann es schärfere Info gegen Vergabebetrüger geben?
+**Arbeiten mit CAD und AVA im Altbau, insbesondere die Weiterbearbeitung von Bestandsplänen und die Schwierigkeiten bei VOB-konformen Ausschreibungen.**  
+_von Konrad Fischer_
+
+
 
 ## 1. CAD 
 

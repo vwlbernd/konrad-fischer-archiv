@@ -1,11 +1,18 @@
 ---
-title: "Das ökologische Bauen und die Baubiologie - eine kritische Analyse ..."
+title: "Das ökologische Bauen und die Baubiologie - eine kritischsatirische Abrechnung 1"
 description: "Baubiologie, Ökobau und gesundes Bauen - Richtig und falsch."
-author: " "
+author: "Konrad Fischer"
+updated: "29.07.2009"
+nav: "index.md, altbau.md"
 original_url: "www.konrad-fischer-info.de/oekobau3.htm"
 ---
 
-# Vorsicht! KEIN Ratgeber!
+[🠔 Zur Übersicht: Ökobau](oekobau.md)  
+# Das ökologische Bauen und die Baubiologie - eine kritischsatirische Abrechnung 1
+**Baubiologie, Ökobau und gesundes Bauen - Richtig und falsch.**  
+_von Konrad Fischer • aktualisiert 29.07.2009_
+
+## Vorsicht! KEIN Ratgeber!
 
 
 

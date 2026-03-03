@@ -1,17 +1,24 @@
 ---
-title: "Der Stahlbeton und der Zement - Problembeschreibungen 13"
-description: "Stahlbeton und Krebsalarm"
-author: " "
+nav: "20bausto.md"
+title: "Stahlbeton und Krebsalarm"
+description: "In Nürnberg musste eine Schule wegen akuter Belastung mit Krebs erregenden Stoffen abgerissen werden. Dieser Fall beleuchtet die Risiken von Stahlbeton und Kunststoffbaustoffen."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2beton13.htm"
+updated: "25.01.2002"
 ---
+
+[🠔 Zur Übersicht: Stahlbeton](2beton.md)  
+# Stahlbeton und Krebsalarm
+**In Nürnberg musste eine Schule wegen akuter Belastung mit Krebs erregenden Stoffen abgerissen werden. Dieser Fall beleuchtet die Risiken von Stahlbeton und Kunststoffbaustoffen.**  
+_von Konrad Fischer • aktualisiert 25.01.2002_
 
 <a id="11. der stahlbeton und der zement"></a>
 
-# Der Stahlbeton und der Zement 13
+## Der Stahlbeton und der Zement 13
 
 Inhaltsverzeichnis der Betonkapitel 
 
-[1: Stahlbetonbau - Spitzenarchitektur?](2beton.md) [2: Betonschäden durch schlechte Baustoffqualität](2beton02.md) [3: Baustoff und Baupfusch für eine Sklavenhaltergesellschaft?](2beton03.md) [4: Macht Betonieren krank und sichert Arbeitsplätze?](2beton04.md) [5: Betonbau - eine Sakralbauweise?](2beton05.md) [6: Betonsanierung + Zementberatung, zerstörungsarm untersuchen, Tiefgarage, Nitrat + Chlorid](2beton06.md) [7: Balkonien](2beton07.md) [8: Sichtbeton!](2beton08.md) [9: Betonbauschäden](2beton09.md) [10: Betonbrücken](2beton10.md) [11: Beton-Architekturphantasien](2beton11.md) [12: Materialdetails und Materialheimtücke](2beton12.md) **13: Stahlbeton und Krebsalarm** [14: Stahlbeton-Merksätze](2beton14.md) [15: Einiges zum Zement](2beton15.md) [16: Zement - ein unreiner Baustoff](2beton16.md) 
+
 
 ## 13 Stahlbeton und Krebsalarm
 

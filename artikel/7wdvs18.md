@@ -1,19 +1,22 @@
 ---
-title: "Energiesparen und Wärmeschutz am Altbau 18"
-description: "Energetische Sanierung und ihre Folgen"
-author: " "
+nav: "20bausto.md"
+title: "Die Energetische Sanierung von Altbauten und ihre Folgen"
+description: "Die Energetische Sanierung von Altbauten und ihre Folgen"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/7wdvs18.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Energiesparen](7wsvoant.md)  
+# Die Energetische Sanierung von Altbauten und ihre Folgen
+**Die Energetische Sanierung von Altbauten und ihre Folgen**  
+_von Konrad Fischer_
 
 _[Konrad Fischer](1refernz.md)_
 
 ## Energiesparen, Wärmeschutz und Fassadendämmung am Altbau 18 - Wie sollen wir richtig bauen?
 
-Wie soll man Fassade, Dach, Wand, Boden, Fenster, Heizung energetisch richtig sanieren? 
-Alles neu, alles nacheinander, gar nicht? Wärmedämmen, Isolieren, Wärme speichern? 
-Energiesparen & Energieberater an alten Häusern 
-Kranheiten & Sick Building Syndrom in unwirtschaftlich & falsch sanierten Wohnungen 
-Energiesparen und Wärmeschutz Kapitel [Einleitung](7wsvoant.md) [1a](7wdvs01.md) [2](7wdvs02.md) [3](7wdvs03.md) [4](7wdvs04.md) [5](7wdvs05.md) [6](7wdvs06.md) [7](7wdvs07.md) [8](7wdvs08.md) [9](7wdvs09.md) [10](7wdvs10.md) [11](7wdvs11.md) [12](7wdvs12.md) [13](7wdvs13.md) [14](7wdvs14.md) [15](7wdvs15.md) [16](7wdvs16.md) [17](7wdvs17.md) **18** [19](7wdvs19.md) [20](7wdvs20.md) [21](7wdvs21.md) 
+
 
 ## Die Energetische Sanierung von Altbauten und ihre Folgen
 

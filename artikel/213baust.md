@@ -1,9 +1,16 @@
 ---
-title: "Dämmung"
-description: "Energiesparen im Altbau + Altbausanierung ohne Dämmstoff, Isolierung, Dachdämmung, Wärmedämmung, Wärmedämmverbundsystem WDVS."
-author: " "
+nav: "20bausto.md"
+title: "Der Schwindel mit Dämmstoff, Wärmedämmung, Fassadendämmung ..."
+description: "Kritische Analyse von Wärmedämmung, Hausisolierung und Dämmstoffen: Probleme, Lösungen und die Frage, ob Dämmung wirklich Heizenergie spart oder Wärmespeicherung die bessere Strategie ist. Lassen Sie sich überraschen und/oder entsetzen."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/213baust.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Altbau Restaurierung](20bausto.md)  
+# Der Schwindel mit Dämmstoff, Wärmedämmung, Fassadendämmung ...
+**Kritische Analyse von Wärmedämmung, Hausisolierung und Dämmstoffen: Probleme, Lösungen und die Frage, ob Dämmung wirklich Heizenergie spart oder Wärmespeicherung die bessere Strategie ist. Lassen Sie sich überraschen und/oder entsetzen.**  
+_von Konrad Fischer_
 
 **Altbautaugliche Verfahren und Baustoffe - Kapitel 13/0** 
 Hinweis: Der Betreiber dieser Website haftet nicht für Rechts-, Denk- und Meinungsverstöße und grundgesetzlich ungeschützte Meinungsfreiheit auf Seiten, auf die sich externe Links beziehen. 
@@ -14,23 +21,27 @@ Da es hier um die wissenschaftliche und praktische Auseinandersetzung mit der Th
 ### Wärmedämmung, Hausisolierung + Dämmstoff/Wärme-Isolierung - Probleme und Lösungen - Wärmedämmung oder Wärmespeicherung? 
 Lassen Sie sich überraschen und/oder entsetzen ...
 
-Inhaltsverzeichnis 
-Kapitel [1 - Einstimmung: Schadensfälle an Dämmfassaden - Madenbefall, Absturz usw.](2131bau.md) 
-[2 - Zur Sache: Schimmel und Algen durch WDVS](2132bau.md) 
-[3 - Fassadendämmung naß veralgt?](2133bau.md) 
-[4 - Schädlingsbefall und Thermographie](2134bau.md) 
-[5 - Amtliche Energiesparversprechen / Energiesparverbrechen?](2135bau.md) 
-[6 - Dämmung, EnEV und Schimmelpilzbefall](2136bau.md) 
-[7 - Widerspruch Mieter gegen Mieterhöhung nach energetischer Sanierung / Gutachten für Widerspruch Eigentümer ./. WEG gegen Beschlußfassung energetische Sanierung Fassade](2137bau.md) 
-[8 - Reboundeffekt / Problemdiskussion Innendämmung / Innenisolierung](2138bau.md) 
-[9 - Wärmedämmung im Vergleich + Warum Dämmstoff nicht effektiv dämmt / Das Lichtenfelser Experiment](2139bau.md) 
-[10 - Schwindel? Dämmung + Energiesparverordnung EnEV](21310bau.md) 
-[11 - Befreiung und Ausnahme von Energieeinsparverordnung](21311bau.md) 
-[12 - Lichtenfelser Experiment - Ein Fake?](21312bau.md) 
-[13 - Altbausanierung - Lohnt sich Energiesparen durch Dämmung? Zumindest mit Fußbodendämmung? Tipps und Empfehlungen](21313bau.md) 
-[14 - Frost, Eis, Kondensat, Feuchte, Nässeschäden und Beulenpest auf WDVS - Wärmedämmverbundfassaden, Dämmfassaden, Fassadendämmung.](21314bau.md) 
-[15 - Dämmstoffbrand, Fogging + Energiesparen](21315bau.md) 
-[16 - Dachdämmung / Dachisolierung / Zwischensparrendämmung verpilzt?](21316bau.md) 
+> [!abstract]+ Kapitelübersicht: Dämmung  
+> 1. **Der Schwindel mit Dämmstoff, Wärmedämmung, Fassadendämmung ...**
+> 2. [Der Schwindel mit Dämmstoff, Wärmedämmung und Energiesparen 1](2131bau.md)
+> 3. [Der Schwindel mit Wärmedämmung und Energiesparen 2 - Dämmpfusch am Bau](2132bau.md)
+> 4. [Algenbefall / Algenpest auf Wärmedämmung, Wärmedämmverbundsystem WDVS, Hausisolierung und Fassadendämmung](2133bau.md)
+> 5. [Schädlingsbefall und Spechte im WDVS und der Thermographie-Schwindel](2134bau.md)
+> 6. [Der Schwindel mit Wärmedämmung und Energiesparen 5](2135bau.md)
+> 7. [Dämmung, EnEV und Schimmelpilzbefall](2136bau.md)
+> 8. [7 - Widerspruch Mieter gegen Mieterhöhung nach energetischer Sanierung / Gutachten für Widerspruch Eigentümer ./. WEG gegen Beschlußfassung energetische Sanierung Fassade](2137bau.md)
+> 9. [Keine Energieeinsparung durch Dämmung - nirgendwo. Der Reboundeffekt.](2138bau.md)
+> 10. [Der Schwindel mit Wärmedämmung, Hausisolierung und Energiesparen 9](2139bau.md)
+> 11. [Der Schwindel mit Wärmedämmung und Energiesparen 10](21310bau.md)
+> 12. [Befreiung und Ausnahme von Energieeinsparverordnung und Erneuerbare Energie Wärmegesetz](21311bau.md)
+> 13. [Der Schwindel mit Wärmedämmung und Energiesparen 12: Das Lichtenfelser Experiment - Ein Fake?](21312bau.md)
+> 14. [Gesundheitsgefahren und Bauschäden durch Wärmedämmung / Hausisolierung?](21313bau.md)
+> 15. [Der Schwindel mit Wärmedämmung und Energiesparen 14: Frost, Eis, Feuchte, Kondensat, Nässeschäden und Beulenpest auf WDVS](21314bau.md)
+> 16. [Der Schwindel mit Wärmedämmung und Energiesparen 15](21315bau.md)
+> 17. [Der Schwindel mit Wärmedämmung + Energiesparen 16](21316bau.md)
+> 18. [DBV Praxis Ratgeber zur Denkmalpflege: Altbau und Wärmeschutz - 13 Fragen und Antworten](6prwsch.md)
+
+
 
 Uff - Sie haben es geschafft! Schon beschwindelt? Oder kurz davor? Hat Ihnen jemand weisgemacht, Sie müßten nun unbedingt dämmen, das Haus wird so automatisch wärmer, es lohne sich, Sie sparen 99% Heizenergie, im Sommer wird die Wärmedämmung das Haus dann runterfrosten und außerdem gäb's KfW? Alles ganz nach dem Motto: _"Das Dämmen von Gebäuden schüttet ein ganzes Füllhorn an positiven Effekten über den Bauherren, Investor und Nutzer aus."_ So tönt die aktuelle Dämmstoffwerbung aus allen Kanälen. Für Architekturikonen steht sogar eine spezifische Klimaschutzrhetorik parat, die sich im angeblichen "Bauberater" 3.2014 des Bayerischen Landesvereins für Heimatpflege e.V. (!) etwa so liest: _"Für die Dämmung der Gebäudehülle kam ein Wärmedämmverbundsystem auch aus Gründen des Denkmalschutzes nicht in Frage. Das Pfarrhaus war ... immer ein verputztes Gebäude. So wurde für die energetische Optimierung der Fassade eine Vormauerung aus perlitegefüllten Ziegeln_ (KF: recte verstopfte Porentonschwämme) _fugenlos vor die bestehende Außenwand_ (KF: beidseitig verputzter 36,5er Hochlochziegel von 1963!) _gesetzt. ... Die neue Außenwand erfüllt die heutigen Anforderungen an den Wärmeschutz und besitzt alle Vorteile einer homogenen Wand, etwa hinsichtlich Dampfdiffusion und Wärmespeicherung. Ein mehrlagiger Außenputz wurde aufgebracht und Details wie das Nagelfluh-Band wieder angebracht."_ 
 
@@ -100,7 +111,7 @@ Die "Enstegsmetoden" - auf Deutsch: Wärmedämmverbundsystem WDVS - Schwedische 
 
 Und glauben Sie, das gäbe es nur in Schweden? Ach wo, ganz Deutschland steht voll mit solchen Bauruinen und täglich werden es mehr. Es dauert nur etwas, bis die geprellten Niedrigenergiehausbesitzer/Passivhausbauherrn hinter die ganze Wahrheit kommen. Und dann ist es meist zu spät. Sehen Sie nur mal diesen exemplarischen Fall an - aus Frankfurt am Main - Praunheim: 
 
-[![Pilzverseuchte und vermorschte Niedrigenergie-Holzhäuser der Frankfurter ABG Holding](../medien/YOU50.JPG)](http://youtu.be/7yiL2kdoHj0) Ihr Interesse an einer unverblümten und brutal aufklärenden Darstellung der Wärmedämmerei und nach von der Dämmstoffbranche (Hersteller / Produzenten, Verarbeiter / Handwerker, Planer / Architekten / Ingenieure / Energieberater und deren bauphysikalischen Rechenutopien komplett unabhängigen Empfehlungen hat Sie endlich hierher geführt. Doch warum? 
+[![Pilzverseuchte und vermorschte Niedrigenergie-Holzhäuser der Frankfurter ABG Holding](../medien/YOU50.JPG)](https://youtu.be/7yiL2kdoHj0) Ihr Interesse an einer unverblümten und brutal aufklärenden Darstellung der Wärmedämmerei und nach von der Dämmstoffbranche (Hersteller / Produzenten, Verarbeiter / Handwerker, Planer / Architekten / Ingenieure / Energieberater und deren bauphysikalischen Rechenutopien komplett unabhängigen Empfehlungen hat Sie endlich hierher geführt. Doch warum? 
 
 <center markdown>
 
@@ -145,9 +156,9 @@ Hier und auf den folgenden Seiten (nur für hartgesottene, nervenstarke Skeptike
 <center markdown>
 
  Hochhaus-Fassade / Altbau sanieren oder mit WDVS dämmen? Fassadendämmung / Fassadenisolierung / Vollwärmeschutz / Wärmedämmverbundsystem (WDVS) - Macht das Sinn? 
-[![Energiewende absurd - Wärmedämmung kann Heizkosten steigern](../medien/YOU51.JPG)](http://youtu.be/hnOOL0q_GeA) 
-[![Altbau und Energiespargesetze - Wahnsinn oder Methode?](../medien/YOU211.JPG)](http://youtu.be/xBp0lAxF-nU) [![Hochhaus-/Altbau-Fassade - Instandsetzen oder Vollwärmeschutz?](../medien/YOU02.JPG)](http://youtu.be/edZ5O0hg7J4) 
-[![BR-Geld&Leben Wenn Dämmung unwirtschaftlich wird - Wärmedämmung + Wirtschaftlichkeit am 24.01.2011 mit Konrad Fischer](../medien/YOU03.JPG)](http://youtu.be/tjHIOrnSFso) [![Fassaden energetisch richtig sanieren](../medien/YOU04.JPG)](http://youtu.be/OpbEO8kV-PU) 
+[![Energiewende absurd - Wärmedämmung kann Heizkosten steigern](../medien/YOU51.JPG)](https://youtu.be/hnOOL0q_GeA) 
+[![Altbau und Energiespargesetze - Wahnsinn oder Methode?](../medien/YOU211.JPG)](https://youtu.be/xBp0lAxF-nU) [![Hochhaus-/Altbau-Fassade - Instandsetzen oder Vollwärmeschutz?](../medien/YOU02.JPG)](https://youtu.be/edZ5O0hg7J4) 
+[![BR-Geld&Leben Wenn Dämmung unwirtschaftlich wird - Wärmedämmung + Wirtschaftlichkeit am 24.01.2011 mit Konrad Fischer](../medien/YOU03.JPG)](https://youtu.be/tjHIOrnSFso) [![Fassaden energetisch richtig sanieren](../medien/YOU04.JPG)](https://youtu.be/OpbEO8kV-PU) 
 [Teil 2](http://www.youtube.com/watch?v=Y1NSxAW15Cc) [Teil 3](http://www.youtube.com/watch?v=RAT7VzBo8k0) [Teil 4](http://www.youtube.com/watch?v=6TBII25iVQk) [Teil 5](http://www.youtube.com/watch?v=Kb0C4KiZvVA) 
 
 </center>
@@ -157,18 +168,18 @@ Hier und auf den folgenden Seiten (nur für hartgesottene, nervenstarke Skeptike
 <center markdown>
 
  [![WDR 2.12.2013: Könnes kämpft: Wärmedämmung: Die große Energiesparlüge](../medien/YOU81.JPG)](https://www.youtube.com/playlist?list=PLsv5nPUU0m4X6YwoxeXZ9u1yDzUZtW8Yn) [![WDR 2.12.2013: Könnes kämpft: Professor Harald Simons: Energetische Sanierung: Geldverbrennen mit Heiligenschein](../medien/YOU80.JPG)](https://youtu.be/Sn0xG41Y8qY) 
-[![BR 'Geld und Leben' 21.02.2013 Check: Dämmung - Hauswände dämmen - sinnvoll oder Unsinn](../medien/YOU63.JPG)](http://youtu.be/icacipcPR1s) [![RTL2 17.02.2013 Besser leben: Wärmedämmung](../medien/YOU64.JPG)](http://www.rtl2.de/welt_der_wunder/video/2634-besser-leben/17796-waermedaemmung/) 
-[![ARD Tagesschau, 2. Januar 2013, 14.00 Uhr: Gebäudesanierung: Bundesregierung will Sanierung von Altbauten stärker vorantreiben - Kritik von Konrad Fischer](../medien/YOU62.JPG)](http://youtu.be/lQsEwktQlxI) [![NDR, 26. November 2012, 22.00 Uhr: 45 Min - Wärmedämmung - Der Wahnsinn geht weiter! - mit Konrad Fischer](../medien/YOU55.JPG)](http://youtu.be/AWD0HeZLufM) 
-[![BR 'Geld und Leben' am 19.11.2012 Schulmief durch CO2 - Dicke Luft in Schulen - Wie Dämmwahn Schüler müde und krank machen kann](../medien/BRCO2.JPG)](http://youtu.be/U5aITPAi67Q) [![Feuchte, Schimmel + Bankrott - die beliebtesten Fehler der energetischen Sanierung im Altbau am 15.09.2012](../medien/YOU54.JPG)](http://vimeo.com/album/2080377/video/49877760) 
+[![BR 'Geld und Leben' 21.02.2013 Check: Dämmung - Hauswände dämmen - sinnvoll oder Unsinn](../medien/YOU63.JPG)](https://youtu.be/icacipcPR1s) [![RTL2 17.02.2013 Besser leben: Wärmedämmung](../medien/YOU64.JPG)](http://www.rtl2.de/welt_der_wunder/video/2634-besser-leben/17796-waermedaemmung/) 
+[![ARD Tagesschau, 2. Januar 2013, 14.00 Uhr: Gebäudesanierung: Bundesregierung will Sanierung von Altbauten stärker vorantreiben - Kritik von Konrad Fischer](../medien/YOU62.JPG)](https://youtu.be/lQsEwktQlxI) [![NDR, 26. November 2012, 22.00 Uhr: 45 Min - Wärmedämmung - Der Wahnsinn geht weiter! - mit Konrad Fischer](../medien/YOU55.JPG)](https://youtu.be/AWD0HeZLufM) 
+[![BR 'Geld und Leben' am 19.11.2012 Schulmief durch CO2 - Dicke Luft in Schulen - Wie Dämmwahn Schüler müde und krank machen kann](../medien/BRCO2.JPG)](https://youtu.be/U5aITPAi67Q) [![Feuchte, Schimmel + Bankrott - die beliebtesten Fehler der energetischen Sanierung im Altbau am 15.09.2012](../medien/YOU54.JPG)](http://vimeo.com/album/2080377/video/49877760) 
 
 3 sat hitec 23.1.12: Die verpackte Republik - für Fortbildungszwecke kritisch kommentiert von Konrad Fischer: 
 [![3sat hitec 16.01.2012: Die ver&uumlpackte Republik - für Fortbildungszwecke kritisch kommentiert von Konrad Fischer](../medien/YOU41.JPG)](http://www.youtube.com/playlist?list=PLsv5nPUU0m4WhiWCFT6OQoP1CxMoirnhX) 
-[23.11.11: ARD "Plusminus - Dämmwahn"](http://youtu.be/6Q53pe4CecU) - mit Prof. Jens Fehrenberg, ö.b.u.v. Sachverständiger für Gebäudeschäden und kritischer Kommentierung der Youtube-Version 
-[![ARD Plusminus 23.11.2011: Dämmwahn](../medien/YOU19.JPG)](http://youtu.be/Sx5p5n9q5uQ) 
+[23.11.11: ARD "Plusminus - Dämmwahn"](https://youtu.be/6Q53pe4CecU) - mit Prof. Jens Fehrenberg, ö.b.u.v. Sachverständiger für Gebäudeschäden und kritischer Kommentierung der Youtube-Version 
+[![ARD Plusminus 23.11.2011: Dämmwahn](../medien/YOU19.JPG)](https://youtu.be/Sx5p5n9q5uQ) 
 NDR-Trailer "Gefährliches WDVS" & "Wärmebild-Schwindel"- mit Konrad Fischer: 
 [NDR "Dämmen oder nicht Dämmen?"](http://web.archive.org/web/20140210100111/http://www.ndr.de/fernsehen/sendungen/45_min/hintergrund/waermedaemmung121.html) - Kritische Worte vom Feinsten 
 [NDR-Ratgeber "Wärme Fehlanzeige: Schäden an isolierten Wänden"](https://web.archive.org/web/20140210101142/http://www.ndr.de/ratgeber/verbraucher/haushalt_wohnen/waermedaemmung163_p-15.html) - Dämmaufklärung total 
-[![NDR 45 Min - Wahnsinn Wärmedämmung](../medien/YOU24.JPG)](http://youtu.be/MKeRe7FA4Gs). [![NDR 45 Min - Wahnsinn Gefährliche Wärmedämmung](../medien/YOU25.JPG)](http://youtu.be/rXzRlyyM7bY) 
+[![NDR 45 Min - Wahnsinn Wärmedämmung](../medien/YOU24.JPG)](https://youtu.be/MKeRe7FA4Gs). [![NDR 45 Min - Wahnsinn Gefährliche Wärmedämmung](../medien/YOU25.JPG)](https://youtu.be/rXzRlyyM7bY) 
 Die Tricks der Energieberater mit der Wärmebildkamera: 
 [![Schwindel mit Wärmebildkamera - Konrad Fischer und der NDR entlarven die Tricks der Energieberater](../medien/YOU23.JPG)](http://www.dailymotion.com/video/k5VbuUYVB10Lfkf8HsU) 
 _Ergänzend:_ Spiegel online - Enthüllungsjournalist Güven Purtul entlarvt EnEV-Anschlag auf Hab&Gut, Leib&Leben: 
@@ -262,7 +273,7 @@ Sie brauchen vielleicht etwas Aufklärung, einen Blick hinter die Kulissen? Im W
 
 <center markdown>
 
-[![Prof. Dr.-Ing. habil. Claus Meier Nürnberg: Fragwürdige Vorschriften fördern ungesundes Wohnen durch falsches Bauen und falsches Heizen ](../medien/YOU40.JPG)](http://youtu.be/VZFhgOBPrBI) 
+[![Prof. Dr.-Ing. habil. Claus Meier Nürnberg: Fragwürdige Vorschriften fördern ungesundes Wohnen durch falsches Bauen und falsches Heizen ](../medien/YOU40.JPG)](https://youtu.be/VZFhgOBPrBI) 
 
 </center>
 
@@ -288,7 +299,7 @@ So verhält es sich also mit den Lieblingsbaustoffen der Ökoterroristen zur ang
 
 Einer Regierungskriminalität, die es auch schaffte, den kontrollierten Abbruch des Worldtradecenters mittels Sprengung den Völkern als islamischen Angriff zu verkaufen, und das friedliebende deutsche Volk in von oben diktierte Angriffskriege zu verwickeln, schafft es freilich auch, uns die widerlichsten Klimaschutzlügen aufs Auge zu drücken und uns zu zwingen, für die Vernichtung unserer Bausubstanz unsere eigenen Ersparnisse dreinzugeben. Weitere 911-Info hier (ORF-Film): 
 
-[![ORF 1: Die 9/11-Lügen unserer Regierungen](../medien/YOU42.JPG)](http://youtu.be/SvrMjU_VO2I) 
+[![ORF 1: Die 9/11-Lügen unserer Regierungen](../medien/YOU42.JPG)](https://youtu.be/SvrMjU_VO2I) 
 
 <a id="ifb"></a>Und wie verhält sich eigentlich die tatsächliche Gesamtwirtschaftlichkeit eines regierungsamtlich geförderten und erzwungenen Fassadensystems, wenn man eine längere Zeitperiode betrachtet? Dirk Fanslau-Görlitz, Martin Pfeiffer, Janet Simon und Yasemin Wildebrand stellten sich diese drängende Frage auch und geben in ihrem "Atlas - Bauen im Bestand", Verlagsges. Müller, 2008, im Kapitel I.3: "Nachhaltige Modernisierung" auf Seite 59 eine Tabelle an, aus der die folgenden Kostendaten und Instandsetzungszyklen für verschiedene Fassadensysteme bei Betrachtung einer Periode von 80 Jahren aufgeführt werden. Dieses Buch kann als wahre Fundgrube bezeichnet werden, soweit man sich für Baukosten und Wirtschaftlichkeitsbetrachtungen gerade im Zusammenhang mit derzeit anstehenden Neubauten oder auch Sanierungen interessiert. 
 
@@ -355,7 +366,7 @@ Eine in der Rechtsliteratur so genannte "Täuschung über Tatsachen" - hier beis
 
 Natürlich gibt es auch einen rein emotionalen Zugang zur Erklärung, warum Bauherren auf den Vollwärmeschutz mit Anlauf hereinfallen und das ganze Haus mit Styropor umwickeln (Vorsicht! Keine Satire!): 
 
-[![Michl Müller: Vollwärmeschutz der Liebe](../medien/YOU43.JPG)](http://youtu.be/UxGiAqnb6ZI)
+[![Michl Müller: Vollwärmeschutz der Liebe](../medien/YOU43.JPG)](https://youtu.be/UxGiAqnb6ZI)
 
 Ein berühmter Nebengipfel in unserem Meinungsterror- und Lügenländle: Wie die armen Bausimpel und Altbausanierer von den "Energiesparprofis" abgenudelt und medial besudelt werden, können Sie hier als Einstieg mal selber sehen. Schon echt lustig wenn nicht geradezu irrwitzig, wie die folgende Thermographie deren gewillkürte Aussagekraft einer "energetischen Sanierung / Ertüchtigung" zur Minderung des CO2-Kohlendioxid-Ausstoßes, als Klimaschutz-Maßnahme und auch überhaupt zur allgemeinen Weltrettung vor der globalen Erwärmung entlarvt:
 
@@ -394,7 +405,7 @@ http://www.br.de/fernsehen/bayerisches-fernsehen/sendungen/geld-und-leben-das-wi
 Ansonsten spukt leider auch in Ihren weiteren Ausführungen die Falschvorstellung von ungedämmten "Wärmebrücken" als Schimmelpilzauslöser herum. Auch Sie dürften keinen meßtechnischen Beweis kennen, daß Außendämmung tatsächlich die Innentemperatur der Fassade anhebt, oder? Insofern wird wieder mal nur Dämmreklame runtergebetet. Das IBP hat das übrigens in langfristigen Winterperioden exakt gemessen: Temperaturerhöhung der Innenwand hinter Fassadendämmung Fehlanzeige! Das ist Fakt - nachzulesen hier: www.konrad-fischer-info.de/ibp13.pdf - und das müssen Sie erst mal durch korrekt gemessene Fakten widerlegen, bevor Sie hier der Öffentlichkeit Ihre rechnergestützten Dämmutopien nach falschen Normen unterbreiten. 
 Warum nun die Schimmelpilzwucherungen an den bekannten Stellen an Raumecken und Kanten? Ganz einfach, wirklich! 
 Weil der konvektive Heizluftstrom aus strömungstechnischen Gründen diese Bereiche ausspart und so nicht ausreichend mit Wärme versorgt. Unterstützt durch geradezu irrsinnige Nachtabsenkung im Heizbetrieb. So wird allnächtlich die Raumluft kühler, die Fassade kühlt ebenfalls runter, die relative Raumluftfeuchte in der hermetisch dichten Stube steigt und taut in die durch falsches Heizen ausgekühlten Problemecken. Bei gleichzeit gestiegenen Heizkosten. Oder spar Stop and Go beim Autofahren von Bozen nach Meran Benzin? That's it. Mit der gängigen Falschthorie, ersonnen von interessierten Kreisen, wie es so schön heißt, um die Dämmstoffmaximierung in unerreichbare Höhen zu befördern, hat der Schimmelpilz allerorten also nix zu tun. 
-Schauen Sie dazu meinen Vortrag auf der jüngsten Berliner Schimmelpilzkonferenz: <http://youtu.be/cHkK30uIfLY>, vielleicht fällt es ja auf fruchtbaren Boden oder nützt wenigstens den unvoreingenommenen Besuchern dieser Seite. 
+Schauen Sie dazu meinen Vortrag auf der jüngsten Berliner Schimmelpilzkonferenz: <https://youtu.be/cHkK30uIfLY>, vielleicht fällt es ja auf fruchtbaren Boden oder nützt wenigstens den unvoreingenommenen Besuchern dieser Seite. 
 Wünscht herzlich und kollegial 
 Konrad Fischer 
 
@@ -418,7 +429,7 @@ Die Öffentlichkeit und Politik wird für die Durchsetzung des Energieabzockens 
 **_[Entscheiden Sie selbst: Dieser Link bietet auch die Kehrseite der Medaille](7wsvoant.md)_**
 
 Nachschlag: Politik, Bundesregierung, Koalitionsvereinbarung und Schweinekrippe - wer sind unsere Regenten?: 
-[![Die Bundesregierung - okkupiert durch Korruption? System Merkel-Mafia?](../medien/YOU39.JPG)](http://youtu.be/_h2tAWwnPjY) 
+[![Die Bundesregierung - okkupiert durch Korruption? System Merkel-Mafia?](../medien/YOU39.JPG)](https://youtu.be/_h2tAWwnPjY) 
 
 </center>
 
@@ -444,7 +455,7 @@ Ja, für eine derart staatsterroristische Klimaschutz-Stachanowerei der auf das 
 
 <center markdown>
 
-[![How to cut carbon emissions - Ökofaschismus morgen](../medien/YOU38.JPG)](http://youtu.be/s395oCDCf6c) 
+[![How to cut carbon emissions - Ökofaschismus morgen](../medien/YOU38.JPG)](https://youtu.be/s395oCDCf6c) 
 
 </center>
 
@@ -464,7 +475,7 @@ Klarsichtig liegt dem Geheimpapier folgende Erkenntnis dessen Verfasser zugrunde
 
 Aha, da haben wir es wieder - das Motto, dem sich die letzten Aufrechten der "Nie-wieder!-Generation" verschworen haben: 
 
-# Leistet Widerstand!
+## Leistet Widerstand!
 
 Hauseigentümer führ', wir folgen! Schwerter zu Pflugscharen, Dämmstoffe zu Massivstoffen, Ökoscheiß zu Öl, Gas und Kohle (aus unerschöpflicher abiotischer Genese!) und Kernkraft mit Transmutationsbehandlung des Abfalls! Jawollja! 
 

@@ -1,13 +1,18 @@
 ---
-title: "Restauración Casa Vieja & Conservación Monumento Histórico ..."
-description: "Asesoramiento, Consejos, informes, ayuda y trucos para los propietarios de edificios históricos Renovación, Restauración y Reparación."
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Restauración de casas antiguas 🇪🇸🇦🇷 Conservación de monumentos históricos 🇲🇽🇨🇱"
+description: "Asesoramiento, consejos y trucos para los propietarios de edificios históricos. Los errores habituales y lo que realmente funciona."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/espana.htm"
+updated: ""
 ---
 
-# 
-
+[🠔 Zur Übersicht: Roman & Balkan](roman.md)  
 # Restauración de casas antiguas 🇪🇸🇦🇷 Conservación de monumentos históricos 🇲🇽🇨🇱
+**Asesoramiento, consejos y trucos para los propietarios de edificios históricos. Los errores habituales y lo que realmente funciona.**  
+_von Konrad Fischer_
+
+## # Restauración de casas antiguas 🇪🇸🇦🇷 Conservación de monumentos históricos 🇲🇽🇨🇱
 
 ## Revista de arquitectura para la renovación y reparación
 

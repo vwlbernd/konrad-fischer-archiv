@@ -1,9 +1,16 @@
 ---
-title: "Schaden: Sanierputz auf versalztem Stallgewölbe und feuchtem Mauerwerk 6"
-description: "Gutachten zu Sanierputzschaden 1: Vorbemerkung und Schadensanalyse"
-author: " "
+nav: "20bausto.md, 21bausto.md"
+title: "Bauschaden durch Sanierputzversagen auf feuchtem und salzigem Untergrund - Gutachtenauszug 1: Vorbemerkung und Schadensanalyse"
+description: "Detaillierte Analyse des Bauschadens durch Sanierputzversagen auf versalztem Stallgewölbe und feuchtem Mauerwerk, einschließlich Vorbemerkung und erster Schadensanalyse aus einem Gutachten."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2sani6.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Sanierputz-Schwindel](2sanipuz.md)  
+# Bauschaden durch Sanierputzversagen auf feuchtem und salzigem Untergrund - Gutachtenauszug 1: Vorbemerkung und Schadensanalyse
+**Detaillierte Analyse des Bauschadens durch Sanierputzversagen auf versalztem Stallgewölbe und feuchtem Mauerwerk, einschließlich Vorbemerkung und erster Schadensanalyse aus einem Gutachten.**  
+_von Konrad Fischer_
 
 ### Bauschaden durch Sanierputzversagen auf feuchtem und salzigem Untergrund - Gutachtenauszug 1
 

@@ -1,13 +1,20 @@
 ---
-title: "Ristrutturazione, reparazione, interventi, manutenazione dei ..."
-description: "Architetture storici, progettazione, organizzazione e svolgimento dei lavori - valorizzazione, reparazione, interventi, intervento, manutenzione, ..."
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "RISTRUTTURAZIONE DEI MONUMENTI ARCHITETTONICI"
+description: "Valorizzazione, Reparazione, Intervento, Manutenzione, Riabilitazione, Restaurazione, Conservazione di beni culturali"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/italia.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Roman & Balkan](roman.md)  
+# RISTRUTTURAZIONE DEI MONUMENTI ARCHITETTONICI
+**Valorizzazione, Reparazione, Intervento, Manutenzione, Riabilitazione, Restaurazione, Conservazione di beni culturali**  
+_von Konrad Fischer_
 
 [Konrad Fischer](1refernz.md)
 
-# RISTRUTTURAZIONE DEI MONUMENTI ARCHITETTONICI
+
 
 ## PROGETTAZIONE, ORGANIZZAZIONE E SVOLGIMENTO DEI LAVORI
 
@@ -49,7 +56,7 @@ Ben noti sono gli investimenti di natura politica nel campo della costruzione de
 
 <center markdown>
 
-[![BR 'quer' 4.04.2013 Brisante KfW-Studie: Milliardengrab Wärmedämmung](../medien/YOU68.JPG)](http://youtu.be/BLfAvxm5-w0) 
+[![BR 'quer' 4.04.2013 Brisante KfW-Studie: Milliardengrab Wärmedämmung](../medien/YOU68.JPG)](https://youtu.be/BLfAvxm5-w0) 
 Konrad Fischer: Fassaden energetisch richtig und kostensparend sanieren und trockenlegen 
 [![Fassaden energetisch richtig sanieren](../medien/YOU04.JPG)](http://www.youtube.com/playlist?list=PL386F9E7676C84932) 
 

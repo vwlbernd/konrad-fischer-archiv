@@ -1,15 +1,22 @@
 ---
-title: "Der Stahlbeton und der Zement - Problembeschreibungen 8"
-description: "Sichtbeton! Brutalismen und ihr Zerfall."
-author: " "
+nav: "20bausto.md"
+title: "Sichtbeton!"
+description: "Diskussion über die Probleme und Mängel beim Einsatz von Sichtbeton, illustriert durch einen Leserbrief zur Pinakothek der Moderne."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2beton08.htm"
+updated: ""
 ---
 
-# Der Stahlbeton und der Zement 8
+[🠔 Zur Übersicht: Stahlbeton](2beton.md)  
+# Sichtbeton!
+**Diskussion über die Probleme und Mängel beim Einsatz von Sichtbeton, illustriert durch einen Leserbrief zur Pinakothek der Moderne.**  
+_von Konrad Fischer_
+
+## Der Stahlbeton und der Zement 8
 
 Inhaltsverzeichnis der Betonkapitel 
 
-[1: Stahlbetonbau - Spitzenarchitektur?](2beton.md) [2: Betonschäden durch schlechte Baustoffqualität](2beton02.md) [3: Baustoff und Baupfusch für eine Sklavenhaltergesellschaft?](2beton03.md) [4: Macht Betonieren krank und sichert Arbeitsplätze?](2beton04.md) [5: Betonbau - eine Sakralbauweise?](2beton05.md) [6: Betonsanierung + Zementberatung, zerstörungsarm untersuchen, Tiefgarage, Nitrat + Chlorid](2beton06.md) [7: Balkonien](2beton07.md) **8: Sichtbeton!** [9: Betonbauschäden](2beton09.md) [10: Betonbrücken](2beton10.md) [11: Beton-Architekturphantasien](2beton11.md) [12: Materialdetails und Materialheimtücke](2beton12.md) [13: Stahlbeton und Krebsalarm](2beton13.md) [14: Stahlbeton-Merksätze](2beton14.md) [15: Einiges zum Zement](2beton15.md) [16: Zement - ein unreiner Baustoff](2beton16.md) 
+
 
 ---
 

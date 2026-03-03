@@ -1,13 +1,20 @@
 ---
-title: "Special: Felix Lindn"
-description: ""
-author: " "
-original_url: "www.konrad-fischer-info.de/school.htm - 62k"
+nav: "index.md"
+title: "The American high school system: Facts and evaluation III"
+description: "Facharbeit aus dem Fach Englisch am Meranier-Gymnasium Lichtenfels, 25.01.2008. The third part of an evaluation of the American high school system, focusing on its strengths and weaknesses."
+author: "Felix Lindner"
+original_url: "www.konrad-fischer-info.de/school3.htm"
+updated: "25.01.2008"
 ---
+
+[🠔 Zur Übersicht: English: Old House Repair](english.md)  
+# The American high school system: Facts and evaluation III
+**Facharbeit aus dem Fach Englisch am Meranier-Gymnasium Lichtenfels, 25.01.2008. The third part of an evaluation of the American high school system, focusing on its strengths and weaknesses.**  
+_von Felix Lindner • aktualisiert 25.01.2008_
 
 ### Felix Lindner
 
-# The American high school system: 
+## The American high school system:
 Facts and evaluation III
 
 ## Facharbeit aus dem Fach Englisch 

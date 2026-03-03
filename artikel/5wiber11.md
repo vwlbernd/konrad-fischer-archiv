@@ -1,15 +1,22 @@
 ---
-title: "Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Bausanierung"
+nav: "11planme.md"
+title: "Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 11"
 description: "Strategietips zur Finanzierung 11 - Geheimnisse der Städtebauförderung."
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/5wiber11.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Wirtschaftlichkeit](5wiber.md)  
+# Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 11
+**Strategietips zur Finanzierung 11 - Geheimnisse der Städtebauförderung.**  
+_von Konrad Fischer_
 
 Konrad Fischer 
 
-# Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 11
 
-[Seite 1](5wiber.md) [2](5wiber02.md) [3](5wiber03.md) [4](5wiber04.md) [5](5wiber05.md) [6](5wiber06.md) [7](5wiber07.md) [8](5wiber08.md) [9](5wiber09.md) [10](5wiber10.md) **11** [12](5wiber12.md) [13](5wiber13.md) [14](5wiber14.md)
+
+
 
 Die drei Geheimnisse des Erfolgs in der Städtebauförderung sind:
 

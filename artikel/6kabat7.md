@@ -1,17 +1,24 @@
 ---
-title: "Brandschutz in historischen Bauten 7"
+nav: "20bausto.md, 2baustof.md"
+title: "Brandschutz Zusammenfassung und Empfohlene Literatur"
 description: "Praxis Ratgeber der Deutschen Burgenvereinigung zum Brandschutz im Altbau."
-author: " "
+author: "Sylwester Kabat"
 original_url: "www.konrad-fischer-info.de/6kabat7.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Brandschutz Altbau](6brand.md)  
+# Brandschutz Zusammenfassung und Empfohlene Literatur
+**Praxis Ratgeber der Deutschen Burgenvereinigung zum Brandschutz im Altbau.**  
+_von Sylwester Kabat_
 
 ## Dipl.-Ing. Sylwester Kabat
 
-# Brandschutz in historischen Bauten / im Altbau 7 
+## Brandschutz in historischen Bauten / im Altbau 7
 
 Ein DBV-Praxisratgeber zum Vorbeugenden Brandschutz
 
-[Seite 1](6kabat.md) [2](6kabat2.md) [3](6kabat3.md) [4](6kabat4.md) [5](6kabat5.md) [6](6kabat6.md) **7**
+
 
 **5. Zusammenfassung**
 

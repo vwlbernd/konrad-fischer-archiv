@@ -1,16 +1,36 @@
 ---
-title: "Dach"
-description: "Dachprobleme und Lösungen"
-author: " "
+nav: "20bausto.md"
+title: "12. Dachdeckung und -konstruktion 1"
+description: "Analyse der Dachdeckung und -konstruktion in Alt- und Neubau. Fokus auf Materialvielfalt, regionale Einflüsse, Konsequenzen schlechter Wahl und bewährte Baustoffe wie Tondachziegel und Naturschiefer."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/212baust.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Altbau Restaurierung](20bausto.md)  
+# 12. Dachdeckung und -konstruktion 1
+**Analyse der Dachdeckung und -konstruktion in Alt- und Neubau. Fokus auf Materialvielfalt, regionale Einflüsse, Konsequenzen schlechter Wahl und bewährte Baustoffe wie Tondachziegel und Naturschiefer.**  
+_von Konrad Fischer_
 
 Altbautaugliche Verfahren und Baustoffe 
 Kapitel 12: Dachdeckung und Dachkonstruktion 1 
 
-**Kapitel 12: Dachdeckung und Dachkonstruktion 1** [2: Moderne Dachkonstruktion](212bau2.md) [3: Schiefer + Tonziegel](212bau3.md) [4: Betondachstein](212bau4.md) 
-[5: Ziegelnovitäten - ein Fortschritt?](212bau5.md) [6: Blechdach](212bau6.md) [7: Flachdach](212bau7.md) [8: Dachausbau](212bau8.md) 
-[9: Reet/Stroh + Holzschindel / Links](212bau9.md) 
+> [!abstract]+ Kapitelübersicht: Dach  
+> 1. **12. Dachdeckung und -konstruktion 1**
+> 2. [Moderne Dachkonstruktion - der todsichere Hit?](212bau2.md)
+> 3. [Dachdeckung und -konstruktion 2.1.2 - Einstürze und dramatische Schadensfälle 1990 ff. - inkl. Bad Reichenhall](212bau2a.md)
+> 4. [3. Schiefer und Tondachziegel](212bau3.md)
+> 5. [4. Der Betondachstein, Asbestzementschindeln und Wellplatten](212bau4.md)
+> 6. [Ziegelnovitäten - ein Fortschritt?](212bau5.md)
+> 7. [Historische Blechdächer](212bau6.md)
+> 8. [7. Ein paar steil bewegte Worte zum Flachdach - kein Flachdachlachen](212bau7.md)
+> 9. [8. Dachausbau: Dämm- und Dichtwahn - Dichtung und Wahrheit](212bau8.md)
+> 10. [9. Organische Deckungsmaterialien - Naturbaustoffe - Reet/Stroh und Holzschindel](212bau9.md)
+> 11. [Wie geht es weiter? - Tips und Tricks zur Instandsetzung und Inspektion](212bau22.md)
+> 12. [Moderne Dachkonstruktion - der todsichere Hit?](212bau23.md)
+> 13. [Hinweis für besorgte Dachbesitzer](212bau24.md)
+
+
 
 Hinweis: Da es hier um die Praxis bei Altbau und Denkmalpflege geht, lassen sich baustoffliche Verweise und Zitate nicht immer ganz vermeiden. Es sind damit **keine** Empfehlungen oder Verdikte ausgesprochen. Für altbauverträgliche Produkte sollte Voraussetzung sein: Eignungsnachweis und qualifizierte Volldeklaration im Sinne des hier abzurufenden [Vorschlags](2volldek.md). 
 

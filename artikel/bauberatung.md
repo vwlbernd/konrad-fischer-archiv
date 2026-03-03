@@ -1,11 +1,18 @@
 ---
-title: "Typischen Anfragen"
-description: "Altbaufragen und Neubaufragen - wie kommen Sie zur Bauberatung?"
-author: " "
+nav: "index.md"
+title: "Typische Bauberatungsanfragen und Antworten"
+description: "Auf vielfachen Wunsch präsentiere ich Ihnen hier typische Anfragen und Antworten zum Thema Bauberatung."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/bauberatung.htm"
+updated: "08.05.2015"
 ---
 
+[🠔 Zur Übersicht: Bauberatung](6prxratg.md)  
 # Typische Bauberatungsanfragen und Antworten
+**Auf vielfachen Wunsch präsentiere ich Ihnen hier typische Anfragen und Antworten zum Thema Bauberatung.**  
+_von Konrad Fischer • aktualisiert 08.05.2015_
+
+
 
 ### Lieber Leser, Lieber Bauberatungsinteressent! 
 
@@ -5485,7 +5492,7 @@ Sehr geehrter Herr XY,
 vielen Dank für Ihre Anfrage. Auf meiner Webseite www.konrad-fischer-info.de/2berat.htm finden Sie Hinweise, die beim Hauserwerb nützlich sein könnten. Ein Architekt wird bestimmt mehr bringen, da er die Lage mehr und neutraler überblickt und zu den gesamten Gewerkkosten mehr aussagekräftig sein sollte. Jetzt kommt es darauf an, den Richtigen zu finden, der am kostengünstigen Reparieren Interesse findet und nicht mit Ihrem Geld die Welt vor dem pöhsen CO2 retten will. Im Notfall können Sie auch mich in Betracht ziehen. Ein Berechnungsbeispiel, wie das zu Buche schlagen könnte, finden Sie ebenfalls auf der o.g. Seite. Im Falle eines Falles einfach mal anrufen. 
 Besten Gruß 
 Konrad Fischer 
-PS: Vielleicht hilft auch mal das Reinhören in dieses neue Video - Ein Interview mit mir (auch) zur Altbausanierung: <http://youtu.be/mbJsIn6OJ_U> 
+PS: Vielleicht hilft auch mal das Reinhören in dieses neue Video - Ein Interview mit mir (auch) zur Altbausanierung: <https://youtu.be/mbJsIn6OJ_U> 
 
 Von: XY 
 An: KF 

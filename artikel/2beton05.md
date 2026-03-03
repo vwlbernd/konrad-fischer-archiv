@@ -1,17 +1,24 @@
 ---
-title: "Der Stahlbeton und der Zement - Betonschaden 5"
-description: "Betonbau - eine Sakralbauweise?"
-author: " "
+nav: "20bausto.md"
+title: "Betonbau als Sakralbauweise? – Zwischen Kult und Bauschaden"
+description: "Eine sarkastische Abrechnung mit dem modernen Betonkult: Warum der blinde Glaube an den „Wunderbaustoff“ trotz massiver Pfusch-Anfälligkeit und technischer Mängel ungebrochen bleibt."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2beton05.htm"
+updated: ""
 ---
 
-# Der Stahlbeton und der Zement 5
+[🠔 Zur Übersicht: Stahlbeton](2beton.md)  
+# Betonbau als Sakralbauweise? – Zwischen Kult und Bauschaden
+**Eine sarkastische Abrechnung mit dem modernen Betonkult: Warum der blinde Glaube an den „Wunderbaustoff“ trotz massiver Pfusch-Anfälligkeit und technischer Mängel ungebrochen bleibt.**  
+_von Konrad Fischer_
 
-[1: Stahlbetonbau - Spitzenarchitektur?](2beton.md) [2: Betonschäden durch schlechte Baustoffqualität](2beton02.md) [3: Baustoff und Baupfusch für eine Sklavenhaltergesellschaft?](2beton03.md) [4: Macht Betonieren krank und sichert Arbeitsplätze?](2beton04.md) **5: Betonbau - eine Sakralbauweise?** [6: Betonsanierung + Zementberatung, zerstörungsarm untersuchen, Tiefgarage, Nitrat + Chlorid](2beton06.md) [7: Balkonien](2beton07.md) [8: Sichtbeton!](2beton08.md) [9: Betonbauschäden](2beton09.md) [10: Betonbrücken](2beton10.md) [11: Beton-Architekturphantasien](2beton11.md) [12: Materialdetails und Materialheimtücke](2beton12.md) [13: Stahlbeton und Krebsalarm](2beton13.md) [14: Stahlbeton-Merksätze](2beton14.md) [15: Einiges zum Zement](2beton15.md) [16: Zement - ein unreiner Baustoff](2beton16.md) 
+## Der Stahlbeton und der Zement 5
+
+
 
 ---
 
-# 5 Betonbau - eine Sakralbauweise?
+## 5 Betonbau - eine Sakralbauweise?
 
 Inkl. - VORSICHT!!! - einiger den ungeheuerlichen Bauschäden und dem Betonpfusch gewidmeten sarkastischen Ironien. 
 

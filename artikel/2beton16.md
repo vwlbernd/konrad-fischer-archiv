@@ -1,15 +1,22 @@
 ---
-title: "Der Stahlbeton und der Zement - Problembeschreibungen 16"
-description: "Zement: Koscher oder ein unreiner Baustoff?"
-author: " "
+nav: "20bausto.md"
+title: "Zement – Ein unreiner Baustoff?"
+description: "Koscher oder kontaminiert? Eine kritische Auseinandersetzung mit den chemischen Verunreinigungen in Zement und der Frage, ob moderne Bindemittel den Anforderungen an gesundes Bauen überhaupt standhalten."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2beton16.htm"
+updated: ""
 ---
 
-# Der Stahlbeton und der Zement 16
+[🠔 Zur Übersicht: Stahlbeton](2beton.md)  
+# Zement – Ein unreiner Baustoff?
+**Koscher oder kontaminiert? Eine kritische Auseinandersetzung mit den chemischen Verunreinigungen in Zement und der Frage, ob moderne Bindemittel den Anforderungen an gesundes Bauen überhaupt standhalten.**  
+_von Konrad Fischer_
+
+## Der Stahlbeton und der Zement 16
 
 Inhaltsverzeichnis der Betonkapitel 
 
-[1: Stahlbetonbau - Spitzenarchitektur?](2beton.md) [2: Betonschäden durch schlechte Baustoffqualität](2beton02.md) [3: Baustoff und Baupfusch für eine Sklavenhaltergesellschaft?](2beton03.md) [4: Macht Betonieren krank und sichert Arbeitsplätze?](2beton04.md) [5: Betonbau - eine Sakralbauweise?](2beton05.md) [6: Betonsanierung + Zementberatung, zerstörungsarm untersuchen, Tiefgarage, Nitrat + Chlorid](2beton06.md) [7: Balkonien](2beton07.md) [8: Sichtbeton!](2beton08.md) [9: Betonbauschäden](2beton09.md) [10: Betonbrücken](2beton10.md) [11: Beton-Architekturphantasien](2beton11.md) [12: Materialdetails und Materialheimtücke](2beton12.md) [13: Stahlbeton und Krebsalarm](2beton13.md) [14: Stahlbeton-Merksätze](2beton14.md) [15: Einiges zum Zement](2beton15.md) **16: Zement - ein unreiner Baustoff** 
+
 
 ## 16 Zement - ein unreiner Baustoff
 

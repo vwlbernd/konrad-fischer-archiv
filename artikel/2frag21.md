@@ -1,13 +1,20 @@
 ---
-title: "Aus der Internet-Fragestunde der Altbau und Denkmalpflege ..."
-description: "Altbaufragen von AZ: Allerlei Anfragen von Studenten zu Energiesparen, Studieren, Denkmalpflege und Stilfragen."
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Aus der Internet-Fragestunde: Architektur-Studium & Realität"
+description: "Was Studenten über Denkmalpflege und Energiesparen nicht im Hörsaal lernen: Ein kritischer Leitfaden zu Stilfragen, Baugeschichte und den gängigen Fehlern der modernen Lehre."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2frag21.htm"
+updated: "05.05.2009"
 ---
+
+[🠔 Zur Übersicht: Altbau FAQ](2frag.md)  
+# Aus der Internet-Fragestunde: Architektur-Studium & Realität
+**Was Studenten über Denkmalpflege und Energiesparen nicht im Hörsaal lernen: Ein kritischer Leitfaden zu Stilfragen, Baugeschichte und den gängigen Fehlern der modernen Lehre.**  
+_von Konrad Fischer • aktualisiert 05.05.2009_
 
 Konrad Fischer 
 
-# Aus der Internet-Fragestunde und Bauberatung
+## Aus der Internet-Fragestunde und Bauberatung
 
 **(aktualisiert 5.05.09)** 
 

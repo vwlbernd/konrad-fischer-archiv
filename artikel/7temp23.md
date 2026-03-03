@@ -1,20 +1,26 @@
 ---
-title: "Energieerzeugung und Wirtschaftlichkeit - Probleme der Ökoenergieen / Temperierung 23"
-description: "Freche Anmerkungen zu Ökowahn und Ökoenergie, Solarenergie, Solaranlagen, Photovoltaik / Fotovoltaik, Pelletsheizung, Hackschnitzelheizung usw."
-author: " "
+nav: "20bausto.md"
+title: "Energieerzeugung und Wirtschaftlichkeit - Probleme der Ökoenergieen"
+description: "Kritische Betrachtung der Probleme von Ökoenergie und dem EEG. Analyse der Wirtschaftlichkeit und Auswirkungen auf die Bevölkerung, Fokus auf Solarenergie, Photovoltaik, Pellets- und Hackschnitzelheizungen."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/7temp23.htm"
+updated: ""
 ---
 
-# Risiko Ökoenergie / Erneuerbare Energien - PV-Solaranlage Brand/Feuer
+[🠔 Zur Übersicht: Heizen](7temper.md)  
+# Energieerzeugung und Wirtschaftlichkeit - Probleme der Ökoenergieen
+**Kritische Betrachtung der Probleme von Ökoenergie und dem EEG. Analyse der Wirtschaftlichkeit und Auswirkungen auf die Bevölkerung, Fokus auf Solarenergie, Photovoltaik, Pellets- und Hackschnitzelheizungen.**  
+_von Konrad Fischer_
+
+## Risiko Ökoenergie / Erneuerbare Energien - PV-Solaranlage Brand/Feuer
 
 ## Die Temperierung der Gebäude-Hüllflächen 23
 
-[Temperierung Start](7temper.md) - Kapitel [1 - Referenzschreiben eines Lesers zum Temperiereffekt](7temp01.md) [2 - Seit wann gibt es Temperierung? / Die Sauerei mit der Kirchenheizung](7temp02.md) [3 - Richtig oder falsch Heizen in der Kirche - Orgeln und Heizung](7temp03.md) [4 - Strahlungsgeschichtliches](7temp04.md) [5 - Der Umschwung pro Temperierung](7temp05.md) [6 - Wie funktioniert Temperierung? / Wirkprinzip Wärmestrahlung / Trocknungseffekt / Wärmeverlust: Konvektion kontra Strahlung](7temp06.md) [7 - Sachverständigengutachten über die Mängel der Temperieranlage (Auszug) / Gesetzgeber zur Anwendung EnEV bei Strahlungsheizung - Auslegungsfragen](7temp07.md) [8 - Energieverluste? Zur Dämmung temperierter Wände / Neon-Analogon](7temp08.md) [9 - Feuchte und Temperatur an der Wand](7temp09.md) [10 - Schwedenofen, Kachelofen, Lüftungsanlage + Klimaanlage - Vorhof zur Hölle?](7temp10.md) [11 - Temperiererfolg gegen feuchte Wände und nasse Mauern / Trockenlegung](7temp11.md) [12 - Großraum, Schloß, Kirche, Saal: Übliche Fehleinschätzungen und Kaputtsanierung](7temp12.md) [13 - Temperieren im Großraum - Kirche, Saal und Halle](7temp13.md) [14 - Temperierung und Hygiene](7temp14.md) [15 - Bauteilkorrosion als Folge des Warmluftstroms - Wartungsintervalle und Heiztechnik](7temp15.md) [16 - Temperierung mittels Rohr oder Kleinkonvektor/Sockelleiste/Heizleiste/Fußleistenheizung](7temp16.md) [17 - Projektbeispiele / Schloß Veitshöchheim](7temp17.md) [18 - Einbau von Temperieranlagen - Technische Hinweise](7temp18.md) [19 - Konfiguration und Bemessung der Temperieranlage](7temp19.md) [20 - Strahlungsheizung und Fensterkonstruktion](7temp20.md) [21 - Prof. Dr. Claus Meier: Glas und die elektromagnetische Strahlung / Die Tragödie der Strahlung in der Heiztechnik - Humane Strahlungswärme ](7temp21.md) [22 - VDI-Richtlinien, DIN-Norm und falsche Prüfberichte](7temp22.md) **23 - Energieerzeugung und Wirtschaftlichkeit - Probleme der Ökoenergieen** [24 - Erhaltung und/oder Umbau bestehender Heizsysteme / EnEV-Befreiung gem. § 25, Nachtabsenkung, Glas+Strahlung, Brennwert-Technik](7temp24.md) 
-[25 - Bauwerkstrocknung nach Überschwemmungs- und sonstigen Durchfeuchtungsschäden / Weitere Informationen](7temp25.md) 
+
 
 <a id="energieerzeugung"></a>
 
-# Energieerzeugung und Wirtschaftlichkeit - Probleme der Ökoenergieen
+
 
 _**Zur Einstimmung:** Zwischen 2010 und 2030 ziehen die Gewinner des Erneuerbare Energien Gesetzes EEG der wehrlosen Bevölkerung ca. 335.000.000.000 EUR, also 335 Milliarden aus der Tasche. Für Nichts! Denn es bräuchte den ganzen ÖKO-Energieunsinn in keiner Weise, hätte man nur die vor dem Energeiwendewahn geltenden Prinzipien einer technisch und wirtschaftlich einwandfreien Energiepolitik einfach weiterverfolgt. Nur - damit waren die Energieunternehmer bis runter zum PV-Betreiber auf dem Einfamilienhaus nicht zufriedenzustellen. Sie suchten und fanden eine planwirtschaftliche DDR-Lösung als Gegenmodell zur freien und sozialen Marktwirtschaft. Diese heißt generell "Klimaschutzpolitik" und liefert als Patentmodell der Bürgerabzocke alle gesetzlichen Voraussetzungen, unsere einst so freie und soziale Gesellschaft in die Steinzeit zurückzukatapultieren. Auch durch den ges. gesch. Energiesparzwang, der den Beteiligten 1000e Milliarden in die Kassen spült, ohne daß irgendeine Energie gespart wird, da der moderne [Dämmstoffwahn bekanntermaßen wirkungslos verpufft](7fehrtab.md). Der von allen Klimaschutz-Parteien gleichermaßen angewandte "Fukushima-Trick" hat die Durchsetzung des mit der Klimaschutzpolitik verbundenen Geschäftsmodells bis aufs äußerste beschleunigt. Ja, Nachhaltigkeit kann so Spaß machen. Leider nur den Gewinnern - Politik, Abzocker und Medien. Und leider nur sehr kurzfristig. Lassen Sie mich zum Themenbereich "Erneuerbare" hier etwas weiter ausholen. Bringt zwar nix, trotzdem. Frei nach Hutten: "Ich hab's gewagt." Oder als der letzte Ritter von der traurigen Gestalt gegen Windmühlenflügel und alles andere ... ;-)_ 
 
@@ -188,7 +194,7 @@ Immer braucht es sorgfältige [Wirtschaftlichkeitsberechnungen](5wiber.md), die 
 <center markdown>
 
 Förster Peter Wohlleben, Autor des Buches "Holzrausch", zum Klimaschutzbetrug mit Pellets 
-[![Förster Peter Wohlleben zur Biowirksamkeit und Klimaschutz bei Pellets / Pelletsheizung](../medien/YOU37.JPG)](http://youtu.be/lOYYv18Rn_E) 
+[![Förster Peter Wohlleben zur Biowirksamkeit und Klimaschutz bei Pellets / Pelletsheizung](../medien/YOU37.JPG)](https://youtu.be/lOYYv18Rn_E) 
 
 </center>
 
@@ -988,12 +994,12 @@ Anders rum: Die Solarfans behaupten, man solle bei Erneuerung der Heizungsanlage
 <center markdown>
 
 Heiße Aufklärungsfilme - Provokantes, Ironisches, Aufrüttelndes, Schmerzendes zur Energiegesetzgebung ...: 
-[![Altbau und Energiespargesetze - Wahnsinn oder Methode?](../medien/YOU01.JPG)](http://youtu.be/xBp0lAxF-nU) [![Ökostrom & EEG - Fluch oder Segen?](../medien/YOU07.JPG)](http://youtu.be/2rlotB0Zog4) 
+[![Altbau und Energiespargesetze - Wahnsinn oder Methode?](../medien/YOU01.JPG)](https://youtu.be/xBp0lAxF-nU) [![Ökostrom & EEG - Fluch oder Segen?](../medien/YOU07.JPG)](https://youtu.be/2rlotB0Zog4) 
 
 ### **TV-TIPPS:**
 
-[![Brandgefahr bei Photovoltaikanlagen \(BR - 'Geld und Leben' am 21.11.2011](../medien/YOU08.JPG)](http://youtu.be/DNqE-ZmNjUQ) 
-[![Gefährliche Schäden an Photovoltaikanlagen](../medien/YOU28.JPG)](http://youtu.be/BV7tTONz4jI) 
+[![Brandgefahr bei Photovoltaikanlagen \(BR - 'Geld und Leben' am 21.11.2011](../medien/YOU08.JPG)](https://youtu.be/DNqE-ZmNjUQ) 
+[![Gefährliche Schäden an Photovoltaikanlagen](../medien/YOU28.JPG)](https://youtu.be/BV7tTONz4jI) 
 [Brandgefährliches auf unseren Dächern???? - Aus photovoltaik.com](http://www.photovoltaikforum.com/pv-news-f25/brandgefaehrliches-auf-unseren-daechern--t71697.html) - So reagieren die anonymen PV-Solarjünger auf diese Risikoaufklärung - überwiegend beschämend, ad hominem-Häme und Schmähkritik - oder ihrer edlen Sache des unbedingten Gewinnstrebens - koste es wem auch immer, was es wolle - selbstgewiß? Sie entscheiden! 
 Wesentlich informeller dagegen das [Ketzerforum: Wie geht die Feuerwehr bei einem Dachstuhlbrand vor, wenn eine Photovoltaikanlage installiert ist?](http://freezonechef.servertalk.in/freezonechef-post-56240.html) 
 
@@ -1124,7 +1130,7 @@ Und hier einige rußige Kostproben der gräßlichen Brandserie von abgefackelten
 
 <center markdown>
 
-[![Großbrand Photovoltaikanlage Hohenaspe](../medien/YOU11.JPG)](http://youtu.be/aTwgNCX3428)
+[![Großbrand Photovoltaikanlage Hohenaspe](../medien/YOU11.JPG)](https://youtu.be/aTwgNCX3428)
 
 </center>
 
@@ -1133,7 +1139,7 @@ Und hier einige rußige Kostproben der gräßlichen Brandserie von abgefackelten
 
 <center markdown>
 
-[![Bayerischer Rundfunk BR 2010: Gefahr Photovoltaik](../medien/YOU12.JPG)](http://youtu.be/zoxnDujgRiU)
+[![Bayerischer Rundfunk BR 2010: Gefahr Photovoltaik](../medien/YOU12.JPG)](https://youtu.be/zoxnDujgRiU)
 
 </center>
 
@@ -1145,7 +1151,7 @@ Und hier einige rußige Kostproben der gräßlichen Brandserie von abgefackelten
 
 <center markdown>
 
-[![Zwei Scheunen mit PV-Anlagen brennen in Goldern und werden durch Brand zerstört](../medien/YOU13.JPG)](http://youtu.be/stqmrbRwclM)
+[![Zwei Scheunen mit PV-Anlagen brennen in Goldern und werden durch Brand zerstört](../medien/YOU13.JPG)](https://youtu.be/stqmrbRwclM)
 
 </center>
 
@@ -1161,7 +1167,7 @@ Und hier einige rußige Kostproben der gräßlichen Brandserie von abgefackelten
 
 <center markdown>
 
-[![23.04.2010 - Bammental: Photovoltaikanlage in Flammen, Großbrand - 150 Feuerwehrleute bei Brand im Einsatz](../medien/YOU14.JPG)](http://youtu.be/kF4sSJN-0CQ)
+[![23.04.2010 - Bammental: Photovoltaikanlage in Flammen, Großbrand - 150 Feuerwehrleute bei Brand im Einsatz](../medien/YOU14.JPG)](https://youtu.be/kF4sSJN-0CQ)
 
 </center>
 
@@ -1259,7 +1265,7 @@ Januar 2011: [Rindelbach](http://www.schwaebische.de/region/ostalb/ellwangen/sta
 
 <center markdown>
 
-[![Roydorf Scheunenbrand 700000 Euro Schaden](../medien/YOU09.JPG)](http://youtu.be/aMceppQ5oa0)
+[![Roydorf Scheunenbrand 700000 Euro Schaden](../medien/YOU09.JPG)](https://youtu.be/aMceppQ5oa0)
 
 </center>
 
@@ -2243,13 +2249,13 @@ Die Brandsaison April 2014 schließt ab mit einem bemerkenswerten Forschungserge
 
 Break: Der bisher genialste Beitrag Frankens zur emotionalen Seite der herzerglühenden und beseelenden "Photovoltaik auf dem Dach" etc.: (Vorsicht! Keine Satire!): 
 
-[![Michl Müller: Vollwärmeschutz der Liebe](../medien/YOU43.JPG)](http://youtu.be/UxGiAqnb6ZI)
+[![Michl Müller: Vollwärmeschutz der Liebe](../medien/YOU43.JPG)](https://youtu.be/UxGiAqnb6ZI)
 
 ### Solaranlagen - Photovoltaikanlagen - Fotovoltaikanlagen - ein Anschlag auf Hab & Gut & Leib & Leben der Ökoparasiten & vorsätzlicher Mordanschlag auf Feuerwehrler?
 
 <center markdown>
 
-[![ARD Odysso: Feuerwehr unter Strom - Reportage mit Lena Ganschow](../medien/YOU16.JPG)](http://youtu.be/VDdnDeLuxEo) 
+[![ARD Odysso: Feuerwehr unter Strom - Reportage mit Lena Ganschow](../medien/YOU16.JPG)](https://youtu.be/VDdnDeLuxEo) 
 [Gefahr Photovoltaik](https://youtu.be/zoxnDujgRiU) 
 [Brandgefährlich- Seminar zu Löscharbeiten bei Photovoltaik Anlagen](https://youtu.be/VUnubPXdGp4) 
 [Kopfball - Solarzellenbrand](https://youtu.be/aJyQgD1HA3Y) 
@@ -2323,7 +2329,7 @@ Die meisten Solarmodule enthalten hochgiftige und in üblichen Elektro- und Elek
 
 <center markdown>
 
-[![BR Geld und Leben - Solarschmarotzer Solarparasiten Ökoschmarotzer Ökoparasiten Solaranlage Photovoltaik](../medien/YOU20.JPG)](http://youtu.be/dDIr7H0gAW)
+[![BR Geld und Leben - Solarschmarotzer Solarparasiten Ökoschmarotzer Ökoparasiten Solaranlage Photovoltaik](../medien/YOU20.JPG)](https://youtu.be/dDIr7H0gAW)
 
 </center>
 

@@ -1,11 +1,18 @@
 ---
-title: "Initiative für gesundes Bauen"
+nav: "7thuene1.md"
+title: "Die Energieeinsparverordnung (EnEV) und die EU-Richtlinie 2002/91/EG des europäischen Parlaments und des Rates vom 16. Dezember 2002 über die Gesamtenergieeffizienz von Gebäuden - ein Anschlag auf Volkswirtschaft und -gesundheit?"
 description: "Beschwerdeschreiben an Abgeordnete des Deutschen Bundestags (Bundestagsabgeordnete MdB) gegen den Betrug mit Energiesparvorschriften und Einergieeinsparveordnung - Muster zur Übernahme"
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/7intiv.htm"
+updated: ""
 ---
 
-# Initiative für gesundes Bauen 
+[🠔 Zur Übersicht: EEG Kritik](7eeg.md)  
+# Die Energieeinsparverordnung (EnEV) und die EU-Richtlinie 2002/91/EG des europäischen Parlaments und des Rates vom 16. Dezember 2002 über die Gesamtenergieeffizienz von Gebäuden - ein Anschlag auf Volkswirtschaft und -gesundheit?
+**Beschwerdeschreiben an Abgeordnete des Deutschen Bundestags (Bundestagsabgeordnete MdB) gegen den Betrug mit Energiesparvorschriften und Einergieeinsparveordnung - Muster zur Übernahme**  
+_von Konrad Fischer_
+
+## Initiative für gesundes Bauen
 Gegen den EnEV-Terror auf Kosten des wehrlosen Bürgers
 
 Der ultimative Beleg für kriminelles Handeln? Erst gegen alle Widerstände und Einsprüche die sog. EnergieEinsparVerordnung EnEV durchzwingen, mit der [nirgends Energie gespart](7fehrtab.md) werden kann, sondern alle Pottdicht-Buden vom Hausschwamm befallen werden und [asthmatische Schimmelopfer](7schim.md) produzieren, und nun das: 

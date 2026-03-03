@@ -1,10 +1,3 @@
----
-title: "Mould Attack - Moisture, Asthma and Allergy in the sick Building"
-description: "What to do with mould inside and outside of damp and moistured buildings - A Guide."
-author: " "
-original_url: "www.konrad-fischer-info.de/7mould.htm"
----
-
 Konrad Fischer, Architect 
 
 # Mould Attack - What to do?

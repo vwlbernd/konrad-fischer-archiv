@@ -1,17 +1,24 @@
 ---
-title: "Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der ..."
-description: "Konrad Fischer Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 10"
-author: " "
+nav: "11planme.md"
+title: "4. Geheimnisse der Städtebauförderung"
+description: "Städtebauförderung könnte grundsätzlich immer greifen und bewilligt werden, auch bei nicht im Städetbauförderungs-Programm aufgenommenen Kommunen. Einzigste drei Voraussetzungen: Kenntnis der Förderrichtlinien, Verhandlungsstrategie, Fürsprecher."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/5wiber10.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Wirtschaftlichkeit](5wiber.md)  
+# 4. Geheimnisse der Städtebauförderung
+**Städtebauförderung könnte grundsätzlich immer greifen und bewilligt werden, auch bei nicht im Städetbauförderungs-Programm aufgenommenen Kommunen. Einzigste drei Voraussetzungen: Kenntnis der Förderrichtlinien, Verhandlungsstrategie, Fürsprecher.**  
+_von Konrad Fischer_
 
 Konrad Fischer 
 
-# Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 10
+## Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 10
 
-[Seite 1](5wiber.md) [2](5wiber02.md) [3](5wiber03.md) [4](5wiber04.md) [5](5wiber05.md) [6](5wiber06.md) [7](5wiber07.md) [8](5wiber08.md) [9](5wiber09.md) **10** [11](5wiber11.md) [12](5wiber12.md) [13](5wiber13.md) [14](5wiber14.md)
 
-# 4. Geheimnisse der Städtebauförderung
+
+
 
 Städtebauförderung könnte grundsätzlich (wenn nicht durch ungeschriebene Manipulation der Förderrichtlinie hinter dem Rücken des Gesetzgebers "abgeschafft") immer greifen und bewilligt werden, auch bei nicht im Städetbauförderungs-Programm aufgenommenen Kommunen und außerhalb ausgewiesener Sanierungsgebiete. Und bei allen Bauprojekten, nicht nur "Öffentlichen". Und auch bei fast keiner Eigenleistung des Bauherren und ebenso der Kommunge (Gemeinde, Stadt). Einzigste drei Voraussetzungen: 1. Vertiefte Kenntnis der Förderrichtlinien, 2. geschickte Verhandlungsstrategie auf Bauherrnseite, 3. willige und kompetente öffentliche, noch besser politische Fürsprecher. So einfach ist das. Immer!
 

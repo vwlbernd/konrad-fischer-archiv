@@ -1,9 +1,16 @@
 ---
+nav: "index.md, 6prxratg.md"
 title: "Темперирование наружных стен зданий"
-description: "Темперирование наружных стен зданий Защита строений и здоровья путем правильного отопления,Темперирование стен зданий Konrad Fischer"
-author: " "
+description: "Защита строений и здоровья путем правильного отопления,Темперирование стен зданий"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/7tempr.htm"
+updated: "04.03.2009"
 ---
+
+[🠔 Zur Übersicht: Slavisk](slavisk.md)  
+# Темперирование наружных стен зданий
+**Защита строений и здоровья путем правильного отопления,Темперирование стен зданий**  
+_von Konrad Fischer • aktualisiert 04.03.2009_
 
 [Konrad Fischer](1refernz.md) 
 Темперирование наружных стен зданий 

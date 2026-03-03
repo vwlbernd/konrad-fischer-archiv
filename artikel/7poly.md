@@ -1,11 +1,18 @@
 ---
+nav: "7epass.md"
 title: "Polystyrol ist für die Hausisolation nicht geeignet"
-description: "Kritik an der EMPA und falschen Fassadenbaustoffen."
-author: " "
+description: "zum Schwindel mit falschen Dämmstoffen, Polystyrol, Energiesparen und Wärmedämmung - ewig aktuell:"
+author: "Paul Bossert"
 original_url: "www.konrad-fischer-info.de/7poly.htm"
+updated: "30.03.2000"
 ---
 
-# [Architekt & Bauingenieur Paul Bossert](http://forum.paul-bossert.ch/) 
+[🠔 Zur Übersicht: Widersprüche 1](7waefe33.md)  
+# Polystyrol ist für die Hausisolation nicht geeignet
+**zum Schwindel mit falschen Dämmstoffen, Polystyrol, Energiesparen und Wärmedämmung - ewig aktuell:**  
+_von Paul Bossert • aktualisiert 30.03.2000_
+
+## [Architekt & Bauingenieur Paul Bossert](http://forum.paul-bossert.ch/)
 
 zum Schwindel mit falschen Dämmstoffen, Polystyrol, Energiesparen und Wärmedämmung - 
 

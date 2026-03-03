@@ -1,11 +1,18 @@
 ---
-title: "Baudenkmäler wirtschaftlich instandsetzen - Preisgünstig Instandsetzen"
-description: "Praxis Ratgeber Wirtschaftliches Instandsetzen von Baudenkmälern - Planung - Finanzierung - Projektabwicklung 6. Der erste Planungsschritt"
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Wirtschaftliches Instandsetzen von Baudenkmälern – Der erste Planungsschritt"
+description: "Praxis Ratgeber zur Denkmalpflege: Wirtschaftliches Instandsetzen von Baudenkmälern - Planung, Finanzierung & Projektorganisation (Teil 6: Der erste Planungsschritt)"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/6prwi06.htm"
+updated: ""
 ---
 
-# Praxis Ratgeber zur Denkmalpflege 
+[🠔 Zur Übersicht: Denkmal instandsetzen](6prwiins.md)  
+# Wirtschaftliches Instandsetzen von Baudenkmälern – Der erste Planungsschritt
+**Praxis Ratgeber zur Denkmalpflege: Wirtschaftliches Instandsetzen von Baudenkmälern - Planung, Finanzierung & Projektorganisation (Teil 6: Der erste Planungsschritt)**  
+_von Konrad Fischer_
+
+## Praxis Ratgeber zur Denkmalpflege
 
 ## Wirtschaftliches Instandsetzen von Baudenkmälern 
 Kauf, Finanzierung, Planung und Projektorganisation 6
@@ -20,7 +27,7 @@ Konrad Fischer
 
 Wirtschaftliches Instandsetzen von Baudenkmälern – Kauf, Finanzierung, Planung und Projektorganisation 
 
-[1. Vorbemerkung](6prwiins.md) [2. Der Immobilienkauf](6prwi02.md) [3. Öffentliche und private Förderung für die Instandsetzung von Baudenkmälern](6prwi03.md) [4. Von der Reparatur zur Zerstörung](6prwi04.md) [5. Entwurfsstrategie](6prwi05.md) **6. Der erste Planungsschritt** [7. Bestandsaufnahme mit System](6prwi07.md) [8. Nutzungsentwurf](6prwi08.md) [9. Reparaturplanung und Konstruktionsentwurf](6prwi09.md) [10. Leistungsbeschreibung, Baukosten und Bauablauf](6prwi10.md) [11. Investitionsziel / 12. Zusammenfassung / Empfohlene Fachliteratur zu Finanzierung und Technik](6prwi11.md) 
+
 
 6. Der erste Planungsschritt 
 

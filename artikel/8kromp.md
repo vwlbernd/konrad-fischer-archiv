@@ -1,9 +1,16 @@
 ---
-title: "Rezension: Krompotic: Relationen über Fortifikation der Südgrenzen ..."
-description: "Dr. Louis Krompotic: Relationen über Fortifikation der Südgrenzen des Habsburgerreiches."
-author: " "
+nav: "index.md, 8infober.md"
+title: "Relationen über Fortifikation der Südgrenzen des Habsburgerreiches"
+description: "Das Werk eines Privat-Historikers beleuchtet Kriegsbaukunst, Entvölkerung, Spionage und strategisches Denken im Kontext der habsburgischen Südgrenzen. Ein wertvoll ausgestattetes Druckwerk, das seinesgleichen sucht."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/8kromp.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Altbaukritik Fachbücher](8wetz.md)  
+# Relationen über Fortifikation der Südgrenzen des Habsburgerreiches
+**Das Werk eines Privat-Historikers beleuchtet Kriegsbaukunst, Entvölkerung, Spionage und strategisches Denken im Kontext der habsburgischen Südgrenzen. Ein wertvoll ausgestattetes Druckwerk, das seinesgleichen sucht.**  
+_von Konrad Fischer_
 
 Rezension: 
 

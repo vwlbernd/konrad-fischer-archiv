@@ -1,11 +1,18 @@
 ---
-title: "RA Johannes Kirchmeier: Die WSVO/EnEV aus verfassungsrechtlicher Sicht"
-description: "Kommentierung der WSVO/EnEV im Hinblick auf ihre Verfassungswidrigkeit."
-author: " "
+nav: "7thuene1.md"
+title: "Sind die Energie-Einsparverordnung 2002-2016 (EnEV), das Erneuerbare Energien Wärme Gesetz (EEWärmeG/EWärmeG BW) und das Energieeinsparungsgesetz verfassungswidrig und verstoßen gegen das Grundgesetz?"
+description: "Analyse und Kommentierung der Verfassungswidrigkeit der Energie-Einsparverordnung (EnEV), des EEWärmeG und des Energieeinsparungsgesetzes."
+author: "RA Johannes Kirchmeier"
 original_url: "www.konrad-fischer-info.de/7enevver.htm"
+updated: ""
 ---
 
+[🠔 Zur Übersicht: EEG Kritik](7eeg.md)  
 # Sind die Energie-Einsparverordnung 2002-2016 (EnEV), das Erneuerbare Energien Wärme Gesetz (EEWärmeG/EWärmeG BW) und das Energieeinsparungsgesetz verfassungswidrig und verstoßen gegen das Grundgesetz?
+**Analyse und Kommentierung der Verfassungswidrigkeit der Energie-Einsparverordnung (EnEV), des EEWärmeG und des Energieeinsparungsgesetzes.**  
+_von RA Johannes Kirchmeier_
+
+
 
 ## Verfassungswidriges Bundesbauordnungsrecht
 

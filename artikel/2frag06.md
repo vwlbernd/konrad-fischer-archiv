@@ -1,13 +1,20 @@
 ---
-title: "Aus der Internet-Fragestunde der Altbau und Denkmalpflege ..."
-description: "Altbaufragen von AZ: Burgen-/Schloßstudium/-besuch/-übernachtung/-miete, Bauernhausstudium."
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Aus der Internet-Fragestunde: Burgen, Schlösser & Bauernhäuser"
+description: "Vom Studium historischer Bausubstanz bis zur Miete im Schloss: Warum das Wohnen in alten Mauern kein Luxusproblem ist, sondern Fachwissen über echte Denkmalpflege erfordert."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2frag06.htm"
+updated: "16.06.2008"
 ---
+
+[🠔 Zur Übersicht: Altbau FAQ](2frag.md)  
+# Aus der Internet-Fragestunde: Burgen, Schlösser & Bauernhäuser
+**Vom Studium historischer Bausubstanz bis zur Miete im Schloss: Warum das Wohnen in alten Mauern kein Luxusproblem ist, sondern Fachwissen über echte Denkmalpflege erfordert.**  
+_von Konrad Fischer • aktualisiert 16.06.2008_
 
 Konrad Fischer 
 
-# Aus der Internet-Fragestunde und Bauberatung
+## Aus der Internet-Fragestunde und Bauberatung
 
 **(aktualisiert 16.06.08)** 
 

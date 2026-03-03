@@ -1,13 +1,20 @@
 ---
-title: "Aus der Internet-Fragestunde der Altbau und Denkmalpflege ..."
-description: "Altbaufragen von AZ: Bekämpfender und vorbeugender Holzschutz ohne Gift?"
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Aus der Internet-Fragestunde: Holzschutz ohne Gift"
+description: "Wie Sie Holzschädlinge wirksam bekämpfen, ohne Ihre Gesundheit zu ruinieren: Warum konstruktiver Holzschutz der Bauchemie überlegen ist und welche „vorbeugenden“ Gifte Sie sich sparen können."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2frag15.htm"
+updated: "20.07.2009"
 ---
+
+[🠔 Zur Übersicht: Altbau FAQ](2frag.md)  
+# Aus der Internet-Fragestunde: Holzschutz ohne Gift
+**Wie Sie Holzschädlinge wirksam bekämpfen, ohne Ihre Gesundheit zu ruinieren: Warum konstruktiver Holzschutz der Bauchemie überlegen ist und welche „vorbeugenden“ Gifte Sie sich sparen können.**  
+_von Konrad Fischer • aktualisiert 20.07.2009_
 
 Konrad Fischer 
 
-# Aus der Internet-Fragestunde und Bauberatung
+## Aus der Internet-Fragestunde und Bauberatung
 
 **(aktualisiert 20.07.09)** 
 

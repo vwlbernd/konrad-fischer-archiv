@@ -1,6 +1,20 @@
+---
+nav: "index.md, 6prxratg.md"
+title: "Mold Attack - Moisture, Asthma and Allergy in the sick Building"
+description: "Information to detect, prevent and eliminate mushrooms, fungi, mold and mildew, addressing health issues like asthma and allergies in sick buildings. A guide on what to do about mold."
+author: "Konrad Fischer"
+original_url: "www.konrad-fischer-info.de/7mold.htm"
+updated: ""
+---
+
+[🠔 Zur Übersicht: English: Old House Repair](english.md)  
+# Mold Attack - Moisture, Asthma and Allergy in the sick Building
+**Information to detect, prevent and eliminate mushrooms, fungi, mold and mildew, addressing health issues like asthma and allergies in sick buildings. A guide on what to do about mold.**  
+_von Konrad Fischer_
+
 Konrad Fischer, Architect 
 
-# Mold Attack - What to do?
+## Mold Attack - What to do?
 
 ## A Guide - Part 1
 

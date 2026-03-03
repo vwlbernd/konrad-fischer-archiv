@@ -1,19 +1,25 @@
 ---
-title: "Schwindelei? Aufsteigende Feuchte + Trockenlegung feuchter Wände 10"
-description: "Elektroosmose und die typischen Trockenleger-Ausreden bei Mißerfolg"
-author: " "
+nav: "20bausto.md"
+title: "Elektroosmose und die typischen Trockenleger-Ausreden bei Mißerfolg"
+description: "Eine kritische Analyse dubioser Entfeuchtungsverfahren, die statt physikalischer Wirkung oft nur Ausflüchte liefern, wenn der erhoffte Erfolg bei der Kellertrockenlegung ausbleibt."
 original_url: "www.konrad-fischer-info.de/2auffe10.htm"
+updated: "12.10.2009"
 ---
+
+[🠔 Zur Übersicht: Aufsteigend Feuchte?](2aufstfe.md)  
+# Elektroosmose und die typischen Trockenleger-Ausreden bei Mißerfolg
+**Eine kritische Analyse dubioser Entfeuchtungsverfahren, die statt physikalischer Wirkung oft nur Ausflüchte liefern, wenn der erhoffte Erfolg bei der Kellertrockenlegung ausbleibt.**  
+_von Konrad Fischer • aktualisiert 12.10.2009_
 
 ## Aufsteigende Feuchte + Trockenlegung nasser Wände 10
 
 Aufsteigende Feuchte Kapitelübersicht 
 
-[1 - Einführung zur Problemlage](2aufstfe.md) [2 - Ein schrecklicher "Trockenlegungsfall"](2auffe02.md) [3 - Feuchtequellen](2auffe03.md) [4 - Ziegel-Mauerwerk und Aufsteigende Feuchte](2auffe04.md) [5 - Naturstein-Mauerwerk und Aufsteigende Feuchte](2auffe05.md) [6 - Nachträgliche Horizontalabdichtung historischen Mauerwerks? - Mauerwerksversalzung](2auffe06.md) [7 - Kondensat und Regen](2auffe07.md) [8 - Trockenlegung oder Bauwerksschäden durch Horizontalisolierung?](2auffe08.md) [9 - Trockenlegungsschwindel - die Marketingtricks](2auffe09.md) **10 - Elektroosmose und die typischen Trockenleger-Ausreden bei Mißerfolg** [11 - Trockenlegungsexperten? - Planer und Gutachter](2auffe11.md) [12 - Trockenlegung - Industrieberatung oder der gesunde Menschenverstand? Probleme und Lösungen](2auffe12.md) [13 - Mauertrockenlegung - Die klassischen Fehler](2auffe13.md) [14 - Nasse Wände sanieren - Was sagt die Wissenschaft?](2auffe14.md) [15 - Mauerfeuchte woher? Zum historischen und wissenschaftlichen Hintergrund](2auffe15.md) 
+
 
 **(aktualisiert 12.10.09)** 
 
-# Elektroosmose und 
+## Elektroosmose und
 die typischen Trockenleger-Ausreden bei Mißerfolg
 
 Allerlei dubiose Bauverfahren kommen so als sogenannte Abdichtungssysteme / Trockenlegungssysteme zur angeblichen Mauerentfeuchtung / Mauertrockenlegung zum Einsatz. Der arglose Bauherr, hin und wieder sehr schlecht vertreten durch ganz und gar ahnungslose Hausverwalter oder Baubeamte, hat's ja! In Bautenschutz+Bausanierung Heft 7/01 schreiben die Autoren Dipl.-Chem. A. Detmann, Prof. Dr. rer. nat. habil. H. Venzmer, Dipl.-Phys. C.-M. Moewe und Dipl.-Phys. O. Bakhramov, alle Dahlberg-Institut Wismar, unter _"Feuchteschutz, Die technische Gretchenfrage, Sind elektroosmotische Trockenlegungsverfahren anwendbar?"_ nach entsprechender Forschung auf S. 57 als Schlussfolgerung zu marktgängigen Methoden: _"dass elektroosmotische Verfahren, die nur mit minimalen Spannungen und großen Elektrodenabständen arbeiten, keine brauchbaren Ergebnisse erzielen können."_ In den Testreihen war nämlich klar geworden, daß mit den Verfahren (Elektro-Osmose) keine nennenswerten Wassertransporte durch die bauwerkstypischen Kapillarsysteme zu erzielen sind. 

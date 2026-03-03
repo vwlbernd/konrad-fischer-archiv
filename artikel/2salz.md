@@ -1,13 +1,24 @@
 ---
-title: "Feuchte und Salz am Altbau 1 - Fakten + Tipps zu Feuchtigkeit und Schadsalzen"
-description: "Bauschädliche Salze - Details und Tipps 1"
-author: " "
+nav: "20bausto.md, 21bausto.md"
+title: "Feuchte und Salz am Altbau - Faktensammlung und Tips 1"
+description: "Zu Mauerfeuchte, Salzschäden und aufsteigender Feuchte, Sanierung mit Sanierputz, Denkmalschutz und Denkmalpflege"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2salz.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Feuchte Kellerwände](21bausto.md)  
+# Feuchte und Salz am Altbau - Faktensammlung und Tips 1
+**Zu Mauerfeuchte, Salzschäden und aufsteigender Feuchte, Sanierung mit Sanierputz, Denkmalschutz und Denkmalpflege**  
+_von Konrad Fischer_
+
+> [!abstract]+ Kapitelübersicht: Feuchte & Salze  
+> 1. **Feuchte und Salz am Altbau - Faktensammlung und Tips 1**
+> 2. [Feuchte und Salz am Altbau - Faktensammlung und Tips 2](2salz1.md)
 
 Konrad Fischer 
 
-# Feuchte und Salz am Altbau
+## Feuchte und Salz am Altbau
 
 ## Faktensammlung und Tips 1
 

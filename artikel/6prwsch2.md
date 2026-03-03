@@ -1,13 +1,20 @@
 ---
-title: "Praxis Ratgeber der Deutschen Burgenvereinigung e.V.: Altbau und Wärmeschutz 2."
-description: ""
-author: " "
+nav: "20bausto.md, 213baust.md"
+title: "DBV Praxis Ratgeber zur Denkmalpflege: Altbau und Wärmeschutz - 13 Fragen und Antworten [2]"
+description: "Informationsschriften der Deutschen Burgenvereinigung e.V. BEIRAT FÜR DENKMALERHALTUNG"
+author: "Claus Meier"
 original_url: "www.konrad-fischer-info.de/6prwsch2.htm"
+updated: "19.12.2005"
 ---
+
+[🠔 Zur Übersicht: Dämmung Ratgeber 1](6prwsch.md)  
+# DBV Praxis Ratgeber zur Denkmalpflege: Altbau und Wärmeschutz - 13 Fragen und Antworten [2]
+**Informationsschriften der Deutschen Burgenvereinigung e.V. BEIRAT FÜR DENKMALERHALTUNG**  
+_von Claus Meier • aktualisiert 19.12.2005_
 
 Claus Meier 
 
-# DBV Praxis Ratgeber zur Denkmalpflege
+## DBV Praxis Ratgeber zur Denkmalpflege
 
 ## Altbau und Wärmeschutz - 13 Fragen und Antworten [2]
 
@@ -17,7 +24,7 @@ BEIRAT FÜR DENKMALERHALTUNG
 
 Text leicht aktualisiert 19.12.2005 durch Redaktion K. Fischer 
 
-Seite [1](6prwsch.md) **2** [3](6prwsch3.md) [4](6prwsch4.md) [5](6prwsch5.md) [6](6prwsch6.md) [7](6prwsch7.md) [8](6prwsch8.md) [9](6prwsch9.md)
+
 
 **3. Ist das Berechnungsverfahren gem. WSVO / EnEV für massive Altbauten zutreffend?**
 

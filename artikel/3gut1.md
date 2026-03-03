@@ -1,11 +1,18 @@
 ---
-title: "Gut- und Schlechtachten, Sach- und Schwachverständige im Bauwesen 2"
-description: "Inhalt. Bauuntersuchung Technische Prüfbehörden, wiss. Institute, Untersuchungslabors und akademische Auftragsforscher ..."
-author: " "
+nav: "20bausto.md"
+title: "Gutachten - Empfehlungen und Strategien für den Bauherrn 2"
+description: "Kritische Betrachtung der Arbeitsweisen staatlicher und industrienaher Prüfbehörden sowie Labors im Bauwesen. Aufgezeigt werden Bedenken durch manipulative Versuchsaufbauten und Schönung von Ergebnissen."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/3gut1.htm"
+updated: ""
 ---
 
+[🠔 Zur Übersicht: Gutachter](3gutacht.md)  
 # Gutachten - Empfehlungen und Strategien für den Bauherrn 2
+**Kritische Betrachtung der Arbeitsweisen staatlicher und industrienaher Prüfbehörden sowie Labors im Bauwesen. Aufgezeigt werden Bedenken durch manipulative Versuchsaufbauten und Schönung von Ergebnissen.**  
+_von Konrad Fischer_
+
+
 
 **Inhalt**
 

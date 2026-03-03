@@ -1,11 +1,18 @@
 ---
-title: "Die häufigsten Fehler bei der Anwendung von Luftkalkmörtel 2"
-description: "Zu verarbeitungs- und objektbedingten Fehlerquellen."
-author: " "
+nav: "20bausto.md, 26bausto.md"
+title: "Kalk Anwendungsfehler 2: Warum Ihr Kalkputz nicht hält"
+description: "Ein Expertenbericht über die fatale Rolle von Zementbeimischungen, falsche Untergrundbenetzung und das Märchen von der „schnellen“ Trocknung."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2kalkf02.htm"
+updated: ""
 ---
 
-# Die häufigsten Fehler bei der Anwendung von 
+[🠔 Zur Übersicht: Kalk Anwendungsfehler](2kalkfel.md)  
+# Kalk Anwendungsfehler 2: Warum Ihr Kalkputz nicht hält
+**Ein Expertenbericht über die fatale Rolle von Zementbeimischungen, falsche Untergrundbenetzung und das Märchen von der „schnellen“ Trocknung.**  
+_von Konrad Fischer_
+
+## Die häufigsten Fehler bei der Anwendung von
 
 Luftkalkmörtel, 
 Kalkputz und Kalkanstrich 2

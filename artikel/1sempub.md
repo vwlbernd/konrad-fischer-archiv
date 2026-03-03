@@ -1,11 +1,18 @@
 ---
-title: "Seminare und Vorträge 1"
-description: "Informationen und Fortbildungsveranstaltungen rund um das Planen und Bauen im Bestand."
-author: " "
+nav: "index.md"
+title: "Referenz-Vorträge von Konrad Fischer"
+description: "Referenzliste der Seminare und Vorträge von Konrad Fischer, zuletzt aktualisiert Mitte 1998."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/1sempub.htm"
+updated: "15.06.1998"
 ---
 
-# Referenzliste 
+[🠔 Zur Übersicht: Über Konrad Fischer](1refernz.md)  
+# Referenz-Vorträge von Konrad Fischer
+**Referenzliste der Seminare und Vorträge von Konrad Fischer, zuletzt aktualisiert Mitte 1998.**  
+_von Konrad Fischer • aktualisiert 15.06.1998_
+
+## Referenzliste
 
 Seminare und Vorträge von [Konrad Fischer](1refernz.md) 
 

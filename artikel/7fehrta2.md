@@ -1,11 +1,18 @@
 ---
+nav: "20bausto.md"
 title: "Dämmstoff/Wärmedämmung/WDVS ja oder nein? Teil 2"
-description: "Dämmen Dämmstoffe? Lohnt sich Dämmstoffeinsatz im Bauwerk und an der Fassade? Heizkostenvergleiche aus der Praxis (Prof. Dipl.-Ing. Architekt Jens Fehrenberg und Prof. Dr. Werner, Prof. Dr.-Ing. Karl Gertis, Fraunhofer-Institut für Bauphysik, Abt. Bauforschung, Holzkirchen)."
-author: " "
+description: "Praktische Heizkostenvergleiche zur Dämmung im Bauwerk und an der Fassade. Mit Studien von Prof. Jens Fehrenberg, Prof. Dr. Werner, Prof. Dr.-Ing. Karl Gertis (Fraunhofer-Institut)."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/7fehrta2.htm"
+updated: ""
 ---
 
-# Wärmedämmung / Wärmedämmverbundsystem / WDVS ja oder nein? 
+[🠔 Zur Übersicht: Energiesparen](7wsvoant.md)  
+# Dämmstoff/Wärmedämmung/WDVS ja oder nein? Teil 2
+**Praktische Heizkostenvergleiche zur Dämmung im Bauwerk und an der Fassade. Mit Studien von Prof. Jens Fehrenberg, Prof. Dr. Werner, Prof. Dr.-Ing. Karl Gertis (Fraunhofer-Institut).**  
+_von Konrad Fischer_
+
+## Wärmedämmung / Wärmedämmverbundsystem / WDVS ja oder nein?
 
 Oder: 
 

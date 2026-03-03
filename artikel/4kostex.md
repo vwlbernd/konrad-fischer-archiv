@@ -1,13 +1,20 @@
 ---
+nav: "20bausto.md"
 title: "Die kostenexplodierende Planungsqualität im öffentlichen Bauen"
 description: "Bedingt durch planungsbehindernde Vergabe- und Förderpraktiken der öffentlichen Hand entstehen dem Steuerzahler jährlich riesige Verluste."
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/4kostex.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Behörden](4behoerd.md)  
+# Die kostenexplodierende Planungsqualität im öffentlichen Bauen
+**Bedingt durch planungsbehindernde Vergabe- und Förderpraktiken der öffentlichen Hand entstehen dem Steuerzahler jährlich riesige Verluste.**  
+_von Konrad Fischer_
 
 Konrad Fischer 
 
-# Die kostenexplodierende Planungsqualität im öffentlichen Bauen 
+
 
 Planungspfusch und HOAI-Verbrechen als Handlungsprinzip der öffentlichen Hand 
 

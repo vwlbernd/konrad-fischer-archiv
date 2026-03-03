@@ -1,19 +1,26 @@
 ---
-title: "Der Stahlbeton und der Zement - Problembeschreibungen 4"
-description: "Macht Betonieren krank? Und wie lange halten Stahlbetonfassaden?"
-author: " "
+nav: "20bausto.md"
+title: "Macht Betonieren krank? Folgen moderner Bauweise"
+description: "Eine kritische Untersuchung der gesundheitlichen Auswirkungen von Betonbauten und der oft überschätzten Lebensdauer von Stahlbetonfassaden im Vergleich zu traditionellen Baustoffen."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2beton04.htm"
+updated: ""
 ---
 
-# Der Stahlbeton und der Zement 4
+[🠔 Zur Übersicht: Stahlbeton](2beton.md)  
+# Macht Betonieren krank? Folgen moderner Bauweise
+**Eine kritische Untersuchung der gesundheitlichen Auswirkungen von Betonbauten und der oft überschätzten Lebensdauer von Stahlbetonfassaden im Vergleich zu traditionellen Baustoffen.**  
+_von Konrad Fischer_
+
+## Der Stahlbeton und der Zement 4
 
 Inhaltsverzeichnis der Betonkapitel 
 
-[1: Stahlbetonbau - Spitzenarchitektur?](2beton.md) [2: Betonschäden durch schlechte Baustoffqualität](2beton02.md) [3: Baustoff und Baupfusch für eine Sklavenhaltergesellschaft?](2beton03.md) **4: Macht Betonieren krank und sichert Arbeitsplätze?** [5: Betonbau - eine Sakralbauweise?](2beton05.md) [6: Betonsanierung + Zementberatung, zerstörungsarm untersuchen, Tiefgarage, Nitrat + Chlorid](2beton06.md) [7: Balkonien](2beton07.md) [8: Sichtbeton!](2beton08.md) [9: Betonbauschäden](2beton09.md) [10: Betonbrücken](2beton10.md) [11: Beton-Architekturphantasien](2beton11.md) [12: Materialdetails und Materialheimtücke](2beton12.md) [13: Stahlbeton und Krebsalarm](2beton13.md) [14: Stahlbeton-Merksätze](2beton14.md) [15: Einiges zum Zement](2beton15.md) [16: Zement - ein unreiner Baustoff](2beton16.md) 
+
 
 ---
 
-# 4 Macht Betonieren krank und sichert Arbeitsplätze?
+## 4 Macht Betonieren krank und sichert Arbeitsplätze?
 
 Auch aus gesundheitlichen Aspekten ist die Stahlbetonbauweise nicht gerade verbraucherfreundlich, selbst wenn es "nur" Arbeiter betrifft:
 

@@ -1,16 +1,38 @@
 ---
-title: "Burgen & Schlösser"
-description: "Burgen, Schlösser und Museen weltweit/Forts, Castels and Museums worldwide, Historische Immobilien, Auktionshäuser online."
-author: " "
+nav: "index.md, 8schloss.md"
+title: "Eine Reise zu Kunst, Baudenkmalen, Museen und Antiquitäten"
+description: "Eine Reise zu Kunst, Baudenkmalen, Museen und Antiquitäten – Links und Tips für Burgenfreunde, Schlösser und Museen weltweit, historische Immobilien und Auktionshäuser."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/8reise.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Burgen & Schlösser kaufen](8schloss.md)  
+# Eine Reise zu Kunst, Baudenkmalen, Museen und Antiquitäten
+**Eine Reise zu Kunst, Baudenkmalen, Museen und Antiquitäten – Links und Tips für Burgenfreunde, Schlösser und Museen weltweit, historische Immobilien und Auktionshäuser.**  
+_von Konrad Fischer_
 
 **Eine Reise zu Kunst, Baudenkmalen, Museen und Antiquitäten 
 A journey to the past 1** 
 
 (Mit einigen meiner Reiseskizzen/with some of my sketches) 
 
-Seiten: **Links und Tips für Burgenfreunde/Castles and Forts 1** [2](8reise02.md) [3](8reise03.md) [4](8reise04.md) [5](8reise05.md) [6](8reise06.md) [7](8reise07.md) [8](8reise08.md) [9](8reise09.md) <a id="gast im"></a>[Gast im Schloß: 10](8reise10.md) <a id="schöne links"></a>[Mittelalter und andere historische Epochen: 11](8reise11.md) <a id="schlösser zu verkaufen"></a>[Schlösser zu verkaufen/Castles for Sale: 12](8reise12.md) <a id="kunst"></a><a id="kunsthandel/antics/antiques/antiquitäten"></a>[Kunsthandel/Antiquitäten/Antics/Antiques/Fine Art: 13](8reise13.md)
+> [!abstract]+ Kapitelübersicht: Burgen Links 1  
+> 1. **Eine Reise zu Kunst, Baudenkmalen, Museen und Antiquitäten**
+> 2. [Links und Tips für Burgenfreunde/Castles and Forts 2](8reise02.md)
+> 3. [Links und Tips für Burgenfreunde/Castles and Forts 3](8reise03.md)
+> 4. [Links und Tips für Burgenfreunde/Castles and Forts 4](8reise04.md)
+> 5. [Links und Tips für Burgenfreunde/Castles and Forts 5](8reise05.md)
+> 6. [Links und Tips für Burgenfreunde/Castles and Forts 6](8reise06.md)
+> 7. [Links und Tips für Burgenfreunde/Castles and Forts 7](8reise07.md)
+> 8. [Burgen, Schlösser und Anderes - Linksammlung 8](8reise08.md)
+> 9. [Burgen, Schlösser und Anderes - Linksammlung 9](8reise09.md)
+> 10. [Gast im Schloss/Castle Hotels + Professioneller Burgbetrieb](8reise10.md)
+> 11. [Schöne Links rund ums Mittelalter und andere historischen Epochen / Historic sites](8reise11.md)
+> 12. [Burgen, Schlösser Historische Immobilien zu verkaufen, Castles / Historic Houses / Palace for sale / Literatur](8reise12.md)
+> 13. [Eine Reise zu Kunst, Baudenkmalen, Museen und Antiquitäten](8reise13.md)
+
+
 
 [Konrad Fischer](1refernz.md)
 

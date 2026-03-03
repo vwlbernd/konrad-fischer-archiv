@@ -1,28 +1,22 @@
 ---
-title: "6\. Geschichte/Gesellschaft/Kultur/Wissenschaft allgemein 3"
-description: "Gute, kluge, kontroverse, freche, unbekannte Literatur, Rezensionen, Verlage, Quellen, Bücher, Zeitschriften, Zitate, Links 17."
-author: " "
+nav: "index.md, 8infober.md"
+title: "6. Geschichte/Gesellschaft/Kultur/Wissenschaft allgemein 3"
+description: "Bücher und Zeitschriften, Rezensionen, Aufsätze, Internetlinks, Verlagskontakte, Literaturrecherche- und bestellung, Quellensammlungen 17"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/8buch17.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Literatur Altbau I](8buch.md)  
+# 6. Geschichte/Gesellschaft/Kultur/Wissenschaft allgemein 3
+**Bücher und Zeitschriften, Rezensionen, Aufsätze, Internetlinks, Verlagskontakte, Literaturrecherche- und bestellung, Quellensammlungen 17**  
+_von Konrad Fischer_
 
  Bücher und Zeitschriften, Rezensionen, Aufsätze, Internetlinks, Verlagskontakte, Literaturrecherche- und bestellung, Quellensammlungen 17 
 
 (Vorsicht, nicht immer absolut zeitgeistig (oder doch schon?)!) 
 
-**Inhalt** : [1.Bücher/Zeitschriften/Informationsreihen/Internetlinks](8buch.md#bã¼cher/zeitschriften/informationsreihen/internetlinks) 
-[2. Denkmalpflege/Altbausanierung 1](8buch.md#denkmalpflege/altbausanierung) [2](8buch02.md) [3](8buch03.md) [4](8buch04.md) [5](8buch05.md) [6](8buch06.md) [7](8buch07.md) 
-[3. Bauwesen allgemein](8buch08.md) 
-[4. Burg/Schloß/Wehr- und Waffentechnik](8buch09.md) 
-[5. Kirche/Kloster/Theologie/Schönes und Unbequemes 1](8buch10.md) [2](8buch11.md) [3](8buch12.md) [4](8buch13.md) [5](8buch14.md) 
-[6. Geschichte/Gesellschaft/Korruption/Mafia/Geschichtsfälschung/Kultur/Wissenschaft allgemein 1](8buch15.md) [2](8buch16.md) **3** [4](8buch18.md) [5](8buch19.md) [6](8buch20.md) [7](8buch21.md) 
-[7. Umwelt/Klima/Energie 1](8buch22.md) [2](8buch23.md) 
-[8. Literaturrecherche und -bestellung](8buch24.md) 
-[9. Preiswerte Bücher/Modernes Antiquariat/Suche nach antiquarischen Büchern/Eigene Bücher verkaufen](8buch24.md#preiswerte) 
-[10. Hungrig nach schönen Bildern?](8buch24.md#hungrig) 
-[11. Ausführliche Rezensionen von Konrad Fischer und Gastautoren](8buch24.md#ausfã¼hrliche) 
-[12. Aufsätze zur Denkmalpflege](8buch25.md) 
-[13. Verlagskontakte](8buch25.md#verlagskontakte) 
-[14. Quellen/Links zu historischen Themen / Altertumswissenschaft / Theologie / Philosophie / Mythologie](8buch25.md#quellen/links) 
+
 
 Christopher Clark: **"The Sleepwalkers. How Europe Went to War in 1914"** Penguin Books, London 2012, 697 Seiten 
 Ein Australier ist ausgezogen, um mit "Die Schlafwandler" die vom selbsthaßverzehrten ersonnen Geschichtslügen des Fritz Fischer zu entlarven. Aha, nicht Deutschlands Großmannssucht und Welteroberungsfanatismus hat den ersten Weltkrieg erzwungen, sondern eine absichtsvolle Politik seiner Nachbarn und ewigen Konkurrenten, heute Freunde genannt: Frankreich, Rußland, England, Serbien - auch Amerika. Diese trieben und unterstützten jede Finte und jede Aktion, die ihnen Suprematie gegen Deutschland erlaubte, selbstverständlich und wie von Schlafwandelei - darauf spielt der Titel an - getrieben - hinein in den Vernichtungskrieg, den Kladderadatsch, wie August Bebel 1911 weissagte. So entstand nach Meinung Clarks wie von selbst die Einkreisung Deutschlands und mit Hilfe der mitwissend-beteiligten serbischen Regierung das Attentat auf den Erzherzog Franz Ferdinand in Sarajewo, das den casus belli liefert, auf den unsere Nachbarn mit entsicherter Waffe gierten. So wie ein Engländer namens David Irving und ein Russe unter dem Pseudonym Viktor Suworow den Blick auf den zweiten Weltkrieg revisionierte und Deutschland aus der alleinschuldigen Täterrolle herausbugsierte, jetzt also der Australier Christopher Clark. Neuere Forschungen gehen freilich noch weiter und sehen eher absichtsvolle Planung auf dem Weg zum Weltkrieg als Schlafwandlerei. Wann werden die deutschen Geschichtsforscher, unterwürfig der Stimme ihrer Herren gehorchend und auf eigener Schleimspur im Staube kriechend, diesen Vorsprung unerschrockener, wagemutiger und quellenreicher - nicht quellenfälschender Couleur der Auslandswissenschaft einholen? Ich tippe mal auf: Nie. 

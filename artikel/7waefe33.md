@@ -1,20 +1,32 @@
 ---
-title: "Widersprüche im Wärmeschutz 1"
-description: "Energiesparen - aber richtig! Prof. Meiers kontroverse Beiträge zum Dämmwahn 33."
-author: " "
+nav: "7epass.md"
+title: "Widersprüche im Wärmeschutz - Die allgegenwärtige k/U-Wert Euphorie 1"
+description: "Die Umsetzung des Wärmeschutzes nach der EnEV wird hinsichtlich der Dämmstoffdicken immer aufwendiger und schwieriger. Eine bauphysikalische und wirtschaftliche Ausgewogenheit wird bezweifelt."
+author: "Claus Meier"
 original_url: "www.konrad-fischer-info.de/7waefe33.htm"
+updated: "01.04.2000"
 ---
 
-# Prof. Meiers kontroverse Beiträge zum Energiesparen 33
+[🠔 Zur Übersicht: Das malträtierte Haus](7epass.md)  
+# Widersprüche im Wärmeschutz - Die allgegenwärtige k/U-Wert Euphorie 1
+**Die Umsetzung des Wärmeschutzes nach der EnEV wird hinsichtlich der Dämmstoffdicken immer aufwendiger und schwieriger. Eine bauphysikalische und wirtschaftliche Ausgewogenheit wird bezweifelt.**  
+_von Claus Meier • aktualisiert 01.04.2000_
 
-[Das malträtierte Haus - zum Dämmschwindel und Energiepaß-Betrug](7epass.md) 
-[Contra EnEV](7waefe.md) 
-[Wärme- und Feuchteschutz beim Altbau - Theorie und Wirklichkeit 1](7waefe02.md) [2](7waefe03.md) [3](7waefe04.md) [4](7waefe05.md) [5](7waefe06.md) [6](7waefe07.md) [7](7waefe08.md) [ 8](7waefe09.md) 
-[Verbundsysteme für die Fassade-kritisch betrachtet 1](7waefe10.md) [2](7waefe11.md) 
-[Wohnungsbaubestand und Wärmeschutz 1](7waefe12.md) [2](7waefe13.md) [3](7waefe14.md) [4](7waefe15.md) [5](7waefe16.md) [6](7waefe17.md) [7](7waefe18.md) 
-[Rechtliche Randbedingungen des Gebäudewärmeschutzes 1](7waefe19.md) [2](7waefe20.md) [3](7waefe21.md) 
-[Niedrigenergie- und Passivhäuser im Kreuzfeuer/Contra Passivhaus 1](7waefe22.md) [2](7waefe23.md) [3](7waefe24.md) [4](7waefe25.md) [5](7waefe26.md) [6](7waefe27.md) [7](7waefe28.md) [8](7waefe29.md) [9](7waefe30.md) [10](7waefe31.md) [11](7waefe32.md) 
-**Widersprüche im Wärmeschutz - Die allgegenwärtige k/U-Wert Euphorie 1** [2](7waefe34.md) 
+## Prof. Meiers kontroverse Beiträge zum Energiesparen 33
+
+> [!abstract]+ Kapitelübersicht: Widersprüche 1  
+> 1. **Widersprüche im Wärmeschutz - Die allgegenwärtige k/U-Wert Euphorie 1**
+> 2. [Widersprüche im Wärmeschutz 2](7waefe34.md)
+> 3. [Die Verführung zum Mißbrauch der Begriffe](7misbeg.md)
+> 4. [Widerwärtige Aktivitäten: Gebäudewärmeschutz in der Krise](7widakt.md)
+> 5. [Anwendung und Grenzen der Fourierschen Wärmeleitungsgleichung](7fourier.md)
+> 6. [WDVS: Ein Konflikt zwischen Aesthetik, Energiesparen und Technik](2bolten.md)
+> 7. [Norbert Deul, Vorstand des Hausgeld-Vergleich e.V.: Auswirkungen von energetischen und lüftungstechnischen Verbesserungen bei Bestandswohnanlagen auf die Wohnnebenkosten](deul.md)
+> 8. [Zur Berücksichtigung der Speicherung beim k-Wert [heute U-Wert] mit dem keff-Wert [heute Ueff-Wert]](7keff.md)
+> 9. [Polystyrol ist für die Hausisolation nicht geeignet](7poly.md)
+> 10. [Das Fertighaus - Schlüsselfertig bauen ohne Probleme, Reue, Fluch oder Segen?](2fertig.md)
+
+
 
 Prof. Dr.-Ing. habil. Claus Meier 
 Architekt SRL 

@@ -1,32 +1,49 @@
 ---
-title: "1.Bücher/Zeitschriften/Informationsreihen/Internetlinks,2 ..."
+nav: "index.md, 8infober.md"
+title: "Fachliteratur und Quellensammlungen 1"
 description: "Gute, kluge, kontroverse, freche, unbekannte Literatur, Rezensionen, Verlage, Quellen, Bücher, Zeitschriften, Zitate, Links 1./Denkmalpflege+Altbausanierung 1"
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/8buch.htm"
+updated: ""
 ---
 
 
 
+[🠔 Zur Übersicht: Quellen](8infober.md)  
 # Fachliteratur und Quellensammlungen 1
+**Gute, kluge, kontroverse, freche, unbekannte Literatur, Rezensionen, Verlage, Quellen, Bücher, Zeitschriften, Zitate, Links 1./Denkmalpflege+Altbausanierung 1**  
+_von Konrad Fischer_
 
-(Vorsicht, nicht immer absolut zeitgeistig (oder doch schon?)!) 
-**Inhalt** 
-[1. Bücher/Zeitschriften/Informationsreihen/Internetlinks](8buch.md#bã¼cher/zeitschriften/informationsreihen/internetlinks) 
-[2. Denkmalpflege/Altbausanierung 1](8buch.md#denkmalpflege/altbausanierung) [2](8buch02.md) [3](8buch03.md) [4](8buch04.md) [5](8buch05.md) [6](8buch06.md) [7](8buch07.md) 
-<a id="bauwesen allgemein"></a>[3. Bauwesen allgemein](8buch08.md) 
-<a id="burg/schloß"></a>[4. Burg/Schloß/Wehr- und Waffentechnik](8buch09.md) 
-<a id="kirche/kloster"></a>[5. Kirche/Kloster/Theologie 1](8buch10.md) [2](8buch11.md) [3](8buch12.md) [4](8buch13.md) [5](8buch14.md) 
-<a id="geschichte/kultur/wissenschaft allgemein"></a>[6. Geschichte/Gesellschaft/Kultur/Wissenschaft allgemein 1](8buch15.md) [2](8buch16.md) [3](8buch17.md) [4](8buch18.md) [5](8buch19.md) [6](8buch20.md) [7](8buch21.md) 
-<a id="umwelt/energie"></a>[7. Umwelt/Klima/Energie 1](8buch22.md) [2](8buch23.md) 
-<a id="literaturrecherche und -bestellung"></a>[8. Literaturrecherche und -bestellung](8buch24.md) 
-<a id="preiswerte"></a>[9. Preiswerte Bücher/Modernes Antiquariat/Suche nach antiquarischen Büchern/Eigene Bücher verkaufen](8buch24.md#preiswerte) 
-<a id="hungrig"></a>[10. Hungrig nach schönen Bildern?](8buch24.md#hungrig) 
-<a id="ausführliche"></a>[11. Ausführliche Rezensionen von Konrad Fischer und Gastautoren](8buch24.md#ausfã¼hrliche) 
-<a id="aufsätze zur"></a>[12. Aufsätze zur Denkmalpflege](8buch25.md) 
-<a id="verlagskontakte"></a>[13. Verlagskontakte](8buch25.md#verlagskontakte) 
-<a id="quellen/links"></a>[14. Informative / Kontroverse Quellen/Links zu historischen Themen / Altertumswissenschaft / Archäologie / 
-Theologie / Philosophie / Mythologie / Astronautengötter / Antike Hochtechnologie / Dan Brown, Da Vinci, 
-Religion - Mysterien, Geheimnisse, Verschwörungen, Theorien, Fiktionen, Wahrheitssuche etc.](8buch25.md#quellen/links) 
+
+
+> [!abstract]+ Kapitelübersicht: Literatur Altbau I  
+> 1. **Fachliteratur und Quellensammlungen 1**
+> 2. [2. Denkmalpflege/Altbausanierung 2](8buch02.md)
+> 3. [2. Denkmalpflege/Altbausanierung 3](8buch03.md)
+> 4. [2. Denkmalpflege/Altbausanierung 4: Denkmalschutz in Österreich, Restaurierungsberichte, Treppenbau, Plumpsklo/Abort/Toiletten/WC](8buch04.md)
+> 5. [2\. Denkmalpflege/Altbausanierung 5](8buch05.md)
+> 6. [2. Denkmalpflege/Altbausanierung 6](8buch06.md)
+> 7. [2. Denkmalpflege/Altbausanierung 7](8buch07.md)
+> 8. [3. Bauwesen allgemein](8buch08.md)
+> 9. [4. Burg/Schloß/Wehr- und Waffentechnik](8buch09.md)
+> 10. [5. Kirche/Kloster/Theologie/Schönes und Unbequemes 1](8buch10.md)
+> 11. [Literatur/Bücher 11 - 5. Kirche / Kloster / Theologie 2](8buch11.md)
+> 12. [5. Kirche/Kloster/Theologie 3](8buch12.md)
+> 13. [5. Kirche/Kloster/Theologie 4](8buch13.md)
+> 14. [5. Kirche/Kloster/Theologie 5](8buch14.md)
+> 15. [6. Geschichte / Gesellschaft / Korruption / Mafia / Geschichtsfälschung / Kultur / Wissenschaft allgemein 1](8buch15.md)
+> 16. [6. Geschichte / Gesellschaft / Kultur / Wissenschaft allgemein 2](8buch16.md)
+> 17. [6. Geschichte/Gesellschaft/Kultur/Wissenschaft allgemein 3](8buch17.md)
+> 18. [6. Geschichte/Gesellschaft/Kultur/Wissenschaft allgemein 4](8buch18.md)
+> 19. [6. Geschichte/Gesellschaft/Kultur/Wissenschaft allgemein 5](8buch19.md)
+> 20. [6. Geschichte / Gesellschaft / Korruption / Mafia / Geschichtsfälschung / Kultur / Wissenschaft allgemein 6](8buch20.md)
+> 21. [6. Geschichte/Gesellschaft/Kultur/Wissenschaft allgemein 7](8buch21.md)
+> 22. [7. Umwelt/Klima/Energie 1](8buch22.md)
+> 23. [7. Umwelt/Klima/Energie 2: Kontra Klimakatastrophe - Václav Klaus, Edgar Gärtner, Dirk Maxeiner, Dr. Wolfgang Thüne, Dr. Helmut Böttiger u.a.](8buch23.md)
+> 24. [Bücher und Zeitschriften, Rezensionen, Aufsätze, Internetlinks, Verlagskontakte, Literaturrecherche- und bestellung, Quellensammlungen 24](8buch24.md)
+> 25. [Aufsätze zur Denkmalpflege](8buch25.md)
+
+
 
 _"Wahrheit erkennen, Schönheit lieben, Gutes wollen, das Beste tun"_ 
 Moses Mendelssohn (1728-86) 

@@ -1,21 +1,42 @@
 ---
-title: "Schwindelei? Aufsteigende Feuchte, nasse Wände + Mauertrockenlegung 1"
-description: "Zum Betrug mit: Aufsteigende Feuchte, Feuchtigkeit, Mauerfeuchte, Bauwerkstrockenlegung + Trockenlegung feuchter Keller, nachträgliche Horizontalabdichtung - Einführung zur Problemlage"
-author: " "
+nav: "20bausto.md, 21bausto.md"
+title: "Schwindelei Aufsteigende Feuchte"
+description: "Warum Horizontalsperre und Sanierputz versagen und welche Methoden wirklich helfen."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2aufstfe.htm"
+updated: ""
 ---
 
-# Aufsteigende Feuchte, nasse Wände, salzige Fassade, Feuchtigkeit im Keller - Ein Ratgeber
+[🠔 Zur Übersicht: Feuchte Kellerwände](21bausto.md)  
+# Schwindelei Aufsteigende Feuchte
+**Warum Horizontalsperre und Sanierputz versagen und welche Methoden wirklich helfen.**  
+_von Konrad Fischer_
 
-## Mauertrockenlegung: Nasse Wände & Fundament-Mauer-Feuchtigkeit trockenlegen - aber wie?
+[🠔 Zur Übersicht: Feuchte Kellerwände](21bausto.md)  
 
-Tipps zur Sanierung von Nässe, Feuchtigkeit, Salzausblühung mit Mauer-Salpeter, Kondensat & Mauerfeuchte 
-Sanierputz & Horizontalsperre im Keller-Mauerwerk, Kellertrocknung & Horizontalisolierung/Horizontalabdichtung und Injektion? 
-Was hilft wirklich? Welche Kosten sind sinnvoll? 
+**Warum Horizontalsperre und Sanierputz versagen und welche Methoden wirklich helfen.**  
+_von Konrad Fischer_
 
-### Kapitel 1: Einführung in die Problemlage
+> [!abstract]+ Kapitelübersicht: Aufsteigend Feuchte?  
+> 1. **Schwindelei Aufsteigende Feuchte**
+> 2. [Ein schrecklicher „Trockenlegungsfall“](2auffe02.md)
+> 3. [Feuchtequellen](2auffe03.md)
+> 4. [Ziegel-Mauerwerk und Aufsteigende Feuchte](2auffe04.md)
+> 5. [Naturstein-Mauerwerk und Aufsteigende Feuchte](2auffe05.md)
+> 6. [Nachträgliche Horizontalabdichtung und Mauerwerksversalzung](2auffe06.md)
+> 7. [Kondensat und Hygroskopie im naßkalten Keller und sonstwo](2auffe07.md)
+> 8. [Trockenlegung oder Bauwerksschäden durch Horizontalisolierung?](2auffe08.md)
+> 9. [Trockenlegungsschwindel: Marketingtricks und das Kleingedruckte](2auffe09.md)
+> 10. [Elektroosmose und die typischen Trockenleger-Ausreden bei Mißerfolg](2auffe10.md)
+> 11. [Trockenlegungsexperten? - Planer und Gutachter](2auffe11.md)
+> 12. [Trockenlegung - Industrieberatung oder der gesunde Menschenverstand?](2auffe12.md)
+> 13. [Mauertrockenlegung - Die klassischen Fehler](2auffe13.md)
+> 14. [Nasse Wände sanieren - Was sagt die Wissenschaft?](2auffe14.md)
+> 15. [Mauerfeuchte woher? Zum historischen und wissenschaftlichen Hintergrund](2auffe15.md)
 
-[2 - Ein schrecklicher "Trockenlegungsfall"](2auffe02.md) [3 - Feuchtequellen](2auffe03.md) [4 - Ziegel-Mauerwerk und Aufsteigende Feuchte](2auffe04.md) [5 - Naturstein-Mauerwerk und Aufsteigende Feuchte](2auffe05.md) [6 - Nachträgliche Horizontalabdichtung historischen Mauerwerks? - Mauerwerksversalzung / Feuchte Wände - warum?](2auffe06.md) [7 - Kondensat und Regen](2auffe07.md) [8 - Trockenlegung oder Bauwerksschäden durch Horizontalisolierung?](2auffe08.md) [9 - Trockenlegungsschwindel - die Marketingtricks](2auffe09.md) [10 - Elektroosmose und die typischen Trockenleger-Ausreden bei Mißerfolg](2auffe10.md) [11 - Trockenlegungsexperten? - Planer und Gutachter](2auffe11.md) [12 - Trockenlegung - Industrieberatung oder der gesunde Menschenverstand? Probleme und Lösungen](2auffe12.md) [13 - Mauertrockenlegung - Die klassischen Fehler](2auffe13.md) [14 - Nasse Wände sanieren - Was sagt die Wissenschaft?](2auffe14.md) [15 - Mauerfeuchte woher? Zum historischen und wissenschaftlichen Hintergrund](2auffe15.md) 
+
+
+## Einführung in die Problemlage
 
 ### Sie machen einfach "SCHNIPP" und weg ist Ihr Feuchteproblem!
 
@@ -88,7 +109,7 @@ Wie übrigens auch bei fast allen anderen "modernen" Bauerfindungen. Und leicht 
 <center markdown>
 
 Konrad Fischer: Fassaden energetisch richtig und kostensparend sanieren und trockenlegen 1 
-[![Fassaden energetisch richtig sanieren](../medien/YOU04.JPG)](http://youtu.be/OpbEO8kV-PU) 
+[![Fassaden energetisch richtig sanieren](../medien/YOU04.JPG)](https://youtu.be/OpbEO8kV-PU) 
 [Teil 2](http://www.youtube.com/watch?v=Y1NSxAW15Cc) [Teil 3](http://www.youtube.com/watch?v=RAT7VzBo8k0) [Teil 4](http://www.youtube.com/watch?v=6TBII25iVQk) [Teil 5](http://www.youtube.com/watch?v=Kb0C4KiZvVA) 
 
 </center>

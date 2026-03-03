@@ -1,9 +1,16 @@
 ---
-title: "Old House + Historic Monument - Restoration, Preservation, Repair ..."
-description: "Experience, Tips, tricks and Advice for Landlords of Ancient Buildings, Cultural Heritage and Historic Monuments - Simplified Version for Translations."
-author: " "
+nav: "index.md"
+title: "Restoration & Conservation of Historic Monuments: Tips, Tricks, Advice"
+description: "Advice, database and tips for the owners, landlords and tenants of the historic buildings. Common Mistakes + What Really Works."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/english2.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: English: Old House Repair](english.md)  
+# Restoration & Conservation of Historic Monuments: Tips, Tricks, Advice
+**Advice, database and tips for the owners, landlords and tenants of the historic buildings. Common Mistakes + What Really Works.**  
+_von Konrad Fischer_
 
  _Restoration of the old house +_ 🇬🇧🇺🇸 _Conservation of the historic Monument_ 
 Architecture Magazine for Renovation, Restoration and Repair 
@@ -160,7 +167,8 @@ Baroque timbered framework-house before and after repair with traditional and ec
 
 <center markdown>
 
-[Kloster Reichenstein](http://www.kloster-reichenstein.de) - Fundraising-Video 
+[Kloster Reichenstein](http://www.kloster-reichenstein.de) - Fundraising-Video  
+[![YouTube Video Vorschau](../medien/f6dYKbW1VaA.jpg)](https://www.youtube.com/watch?v=f6dYKbW1VaA)
 
 </center>
 

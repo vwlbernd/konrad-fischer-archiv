@@ -1,9 +1,16 @@
 ---
-title: "Schaden: Sanierputz auf versalztem Stallgewölbe und nassen Mauerwerk 7"
+nav: "20bausto.md, 21bausto.md"
+title: "Schadsalze - Nitrate (Mauersalpeter)"
 description: "Gutachten zu Sanierputz-Schaden 2: Schadsalze - Nitrate (Mauersalpeter)"
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2sani7.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Sanierputz-Schwindel](2sanipuz.md)  
+# Schadsalze - Nitrate (Mauersalpeter)
+**Gutachten zu Sanierputz-Schaden 2: Schadsalze - Nitrate (Mauersalpeter)**  
+_von Konrad Fischer_
 
 ### Ein Bauschaden duch Sanierputzversagen auf feuchtem und salzigem Untergrund - Gutachtenauszug 2
 

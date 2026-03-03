@@ -1,9 +1,16 @@
 ---
+nav: "index.md, 8schloss.md"
 title: "Burgen, Schlösser und Anderes - Linksammlung 9"
 description: "Links und Tips für Burgenfreunde/Castles and Forts 9."
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/8reise09.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Burgen Links 1](8reise.md)  
+# Burgen, Schlösser und Anderes - Linksammlung 9
+**Links und Tips für Burgenfreunde/Castles and Forts 9.**  
+_von Konrad Fischer_
 
 **Empfehlung:**[Forts of Rajasthan](http://www.rajgovt.org/forts.htm) <>[Reisen zu den faszinierenden Burgen und Palästen Rajahstans - mit deutschsprechender Reiseleitung!](http://www.palaces-tours.com/german.html)
 

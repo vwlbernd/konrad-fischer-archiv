@@ -1,9 +1,21 @@
 ---
+nav: "7thuene1.md"
 title: "Glaubensbekenntnis Global Warming: Ökologie+Ökonomie kein Widerspruch?"
 description: "Global Warming: Mit Abschalten von Standby das Klima retten?"
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/7argus2.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Klima](7thuene1.md)  
+# Glaubensbekenntnis Global Warming: Ökologie+Ökonomie kein Widerspruch?
+**Global Warming: Mit Abschalten von Standby das Klima retten?**  
+_von Konrad Fischer_
+
+> [!abstract]+ Kapitelübersicht: Glaubensbekenntnis  
+> 1. **Glaubensbekenntnis Global Warming: Ökologie+Ökonomie kein Widerspruch?**
+> 2. [Klimakatastrophe - Warum gerade CO2?](7boet3.md)
+> 3. [Das aufgeblasene Atommüll-Problem/Ein Popanz der Ölindustrie](7boet4.md)
 
 Das Glaubensbekenntnis: Ökologie und Ökonomie müssen keine Gegensätze sein
 

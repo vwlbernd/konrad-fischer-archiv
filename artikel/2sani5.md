@@ -1,9 +1,16 @@
 ---
-title: "Betrug: Sanierputz auf feuchtem Mauerwerk - Kann er heilen? 5"
+nav: "20bausto.md, 21bausto.md"
+title: "Gewährleistung, abplatzende Sanierputzschollen, Landkarten-Putzrisse und Ettringgittreiben / Treibmineralien"
 description: "Gewährleistung, abplatzende Sanierputzschollen, Landkarten-Putzrisse und Ettringgittreiben / Treibmineralien - Sanierputz als Remedium/Heilmittel am schadsalzbelastetem Fundament?"
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2sani5.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Sanierputz-Schwindel](2sanipuz.md)  
+# Gewährleistung, abplatzende Sanierputzschollen, Landkarten-Putzrisse und Ettringgittreiben / Treibmineralien
+**Gewährleistung, abplatzende Sanierputzschollen, Landkarten-Putzrisse und Ettringgittreiben / Treibmineralien - Sanierputz als Remedium/Heilmittel am schadsalzbelastetem Fundament?**  
+_von Konrad Fischer_
 
 ### Sanierputz - Was kann er, was nicht? 5
 

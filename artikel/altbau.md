@@ -1,11 +1,26 @@
 ---
-title: "Die Altbausanierung - wie sie garantiert mißlingt"
-description: "Den Altbau und das Baudenkmal renovieren, sanieren, instandsetzen, umbauen, modernisieren, revitalisieren - aber bitte nur Pfusch!"
-author: " "
+nav: "index.md"
+title: "Die Sausanierung – Das letzte Abenteuer: Wie die Altbausanierung garantiert misslingt"
+description: "Du willst den größten Pfusch beim Sanieren von Altbau und Baudenkmal für das meiste Geld? Dieser Text zeigt dir, wie deine Altbausanierung garantiert misslingt und du Kosten maximierst."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/altbau.htm"
+updated: ""
 ---
 
  
+[🠔 Zur Übersicht: Startseite](index.md)  
+# Die Sausanierung – Das letzte Abenteuer: Wie die Altbausanierung garantiert misslingt
+**Du willst den größten Pfusch beim Sanieren von Altbau und Baudenkmal für das meiste Geld? Dieser Text zeigt dir, wie deine Altbausanierung garantiert misslingt und du Kosten maximierst.**  
+_von Konrad Fischer_
+
+> [!abstract]+ Kapitelübersicht: Pfusch-Anleitung (Satire)  
+> 1. **Die Sausanierung – Das letzte Abenteuer: Wie die Altbausanierung garantiert misslingt**
+> 2. [Ratgeber für abrißwillige Denkmalbesitzer und andere Seltsamkeiten](8ks1.md)
+> 3. [Die Seite mit den wirklich spannenden Bau-Umfragen](umfrage.md)
+> 4. [Energiekeinsparung im Altbau 150 % - Aber sicher! 1. Warum Energiekeinsparen?](energie.md)
+> 5. [Das ökologische Bauen und die Baubiologie - eine kritischsatirische Abrechnung 1](oekobau.md)
+> 6. [Das Antidiskriminierungs-Bundessicherheitshauptamt](8philipp.md)
+
 **Vorsicht! 
 KEIN Ratgeber!** 
 
@@ -69,11 +84,11 @@ Halt, so könnte es gehen und geht es so oft, aber es geht vielleicht noch besse
 
 <center markdown>
 
-[![Fassaden energetisch richtig sanieren](../medien/YOU04.JPG)](http://youtu.be/OpbEO8kV-PU) 
+[![Fassaden energetisch richtig sanieren](../medien/YOU04.JPG)](https://youtu.be/OpbEO8kV-PU) 
 [Teil 2](http://www.youtube.com/watch?v=Y1NSxAW15Cc) [Teil 3](http://www.youtube.com/watch?v=RAT7VzBo8k0) [Teil 4](http://www.youtube.com/watch?v=6TBII25iVQk) [Teil 5](http://www.youtube.com/watch?v=Kb0C4KiZvVA) 
 
 und neu: 
-[![Die kostengünstige, kostensichere & denkmalgerechte Sanierung - Vortrag Münster 8.10.2013 Informationsveranstaltung Ministerium Bauen, Wohnen, Stadtentwicklung, Verkehr Nordrhein-Westfalen & NRW.BANK für Untere Denkmalbehörden, Bewilligungsbehörden](../medien/YOU79.JPG)](http://youtu.be/CgVET6gLD7Q) 
+[![Die kostengünstige, kostensichere & denkmalgerechte Sanierung - Vortrag Münster 8.10.2013 Informationsveranstaltung Ministerium Bauen, Wohnen, Stadtentwicklung, Verkehr Nordrhein-Westfalen & NRW.BANK für Untere Denkmalbehörden, Bewilligungsbehörden](../medien/YOU79.JPG)](https://youtu.be/CgVET6gLD7Q) 
 
 </center>
 

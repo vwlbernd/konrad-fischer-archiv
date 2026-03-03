@@ -1,13 +1,25 @@
 ---
-title: "Die Ausschreibung von Planungsleistungen gem. Verdingungsordnung für freiberufliche Leistungen VOF zur Unterschreitung der HOAI-Mindestsätze 1"
-description: "Zur Vergabeproblematik im Bestand und die Folgen unrechtmäßiger Mindestsatzunterschreitung für den Bauherren und den Anbieter."
-author: " "
+nav: "11planme.md, 9pbs.md"
+title: "Die Ausschreibung von Planungsleistungen bei der Altbausanierung, Denkmalpflege und dem Denkmalschutz, die Unterschreitung der Mindestsätze sowie die Bedeutung des Mindestpreischarakters gem. HOAI"
+description: "Analyse der Vergabeproblematik bei Planungsleistungen im Altbau und Denkmalpflege, inklusive der Folgen unrechtmäßiger HOAI-Mindestsatzunterschreitungen für Bauherren und Anbieter."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/10vof.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Planung & Kosten](9pbs.md)  
+# Die Ausschreibung von Planungsleistungen bei der Altbausanierung, Denkmalpflege und dem Denkmalschutz, die Unterschreitung der Mindestsätze sowie die Bedeutung des Mindestpreischarakters gem. HOAI
+**Analyse der Vergabeproblematik bei Planungsleistungen im Altbau und Denkmalpflege, inklusive der Folgen unrechtmäßiger HOAI-Mindestsatzunterschreitungen für Bauherren und Anbieter.**  
+_von Konrad Fischer_
+
+> [!abstract]+ Kapitelübersicht: HOAI-Unterschreitung  
+> 1. **Die Ausschreibung von Planungsleistungen bei der Altbausanierung, Denkmalpflege und dem Denkmalschutz, die Unterschreitung der Mindestsätze sowie die Bedeutung des Mindestpreischarakters gem. HOAI**
+> 2. [Die "Ausschreibung" von Planungsleistungen bei der Altbausanierung, Denkmalpflege und dem Denkmalschutz](10vof1.md)
+> 3. [Die mitverwendete Bausubstanz gem. HOAI § 10. (3a)](103a.md)
 
 Konrad Fischer 
 
-# Die "Ausschreibung" von Planungsleistungen bei der Altbausanierung, Denkmalpflege und dem Denkmalschutz 
+## Die "Ausschreibung" von Planungsleistungen bei der Altbausanierung, Denkmalpflege und dem Denkmalschutz
 die Unterschreitung der Mindestsätze sowie 
 die Bedeutung des Mindestpreischarakters gem. HOAI
 

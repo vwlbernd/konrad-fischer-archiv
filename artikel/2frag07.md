@@ -1,13 +1,20 @@
 ---
-title: "Aus der Internet-Fragestunde der Altbau und Denkmalpflege ..."
-description: "Altbaufragen von AZ: Ausschreibung, Vergabe, Abrechnung, AVA."
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Aus der Internet-Fragestunde: Angebote und Rechnungen"
+description: "Wie Sie bei der Altbausanierung nicht über den Tisch gezogen werden: Warum Standard-Angebote oft in den Ruin führen und wie Sie die Abrechnungs-Tricks der Bauindustrie durchschauen."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2frag07.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Altbau FAQ](2frag.md)  
+# Aus der Internet-Fragestunde: Angebote und Rechnungen
+**Wie Sie bei der Altbausanierung nicht über den Tisch gezogen werden: Warum Standard-Angebote oft in den Ruin führen und wie Sie die Abrechnungs-Tricks der Bauindustrie durchschauen.**  
+_von Konrad Fischer_
 
 Konrad Fischer 
 
-# Aus der Internet-Fragestunde und Bauberatung
+## Aus der Internet-Fragestunde und Bauberatung
 
 **Inhalt der Anfragenseite (A-Z):** 
 (Seite nachträglich aufgeteilt und ergänzt, Pardon für 'ungewöhnliche' Kapitelfolge) 

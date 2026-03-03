@@ -1,13 +1,20 @@
 ---
-title: "Mold Attack - Moisture, Asthma and Allergy in the sick Building - Part 2"
-description: "A guide against mold fungus, dry & wet rot, woodworm, mites inside & outside of the damp wall, mortar, masonry, thermal insulation of moistured building, ..."
-author: " "
+nav: "index.md"
+title: "Mold Attack - What to do? A Guide - Part 2"
+description: "A guide on how to detect, prevent, and eliminate various types of mold and mildew in buildings, discussing problems related to energy-saving regulations and health issues like asthma caused by mold."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/7mold02.htm"
+updated: "23.04.2009"
 ---
+
+[🠔 Zur Übersicht: English: Old House Repair](english.md)  
+# Mold Attack - What to do? A Guide - Part 2
+**A guide on how to detect, prevent, and eliminate various types of mold and mildew in buildings, discussing problems related to energy-saving regulations and health issues like asthma caused by mold.**  
+_von Konrad Fischer • aktualisiert 23.04.2009_
 
 Konrad Fischer, Architect 
 
-# Mold Attack - What to do?
+## Mold Attack - What to do?
 
 ## A Guide - Part 2
 

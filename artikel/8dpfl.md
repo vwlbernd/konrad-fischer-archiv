@@ -1,13 +1,20 @@
 ---
-title: "Rezension - Thomas (Hrsg.): Denkmalpflege für Architekten"
-description: "Rezension Horst Thomas ua: Denkmalpflege für Architekten - Vom Grundwissen zur Gesamtleitung."
-author: " "
+nav: "index.md, 8infober.md"
+title: "Denkmalpflege für Architekten - Vom Grundwissen zur Gesamtleitung"
+description: "Aus der Praxis für die Praxis: Beiträge von Architekten und Mitstreitern am Denkmal bieten Einblicke in das vielschichtige Arbeitsumfeld am Baudenkmal."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/8dpfl.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Altbaukritik Fachbücher](8wetz.md)  
+# Denkmalpflege für Architekten - Vom Grundwissen zur Gesamtleitung
+**Aus der Praxis für die Praxis: Beiträge von Architekten und Mitstreitern am Denkmal bieten Einblicke in das vielschichtige Arbeitsumfeld am Baudenkmal.**  
+_von Konrad Fischer_
 
 ### Rezension
 
-# "Denkmalpflege für Architekten - Vom Grundwissen zur Gesamtleitung"
+## "Denkmalpflege für Architekten - Vom Grundwissen zur Gesamtleitung"
 
 ## Horst Thomas (Hrsg.), Autoren: Emil Hädler, Friedrich Hofmann, Siegfried Mühlbauer, Michael Neumann, Alois Peitz, Reinhard Reimer, Karl-R. Seehausen, Horst Thomas (Verlagsgesellschaft Rudolf Müller)
 

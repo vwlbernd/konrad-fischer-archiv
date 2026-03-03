@@ -1,15 +1,22 @@
 ---
-title: "Stahlbeton + Zement: Problembeschreibungen 2"
-description: "Betonschäden durch schlechte Baustoffqualität. Beispiel Bofill: Montpellier Antigone."
-author: " "
+nav: "20bausto.md"
+title: "Betonschäden durch schlechte Baustoffqualität"
+description: "Beton- und Zementindustrie vernachlässigt Kernkompetenzen durch falsche Öko-Argumente und fehlerhafte Bauphysik, was zu Qualitätseinbußen und Betonschäden führt."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2beton02.htm"
+updated: ""
 ---
 
-# Der Stahlbeton und der Zement 2
+[🠔 Zur Übersicht: Stahlbeton](2beton.md)  
+# Betonschäden durch schlechte Baustoffqualität
+**Beton- und Zementindustrie vernachlässigt Kernkompetenzen durch falsche Öko-Argumente und fehlerhafte Bauphysik, was zu Qualitätseinbußen und Betonschäden führt.**  
+_von Konrad Fischer_
 
-[1: Stahlbetonbau - Spitzenarchitektur?](2beton.md) **2: Betonschäden durch schlechte Baustoffqualität** [3: Baustoff und Baupfusch für eine Sklavenhaltergesellschaft?](2beton03.md) [4: Macht Betonieren krank und sichert Arbeitsplätze?](2beton04.md) [5: Betonbau - eine Sakralbauweise? (Goetheanum, Kirchen, Holocaust-Mahnmal, ...)](2beton05.md) [6: Betonsanierung + Zementberatung, zerstörungsarm untersuchen, Tiefgarage, Nitrat + Chlorid](2beton06.md) [7: Balkonien](2beton07.md) [8: Sichtbeton!](2beton08.md) [9: Betonbauschäden](2beton09.md) [10: Betonbrücken](2beton10.md) [11: Beton-Architekturphantasien](2beton11.md) [12: Materialdetails und Materialheimtücke](2beton12.md) [13: Stahlbeton und Krebsalarm](2beton13.md) [14: Stahlbeton-Merksätze](2beton14.md) [15: Einiges zum Zement](2beton15.md) [16: Zement - ein unreiner Baustoff](2beton16.md) 
+## Der Stahlbeton und der Zement 2
 
-# 2. Betonschäden durch schlechte Baustoffqualität
+
+
+## 2. Betonschäden durch schlechte Baustoffqualität
 
 Anstelle die Vorzüge der auch für den Beton gültigen Massivbauweise eindeutig herauszustellen, läßt sich die Beton- und Zementindustrie von der Konkurrenz auf falschen Annahmen beruhende "Öko"-Argumente aufzwingen. Damit verläßt sie ihre Kernkompetenzen - zum Nachteil der Qualität. Die kritiklose Übernahme der [U-Wert-Theorie, die gerade für real bewitterte speicherfähige Massivbaustoffe nicht gilt](7wdvs05.md#wã¤rmedã¤mmung), behindert den energetisch durchaus sinnvollen Einsatz auch der Betonbauweise. Die dadurch falschen Konstruktionsvorschläge der Betonindustrie (vgl. "Bauphysik nach Maß", Beton-Verlag 1995) entsprechen vielleicht den Wünschen der Dämmfanatiker, nicht jedoch dem Wunsch nach energetisch sinnvollem Bauen. Energieverluste durch Abschirmung der Solarstrahlung und mangelhafte Speicherfähigkeit mittels äußerer Dämmstoffschichten bzw. unzureichende Nutzung der Wärmestrahlungsabsorbtion sind die Folge dieser bauphysikalischen Narreteien. Man empfiehlt also Dämmung, obwohl in "Bauphysik nach Maß" richtigerweise zu lesen ist (S. 44): 
 

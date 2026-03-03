@@ -1,9 +1,29 @@
 ---
-title: "Sanierputz-Schwindel 1 - Heilen Sanierputze?"
-description: "Teure Sanierputze (renovation mortar systems acc. to WTA / enduit systèmes d'assainissement suivant WTA) am Altbau - Was können sie wirklich, was nicht? Sind sie schädlich?"
-author: " "
+nav: "20bausto.md, 21bausto.md"
+title: "WTA-Sanierputz pro & kontra kontrovers - Schwindel oder Heilt er? 1"
+description: "Was können WTA-Sanierputze (renovation mortar systems acc. to WTA) am Altbau wirklich leisten? Dieser Artikel beleuchtet kontrovers die Wirksamkeit und Risiken: Heilen sie oder sind sie schädlich?"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2sanipuz.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Feuchte Kellerwände](21bausto.md)  
+# WTA-Sanierputz pro & kontra kontrovers - Schwindel oder Heilt er? 1
+**Was können WTA-Sanierputze (renovation mortar systems acc. to WTA) am Altbau wirklich leisten? Dieser Artikel beleuchtet kontrovers die Wirksamkeit und Risiken: Heilen sie oder sind sie schädlich?**  
+_von Konrad Fischer_
+
+> [!abstract]+ Kapitelübersicht: Sanierputz-Schwindel  
+> 1. **WTA-Sanierputz pro & kontra kontrovers - Schwindel oder Heilt er? 1**
+> 2. [Sanierputze am Altbau - Heilen sie wirklich?](2sani2.md)
+> 3. [Schwindel: Sanierputz auf versalzter nasser Wand - Heilt er wirklich? 3](2sani3.md)
+> 4. [Schwindel? Sanierputz für feuchtes salziges Mauerwerk 4](2sani4.md)
+> 5. [Gewährleistung, abplatzende Sanierputzschollen, Landkarten-Putzrisse und Ettringgittreiben / Treibmineralien](2sani5.md)
+> 6. [Bauschaden durch Sanierputzversagen auf feuchtem und salzigem Untergrund - Gutachtenauszug 1: Vorbemerkung und Schadensanalyse](2sani6.md)
+> 7. [Schadsalze - Nitrate (Mauersalpeter)](2sani7.md)
+> 8. [Sanierputz/Sanierungsputz gem. WTA - ein Opferputz-System?](2sani8.md)
+> 9. [Sanierputz-Risse](2sani9.md)
+> 10. [Ein Bauschaden durch Sanierputzversagen auf feuchtem und salzigem Untergrund - Gutachtenauszug 5](2sani10.md)
+> 11. [Ein Bauschaden duch Sanierputzversagen auf feuchtem und salzigem Untergrund - Gutachtenauszug 6](2sani11.md)
 
 ## WTA-Sanierputz pro & kontra kontrovers - Schwindel oder Heilt er? 1
 

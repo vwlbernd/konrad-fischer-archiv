@@ -1,18 +1,25 @@
 ---
-title: "Prof. Dr.-Ing. habil. Claus Meier: Widerwärtige Aktivitäten beim Gebäudewärmeschutz"
-description: "Widerwärtige Aktivitäten, Betrug und Scharlatanerie beim staatlichen Energiespar-Terror"
-author: " "
+nav: "7epass.md"
+title: "Widerwärtige Aktivitäten: Gebäudewärmeschutz in der Krise"
+description: "Die Argumente offizieller Organe für Energiesparhäuser mit Superdämmungen können widerlegt werden; sie beruhen auf falschen Annahmen, Denkfehlern und Irrtümern."
+author: "Claus Meier"
 original_url: "www.konrad-fischer-info.de/7widakt.htm"
+updated: "04.04.2009"
 ---
+
+[🠔 Zur Übersicht: Widersprüche 1](7waefe33.md)  
+# Widerwärtige Aktivitäten: Gebäudewärmeschutz in der Krise
+**Die Argumente offizieller Organe für Energiesparhäuser mit Superdämmungen können widerlegt werden; sie beruhen auf falschen Annahmen, Denkfehlern und Irrtümern.**  
+_von Claus Meier • aktualisiert 04.04.2009_
 
 ## [Prof. Dr.-Ing. habil. Claus Meier](7waefe.md)
 
-# Widerwärtige Aktivitäten 
+## Widerwärtige Aktivitäten
 Der Gebäudewärmeschutz in der Krise
 
 ## Wissenschaftsdogmatik am Bau und ihre Widerlegung
 
-Konrad Fischer: Energiesparen und Wärmeschutz Kapitel [Einleitung](7wsvoant.md) [1a](7wdvs01.md) [2](7wdvs02.md) [3](7wdvs03.md) [4](7wdvs04.md) [5](7wdvs05.md) [6](7wdvs06.md) [7](7wdvs07.md) [8](7wdvs08.md) [9](7wdvs09.md) [10](7wdvs10.md) [11](7wdvs11.md) [12](7wdvs12.md) [13](7wdvs13.md) [14](7wdvs14.md) [15](7wdvs15.md) [16](7wdvs16.md) [17](7wdvs17.md) [18](7wdvs18.md) [19](7wdvs19.md) [20](7wdvs20.md) [21](7wdvs21.md) 
+
 
 **(aktualisiert 4.04.09)** 
 

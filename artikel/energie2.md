@@ -1,13 +1,20 @@
 ---
-title: "Energiekeinsparung im Altbau 150% - 2. Der Energieberater"
-description: "Energiesparen und Klimaschutz im Altbau - 2. Der Energieberater und seine Energiebedarfsberechnung?"
-author: " "
+nav: "index.md, altbau.md"
+title: "Energiekeinsparung im Altbau 150% - 2. Der Energieberater und seine Energiebedarfsberechnung!"
+description: "Kritische Betrachtung der Energiekeinsparung im Altbau und die Rolle des Energieberaters sowie seiner Energiebedarfsberechnung."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/energie2.htm"
+updated: "09.05.2008"
 ---
+
+[🠔 Zur Übersicht: Energiesparwunder](energie.md)  
+# Energiekeinsparung im Altbau 150% - 2. Der Energieberater und seine Energiebedarfsberechnung!
+**Kritische Betrachtung der Energiekeinsparung im Altbau und die Rolle des Energieberaters sowie seiner Energiebedarfsberechnung.**  
+_von Konrad Fischer • aktualisiert 09.05.2008_
 
  **Vorsicht! Klimaschutz!** 
 
-# Energiekeinsparung im Altbau 150% 
+## Energiekeinsparung im Altbau 150%
 
 2. Der Energieberater und seine Energiebedarfsberechnung!
 

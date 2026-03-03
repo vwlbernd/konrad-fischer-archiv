@@ -1,18 +1,33 @@
 ---
-title: "Bauberatung"
-description: "Hinweis auf Ratgeber für die Praxis des Bauherrn, Planer und Handwerker."
-author: " "
+nav: "index.md"
+title: "Linkliste zu Praxis-Ratgebern für Altbau und Denkmalpflege"
+description: "Spannende Informationen und Ratgeber rund ums Bauen und Sanieren von Altbauten und Baudenkmälern. Themen: Wirtschaftlichkeit, Finanzierung, Bauphysik, Wärmeschutz, Hausdämmung, Schimmelpilz, Fenster, Putz, Brandschutz, Mauer-Trockenlegung."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/6prxratg.htm"
+updated: ""
 ---
 
-# Praxis-Ratgeber 
+[🠔 Zur Übersicht: Startseite](index.md)  
+# Linkliste zu Praxis-Ratgebern für Altbau und Denkmalpflege
+**Spannende Informationen und Ratgeber rund ums Bauen und Sanieren von Altbauten und Baudenkmälern. Themen: Wirtschaftlichkeit, Finanzierung, Bauphysik, Wärmeschutz, Hausdämmung, Schimmelpilz, Fenster, Putz, Brandschutz, Mauer-Trockenlegung.**  
+_von Konrad Fischer_
+
+> [!abstract]+ Kapitelübersicht: Bauberatung  
+> 1. **Linkliste zu Praxis-Ratgebern für Altbau und Denkmalpflege**
+> 2. [Typische Bauberatungsanfragen und Antworten](bauberatung.md)
+> 3. [Aus der Internet-Fragestunde: Einleitung](2frag.md)
+> 4. [Denkmalpflege / Denkmalschutz / Restaurierung / Konservierung / Rekonstruktion / Sanierung - Kritik](6sv.md)
+> 5. [Wirtschaftliches Instandsetzen von Altbauten und Baudenkmälern – Kauf, Finanzierung, Planung und Projektorganisation](6prwiins.md)
+> 6. [Weitere Beratung und Information zu Denkmalpflege, Altbau usw. 1](8berat.md)
+
+## Praxis-Ratgeber
 
 zur Instandsetzung von Altbauten und Baudenkmälern
 
 ### Spannende Informationen rund ums Bauen und Sanieren - Online und als Druckversionen 
 Themen: Wirtschaftlichkeit, Finanzierung, Bauphysik, Wärmeschutz, Hausdämmung, Schimmelpilzbefall, Fensterinstandsetzung, Fenstererneuerung, Fenstermodernisierung, Abbruch, Putzfassaden, Kalkmörtel, Brandschutz, Mauer-Trockenlegung
 
-# Praxis-Ratgeber des Beirats für Restaurierung der [Deutschen Burgenvereinigung e.V.](http://www.deutsche-burgen.org) und anderer Institutionen
+## Praxis-Ratgeber des Beirats für Restaurierung der [Deutschen Burgenvereinigung e.V.](http://www.deutsche-burgen.org) und anderer Institutionen
 
 Bisher sind vom Autor dieser Seite folgende Praxis-Ratgeber erschienen: 
 

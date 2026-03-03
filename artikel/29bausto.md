@@ -1,38 +1,37 @@
 ---
-title: "Natur- und Ziegelstein"
-description: "Tipps + Tricks: Bestandsgerechte Baustoffe + Technik für Natursteinrestaurierung + Fachwerksanierung, Vierung oder Steinersatzmörtel, Restauriermörtel, ..."
-author: " "
+nav: "20bausto.md"
+title: "Natur- und Ziegelsteinrestaurierung"
+description: "Bestandsgerechte Instandsetzung von Natur- und Ziegelstein an Wand und Boden."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/29bausto.htm"
+updated: ""
 ---
 
- Altbautaugliche Verfahren und Baustoffe 
-Kapitel 9. Natursteinrestaurierung, 10. Wandbildner im Vergleich und 10.a Fachwerkinstandsetzung 
+[🠔 Zur Übersicht: Altbau Restaurierung](20bausto.md)  
+# Natur- und Ziegelsteinrestaurierung
+**Bestandsgerechte Instandsetzung von Natur- und Ziegelstein an Wand und Boden.**  
+_von Konrad Fischer_
 
-# 9. Natursteinrestaurierung/Naturstein und Ziegel an Wand und Boden 1
+> [!abstract]+ Kapitelübersicht: Natur- & Ziegelstein  
+> 1. **Natur- und Ziegelsteinrestaurierung**
+> 2. [Rekonstruktion oder Reparaturmörtel?](29bau02.md)
+> 3. [Reparaturmörtel - Fluch oder Segen?](29bau03.md)
+> 4. [Wasserabweisung / Hydrophobierung / Hydrophobisierung - Details](29bau04.md)
+> 5. [Restaurierung Naturstein und Fachwerk, Wandbaustoffe im Altbau ...](29bau05.md)
+> 6. [Die Kunst der Fuge](29bau06.md)
+> 7. [Thema Boden/Verkleidung keramisch/mineralisch: Estriche und Bodenbeläge](29bau07.md)
+> 8. [Reinigungsverfahren für verschmutzte Altoberflächen an Fassaden, Bauteilen und Kunstwerken](29bau08.md)
 
-Die Kapitel 9-10 wurden in folgende Unterkapitel aufgeteilt - **9. Natursteinrestaurierung** : [[1]](29bausto.md) [[2]](29bau02.md) [[3]](29bau03.md) [[4]](29bau04.md) [[5]](29bau05.md) [[6]](29bau06.md) 
-**Steinboden** : [[7]](29bau07.md) 
-**Reinigungstechnik** : [[8]](29bau08.md) 
-**10. Wandbildner im Vergleich** : [[9]](29bau09.md) [[10]](29bau10.md) [[11]](29bau11.md) [[12]](29bau12.md) [[13]](29bau13.md) [[14]](29bau14.md) [[15]](29bau15.md) 
-**10.a Fachwerk/Blockbau** : [[16 - Die schärfsten Tipps zur Fachwerkrestaurierung: Woran erkennst Du einen Fachwerk-Experten?]](29bau16.md) [[17]](29bau17.md) [[18]](29bau18.md) [[19.1]](29bau19.md) [[19.2]](29bau192.md) 
-**Bodenaufbau/Holzboden** : [[20]](29bau20.md)
+<center markdown>
 
-Hinweis: Der Betreiber dieser Website haftet nicht für Rechtsverstöße auf Seiten, auf die sich externe Links beziehen. Da es hier um praxistaugliche Lösungen für Altbau und Denkmalpflege geht, lassen sich Verweise auf Produkte und Firmen nicht ganz vermeiden. Der Verfasser bemüht sich seit Jahrzehnten um altbautaugliche Technik. Dies soll aber nicht der Monopolisierung des Marktes dienen, sondern dem gesunden Wettbewerb um die substanzverträglichste Lösung. Eine dauerbeständige Ausführungsqualität garantiert auch echte Wirtschaftlichkeit. Für besonders altbauverträgliche Produkte Voraussetzung: Eignungsnachweis und qualifizierte Volldeklaration im Sinne des hier abzurufenden [Vorschlags](2volldek.md). 
+**Das Bild zum Thema:**  
+<a id="9. natursteinrestaurierung"></a> ![Natursteinwahn am Baudenkmal](../medien/29NSW01.JPG)  
+_[Frans Francken - Der Tod und der Kaufmann (1620)](http://www.religionsunterricht.de/ifr/ifr45zd2.htm)_
 
-_"Zum Unglück hat sich mit der Industrie ein System verbunden, 
-das Profit als den eigentlichen Motor des gesellschaftlichen Fortschritts betrachtet, 
-den Wettbewerb als das oberste Gesetz der Wirtschaft, 
-Eigentum an den Produktionsgütern als absolutes Recht, 
-ohne Schranken, 
-ohne entsprechende Verpflichtung der Gesellschaft gegenüber. [...] 
-Noch einmal sei feierlich daran erinnert, 
-dass Wirtschaft im Dienst des Menschen steht." 
-_Papst Paul IV. 
-(in seiner Enzyklika über den Fortschritt der Völker - [POPULORUM PROGRESSIO - Volltext deutsch](http://www.christusrex.org/www1/overkott/populo.htm))
+</center>
 
-**Das Bild zum Thema:**[Frans Francken - Der Tod und der Kaufmann (1620)](http://www.religionsunterricht.de/ifr/ifr45zd2.htm)
-
-<a id="9. natursteinrestaurierung"></a> ![Natursteinwahn am Baudenkmal](../medien/29NSW01.JPG)
+> [!quote] Papst Paul IV. in seiner Enzyklika über den Fortschritt der Völker [POPULORUM PROGRESSIO](http://www.christusrex.org/www1/overkott/populo.htm)
+>"Zum Unglück hat sich mit der Industrie ein System verbunden, das Profit als den eigentlichen Motor des gesellschaftlichen Fortschritts betrachtet, den Wettbewerb als das oberste Gesetz der Wirtschaft, Eigentum an den Produktionsgütern als absolutes Recht, ohne Schranken, ohne entsprechende Verpflichtung der Gesellschaft gegenüber. [...] Noch einmal sei feierlich daran erinnert, dass Wirtschaft im Dienst des Menschen steht."  
 
 ## Der Naturwahn
 
@@ -49,7 +48,7 @@ Unterstützt wird diese Truppe dann meistens von einschlägig vorbelasteten Mör
 <center markdown>
 
 Konrad Fischer: Fassaden energetisch richtig und kostensparend sanieren 1 
-[![Fassaden energetisch richtig sanieren](../medien/YOU04.JPG)](http://youtu.be/OpbEO8kV-PU) 
+[![Fassaden energetisch richtig sanieren](../medien/YOU04.JPG)](https://youtu.be/OpbEO8kV-PU) 
 [Teil 2](http://www.youtube.com/watch?v=Y1NSxAW15Cc) [Teil 3](http://www.youtube.com/watch?v=RAT7VzBo8k0) [Teil 4](http://www.youtube.com/watch?v=6TBII25iVQk) [Teil 5](http://www.youtube.com/watch?v=Kb0C4KiZvVA) 
 
 </center>

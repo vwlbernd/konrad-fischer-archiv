@@ -1,19 +1,26 @@
 ---
+nav: "7thuene1.md"
 title: "Klimawandel und Klimaschwindel 2"
 description: "Maria Ackermann: Aufklärung, Fakten und Hintergründe zum Klimaschutz und zur sog. menschengemachten globalen Erwärmung."
-author: " "
+author: "Maria Ackermann"
 original_url: "www.konrad-fischer-info.de/7klima.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Klimaschwindel TV](7video.md)  
+# Klimawandel und Klimaschwindel 2
+**Maria Ackermann: Aufklärung, Fakten und Hintergründe zum Klimaschutz und zur sog. menschengemachten globalen Erwärmung.**  
+_von Maria Ackermann_
 
 Breaking News 12.11.09: Climategate 1 - **[Angloamerikanische Wissenschaftskriminelle erfanden den Klimaschwindel - auch Deutsche Professoren dabei!](http://www.welt.de/wissenschaft/article5294872/Die-Tricks-der-Forscher-beim-Klimawandel.html)** 
 Climategate 2 - **[Entlarvt: Menschengemachte Erderwärmung - ein Schwindel der Grünen Klimaschutzgelderpresser](http://www.eike-klima-energie.eu/news-anzeige/dreiste-manipulation-der-wichtigsten-temperaturdaten-zur-welttemperatur-nicht-mehr-auszuschliessen-das-daten-desaster-der-ipcc-klimazentrums-cru-climate-research-unit-der-universitaet-east-anglia/)** 
 Schon wieder? Umweltbundesamt: [Staatlich organisierter **Völkermord mittels Entgasung/Klimaschutz/CO2-Reduktion?**](7thu51.md)
 
-# **Klimawandel**
+## **Klimawandel**
 
 und 
 
-# ****Klimaschwindel - Teil 2****
+## ****Klimaschwindel - Teil 2****
 
 Eine Belegarbeit am Geschwister-Scholl-Gymnasium Löbau im Schuljahr 2004/2005 über den großen Klimaschwindel, von der Autorin dankenswerterweise den Altbau und Denkmalpflege Informationen zur Veröffentlichung freigegeben. 
 

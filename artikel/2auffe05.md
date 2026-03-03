@@ -1,17 +1,24 @@
 ---
-title: "Schwindelei? Aufsteigende Feuchte + Mauerwerkstrockenlegung 5"
-description: "Naturstein-Mauerwerk und Aufsteigende Feuchte"
-author: " "
+nav: "20bausto.md"
+title: "Naturstein-Mauerwerk und Aufsteigende Feuchte"
+description: "Die unglaublichen Utopien der angeblich 'aufsteigenden Feuchte' finden nirgends in der Wirklichkeit Bestätigung. Dieser Artikel widerlegt den Mythos anhand von Beispielen an Ufermauern und Brückenpfeilern."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2auffe05.htm"
+updated: "04.08.2009"
 ---
+
+[🠔 Zur Übersicht: Aufsteigend Feuchte?](2aufstfe.md)  
+# Naturstein-Mauerwerk und Aufsteigende Feuchte
+**Die unglaublichen Utopien der angeblich 'aufsteigenden Feuchte' finden nirgends in der Wirklichkeit Bestätigung. Dieser Artikel widerlegt den Mythos anhand von Beispielen an Ufermauern und Brückenpfeilern.**  
+_von Konrad Fischer • aktualisiert 04.08.2009_
 
 ## Fauler Zauber: Aufsteigende Feuchte + Mauerwerkstrockenlegung 5
 
-Aufsteigende Feuchte Kapitel [1 - Einführung zur Problemlage](2aufstfe.md) [2 - Ein schrecklicher "Trockenlegungsfall"](2auffe02.md) [3 - Feuchtequellen](2auffe03.md) [4 - Ziegel-Mauerwerk und Aufsteigende Feuchte](2auffe04.md) **5 - Naturstein-Mauerwerk und Aufsteigende Feuchte** [6 - Nachträgliche Horizontalabdichtung historischen Mauerwerks? - Mauerwerksversalzung](2auffe06.md) [7 - Kondensat und Regen](2auffe07.md) [8 - Trockenlegung oder Bauwerksschäden durch Horizontalisolierung?](2auffe08.md) [9 - Trockenlegungsschwindel - die Marketingtricks](2auffe09.md) [10 - Elektroosmose und die typischen Trockenleger-Ausreden bei Mißerfolg](2auffe10.md) [11 - Trockenlegungsexperten? - Planer und Gutachter](2auffe11.md) [12 - Trockenlegung - Industrieberatung oder der gesunde Menschenverstand? Probleme und Lösungen](2auffe12.md) [13 - Mauertrockenlegung - Die klassischen Fehler](2auffe13.md) [14 - Nasse Wände sanieren - Was sagt die Wissenschaft?](2auffe14.md) [15 - Mauerfeuchte woher? Zum historischen und wissenschaftlichen Hintergrund](2auffe15.md) 
+
 
 **(aktualisiert 4.08.09)** 
 
-# Naturstein-Mauerwerk und Aufsteigende Feuchte
+
 
 Sie glauben? Ganz sicher? Auch an schwarze Katz, Hexenzauber, Engelei, Wahrsagerinnen und Astroshows? Von mir aus, wenn's grad Spaß macht. Morgen dann wieder heilende Steine, magische Orte, Granderwasser, sechs Millionen, sechseinhalb Tibeter, wundersame Bäume, Duftöle, Schüsslersalze, Bachblüten, Chemo, Kanzlerin Merkel, Gotteskrieger Georg Busch oder Ökoschmerzbengel Gabriel. Egal. Aber eine Aufklärung muß ich Ihnen leider gönnen: 
 

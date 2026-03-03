@@ -1,9 +1,16 @@
 ---
-title: "Probleme rund ums Fertighaus - Schadstoffbelastung, Formaldehyd ..."
-description: "Bauen ohne Architekt - Das Fertighaus: Fluch oder Segen?"
-author: " "
+nav: "7epass.md"
+title: "Das Fertighaus - Schlüsselfertig bauen ohne Probleme, Reue, Fluch oder Segen?"
+description: "Kritische Auseinandersetzung mit dem modernen Fertighausbau als industrielles Massenprodukt, beleuchtet historische Hintergründe, Baumängel und Schadstoffbelastungen."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2fertig.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Widersprüche 1](7waefe33.md)  
+# Das Fertighaus - Schlüsselfertig bauen ohne Probleme, Reue, Fluch oder Segen?
+**Kritische Auseinandersetzung mit dem modernen Fertighausbau als industrielles Massenprodukt, beleuchtet historische Hintergründe, Baumängel und Schadstoffbelastungen.**  
+_von Konrad Fischer_
 
 ## Das Fertighaus - Schlüsselfertig bauen ohne Probleme, Reue, Fluch oder Segen? 
 Eine Tirade
@@ -26,7 +33,7 @@ Modernes Bauen - das heißt industrielles, billiges, auch für ärmere Schichten
 
 Während also der Plattenbau meist mit Spar-Mietern, Prekariat und Volkspartei-Wählern gefüllt wurde und wird, verwirklichte der minderbemittelte "Individualist" und Spargeizgeilkunde von Neckermann, Quelle, IKEA, Otto-Versand, Penny, Norma oder Aldi seinen geschmackbefreiten Eigenheimbau gerne mit einem möglichst billigen, architektenbefreiten, aber (genau deswegen?) grundsoliden und herrlich schönen Fertighaussystem in wohl- und sowieso buntestbedachten leichtester Leichtbauweise aus dem buntbeglänzten Haus-Katalog. Ausgedacht ursprünglich wohl für polackische Saisaonarbeiter in preußischen Staatsdomänen, dann als Billigkaserne und temporäre Herberge für das hierzulande immer wieder mal zur Reduzierung giftgasgefährlicher CO2-Emittenten einberufene Kanonenfutter, in den 1930ern dann zur RAD-Reichsarbeitsdienstbaracke der Organisation Todt OT kurzfristig umfirmiert, Seuchen- und sonstigen Härtetest im Konzentrationslagerdienst der Kriegs- und in den dann besetzten Ostgebieten vor allem auch Nachkriegszeit, auch als Notunterkunft für Vertriebene und Dorfbettler im Westen bestens bestanden und letztlich - nach der Bewährung im Massenwohnungsbau unter wechselnden Insassen in etwas gefälligerer Individualform von vielen einfallsreichen Schreinermeistern konsequenterweise weiter- und weiterentwickelt zum gasausdünstfreundlichen harzleimverklebten Preßpatten-Juckwollen-Holzschutzgift-Ständerbau, gerne maskiert mit ultradünnen Backsteinpappriemchen Marke "Friesenwatt", "Sylter Nacktarsch", "Ziegelpappe Decofix" oder meinetwegen auch "Fliegender Holländer", inzwischen auch mit kundenfreundlichem Kunststoff-Backsteinimitat - die im Vergleich mit Porensteinen besonders lauen "Steine". 
 
-[![Altbau und Energiespargesetze - Wahnsinn oder Methode?](../medien/YOU20.JPG)](http://youtu.be/xBp0lAxF-nU) 
+[![Altbau und Energiespargesetze - Wahnsinn oder Methode?](../medien/YOU20.JPG)](https://youtu.be/xBp0lAxF-nU) 
 Deutsche Giftmischer zum Wohle der Umsätze in der Baubranche 
 
 Das kostet wenig, ist von der Grundidee her in Baracken-Bauweise aus Holzständern (1949 OKAL-Patent des Schreinermeisters **O** tto **K** reibaum **A** us **L** auenstein / Salzhemmendorf für die Röhren-Spanplatte im Industrie-Strangpreßverfahren - Motto mit ewigem Haltbarkeitsdatum und extremem Wahrheitsgehalt: "Aus Defiziten werden Ideen") mit wuseligstem Splitterkratzjuck-Mineralwolle-Glaswolle-Dämmstoff verstopft und verzwirbelt, verspricht - Architekten aufgepaßt und hingehört! - Baukostensicherheit von Anfang an und bietet sogar die Möglichkeit der kostensparenden Eigenleistung für Bastler, Bohrer, Nagler, Kleber, Laubholzsäger, Hobbyschnitzer und sonstige Liebhaber von baumarktversorgter Uhu-Schnüffelei und Haus-Verseuchung mit Holzschutzmittel und/oder toxischem Boratsalz - Schädlingsbefall und Brand soll das Salz hemmen! - bis ins letzte Zellulose-Hanf-Wolle-Zipfelchen. 

@@ -1,23 +1,22 @@
 ---
-title: "Kritik + Lob im Gästebuch der Altbau + Denkmalpflege Info (Auszug)"
-description: "Ältere Kommentare / Beiträge / Gästebucheinträge der Leser / Besucher / Kritiker / Fans / Kunden - mit Antworten von Konrad Fischer"
-author: " "
+nav: "index.md"
+title: "Weiteres Lob und ungeschminkte Kritik aus meinem aktuellen Gästebuch"
+description: "Gästebucheinträge der Leser, Kritiker, Fans und Kunden - mit Antworten von Konrad Fischer"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/gaestebuch.htm"
+updated: ""
 ---
 
-## Ungeschminkte Kritik und Lob aus meinem alten Gästebuch - 
-Mit meinen Stellungnahmen / Antworten
+[🠔 Zur Übersicht: Empfang](empfang2.md)  
+# Weiteres Lob und ungeschminkte Kritik aus meinem aktuellen Gästebuch
+**Gästebucheinträge der Leser, Kritiker, Fans und Kunden**  
+_mit Antworten von Konrad Fischer • aktualisiert 10.01.2019_
 
-### Kommentare von Gegnern, Fans und Kunden zu den "Altbau und Denkmalpflege Informationen" - 
-Konrad Fischers Kompendium für Altbausanierung und Denkmalschutz
+> [!info] Selber einen Gästebuchbeitrag abgeben? 
+> Bitte schreiben Sie mir eine [E-Mail](mailto:petra.ursula@hotmail.de) mit dem Betreff **"Gästebuch"**.
 
-Selber einen Gästebuchbeitrag abgeben? Hier geht es zum **[Eintragsformular Online-Gästebuch](gaestebuch_neu.md)**. 
-
-<center markdown>
-
-# Die Beiträge in chronologischer Reihenfolge, [jüngste hier](gaestebuch.md)
-
-</center>
+## Gästebuch
+**Die Beiträge in chronologischer Reihenfolge, jüngste zuerst:**
 
 Tuesday 12/13/2011 1:52:55pm 
 **Name:** A. Labude 
@@ -1291,9 +1290,7 @@ E. Müller
 
 Auch das Mann-Buch zum Ökommunismus hilft ein bisserl weiter, die Zusammenhänge zu verstehen ... 
 
-# 
-
-Thursday 11/05/2009 0:12:27am 
+## Thursday 11/05/2009 0:12:27am
 **Name:** H. Hinrichs 
 **Beitrag:** Sehr geehrter Herr Fischer, 
 

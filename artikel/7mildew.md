@@ -1,13 +1,20 @@
 ---
-title: "Get rid with Mildew Attack 1 - What to do?"
-description: "A guide against mold fungus, dry & wet rot, woodworm, mites inside & outside of the damp wall, mortar, masonry, thermal insulation of moistured building, ..."
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Mold and Mildew Attack - What to do?"
+description: "A Guide - Part 1. Information to detect, prevent and eliminate mushrooms, fungi, mold and dark / black mildew without poisoned toxic and harmful bleach."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/7mildew.htm"
+updated: "27.04.2009"
 ---
+
+[🠔 Zur Übersicht: English: Old House Repair](english.md)  
+# Mold and Mildew Attack - What to do?
+**A Guide - Part 1. Information to detect, prevent and eliminate mushrooms, fungi, mold and dark / black mildew without poisoned toxic and harmful bleach.**  
+_von Konrad Fischer • aktualisiert 27.04.2009_
 
 Konrad Fischer, Architect 
 
-# Mold and Mildew Attack - What to do?
+
 
 ## A Guide - Part 1
 

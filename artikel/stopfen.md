@@ -1,11 +1,18 @@
 ---
+nav: "20bausto.md"
 title: "Baugrund-Stabilisierung durch Stopfen"
-description: "Ertüchtigung des historischen Baugrunds durch das patentierte Stopfverfahren nach Prof. Dr.-Ing. Gerd Gudehus, Uni Karlsruhe ..."
-author: " "
+description: "Zur Ertüchtigung des historischen Baugrunds durch das patentierte Stopfverfahren nach Prof. Dr.-Ing. Gerd Gudehus, Uni Karlsruhe"
+author: "Klaus Maisch"
 original_url: "www.konrad-fischer-info.de/stopfen.htm"
+updated: ""
 ---
 
-# Zur Ertüchtigung des historischen Baugrunds 
+[🠔 Zur Übersicht: Fundament](28bausto.md)  
+# Baugrund-Stabilisierung durch Stopfen
+**Zur Ertüchtigung des historischen Baugrunds durch das patentierte Stopfverfahren nach Prof. Dr.-Ing. Gerd Gudehus, Uni Karlsruhe**  
+_von Klaus Maisch_
+
+## Zur Ertüchtigung des historischen Baugrunds
 durch das patentierte Stopfverfahren nach Prof. Dr.-Ing. Gerd Gudehus, Uni Karlsruhe
 
 ### (Originaltext für die Veröffentlichung bei den "Altbau und Denkmalpflege Informationen" durch den Autor freigegeben)

@@ -1,38 +1,39 @@
 ---
-title: "Schwindelei? Aufsteigende Feuchtigkeit + Mauer-Trockenlegung 2"
-description: "Ein schrecklicher 'Trockenlegungsfall'"
-author: " "
+nav: "20bausto.md"
+title: "Ein schrecklicher „Trockenlegungsfall“"
+description: "Ein detaillierter Erfahrungsbericht aus der Bauberatung, der exemplarisch zeigt, wie klassische „Experten-Sanierungen“ bei Kellerfeuchte in einem kostspieligen Fiasko enden können."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2auffe02.htm"
+updated: "04.08.2009"
 ---
 
-## Aufsteigende Feuchtigkeit + Mauer-Trockenlegung 2
+[🠔 Zur Übersicht: Aufsteigend Feuchte?](2aufstfe.md)  
+# Ein schrecklicher „Trockenlegungsfall“
+**Ein detaillierter Erfahrungsbericht aus der Bauberatung, der exemplarisch zeigt, wie klassische „Experten-Sanierungen“ bei Kellerfeuchte in einem kostspieligen Fiasko enden können.**  
+_von Konrad Fischer • aktualisiert 04.08.2009_
 
-Aufsteigende Feuchte Kapitelübersicht 
+[🠔 Zur Übersicht: Altbau Restaurierung](20bausto.md)  
 
-[1 - Einführung zur Problemlage](2aufstfe.md) **2 - Ein schrecklicher "Trockenlegungsfall"** [3 - Feuchtequellen](2auffe03.md) [4 - Ziegel-Mauerwerk und Aufsteigende Feuchte](2auffe04.md) [5 - Naturstein-Mauerwerk und Aufsteigende Feuchte](2auffe05.md) [6 - Nachträgliche Horizontalabdichtung historischen Mauerwerks? - Mauerwerksversalzung](2auffe06.md) [7 - Kondensat und Regen](2auffe07.md) [8 - Trockenlegung oder Bauwerksschäden durch Horizontalisolierung?](2auffe08.md) [9 - Trockenlegungsschwindel - die Marketingtricks](2auffe09.md) [10 - Elektroosmose und die typischen Trockenleger-Ausreden bei Mißerfolg](2auffe10.md) [11 - Trockenlegungsexperten? - Planer und Gutachter](2auffe11.md) [12 - Trockenlegung - Industrieberatung oder der gesunde Menschenverstand? Probleme und Lösungen](2auffe12.md) [13 - Mauertrockenlegung - Die klassischen Fehler](2auffe13.md) [14 - Nasse Wände sanieren - Was sagt die Wissenschaft?](2auffe14.md) [15 - Mauerfeuchte woher? Zum historischen und wissenschaftlichen Hintergrund](2auffe15.md) 
-
-**(aktualisiert 4.08.09)** 
-
-# Ein schrecklicher "Trockenlegungsfall
+**Ein detaillierter Erfahrungsbericht aus der Bauberatung, der exemplarisch zeigt, wie klassische „Experten-Sanierungen“ bei Kellerfeuchte in einem kostspieligen Fiasko enden können.**  
+_von Konrad Fischer • aktualisiert 04.08.2009_
 
 <a id="xy"></a>Hier ein Fall aus meiner Bauberatung zu "feuchtem Keller / Kellerfeuchte" zur Einstimmung:
 
-_31.5.05 
-Erst einmal herzliche Gratulation zu Ihrer Homepage ... Leider bin ich zu spät darauf gestossen. Die Katastrophe ist bei mir schon passiert. ... ich bin ein armer Schlucker ... jetzt erst recht wo ich für eine chemische Horizontalsperre Geld ausgegeben habe und ich mein Haus infolge dauernd brennender Augen nicht mehr bewohnen kann. ..._
-
-Es besteht folgende Situation:
-
-Vor 4 Wochen wurde im Keller meines Einfamilienhauses in Frankreich eine Horizontalsperre mittels dem Produkt XY von XYZ eingerichtet. Es wurde je eine Horizontalsperre von Aussen resp. von Innen angelegt.
-
-Der Keller ist aus ...-Steinen gebaut, die natürlich die Feuchtigkeit ideal aufnehmen können, deshalb hat es stellenweise schwarze feuchte Flecken im Keller. Auf dem Keller steht ein Haus in Holzständerbauweise. Ich wollte die Holzstruktur durch die aufsteigende Feuchtigkeit schützen, deshalb schien mir die Anwendung dieses Produktes ideal. Der Vertreter der ausführenden Firma hat auch dementsprechend Angst eingeflöst.
-
-Nun ist es so, dass ich seit dem das Produkt in der Mauer ist (4 Wochen) an einer Augen-Reizung leide, sobald ich mich im Haus aufhalte. Ich muss noch erwähnen, dass von uns 6 Personen zuerst 3 betroffen waren. Bei 2 Personen sind die Beschwerden nach 3 Tagen wieder abgeklungen.
-
-Denken Sie, dass es nun noch eine Rettung resp. Lösung meines Problems gibt z.B. durch Abdichten der Wände etc.? Ich bringe das Produkt wohl kaum mehr aus der Mauer.
-
-Mit freundlichen Grüssen
-
-N.N."
+> [!quote] 31.5.05  
+> „Erst einmal herzliche Gratulation zu Ihrer Homepage ... Leider bin ich zu spät darauf gestossen. Die Katastrophe ist bei mir schon passiert. ... ich bin ein armer Schlucker ... jetzt erst recht wo ich für eine chemische Horizontalsperre Geld ausgegeben habe und ich mein Haus infolge dauernd brennender Augen nicht mehr bewohnen kann. ...  
+>
+> Es besteht folgende Situation:
+>
+> Vor 4 Wochen wurde im Keller meines Einfamilienhauses in Frankreich eine Horizontalsperre mittels dem Produkt XY von XYZ eingerichtet. Es wurde je eine Horizontalsperre von Aussen resp. von Innen angelegt.
+>
+> Der Keller ist aus ...-Steinen gebaut, die natürlich die Feuchtigkeit ideal aufnehmen können, deshalb hat es stellenweise schwarze feuchte Flecken im Keller. Auf dem Keller steht ein Haus in Holzständerbauweise. Ich wollte die Holzstruktur durch die aufsteigende Feuchtigkeit schützen, deshalb schien mir die Anwendung dieses Produktes ideal. Der Vertreter der ausführenden Firma hat auch dementsprechend Angst eingeflöst.
+>
+> Nun ist es so, dass ich seit dem das Produkt in der Mauer ist (4 Wochen) an einer Augen-Reizung leide, sobald ich mich im Haus aufhalte. Ich muss noch erwähnen, dass von uns 6 Personen zuerst 3 betroffen waren. Bei 2 Personen sind die Beschwerden nach 3 Tagen wieder abgeklungen.
+> 
+> Denken Sie, dass es nun noch eine Rettung resp. Lösung meines Problems gibt z.B. durch Abdichten der Wände etc.? Ich bringe das Produkt wohl kaum mehr aus der Mauer.
+>
+> Mit freundlichen Grüssen  
+> N.N.“ 
 
 Erst dem Sichereitsdatenblatt - nicht der Produktwerbung zur absolut bewährten Beseitigung der Kellerfeuchte aus den feuchten Wänden und nassen Mauern- ist dann zu entnehmen, was in der teueren Silikat/Wasserglas-Soße alles so drin ist, die da hektoliterweise den arglosen, aber feuchteverängstigten Leutchen aufgedreht und den feuchten Buden und nassen Kellerwänden eingespritzt wird - bauaufsichtlich von einer gewinnsüchtig-gierigen Pseudowissenschaft natürlich gegen erklecklichen Geldbetrag für die Inverkehrbringung und "sollgemäße" Anwendung zugelassen!:
 

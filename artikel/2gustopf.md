@@ -1,15 +1,22 @@
 ---
-title: "Zur Instandsetzung historischer Gründungen durch konstruktive Ertüchtigung"
-description: "Übersicht über die gängige Instandsetzungstechnik für historische Gründungen und Fundamente."
-author: " "
+nav: "20bausto.md"
+title: "Zur Instandsetzung historischer Gründungen durch konstruktive Verstärkungen oder Stopfen des Bodens"
+description: "Der Artikel stellt gängige konstruktive Verstärkungen historischer Gründungen vor und beleuchtet kritisch, wann auf Eingriffe verzichtet oder durch Stopfen nachgeholfen werden kann, inklusive Kombinationsmöglichkeiten."
+author: "Prof. Dr.-Ing. Gerd Gudehus"
 original_url: "www.konrad-fischer-info.de/2gustopf.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Fundament](28bausto.md)  
+# Zur Instandsetzung historischer Gründungen durch konstruktive Verstärkungen oder Stopfen des Bodens
+**Der Artikel stellt gängige konstruktive Verstärkungen historischer Gründungen vor und beleuchtet kritisch, wann auf Eingriffe verzichtet oder durch Stopfen nachgeholfen werden kann, inklusive Kombinationsmöglichkeiten.**  
+_von Prof. Dr.-Ing. Gerd Gudehus_
 
 ## Bautechnik und Baudenkmal - Denkmalschutz und Sanierungstechnik
 
 ### Prof. Dr.-Ing. Gerd Gudehus, Karlsruhe
 
-# Zur Instandsetzung historischer Gründungen 
+## Zur Instandsetzung historischer Gründungen
 durch konstruktive Verstärkungen oder Stopfen des Bodens
 
 **Worum es geht**

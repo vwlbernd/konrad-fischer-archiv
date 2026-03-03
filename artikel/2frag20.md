@@ -1,3 +1,17 @@
+---
+nav: "index.md, 6prxratg.md"
+title: "English FAQs: Building Repair, Historic Mortars, and Wood Protection"
+description: "English Information: FAQs on building repair, historic mortars, and wood protection, including specific advice for castles and listed properties."
+author: "Konrad Fischer"
+original_url: "www.konrad-fischer-info.de/2frag20.htm"
+updated: "20.06.2009"
+---
+
+[🠔 Zur Übersicht: English: Old House Repair](english.md)  
+# English FAQs: Building Repair, Historic Mortars, and Wood Protection
+**English Information: FAQs on building repair, historic mortars, and wood protection, including specific advice for castles and listed properties.**  
+_von Konrad Fischer • aktualisiert 20.06.2009_
+
 **FAQs** 
 **(updated 20.06.09)**
 

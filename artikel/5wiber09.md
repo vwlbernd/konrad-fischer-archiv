@@ -1,15 +1,22 @@
 ---
-title: "Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der ..."
-description: "Konrad Fischer Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 9"
-author: " "
+nav: "11planme.md"
+title: "Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 9"
+description: "Denkmalschutz hat Grenzen: Dieser Artikel befasst sich mit der Zumutbarkeit der Gebäudeerhaltung für Besitzer und der Wirtschaftlichkeitsberechnung bei Altbausanierungen, basierend auf BVG-Urteilen."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/5wiber09.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Wirtschaftlichkeit](5wiber.md)  
+# Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 9
+**Denkmalschutz hat Grenzen: Dieser Artikel befasst sich mit der Zumutbarkeit der Gebäudeerhaltung für Besitzer und der Wirtschaftlichkeitsberechnung bei Altbausanierungen, basierend auf BVG-Urteilen.**  
+_von Konrad Fischer_
 
 Konrad Fischer 
 
-# Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 9
 
-[Seite 1](5wiber.md) [2](5wiber02.md) [3](5wiber03.md) [4](5wiber04.md) [5](5wiber05.md) [6](5wiber06.md) [7](5wiber07.md) [8](5wiber08.md) **9** [10](5wiber10.md) [11](5wiber11.md) [12](5wiber12.md) [13](5wiber13.md) [14](5wiber14.md)
+
+
 
 Natürlich gibt es auch andere Fallkonstellationen. Nicht nur, daß so manches Baudenkmal in Wahrheit nach gerichtlich maßgeblichen Kriterien vielleicht gar keines ist bzw. ein vorgesehener Eintragung in die Denkmalliste nicht nur verfahrensrechtlich, sondern auch im Begründungsapparat so mangel- und lückenhaft ist, daß ein tatsächlich vorhandenes, schwerwiegendes und besonderes öffentliches Interesse an einer folgenreichen Unterschutzstellung unter Würdigung der wissenschaftlichen Argumentation und einem Abgleich mit den Zumutbarkeitsvoraussetzungen gar nicht oder nur bei Mißbrauch der gerichtlichen Auslegung in Erstinstanz belegt werden kann, und später wieder aufzuheben ist (dafür gibt es Urteile!). Es kann dann in zweiter Linie einer gesonderten gerichtlichen Überprüfung unterworfenen werden, ob die Erhaltung eines nachgewiesenen Baudenkmals überhaupt zumutbar ist, wenn stichhaltige Argumente vorliegen, die den Denkmalschutz in rechtlich unzumutbarer Art und Weise unwirtschaftlich werden lassen. Hier bedarf es eigentümerseits einer kritischen Strategie, um gewissermaßen unzumutbaren denkmalschützerischen Ansinnen erfolgreich, mindestens maximal hindernd entgegenzutreten. Das einfache Gegenrechnen der Aufwendungen mit den geschätzten Erträgen reicht natürlich nicht aus, um die hier notwendige "Unzumutbarkeit" gerichtsfest zu beweisen. Dazu dieses BVG-Urteil zur [Villa Neitzert](https://wikivisually.com/lang-de/wiki/Villa_Neizert) des Besitzers Rasselstein GmbH:
 

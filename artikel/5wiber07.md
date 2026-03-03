@@ -1,15 +1,22 @@
 ---
-title: "Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung"
+nav: "11planme.md"
+title: "Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 7"
 description: "Strategietips zur Finanzierung 7 - Förderbrutalitäten und allerlei Finanzierungsgeheimnisse."
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/5wiber07.htm"
+updated: "01.01.2011"
 ---
+
+[🠔 Zur Übersicht: Wirtschaftlichkeit](5wiber.md)  
+# Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 7
+**Strategietips zur Finanzierung 7 - Förderbrutalitäten und allerlei Finanzierungsgeheimnisse.**  
+_von Konrad Fischer • aktualisiert 01.01.2011_
 
 Konrad Fischer 
 
-# Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 7
 
-[Seite 1](5wiber.md) [2](5wiber02.md) [3](5wiber03.md) [4](5wiber04.md) [5](5wiber05.md) [6](5wiber06.md) **7** [8](5wiber08.md) [9](5wiber09.md) [10](5wiber10.md) [11](5wiber11.md) [12](5wiber12.md) [13](5wiber13.md) [14](5wiber14.md)
+
+
 
 Was man wissen muß, weil es dafür interessante Beispiele gibt: 
 

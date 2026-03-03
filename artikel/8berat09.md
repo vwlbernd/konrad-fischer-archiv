@@ -1,25 +1,25 @@
 ---
-title: "Beratungsangebote zu Altbau und Denkmalpflege - Linksammlung 9"
-description: "Weitere Beratung und Information zu Denkmalpflege, Altbau usw. 9"
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Altbauerfahrene Architekten / Bauingenieure / Planer / Handwerker"
+description: "Liste von Architekten, Bauingenieuren, Planern und Handwerkern mit Erfahrung im Altbau und der Denkmalpflege."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/8berat09.htm"
+updated: "06.06.2008"
 ---
 
-# Weitere Beratung und Information zu Denkmalpflege, Altbau usw. 9
+[🠔 Zur Übersicht: Beratung Altbau](8berat.md)  
+# Altbauerfahrene Architekten / Bauingenieure / Planer / Handwerker
+**Liste von Architekten, Bauingenieuren, Planern und Handwerkern mit Erfahrung im Altbau und der Denkmalpflege.**  
+_von Konrad Fischer • aktualisiert 06.06.2008_
+
+## Weitere Beratung und Information zu Denkmalpflege, Altbau usw. 9
 
 Hinweis: Der Betreiber dieser Website haftet nicht für Rechtsverstöße auf Seiten, auf die sich externe Links beziehen. Uncle Spam needs you: Tote Links bitte [melden](2berat.md#email)! 
 **(aktualisiert 6.06.08)**
 
-Webseite in Unterkapitel aufgeteilt: 
-[ 1. Zum Einstieg](8berat.md) [2. Denkmalämter und verwandte Institutionen](8berat02.md) [3. Denkmalpflege, Altbau und Stadtentwicklung ](8berat03.md) 
-[4. Translozierung / Relocation von Baudenkmalen](8berat04.md) [5. Diverse Denkmal- und Museumslinks deutsch und international](8berat05.md) 
-[6. Aufsätze und Vorträge zu Problemen der Denkmalpflege](8berat06.md) [7. Restauratoreninfo](8berat07.md) 
-[8. Internationale Denkmal- und Restaurierungslinks](8berat08.md) **9. Altbauarchitekten / -handwerker** 
-[10. Bauwesen allgemein / Ausschreibungsinfo / DIY-Info 1](8berat10.md) [11. 2](8berat11.md) [12. Recht und Steuer / Verbraucherschutz](8berat12.md) 
-[13. Versicherungen](8berat13.md) [14. Mieten/Vermieten/Immobilien/Bauen auf dem Lande - Landwirtschaftsinfo](8berat14.md) [Ausgewählte Umweltlinks](8berat15.md) 
-[16. Weitere Informationen/Medien/Suchmaschinen/Gesundheit/Links zu schönen/frechen Seiten](8berat16.md) [17. PS. Tips für Internet-Anfänger](8berat17.md)
 
-# 9. Altbauerfahrene Architekten / Bauingenieure / Planer / Handwerker
+
+## 9. Altbauerfahrene Architekten / Bauingenieure / Planer / Handwerker
 
 Hinweis - aus gegebenem Anlaß neuerer Rechtssprechung: Mit den von hier angelinkten Architekten/Unternehmen besteht keine wirtschaftliche Verknüpfung irgendwelcher Art. Die Aufnahme dieser Links dient ausschließlich als Infoangebot für die Seitenbesucher, es ist keine Werbung/Empfehlung. Unerwünschte Links werden sofort nach Benachrichtigung durch den/die Betroffenen gelöscht. 
 

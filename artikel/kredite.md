@@ -1,17 +1,24 @@
 ---
-title: "Auslandskredit"
-description: "Ein Informationsangebot für Ihr Kreditproblem"
-author: " "
+nav: "11planme.md"
+title: "Auslandskredite/Auslandsdarlehen/Schweizerkredit - Der Ausweg aus der Kreditklemme beim Bauen oder Autokauf?"
+description: "Ein UNVERBINDLICHES + UNABHÄNGIGES Informationsangebot für Ihr Kreditproblem"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/kredite.htm"
+updated: ""
 ---
 
+[🠔 Zur Übersicht: Förderung](5finanz.md)  
 # Auslandskredite/Auslandsdarlehen/Schweizerkredit - Der Ausweg aus der Kreditklemme beim Bauen oder Autokauf?
+**Ein UNVERBINDLICHES + UNABHÄNGIGES Informationsangebot für Ihr Kreditproblem**  
+_von Konrad Fischer_
+
+
 
 ## Ein UNVERBINDLICHES + UNABHÄNGIGES Informationsangebot für Ihr Kreditproblem
 
 Weitere Info zur Baufinanzierung und anderen Geldsorgen: 
 
-[1](5finanz.md) [2](5fin02.md) [3](5fin03.md) [4](5fin04.md) [5](5fin05.md) [6](5fin06.md) [7](5fin07.md) [8](5fin08.md) [9](5fin09.md) [10](5fin10.md) [11](5fin11.md) [12](5fin12.md) [13](5fin13.md) [14: Infolinks Finanzierung / Förderung](5fin14.md)<a id="kommunale finanzierung"></a>[15: Kommunale Haushaltssanierung](5fin15.md) <a id="gute-nacht-geschichte"></a>[16: Gute-Nacht-Geschichte zum Geld 1](5fin16.md) [17/2](5fin17.md) [18/3](5fin18.md) [19/4](5fin19.md) [20/5](5fin20.md) [21/6](5fin21.md)
+
 
 (Vorsicht: Manchmal starker Tobak zum geschwinderen Lernerfolg in unserer schnelllebigen Internetzeit.)
 
@@ -93,7 +100,7 @@ Doch warum nicht zur gewohnten Hausbank um die Ecke gehen, die Ihre ganze Famili
 
 Der ultimative Tipp für meine männlichen Leser, wenn irgendwie möglich: Lassen Sie Ihre Frau, Freundin, notfalls Mama/Mutter oder auch einigermaßen erwachsene Tochter verhandeln. Die hat oft geradezu untrügliche Gefühle im Bauch, denen machen die Bankster nicht unbedingt so schnell was vor, wie uns gefühlsversteinerten oder emotionsverholzten Männern ;-) Oder doch? 
 
-# Auslandskredite
+## Auslandskredite
 
 Auslandskredite - das bedeutet meist Fremdwährungskredit, also Darlehen in ausländischer Währung wie Schweizer Franken, japanischer Yen, US-Dollar, Australischer Dollar, Chinesischer Renminbi (Yuan), Englisches Pfund, Schwedische Krone usw. oder eben in EURO aus Liechtenstein oder Luxemburg (Letzebuerg). Sie haben unter gewissen Umständen einige Vorteile, wenn Sie unbedingt einen Kredit brauchen und sich verschulden wollen bzw. müssen. Fremdwährungskredite werden im Privatbereich normalerweise ausschließlich zur Hypothekenfinanzierung aufgenommen, während große Firmen mit diesem Mittel ganz selbstverständlich arbeiten. Man kann Auslandskredite in Fremdwährungen nach tagesaktueller Umrechnung oder auch direkt in Euro bekommen, gerade bei der Immobilienfinanzierung vermittelt von deutschen Banken / Hausbanken (die freilich den möglicherweise vorhandenen Zinsvorteil nicht in vollem Umfang weitergeben, man hätte es auch nie anders erwartet, oder?), selbständigen oder bankabhängigen Kreditvermittlern bzw. Kredithaien - für die das Gleiche wie bei deutschen Bänkern gilt - oder direkt bei ausländischen Banken / Bankagenturen hierzulande - die auch bei deutschen Bankpartnern im Hinterzimmer ihren - nicht nur Schwarzkoffer-Auslandsgeschäften mit Deutschen nachgehen. Oder Sie fahren ins Ausland direkt zur ausländischen Bank und verhandeln vor Ort. 
 

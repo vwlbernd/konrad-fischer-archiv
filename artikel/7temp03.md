@@ -1,16 +1,22 @@
 ---
-title: "Die Bauwerks-Temperierung - Richtig oder falsch Heizen 3"
-description: "Klimastabilisierung, Kondensationsschutz / Feuchteschutz, behagliche Raumtemperaturen oder verschimmelte Orgel und Hausschwamm im Dachgebälk."
-author: " "
+nav: "20bausto.md"
+title: "Richtig oder falsch Heizen in der Kirche - Orgeln, Holz, Feuchte, Kondensat und Kirchenheizung"
+description: "Einblick in die Problematik des Kirchenraums: Staubverschmutzung und Feuchtigkeit hinter der Orgel an der Giebelwand der Orgelempore führen zu Schäden an der Kirchenorgel."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/7temp03.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Heizen](7temper.md)  
+# Richtig oder falsch Heizen in der Kirche - Orgeln, Holz, Feuchte, Kondensat und Kirchenheizung
+**Einblick in die Problematik des Kirchenraums: Staubverschmutzung und Feuchtigkeit hinter der Orgel an der Giebelwand der Orgelempore führen zu Schäden an der Kirchenorgel.**  
+_von Konrad Fischer_
 
 ## Die Temperierung der Gebäude-Hüllflächen 3
 
-Temperierung [Start](7temper.md) - Kapitel [1 - Referenzschreiben eines Lesers zum Temperiereffekt](7temp01.md) [2 - Seit wann gibt es Temperierung? / Die Sauerei mit der Kirchenheizung](7temp02.md) **3 - Richtig oder falsch Heizen in der Kirche - Orgeln, Holz, Feuchte, Kondensat und Kirchenheizung** [4 - Strahlungsgeschichtliches](7temp04.md) [5 - Der Umschwung pro Temperierung](7temp05.md) [6 - Wie funktioniert Temperierung? / Wirkprinzip Wärmestrahlung / Trocknungseffekt / Wärmeverlust: Konvektion kontra Strahlung](7temp06.md) [7 - Sachverständigengutachten über die Mängel der Temperieranlage (Auszug) / Gesetzgeber zur Anwendung EnEV bei Strahlungsheizung - Auslegungsfragen](7temp07.md) [8 - Energieverluste? Zur Dämmung temperierter Wände / Neon-Analogon](7temp08.md) [9 - Feuchte und Temperatur an der Wand](7temp09.md) [10 - Schwedenofen, Kachelofen, Lüftungsanlage + Klimaanlage - Vorhof zur Hülle?](7temp10.md) [11 - Temperiererfolg gegen feuchte Wände und nasse Mauern / Trockenlegung](7temp11.md) [12 - Großraum, Schloß, Kirche, Saal: Übliche Fehleinschätzungen und Kaputtsanierung](7temp12.md) [13 - Temperieren im Großraum - Kirche, Saal und Halle](7temp13.md) [14 - Temperierung und Hygiene](7temp14.md) [15 - Bauteilkorrosion als Folge des Warmluftstroms - Wartungsintervalle und Heiztechnik](7temp15.md) [16 - Temperierung mittels Rohr oder Kleinkonvektor/Sockelleiste/Heizleiste/Fußleistenheizung](7temp16.md) [17 - Projektbeispiele / Schloß Veitshöchheim](7temp17.md) [18 - Einbau von Temperieranlagen - Technische Hinweise](7temp18.md) [19 - Konfiguration und Bemessung der Temperieranlage](7temp19.md) [20 - Strahlungsheizung und Fensterkonstruktion](7temp20.md) [21 - Prof. Dr. Claus Meier: Glas und die elektromagnetische Strahlung / Die Tragödie der Strahlung in der Heiztechnik - Humane Strahlungswärme ](7temp21.md) [22 - VDI-Richtlinien, DIN-Norm und falsche Prüfberichte](7temp22.md) [23 - Energieerzeugung und Wirtschaftlichkeit - Probleme der Ökoenergieen](7temp23.md) [24 - Erhaltung und/oder Umbau bestehender Heizsysteme / EnEV-Befreiung gem. § 25, Nachtabsenkung, Glas+Strahlung, Brennwert-Technik](7temp24.md) 
-[25 - Bauwerkstrocknung nach Überschwemmungs- und sonstigen Durchfeuchtungsschäden / Weitere Informationen](7temp25.md) 
 
-# 3 - Richtig oder falsch Heizen in der Kirche - 
+
+## 3 - Richtig oder falsch Heizen in der Kirche -
 Orgeln, Holz, Feuchte, Kondensat und Kirchenheizung
 
 ![Fogging / Wandverschmutzung hinter der Kirchenorgel auf der Giebelwand innen der Orgelempore / Kirchenempore](../medien/7KH03.JPG) 

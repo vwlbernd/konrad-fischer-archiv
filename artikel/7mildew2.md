@@ -1,13 +1,20 @@
 ---
-title: "Get rid with Mildew Attack - 2"
+nav: "index.md"
+title: "Mold and Mildew Attack - What to do? - Part 2"
 description: "A guide against mold fungus, dry & wet rot, woodworm, mites inside & outside of the damp wall, mortar, masonry, thermal insulation of moistured building, ..."
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/7mildew2.htm"
+updated: "27.04.2009"
 ---
+
+[🠔 Zur Übersicht: English: Old House Repair](english.md)  
+# Mold and Mildew Attack - What to do? - Part 2
+**A guide against mold fungus, dry & wet rot, woodworm, mites inside & outside of the damp wall, mortar, masonry, thermal insulation of moistured building, ...**  
+_von Konrad Fischer • aktualisiert 27.04.2009_
 
 Konrad Fischer, Architect 
 
-# Mold and Mildew Attack - What to do?
+## Mold and Mildew Attack - What to do?
 
 ## A Guide - Part 2
 

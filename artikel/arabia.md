@@ -1,21 +1,20 @@
 ---
-title: "اصلاحالبيت القديم + حفظ النصب ..."
-description: "الخبرة والمشوره والنصائح للمباني القديمة ، والتراث الثقافي والآثار التاريخي."
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "اصلاح المبانى القديمة وترميم وصيانة الاثار التاريخية"
+description: "اهلا بكم! شكرا جزيلا لزيارتكم. وهذا الموقع الذي فقط لك. ربما لم يفت الاوان؟ هنا ستجدون حرة ومستقلة وحاسمة ومثيرة معلومات عن منزلك."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/arabia.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Asia & Middle East](asia.md)  
+# اصلاح المبانى القديمة وترميم وصيانة الاثار التاريخية
+**اهلا بكم! شكرا جزيلا لزيارتكم. وهذا الموقع الذي فقط لك. ربما لم يفت الاوان؟ هنا ستجدون حرة ومستقلة وحاسمة ومثيرة معلومات عن منزلك.**  
+_von Konrad Fischer_
 
 [![Konrad Fischer](../medien/KONRAD.JPG) Dipl.-Ing. Konrad Fischer](1refernz.md) 
 
-المهندس المعماري والمهندس 
-[Hauptstrasse 50](muehle.jpg) 
-96272 [Hochstadt a. Main](http://www.hochstadt-main.de/) 
-Germany المانيا 
-Phone: +49 - *9574 / 3011 / Mobile +49 - *170 / 7351557 
-Fax: +49 - *95 74 - 49 60 
-[e-Mail](english2.md#consultation) [البريد الالكتروني](english2.md#consultation) 
-[تحقيقات](english2.md#consultation): الالمانيه والانكليزيه والفرنسية والايطاليه والاسبانيه والروسيه والرومانيه والاسكندنافيه. 
-اجابات باللغه الالمانيه او الانكليزيه. 
+
 
 ---
 
@@ -156,7 +155,7 @@ Konrad Fischer and staff employees.كونراد فيشر والموظفين ال
 
 الترجمة الاليه من : www.international.icomos.org/e_venice.htm 
 
-# ****ميثاق البندقي****
+## ****ميثاق البندقي****
 
 <center markdown>
 

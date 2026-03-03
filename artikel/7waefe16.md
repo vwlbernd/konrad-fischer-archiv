@@ -1,20 +1,20 @@
 ---
-title: "Wohnungsbestand und Wärmeschutz 5"
-description: "Energiesparen - aber richtig! Prof. Meiers kontroverse Beiträge zum Dämmwahn 16."
-author: " "
+nav: "7epass.md"
+title: "DIN Normen unverbindlich? Vertragsrecht & allgemein anerkannte Regeln der Technik - Wohnungsbestand, Wohnungswesen und Wärmeschutz 5"
+description: "DIN Normen unverbindlich? Eine Analyse des Vertragsrechts & allg. anerkannter Regeln der Technik im Wohnungsbestand und Wärmeschutz. Veröffentlicht in Wohnen, 2/2000."
+author: "Prof. Dr.-Ing. habil. Claus Meier"
 original_url: "www.konrad-fischer-info.de/7waefe16.htm"
+updated: "01.02.2000"
 ---
 
-# Prof. Meiers kontroverse Beiträge zum Energiesparen 16
+[🠔 Zur Übersicht: Wärmeschutz](7waefe12.md)  
+# DIN Normen unverbindlich? Vertragsrecht & allgemein anerkannte Regeln der Technik - Wohnungsbestand, Wohnungswesen und Wärmeschutz 5
+**DIN Normen unverbindlich? Eine Analyse des Vertragsrechts & allg. anerkannter Regeln der Technik im Wohnungsbestand und Wärmeschutz. Veröffentlicht in Wohnen, 2/2000.**  
+_von Prof. Dr.-Ing. habil. Claus Meier • aktualisiert 01.02.2000_
 
-[Das malträtierte Haus - zum Dämmschwindel und Energiepaß-Betrug](7epass.md) 
-[Contra EnEV](7waefe.md) 
-<a id="wärme- und feuchteschutz beim"></a>[Wärme- und Feuchteschutz beim Altbau - Theorie und Wirklichkeit 1](7waefe02.md#wãâ¤rme- und feuchteschutz beim) [2](7waefe03.md) [3](7waefe04.md) [4](7waefe05.md) [5](7waefe06.md) [6](7waefe07.md) [7](7waefe08.md) [ 8](7waefe09.md) 
-<a id="verbundsysteme für die fassade: kritisch"></a>[Verbundsysteme für die Fassade-kritisch betrachtet 1](7waefe10.md) [2](7waefe11.md) 
-<a id="wohnungsbaubestand und wärmeschutz"></a>[Wohnungsbaubestand und Wärmeschutz 1](7waefe12.md#wohnungsbaubestand und wãâ¤rmeschutz) [2](7waefe13.md) [3](7waefe14.md) [4](7waefe15.md) **5** [6](7waefe17.md) [7](7waefe18.md) 
-<a id="rechtliche randbedingungen des gebäudewärmeschutzes"></a>[Rechtliche Randbedingungen des Gebäudewärmeschutzes 1](7waefe19.md) [2](7waefe20.md) [3](7waefe21.md) 
-<a id="niedrigenergie- und passivhäuser im kreuzfeuer"></a>[Niedrigenergie- und Passivhäuser im Kreuzfeuer/Contra Passivhaus 1](7waefe22.md#niedrigenergie- und passivhãâ¤user im kreuzfeuer) [2](7waefe23.md) [3](7waefe24.md) [4](7waefe25.md) [5](7waefe26.md) [6](7waefe27.md) [7](7waefe28.md) [8](7waefe29.md) [9](7waefe30.md) [10](7waefe31.md) [11](7waefe32.md) 
-<a id="widersprüche im wärmeschutz"></a>[Widersprüche im Wärmeschutz - Die allgegenwärtige k/U-Wert Euphorie 1](7waefe33.md#widersprãâ¼che im wãâ¤rmeschutz) [2](7waefe34.md) 
+## Prof. Meiers kontroverse Beiträge zum Energiesparen 16
+
+
 
 Prof. Dr.-Ing. habil. Claus Meier 
 Architekt SRL 

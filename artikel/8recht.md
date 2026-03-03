@@ -1,15 +1,22 @@
 ---
+nav: "index.md"
 title: "Der Bauherr und sein Recht - Licht im Vertragswirrwarr!"
-description: "Andreas Büchs: Bauvertrag + VOB/B (Vergabe- und Vertragsordnung für Bauleistungen) – Zusammenhänge und Besonderheiten."
-author: " "
+description: "Der Bauvertrag und die VOB/B (Vergabe- und Vertragsordnung für Bauleistungen) – Zusammenhänge und Besonderheiten"
+author: "Andreas Büchs"
 original_url: "www.konrad-fischer-info.de/8recht.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Quellen](8infober.md)  
+# Der Bauherr und sein Recht - Licht im Vertragswirrwarr!
+**Der Bauvertrag und die VOB/B (Vergabe- und Vertragsordnung für Bauleistungen) – Zusammenhänge und Besonderheiten**  
+_von Andreas Büchs_
 
 Ein Fachaufsatz zum Problem der Vergabeordnung, Ausschreibung und Leistungsbeschreibung - auch im Altbau eine superkritische Herausforderung für jeden Bauherrn, der ja nicht nur für Scheidungsrecht in Ehefragen, für [Versicherungsrecht beim Gebäudebrand](versicherung.md) oder im Blitzerfall zum Verkehrsrecht einen vertrauenswürdigen und erfahrenen Anwalt und [Rechtsberater](http://rechtsberater-deutschland.de/), sondern eben auch in baurechtlichen Belangen zumindest in Deutschland kaum noch ohne kompetente Rechtsberatung und -vertretung in Streitsachen auskommt: 
 
 Andreas Büchs 
 
-# Der Bauherr und sein Recht - Licht im Vertragswirrwarr!
+
 
 Der Bauvertrag und die VOB/B (Vergabe- und Vertragsordnung für Bauleistungen) – Zusammenhänge und Besonderheiten 
 

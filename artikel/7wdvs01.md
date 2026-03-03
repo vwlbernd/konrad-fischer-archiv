@@ -1,23 +1,28 @@
 ---
-title: "Energiesparen und Wärmedämmung am Altbau 1a"
+nav: "20bausto.md"
+title: "Energiesparen und Wärmeschutz am Altbau 1a - Wie sollen wir richtig bauen?"
 description: "Ökowahn, Umweltpolitik und Passivhaus"
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/7wdvs01.htm"
+updated: "04.04.2009"
 ---
+
+[🠔 Zur Übersicht: Energiesparen](7wsvoant.md)  
+# Energiesparen und Wärmeschutz am Altbau 1a - Wie sollen wir richtig bauen?
+**Ökowahn, Umweltpolitik und Passivhaus**  
+_von Konrad Fischer • aktualisiert 04.04.2009_
 
 _[Konrad Fischer](1refernz.md)_
 
 ## Energiesparen und Wärmeschutz am Altbau 1a - Wie sollen wir richtig bauen?
 
-Von der Intelligenz moderner Baumethoden/Haustechnik/Schimmelpilzzüchtung usw. 
-Wissenschaftsdogmatik am Bau und in den Klima-Simulatoren 
-Energiesparen und Wärmeschutz Kapitel [Einleitung](7wsvoant.md) **1a** [2](7wdvs02.md) [3](7wdvs03.md) [4](7wdvs04.md) [5](7wdvs05.md) [6](7wdvs06.md) [7](7wdvs07.md) [8](7wdvs08.md) [9](7wdvs09.md) [10](7wdvs10.md) [11](7wdvs11.md) [12](7wdvs12.md) [13](7wdvs13.md) [14](7wdvs14.md) [15](7wdvs15.md) [16](7wdvs16.md) [17](7wdvs17.md) [18](7wdvs18.md) [19](7wdvs19.md) [20](7wdvs20.md) [21](7wdvs21.md) 
+
 
 **(aktualisiert 4.04.09)** 
 
 Vorsicht - jetzt kommt´s dicke:
 
-# Vom Ökowahn
+## Vom Ökowahn
 
 Betrachten wir den Ökowahn mal dogmengeschichtlich: Das gerade Deutschland schockierende 20. Jahrhundert hat eine mutlose Gesellschaft, die eigentlich an gar nichts mehr glaubt, hinterlassen. Die Verwüstungen im Zeichen der globalen Kapitalverwertungsinteressen (Geldrettung durch Weltrettung!) entfesselten einen fortschrittsfeindlichen Antikapitalismus/-globalismus, der auf die "häßliche" Wirklichkeit mit totalem Ökologismus antwortet - im Stile idyllisch verklärter überkommener Produktionsverhältnisse: Nostalgie/Retro a la Steinzeit, verbrämt mit energetisch sinnlosem, subventionsbedürftigem Solarhightech auf naturverschandelnden Windradmasten (übrigens eine Thüringer Naziinnovation des Gauleiters Sauckel). Wärmestrahlung (mit den Faktoren Wellenlänge, Emission, Absorption, Reflexion, Lichtgeschwindigkeit) wird nach den Gesetzen der (Wasser?)-Leitung und Thermodynamik fehlgedeutet und mit unzutreffendem Wärmeleitungsgeformel unter [wirkungsloses Dämmstoffregime](7fehrtab.md) gestellt. Die Bauphysik der Einfaltspinsel hilft dazu mittels normverblödetetem Rechengewirr, dessen Abschreckungspotential die Kritik am Barackenbau abwehrt. Im übertragenen Sinn fordert man Atomkraftwerke mit Strickjäckchen zu ummanteln - anstelle absorbtionsfähiger Stahlbetonwände. Das romantische Motto: "Die Phantasie an die Macht" (Novalis) heißt nun: "Pseudo-Ökotechnik an die Macht", die agressive Mission findet dafür Jünger von schwarz über braun bis rot. Dabei müßte es heißen: ÖKO ja, aber richtig!
 

@@ -1,13 +1,20 @@
 ---
-title: "Brandschutz im Baudenkmal - praktisch umsetzbar und denkmalgerecht 3"
+nav: "20bausto.md, 2baustof.md"
+title: "Brandschutz im Baudenkmal - Technische Ertüchtigung"
 description: "Hinweise zu den typischen Brandgefahren und Lösungsmöglichkeiten des Brandschutzes am Baudenkmal."
-author: " "
+author: "Dipl.-Ing. Sylwester Kabat"
 original_url: "www.konrad-fischer-info.de/6brand3.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Brandschutz Altbau](6brand.md)  
+# Brandschutz im Baudenkmal - Technische Ertüchtigung
+**Hinweise zu den typischen Brandgefahren und Lösungsmöglichkeiten des Brandschutzes am Baudenkmal.**  
+_von Dipl.-Ing. Sylwester Kabat_
 
 Dipl.-Ing. Sylwester Kabat 
 
-# Brandschutz im Baudenkmal – 
+## Brandschutz im Baudenkmal –
 
 Praktisch umsetzbar und denkmalgerecht 3 
 

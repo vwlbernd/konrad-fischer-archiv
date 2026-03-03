@@ -1,17 +1,24 @@
 ---
-title: "Svindleri med den opstigende fugt 7"
-description: "Kontrovers med opstigende fugt: Efterfølgende horisontalisolering fugter murerne."
-author: " "
+nav: "index.md"
+title: "Opstigende fugt og fugtspærre mod opstigende fugt på sokkel og vægge?"
+description: "Kritisk analyse af 'opstigende fugt' og effektiviteten af horisontalspærre i historiske bygninger. Forskning viser, at salte og hygroskopitet ofte er de primære årsager til fugtskader, ikke opstigende fugt."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2aufdk7.htm"
+updated: ""
 ---
 
-# Opstigende fugt og fugtspærre mod opstigende fugt på sokkel og vægge? 
+[🠔 Zur Übersicht: Fugt-Svindel 1](2auffdk.md)  
+# Opstigende fugt og fugtspærre mod opstigende fugt på sokkel og vægge?
+**Kritisk analyse af 'opstigende fugt' og effektiviteten af horisontalspærre i historiske bygninger. Forskning viser, at salte og hygroskopitet ofte er de primære årsager til fugtskader, ikke opstigende fugt.**  
+_von Konrad Fischer_
+
+
 
 Information og oplysning 
 
 Kapitel 6
 
-## [Kap. 1](2auffdk.md) [2](2aufdk2.md) [3](2aufdk3.md) [4](2aufdk4.md) [5](2aufdk5.md) [6](2aufdk6.md) **7** [8](2aufdk8.md)
+
 
 
 

@@ -1,10 +1,10 @@
 # Magst Du Architektenskizzen, Zeichungen oder Aquarelle von Kirchen, Tempeln, Moscheen, Burgen, Ruinen und Schlössern, Menschen, Bauernhäusern, Bürgerhäsern, Baudenkmälern, antiken Trümmern, Brücken, Toren, Städten, Wolken, Gebirgen, Flüssen, Meeren und Landschaften?
 
-# Dann bist Du hier richtig! FÜR DICH / FOR YOU - Mein Geschenk / My Present:
+## Dann bist Du hier richtig! FÜR DICH / FOR YOU - Mein Geschenk / My Present:
 
 [![Reiseskizzen-Kalender / Calendar 2008 - In der Toskana - Pomerance/San Dalmazio/Sillano: Pieve di San Giovanni Battista](../medien/KAL08.JPG)](../medien/KAL08.PDF) 
 
-# Ein 4MB PDF-Download-Wand-Kalender / Calendar 2008 - In der Toskana / Tuscany
+## Ein 4MB PDF-Download-Wand-Kalender / Calendar 2008 - In der Toskana / Tuscany
 
 ## mit meinen Reiseskizzen aus Italien 2007 / 
 with my travel drawings / water color paintings from Italy 2008 

@@ -1,17 +1,42 @@
 ---
-title: "Stahlbeton"
-description: "Beton - Spitzenbaustoff? kritischer Artikel, Stellungnahmen und Kommentare zum angeblichen Jahrhundertbaustoff."
-author: " "
+nav: "20bausto.md"
+title: "Stahlbeton und Zement – Jahrhundertbaustoff oder Sanierungsfalle?"
+description: "Eine kritische Analyse der Langzeitbeständigkeit von Beton. Erfahren Sie, warum der einstige „Spitzenbaustoff“ oft vorzeitig versagt und welche Probleme Zement in der Denkmalpflege und im Wohnungsbau verursacht."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2beton.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Altbau Restaurierung](20bausto.md)  
+# Stahlbeton und Zement – Jahrhundertbaustoff oder Sanierungsfalle?
+**Eine kritische Analyse der Langzeitbeständigkeit von Beton. Erfahren Sie, warum der einstige „Spitzenbaustoff“ oft vorzeitig versagt und welche Probleme Zement in der Denkmalpflege und im Wohnungsbau verursacht.**  
+_von Konrad Fischer_
 
 <a id="11. der stahlbeton und der zement"></a>
 
-# Der Stahlbeton und der Zement 1
+## Der Stahlbeton und der Zement 1
 
 Inhaltsverzeichnis der Betonkapitel 
 
-**1: Stahlbetonbau - Spitzenarchitektur?** [2: Betonschäden durch schlechte Baustoffqualität](2beton02.md) [3: Baustoff und Baupfusch für eine Sklavenhaltergesellschaft?](2beton03.md) [4: Macht Betonieren krank und sichert Arbeitsplätze?](2beton04.md) [5: Betonbau - eine Sakralbauweise?](2beton05.md) [6: Betonsanierung + Zementberatung, zerstörungsarm untersuchen, Tiefgarage, Nitrat + Chlorid](2beton06.md) [7: Balkonien](2beton07.md) [8: Sichtbeton!](2beton08.md) [9: Betonbauschäden](2beton09.md) [10: Betonbrücken](2beton10.md) [11: Beton-Architekturphantasien](2beton11.md) [12: Materialdetails und Materialheimtücke](2beton12.md) [13: Stahlbeton und Krebsalarm](2beton13.md) [14: Stahlbeton-Merksätze](2beton14.md) [15: Einiges zum Zement](2beton15.md) [16: Zement - ein unreiner Baustoff](2beton16.md) 
+> [!abstract]+ Kapitelübersicht: Stahlbeton  
+> 1. **Stahlbeton und Zement – Jahrhundertbaustoff oder Sanierungsfalle?**
+> 2. [Betonschäden durch schlechte Baustoffqualität](2beton02.md)
+> 3. [Baustoff und Baupfusch für eine Sklavenhaltergesellschaft?](2beton03.md)
+> 4. [Macht Betonieren krank? Folgen moderner Bauweise](2beton04.md)
+> 5. [Betonbau als Sakralbauweise? – Zwischen Kult und Bauschaden](2beton05.md)
+> 6. [Betonsanieren und die Zementberatung](2beton06.md)
+> 7. [Balkonien](2beton07.md)
+> 8. [Sichtbeton!](2beton08.md)
+> 9. [Bauschäden an Betonfassaden und sonstigen Betonbauteilen - Literatur](2beton09.md)
+> 10. [Stahlbeton an Brücken](2beton10.md)
+> 11. [Architekturphantasien aus Stahlbeton - Der Turmbau von Babel](2beton11.md)
+> 12. [Materialtücke Beton: Wenn die Bauchemie zur Zeitbombe wird](2beton12.md)
+> 13. [Stahlbeton und Krebsalarm](2beton13.md)
+> 14. [Die Stahlbeton-Merksätze](2beton14.md)
+> 15. [Zement: Der schmutzige Mythos vom sauberen Baustoff](2beton15.md)
+> 16. [Zement – Ein unreiner Baustoff?](2beton16.md)
+
+
 
 ![](../medien/BETOLY.JPG) 
 Preisgekrönte Architektur: 

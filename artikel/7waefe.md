@@ -1,20 +1,20 @@
 ---
-title: "Contra EnEV"
-description: "Energiesparen - aber richtig! Prof. Meiers kontroverse Beiträge zum Dämmwahn 1."
-author: " "
+nav: "7epass.md"
+title: "Contra EnEV 2000"
+description: "Kritische Auseinandersetzung mit der EnEV 2000: Der Autor beleuchtet fragwürdige Inhalte und Methoden sowie die resultierende Verunsicherung und Irreführung bei der energetischen Ertüchtigung von Baubeständen."
+author: "Claus Meier"
 original_url: "www.konrad-fischer-info.de/7waefe.htm"
+updated: "01.02.1999"
 ---
 
-# Prof. Meiers kontroverse Beiträge zum Energiesparen 1
+[🠔 Zur Übersicht: Das malträtierte Haus](7epass.md)  
+# Contra EnEV 2000
+**Kritische Auseinandersetzung mit der EnEV 2000: Der Autor beleuchtet fragwürdige Inhalte und Methoden sowie die resultierende Verunsicherung und Irreführung bei der energetischen Ertüchtigung von Baubeständen.**  
+_von Claus Meier • aktualisiert 01.02.1999_
 
-[Das malträtierte Haus - zum Dämmschwindel und Energiepaß-Betrug](7epass.md) 
-**Contra EnEV** 
-<a id="wärme- und feuchteschutz beim"></a>[Wärme- und Feuchteschutz beim Altbau - Theorie und Wirklichkeit 1](7waefe02.md#wãâ¤rme- und feuchteschutz beim) [2](7waefe03.md) [3](7waefe04.md) [4](7waefe05.md) [5](7waefe06.md) [6](7waefe07.md) [7](7waefe08.md) [ 8](7waefe09.md) 
-<a id="verbundsysteme für die fassade: kritisch"></a>[Verbundsysteme für die Fassade-kritisch betrachtet 1](7waefe10.md#verbundsysteme fã¼r die fassade: kritisch#verbundsysteme fãâ¼r die fassade: kritisch) [2](7waefe11.md) 
-<a id="wohnungsbaubestand und wärmeschutz"></a>[Wohnungsbaubestand und Wärmeschutz 1](7waefe12.md#wohnungsbaubestand und wãâ¤rmeschutz) [2](7waefe13.md) [3](7waefe14.md) [4](7waefe15.md) [5](7waefe16.md) [6](7waefe17.md) [7](7waefe18.md) 
-<a id="rechtliche randbedingungen des gebäudewärmeschutzes"></a>[Rechtliche Randbedingungen des Gebäudewärmeschutzes 1](7waefe19.md#rechtliche randbedingungen des gebãâ¤udewãâ¤rmeschutzes) [2](7waefe20.md) [3](7waefe21.md) 
-<a id="niedrigenergie- und passivhäuser im kreuzfeuer"></a>[Niedrigenergie- und Passivhäuser im Kreuzfeuer/Contra Passivhaus 1](7waefe22.md#niedrigenergie- und passivhãâ¤user im kreuzfeuer) [2](7waefe23.md) [3](7waefe24.md) [4](7waefe25.md) [5](7waefe26.md) [6](7waefe27.md) [7](7waefe28.md) [8](7waefe29.md) [9](7waefe30.md) [10](7waefe31.md) [11](7waefe32.md) 
-<a id="widersprüche im wärmeschutz"></a>[Widersprüche im Wärmeschutz - Die allgegenwärtige k/U-Wert Euphorie 1](7waefe33.md#widersprãâ¼che im wãâ¤rmeschutz) [2](7waefe34.md) 
+## Prof. Meiers kontroverse Beiträge zum Energiesparen 1
+
+
 
 Prof. Dr.-Ing. habil. Claus Meier 
 Architekt SRL 
@@ -34,10 +34,10 @@ Die Statements sollten nicht "Pro & Contra", sondern "falsch oder richtig" heiß
 <center markdown>
 
 Konrad Fischer: Fassaden energetisch richtig und kostensparend sanieren 1 
-[![Fassaden energetisch richtig sanieren](../medien/YOU04.JPG)](http://youtu.be/OpbEO8kV-PU) 
+[![Fassaden energetisch richtig sanieren](../medien/YOU04.JPG)](https://youtu.be/OpbEO8kV-PU) 
 [Teil 2](http://www.youtube.com/watch?v=Y1NSxAW15Cc) [Teil 3](http://www.youtube.com/watch?v=RAT7VzBo8k0) [Teil 4](http://www.youtube.com/watch?v=6TBII25iVQk) [Teil 5](http://www.youtube.com/watch?v=Kb0C4KiZvVA) 
 
-[![BR-Geld & Leben Wärmedämmung + Wirtschaftlichkeit am 24.01.2011 mit Konrad Fischer](../medien/YOU03.JPG)](http://youtu.be/tjHIOrnSFso) 
+[![BR-Geld & Leben Wärmedämmung + Wirtschaftlichkeit am 24.01.2011 mit Konrad Fischer](../medien/YOU03.JPG)](https://youtu.be/tjHIOrnSFso) 
 
 </center>
 

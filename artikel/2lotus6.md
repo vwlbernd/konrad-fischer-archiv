@@ -1,13 +1,20 @@
 ---
-title: "Schmutz-, wasser- und energieverlustabweisende Wunderanstriche 6"
-description: "Dämmfarben und Lotuseffekt sorgen für Verunsicherung des Farbenkunden. Der Malerzeitschrift Die Mappe 10/99 und ÖKO-TEST 8/2000 bringen Aufklärung."
-author: " "
+nav: "20bausto.md, 22bausto.md"
+title: "Hydrophobierte Kunstharzfarben 6: Wunderbaustoff oder Fassadenpest?"
+description: "Produktversprechungen der Farben und Beschichtungen mit wasserabweisenden und selbstreinigenden Effekten kritisch betrachtet."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2lotus6.htm"
+updated: "11.06.2008"
 ---
+
+[🠔 Zur Übersicht: Kunstharzfarben I](2lotus.md)  
+# Hydrophobierte Kunstharzfarben 6: Wunderbaustoff oder Fassadenpest?
+**Produktversprechungen der Farben und Beschichtungen mit wasserabweisenden und selbstreinigenden Effekten kritisch betrachtet.**  
+_von Konrad Fischer • aktualisiert 11.06.2008_
 
 Konrad Fischer 
 
-# Hydrophobierte oder gar selbstreinigende Kunstharzfarben 6 - 
+## Hydrophobierte oder gar selbstreinigende Kunstharzfarben 6 -
 
 Wunderbaustoff oder Fassadenpest? 
 
@@ -34,5 +41,3 @@ _[...] Erst nach ca. 30 Tagen setzt der Lotuseffekt ein. Wichtig ist auch, daß 
 [Weiter ...](2lotus7.md) 
 
 Noch Fragen? [Hier!](2frag.md)
-
-[Wunderfarben Kapitel 1](2lotus.md) [Wunderfarben Kapitel 2](2lotus2.md) [Wunderfarben Kapitel 3](2lotus3.md) [Wunderfarben Kapitel 4](2lotus4.md) [Wunderfarben Kapitel 5](2lotus5.md) **Wunderfarben Kapitel 6** [Wunderfarben Kapitel 7](2lotus7.md) [Wunderfarben Kapitel 8](2lotus8.md)

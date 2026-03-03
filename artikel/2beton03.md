@@ -1,19 +1,26 @@
 ---
-title: "Der Stahlbeton und der Zement - Betonschaden 3"
-description: "Baustoff und Baupfusch für eine Sklavenhaltergesellschaft?"
-author: " "
+nav: "20bausto.md"
+title: "Baustoff und Baupfusch für eine Sklavenhaltergesellschaft?"
+description: "Der Artikel beleuchtet, wie unehrliche Baustoffinformation und ruinöser Preiswettkampf das Marktgeschehen diktieren, entgegen etablierter Bauphysik und Öko-Ansichten, was zu schlechten Betonbauwerken führt."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2beton03.htm"
+updated: ""
 ---
 
-# Der Stahlbeton und der Zement 3
+[🠔 Zur Übersicht: Stahlbeton](2beton.md)  
+# Baustoff und Baupfusch für eine Sklavenhaltergesellschaft?
+**Der Artikel beleuchtet, wie unehrliche Baustoffinformation und ruinöser Preiswettkampf das Marktgeschehen diktieren, entgegen etablierter Bauphysik und Öko-Ansichten, was zu schlechten Betonbauwerken führt.**  
+_von Konrad Fischer_
+
+## Der Stahlbeton und der Zement 3
 
 Inhaltsverzeichnis der Betonkapitel 
 
-[1: Stahlbetonbau - Spitzenarchitektur?](2beton.md) [2: Betonschäden durch schlechte Baustoffqualität](2beton02.md) **3: Baustoff und Baupfusch für eine Sklavenhaltergesellschaft?** [4: Macht Betonieren krank und sichert Arbeitsplätze?](2beton04.md) [5: Betonbau - eine Sakralbauweise?](2beton05.md) [6: Betonsanierung + Zementberatung, zerstörungsarm untersuchen, Tiefgarage, Nitrat + Chlorid](2beton06.md) [7: Balkonien](2beton07.md) [8: Sichtbeton!](2beton08.md) [9: Betonbauschäden](2beton09.md) [10: Betonbrücken](2beton10.md) [11: Beton-Architekturphantasien](2beton11.md) [12: Materialdetails und Materialheimtücke](2beton12.md) [13: Stahlbeton und Krebsalarm](2beton13.md) [14: Stahlbeton-Merksätze](2beton14.md) [15: Einiges zum Zement](2beton15.md) [16: Zement - ein unreiner Baustoff](2beton16.md) 
+
 
 ---
 
-# 3 Baustoff und Baupfusch für eine Sklavenhaltergesellschaft?
+## 3 Baustoff und Baupfusch für eine Sklavenhaltergesellschaft?
 
 Solange die Baustoffinformation sich nicht auf Ehrlichkeit und Qualitätsbewußtsein besinnt - durchaus gegen die herrschende Meinung der etablierten Bauphysik, Ökoapostel und Klimaapokalyptik - wird das Marktgeschehen weiter vom ruinösen Preiswettkampf diktiert. Und eines scheint sicher: Sklavenfabriken der 3. und 4. Welt können Dreckzement noch billiger auf den Markt schmeißen, Sklaventrupps schlechte Betonbauwerke noch schneller hochziehen - wie schon in den gastarbeitergeprägten 60ern, heute in Berlin und anderswo. Ist das gewollt? Besseres Bauen ist mit derart fehlgeleitetem Marketing bestimmt nicht zu haben.
 

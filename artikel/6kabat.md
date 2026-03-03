@@ -1,13 +1,20 @@
 ---
-title: "Dipl.-Ing.Sylwester Kabat: Brandschutz in historischen Bauten 1"
-description: "Praxis Ratgeber der Deutschen Burgenvereinigung zum Brandschutz im Altbau."
-author: " "
+nav: "20bausto.md, 2baustof.md"
+title: "Warum Brandschutz im Altbau?"
+description: "Praxisratgeber zum vorbeugenden Brandschutz in historischen Bauten der Deutschen Burgenvereinigung."
+author: "Dipl.-Ing. Sylwester Kabat"
 original_url: "www.konrad-fischer-info.de/6kabat.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Brandschutz Altbau](6brand.md)  
+# Warum Brandschutz im Altbau?
+**Praxisratgeber zum vorbeugenden Brandschutz in historischen Bauten der Deutschen Burgenvereinigung.**  
+_von Dipl.-Ing. Sylwester Kabat_
 
 ## Dipl.-Ing. Sylwester Kabat
 
-# Brandschutz in historischen Bauten / im Altbau 1 
+## Brandschutz in historischen Bauten / im Altbau 1
 
 Ein DBV-Praxisratgeber zum Vorbeugenden Brandschutz
 
@@ -28,7 +35,7 @@ BEIRAT FÜR DENKMALERHALTUNG **
 **Dipl.-Ing. Sylwester Kabat 
 Brandschutz in historischen Bauten 1**
 
-**Seite 1** [2](6kabat2.md) [3](6kabat3.md) [4](6kabat4.md) [5](6kabat5.md) [6](6kabat6.md) [7](6kabat7.md)
+
 
 **1. Warum Brandschutz im Altbau?**
 

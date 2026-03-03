@@ -1,11 +1,18 @@
 ---
-title: "Spannende Bau-Umfragen"
+nav: "index.md"
+title: "Die Seite mit den wirklich spannenden Bau-Umfragen"
 description: "Ihre Meinung ist gefragt: Spannende Online-Umfragen im Bauwesen."
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/umfrage.html"
+updated: ""
 ---
 
+[🠔 Zur Übersicht: Pfusch-Anleitung (Satire)](altbau.md)  
 # Die Seite mit den wirklich spannenden Bau-Umfragen
+**Ihre Meinung ist gefragt: Spannende Online-Umfragen im Bauwesen.**  
+_von Konrad Fischer_
+
+
 
 ## Bitte geben Sie Ihre Stimme ab 
 Keine Angst - alles anonym!

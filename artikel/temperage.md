@@ -1,11 +1,18 @@
 ---
-title: "Bon ou mauvais chauffer? - Le système de tempérage"
-description: "CVC / Le système de tempérage de la surface intérieur des bâtiments - Économiser de l'énergie, l'habitat sain et pas de moisissures - Améliorer le climat intérieur, l'Entretien et la Conservation des vieux Bâtiments et les Intérieurs Historiques de Monuments Patrimoniaux via une Système Chauffant pour le réchauffement de / tempérer la surface extérieure des bâtiments - les Exemples"
-author: " "
+title: Le système de tempérage contre le déperdition thermique de l'enveloppe du bâtiment
+description: Le système de tempérage pour surface intérieure des bâtiments: économie d'énergie, habitat sain, prévention moisissures. Améliore climat intérieur, entretien et conservation de monuments historiques par chauffage de surface (IR). Exemples.
+author: Konrad Fischer
+updated: ""
+nav: "index.md, 6prxratg.md"
 original_url: "www.konrad-fischer-info.de/temperage.htm"
 ---
 
-# Le système de tempérage contre le déperdition thermique de l'enveloppe du bâtiment 
+[🠔 Zur Übersicht: Roman & Balkan](roman.md)  
+# Le système de tempérage contre le déperdition thermique de l'enveloppe du bâtiment
+**Le système de tempérage pour surface intérieure des bâtiments: économie d'énergie, habitat sain, prévention moisissures. Améliore climat intérieur, entretien et conservation de monuments historiques par chauffage de surface (IR). Exemples.**  
+_von Konrad Fischer_
+
+
 Le bon et le mauvais système de chauffage / CVC
 
 ## La conservation du bâtiment et le climat intérieur parfait sans la ventilation et le chauffage par convection 

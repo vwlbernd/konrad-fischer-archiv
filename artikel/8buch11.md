@@ -1,32 +1,26 @@
 ---
-title: "5\. Kirche/Kloster/Theologie 2"
-description: "Gute, kluge, kontroverse, freche, unbekannte Literatur, Rezensionen, Verlage, Quellen, Bücher, Zeitschriften, Zitate, Links 11."
-author: " "
+title: "Literatur/Bücher 11 - 5. Kirche / Kloster / Theologie 2"
+description: "Eine Sammlung kontroverser Literatur und Rezensionen zu Kirche, Kloster und Theologie, mit Fokus auf Fra Angelico, Paulus-Forschung und der Cäsar-Jesus-Hypothese, sowie Empfehlungen und Links."
+author: "Konrad Fischer"
+updated: "06.04.2009"
+nav: "index.md, 8infober.md"
 original_url: "www.konrad-fischer-info.de/8buch11.htm"
 ---
 
 
 
+[🠔 Zur Übersicht: Literatur Altbau I](8buch.md)  
 # Literatur/Bücher 11 - 5. Kirche / Kloster / Theologie 2
+**Eine Sammlung kontroverser Literatur und Rezensionen zu Kirche, Kloster und Theologie, mit Fokus auf Fra Angelico, Paulus-Forschung und der Cäsar-Jesus-Hypothese, sowie Empfehlungen und Links.**  
+_von Konrad Fischer • aktualisiert 06.04.2009_
+
+
 
 (Vorsicht, nicht immer absolut zeitgeistig - (oder doch schon?)!) 
 
 **(aktualisiert 6.04.09)** 
 
-**Inhalt** : [1.Bücher/Zeitschriften/Informationsreihen/Internetlinks](8buch.md#bã¼cher/zeitschriften/informationsreihen/internetlinks) 
-[2. Denkmalpflege/Altbausanierung 1](8buch.md#denkmalpflege/altbausanierung) [2](8buch02.md) [3](8buch03.md) [4](8buch04.md) [5](8buch05.md) [6](8buch06.md) [7](8buch07.md) 
-[3. Bauwesen allgemein](8buch08.md) 
-[4. Burg/Schloß/Wehr- und Waffentechnik](8buch09.md) 
-[5. Kirche/Kloster/Theologie/Schönes und Unbequemes 1](8buch10.md) **2** [3](8buch12.md) [4](8buch13.md) [5](8buch14.md) 
-[6. Geschichte/Gesellschaft/Korruption/Mafia/Geschichtsfälschung/Kultur/Wissenschaft allgemein 1](8buch15.md) [2](8buch16.md) [3](8buch17.md) [4](8buch18.md) [5](8buch19.md) [6](8buch20.md) [7](8buch21.md) 
-[7. Umwelt/Klima/Energie 1](8buch22.md) [2](8buch23.md) 
-[8. Literaturrecherche und -bestellung](8buch24.md) 
-[9. Preiswerte Bücher/Modernes Antiquariat/Suche nach antiquarischen Büchern/Eigene Bücher verkaufen](8buch24.md#preiswerte) 
-[10. Hungrig nach schönen Bildern?](8buch24.md#hungrig) 
-[11. Ausführliche Rezensionen von Konrad Fischer und Gastautoren](8buch24.md#ausfã¼hrliche) 
-[12. Aufsätze zur Denkmalpflege](8buch25.md) 
-[13. Verlagskontakte](8buch25.md#verlagskontakte) 
-[14. Quellen/Links zu historischen Themen / Altertumswissenschaft / Theologie / Philosophie / Mythologie](8buch25.md#quellen/links) 
+
 
 <a id="umwelt/energie"></a> 
 

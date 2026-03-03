@@ -1,11 +1,18 @@
 ---
-title: "Fliesenbilder von Kindern - Die neue Geschenkidee"
-description: "Fliesenbilder von Kindern - Die Geschenkidee. Was schenkt der Architekt oder Handwerker der Bauherrnfamilie zum Einzug, der Mann der Frau und Mutter zum ..."
-author: " "
+nav: "index.md"
+title: "Fliesenbilder von Kindern - Die Geschenkidee"
+description: "Eine ungewöhnliche und schöne Idee: Schenken Sie einzigartige Bilderfliesen. Fachgerecht mit von einer Glasmalermeisterin (übrigens meine Schwester Erika) aufgemalten und eingebrannten Bildern nach Ihren Kinderzeichnungen."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/1fliesn.htm"
+updated: ""
 ---
 
+[🠔 Zur Übersicht: Über Konrad Fischer](1refernz.md)  
 # Fliesenbilder von Kindern - Die Geschenkidee
+**Eine ungewöhnliche und schöne Idee: Schenken Sie einzigartige Bilderfliesen. Fachgerecht mit von einer Glasmalermeisterin (übrigens meine Schwester Erika) aufgemalten und eingebrannten Bildern nach Ihren Kinderzeichnungen.**  
+_von Konrad Fischer_
+
+
 
 ## Was schenkt 
 der Architekt oder Handwerker der Bauherrnfamilie zum Einzug, 

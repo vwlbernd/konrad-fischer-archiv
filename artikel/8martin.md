@@ -1,15 +1,22 @@
 ---
-title: "Dr.Dieter J. Martin, Uni Bamberg: Denkmalschutzrecht im Vergleich"
-description: "Zu den Änderungen des bayer. DSchG in den vergangenen 25 Jahren."
-author: " "
+nav: "index.md"
+title: "Denkmalschutzrecht im Vergleich: Änderungen des Bayerischen Denkmalschutzgesetzes der letzten 25 Jahre"
+description: "Eine Analyse der Entwicklungen und Anpassungen des bayerischen Denkmalschutzgesetzes in den letzten 25 Jahren."
+author: "Dr. Dieter Martin"
 original_url: "www.konrad-fischer-info.de/8martin.htm"
+updated: "09.04.2009"
 ---
+
+[🠔 Zur Übersicht: Quellen](8infober.md)  
+# Denkmalschutzrecht im Vergleich: Änderungen des Bayerischen Denkmalschutzgesetzes der letzten 25 Jahre
+**Eine Analyse der Entwicklungen und Anpassungen des bayerischen Denkmalschutzgesetzes in den letzten 25 Jahren.**  
+_von Dr. Dieter Martin • aktualisiert 09.04.2009_
 
 ### Dr. Dieter Martin 
 Bereich Management und Recht der Denkmalpflege 
 Universität Bamberg
 
-# DENKMALSCHUTZRECHT IM VERGLEICH
+## DENKMALSCHUTZRECHT IM VERGLEICH
 
 ## ZU DEN ÄNDERUNGEN DES BAYERISCHEN DENKMALSCHUTZGESETZES IN DEN VERGANGENEN 25 JAHREN 
 

@@ -1,23 +1,38 @@
 ---
-title: "Beratungsangebote zu Altbau und Denkmalpflege 1"
+nav: "index.md, 6prxratg.md"
+title: "Weitere Beratung und Information zu Denkmalpflege, Altbau usw. 1"
 description: "Beratungsdienste im Internet und anderswo zu: Denkmalpflege, Altbau, Stadtentwicklung, Museumsausstattung, Bauwesen allgemein/Ausschreibungsinfo, Recht, ..."
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/8berat.htm"
+updated: "17.07.2008"
 ---
 
+[🠔 Zur Übersicht: Bauberatung](6prxratg.md)  
 # Weitere Beratung und Information zu Denkmalpflege, Altbau usw. 1
+**Beratungsdienste im Internet und anderswo zu: Denkmalpflege, Altbau, Stadtentwicklung, Museumsausstattung, Bauwesen allgemein/Ausschreibungsinfo, Recht, ...**  
+_von Konrad Fischer • aktualisiert 17.07.2008_
 
 Hinweis: Der Betreiber dieser Website haftet nicht für Rechtsverstöße auf Seiten, auf die sich externe Links beziehen. Uncle Spam needs you: Tote Links bitte [melden](2berat.md#email)! 
 **(aktualisiert 17.07.08)**
 
-Webseite in Unterkapitel aufgeteilt: 
-[1. Zum Einstieg](8berat.md) [2. Denkmalämter und verwandte Institutionen](8berat02.md) [3. Denkmalpflege, Altbau und Stadtentwicklung ](8berat03.md) 
-[4. Translozierung / Relocation von Baudenkmalen](8berat04.md) [5. Diverse Denkmal- und Museumslinks deutsch und international](8berat05.md) 
-[6. Aufsätze und Vorträge zu Problemen der Denkmalpflege](8berat06.md) [7. Restauratoreninfo](8berat07.md) 
-[8. Internationale Denkmal- und Restaurierungslinks](8berat08.md) [9. Altbauarchitekten / -handwerker](8berat09.md) 
-[10. Bauwesen allgemein / Ausschreibungsinfo / DIY-Info 1](8berat10.md) [11. 2](8berat11.md) [12. Recht und Steuer / Verbraucherschutz](8berat12.md) 
-[13. Versicherungen](8berat13.md) [14. Mieten/Vermieten/Immobilien/Bauen auf dem Lande - Landwirtschaftsinfo](8berat14.md) [Ausgewählte Umweltlinks](8berat15.md) 
-[16. Weitere Informationen/Medien/Suchmaschinen/Gesundheit/Links zu schönen/frechen Seiten](8berat16.md) [17. PS. Tips für Internet-Anfänger](8berat17.md)
+> [!abstract]+ Kapitelübersicht: Beratung Altbau  
+> 1. **Weitere Beratung und Information zu Denkmalpflege, Altbau usw. 1**
+> 2. [Denkmalämter und verwandte Institutionen](8berat02.md)
+> 3. [Denkmalpflege, Altbau und Stadtentwicklung](8berat03.md)
+> 4. [4 Translozierung / Relocation von Baudenkmalen](8berat04.md)
+> 5. [5 Diverse Denkmal- und Museumslinks deutsch und international](8berat05.md)
+> 6. [Aufsätze und Vorträge zu Problemen der Denkmalpflege](8berat06.md)
+> 7. [Beratungsangebote zu Altbau und Denkmalpflege - Linksammlung 7](8berat07.md)
+> 8. [8 Internationale Denkmal- und Restaurierungslinks](8berat08.md)
+> 9. [Altbauerfahrene Architekten / Bauingenieure / Planer / Handwerker](8berat09.md)
+> 10. [Bauwesen allgemein / Ausschreibungsinfo / DIY-Info 1](8berat10.md)
+> 11. [Bauwesen allgemein/Ausschreibungsinfo/DIY-Info 2](8berat11.md)
+> 12. [Recht und Steuer / Verbraucherschutz](8berat12.md)
+> 13. [Versicherung und Versicherungsvergleich - Linksammlung 13](8berat13.md)
+> 14. [Mieten/Vermieten/Immobilien/Baudenkmal/Schloß/Castle kaufen/Bauen auf dem Lande - Landwirtschaftsinfo](8berat14.md)
+> 15. [Ausgewählte Umweltlinks](8berat15.md)
+> 16. [Weitere Informationen/Medien/Suchmaschinen/Gesundheit/Links zu schönen/frechen Seiten](8berat16.md)
+> 17. [Mindestens 10 erprobte DIY-Tipps zum Homepage-Marketing für Internet-Anfänger](8berat17.md)
 
 ARD Ratgeber Bauen & Wohnen - 8.5.04: **[Fensteraustausch](http://web.archive.org/web/20040622224645/http://www.wdr.de/tv/ardbauen/archiv/040508_3.phtml)** - Siehe hierzu Fachbuchreihe **["Fenster im Baudenkmal"](8buch06.md#leckerbissen)** mit Beiträgen von Konrad Fischer zur Erhaltungsproblematik, Bestandsaufnahme und Ausschreibung von Fensterreparaturen sowie Claus Meier zur kontroversen Fenster-Bauphysik 
 [![](../medien/PAX98.JPG)](8buch06.md#leckerbissen) 
@@ -74,6 +89,6 @@ Victor Hugo
 
 ---
 
-# <a id="sonstige informationen:"></a><a id="- denkmalpflege"></a><a id="icomos deutschland - deutsches nationalkomitee"></a><a id="translozierung relocation"></a>[Wenn nichts mehr geht außer Abriß ](8berat04.md)<a id="aufsätze und vorträge"></a>[Aufsätze und Vorträge zu Problemen der Denkmalpflege (Breuer u.a.)](8berat06.md)
+## <a id="sonstige informationen:"></a><a id="- denkmalpflege"></a><a id="icomos deutschland - deutsches nationalkomitee"></a><a id="translozierung relocation"></a>[Wenn nichts mehr geht außer Abriß ](8berat04.md)<a id="aufsätze und vorträge"></a>[Aufsätze und Vorträge zu Problemen der Denkmalpflege (Breuer u.a.)](8berat06.md)
 
 <a id="- restaurierungsarchitekten"></a><a id="- bauwesen allgemein/ausschreibungsinfo"></a><a id="- recht und steuer"></a><a id="- versicherungen"></a><a id="- mieten/vermieten"></a><a id="- umwelt"></a><a id="- weitere informationen/suchmaschinen/links zu"></a><a id="ps. für internet-anfänger"></a>

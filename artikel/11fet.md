@@ -1,19 +1,26 @@
 ---
-title: "Zur Erhaltung historischer Fenster"
-description: "Schadensbeschreibung und Reparaturplanung an historischen Fenstern und Türen."
-author: " "
+nav: "20bausto.md"
+title: "Historische / Alte Fenster und Türen - erhalten / instandsetzen oder erneuern / modernisieren?"
+description: "Die Reparatur alter Fenster ist wirtschaftlich und technisch sinnvoll. Trotzdem wird oft zu schnell erneuert. Eine systematische Bestandserfassung und Planung ist der Schlüssel zur kostengünstigen Erhaltung historischer Fenster."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/11fet.htm"
+updated: "31.10.1998"
 ---
+
+[🠔 Zur Übersicht: Fenster & Holzschutz](23bausto.md)  
+# Historische / Alte Fenster und Türen - erhalten / instandsetzen oder erneuern / modernisieren?
+**Die Reparatur alter Fenster ist wirtschaftlich und technisch sinnvoll. Trotzdem wird oft zu schnell erneuert. Eine systematische Bestandserfassung und Planung ist der Schlüssel zur kostengünstigen Erhaltung historischer Fenster.**  
+_von Konrad Fischer • aktualisiert 31.10.1998_
 
 ### Konrad Fischer
 
-# Historische / Alte Fenster und Türen - erhalten / instandsetzen oder erneuern / modernisieren?
+
 
 ## Schadensbeschreibung und Reparaturplanung für die Ertüchtigung / Reparatur / Instandsetzung und Instandhaltung
 
 ### Konrad Fischer
 
-# Bestandsaufnahme und Ausschreibung für die Erhaltung von alten Fenstern im Altbau und Baudenkmal
+## Bestandsaufnahme und Ausschreibung für die Erhaltung von alten Fenstern im Altbau und Baudenkmal
 
 Vortrag auf der [PaX-classic](http://www.paxclassic.de)-Fachtagung "Fenster im Baudenkmal" am 31.10.1998 in Bad Lausick 
 _(Manuskript - ohne Abbildungen, leicht gekürzt und inhaltlich ergänzt)_

@@ -1,9 +1,16 @@
 ---
-title: "Erfarenheter av luftkalk, träskydd och hantverk vid restaureringar ..."
+nav: "index.md, 6prxratg.md"
+title: "Erfarenheter av luftkalk, träskydd och hantverk vid restaureringar i Tyskland"
 description: "Vad kan hjälp för fasadrestaurering: Cement eller kalk, silikatfärg, syntetisk färg eller släkt kalk? Bekämpande träskydd - vad är bäst?"
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2visby.htm"
+updated: "31.08.2001"
 ---
+
+[🠔 Zur Übersicht: Nordisk](nordisk.md)  
+# Erfarenheter av luftkalk, träskydd och hantverk vid restaureringar i Tyskland
+**Vad kan hjälp för fasadrestaurering: Cement eller kalk, silikatfärg, syntetisk färg eller släkt kalk? Bekämpande träskydd - vad är bäst?**  
+_von Konrad Fischer • aktualisiert 31.08.2001_
 
 <center markdown>
 
@@ -13,7 +20,7 @@ original_url: "www.konrad-fischer-info.de/2visby.htm"
 
 Konrad Fischer 
 
-# Erfarenheter av luftkalk, träskydd och hantverk 
+## Erfarenheter av luftkalk, träskydd och hantverk
 vid restaureringar i Tyskland
 
 ## Fasadrestaurering: Cement eller kalk, silikatfärg, syntetisk färg eller släkt kalk?

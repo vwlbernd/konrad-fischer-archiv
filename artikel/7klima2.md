@@ -1,13 +1,20 @@
 ---
+nav: "7thuene1.md"
 title: "Der Globale Klimawandel"
 description: "Klimakatastrophe und globale Erwärmung - menschengemacht und durch CO2? Eine Schulpräsentation von Marcel Ott und Anton Schönfeld"
-author: " "
+author: "Marcel Ott und Anton Schönfeld"
 original_url: "www.konrad-fischer-info.de/7klima2.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Klimaschwindel TV](7video.md)  
+# Der Globale Klimawandel
+**Klimakatastrophe und globale Erwärmung - menschengemacht und durch CO2? Eine Schulpräsentation von Marcel Ott und Anton Schönfeld**  
+_von Marcel Ott und Anton Schönfeld_
 
 ### Marcel Ott und Anton Schönfeld
 
-# Der Globale Klimawandel
+
 
 ## Zusammenfassung einer Präsentation am Technischen Gymnasium der Handwerkerschule Chemnitz, Berufliches SchulZentrum für Technik II, Klasse: 07TG1 (11), Fach: Chemie/Bio im Schuljahr 2007/2008
 
@@ -15,7 +22,7 @@ Von den Autoren dankenswerterweise den Altbau und Denkmalpflege Informationen zu
 
 Anton Schönfeld und Marcel Ott 
 
-# Der Globale Klimawandel
+
 
 **1. Was ist Klimawandel ?** 
 

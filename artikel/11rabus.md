@@ -1,13 +1,25 @@
 ---
+nav: "11planme.md"
 title: "DAS RAUMBUCHSYSTEM - Einführung"
 description: "Von der Bestandsaufnahme zur Ausschreibung mit systematischer Bauteil-, Schadens- und Maßnahmenerfassung."
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/11rabus.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Planen im Altbau](11planme.md)  
+# DAS RAUMBUCHSYSTEM - Einführung
+**Von der Bestandsaufnahme zur Ausschreibung mit systematischer Bauteil-, Schadens- und Maßnahmenerfassung.**  
+_von Konrad Fischer_
+
+> [!abstract]+ Kapitelübersicht: Raumbuch Einführung  
+> 1. **DAS RAUMBUCHSYSTEM - Einführung**
+> 2. [DIE AUFGABENSTELLUNG DES RAUMBUCHSYSTEMS](11rabus1.md)
+> 3. [Planungs- und Organisationshilfen für Bauherrn + Planer](11form.md)
 
 Konrad Fischer 
 
-# DAS RAUMBUCHSYSTEM
+## DAS RAUMBUCHSYSTEM
 
 (Vorbemerkung: Der Autor hat als Ergebnis umfangreicher Planungserfahrung bei ca. 400 kostengetreu abgerechneten Bauprojekten für alle Bauteile des historischen Bestands ein Raumbuch-Formularsystem entwickelt, in dem die Elemente Bauteilkonstruktion, Zustand (Schäden) und erforderliche Maßnahmen in einem einfachen Auswahlsystem einzutragen sind. Damit entsteht schon bei der Bestandsaufnahme eine überschlägige und zuverlässige Maßnahmenbeschreibung. 
 

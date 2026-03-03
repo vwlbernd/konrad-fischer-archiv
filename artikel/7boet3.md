@@ -1,13 +1,20 @@
 ---
-title: "Klimakatastrophe - Warum gerade CO2? / Massenbesteuerungswaffen + ..."
+nav: "7thuene1.md"
+title: "Klimakatastrophe - Warum gerade CO2?"
 description: "Der Treibhausschwindel und die Klimaschutzlüge - Cui Bono? Ein entlarvender Striptease."
-author: " "
+author: "Dr. Helmut Böttiger"
 original_url: "www.konrad-fischer-info.de/7boet3.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Glaubensbekenntnis](7argus2.md)  
+# Klimakatastrophe - Warum gerade CO2?
+**Der Treibhausschwindel und die Klimaschutzlüge - Cui Bono? Ein entlarvender Striptease.**  
+_von Dr. Helmut Böttiger_
 
 ## Dr. Helmut Böttiger, Wiesbaden
 
-# Klimakatastrophe - Warum gerade CO2?
+## Klimakatastrophe - Warum gerade CO2?
 
 ### Ein Gastbeitrag für die Altbau und Denkmal Informationen
 
@@ -29,7 +36,7 @@ Und wenn nicht? Dann sage ich tschüß und wünsche alles Gute auf dem Weg in de
 
 ---
 
-# Klimakatastrophe - Warum gerade CO2?
+
 
 Ein Gastbeitrag für die Altbau und Denkmal Info von Dr. Helmut Böttiger 
 

@@ -1,11 +1,18 @@
 ---
-title: "古 い家+歴史的な記念碑の保存の復帰"
-description: "古代建物のための経 験、先端、トリックおよび助言、文化遺産および歴史的な記念碑."
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "古い家の修復 + 🇯🇵 歴史的史跡の保護"
+description: "歴史的建造物の所有者のためのアドバイス：修理、修復、修繕におけるよくある誤りと実際にうまくいくこと。文化財保護と古い家の保存に関する無料、独立した情報。"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/nippon.htm"
+updated: ""
 ---
 
-# 古い家の修復 + 🇯🇵 
+[🠔 Zur Übersicht: Asia & Middle East](asia.md)  
+# 古い家の修復 + 🇯🇵 歴史的史跡の保護
+**歴史的建造物の所有者のためのアドバイス：修理、修復、修繕におけるよくある誤りと実際にうまくいくこと。文化財保護と古い家の保存に関する無料、独立した情報。**  
+_von Konrad Fischer_
+
+## 古い家の修復 + 🇯🇵
 歴史的史跡の保護
 
 ## 修理、修復、修繕に関する国際建築ショー

@@ -1,13 +1,20 @@
 ---
-title: "Altbaugeeignete Baustoffe - Anstrich auf mineralischen Oberflächen"
-description: "Technisches Merkblatt Kalktünche / Sumpfkalk-Kasein-Farbe."
-author: " "
+nav: "20bausto.md"
+title: "Technische Informationen zu altbaugeeigneten Baustoffen - Anstrich auf mineralischen Oberflächen"
+description: "Anforderungen an die Deklaration von Kalkanstrich / Kalkfarbe / Kalktünche in technischen Merkblättern und Verarbeitungsrichtlinien"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2kalkfrb.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Kalk](26bausto.md)  
+# Technische Informationen zu altbaugeeigneten Baustoffen - Anstrich auf mineralischen Oberflächen
+**Anforderungen an die Deklaration von Kalkanstrich / Kalkfarbe / Kalktünche in technischen Merkblättern und Verarbeitungsrichtlinien**  
+_von Konrad Fischer_
 
 Konrad Fischer 
 
-# Technische Informationen zu altbaugeeigneten Baustoffen 
+## Technische Informationen zu altbaugeeigneten Baustoffen
 - Anstrich auf mineralischen Oberflächen
 
 ## Anforderungen an die Deklaration von Kalkanstrich / Kalkfarbe / Kalktünche in technischen Merkblättern und Verarbeitungsrichtlinien

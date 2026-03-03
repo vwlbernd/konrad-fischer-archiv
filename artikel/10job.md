@@ -1,9 +1,16 @@
 ---
+nav: "11planme.md"
 title: "Planer im Altbau - Jobangebot"
 description: "Einige ernstgemeinte Fangfragen an Studenten der Fachrichtung Architektur Hochbau-Ingenieurwesen: Sie wollen ein Baupraktiker werden und wissen, daß Sie nichts wissen?"
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/10job.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Planen im Altbau](11planme.md)  
+# Planer im Altbau - Jobangebot
+**Einige ernstgemeinte Fangfragen an Studenten der Fachrichtung Architektur Hochbau-Ingenieurwesen: Sie wollen ein Baupraktiker werden und wissen, daß Sie nichts wissen?**  
+_von Konrad Fischer_
 
 Einige ernstgemeinte Fangfragen:
 

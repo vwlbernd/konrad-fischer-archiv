@@ -1,13 +1,20 @@
 ---
-title: "Schmutz-, wasser- und energieverlustabweisende Wunderanstriche 1"
-description: "Dämmfarben und Lotuseffekt sorgen für Verunsicherung des Farbenkunden. Der Malerzeitschrift Die Mappe 10/99 und ÖKO-TEST 8/2000 bringen Aufklärung."
-author: " "
+nav: "20bausto.md, 22bausto.md"
+title: "Hydrophobierte oder gar wärmedämmende Kunstharzfarben: Einführung"
+description: "Produktversprechungen der Farben und Beschichtungen mit wasserabweisenden und selbstreinigenden Effekten kritisch betrachtet."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2lotus.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Fassade & Anstrich](22bausto.md)  
+# Hydrophobierte oder gar wärmedämmende Kunstharzfarben: Einführung
+**Produktversprechungen der Farben und Beschichtungen mit wasserabweisenden und selbstreinigenden Effekten kritisch betrachtet.**  
+_von Konrad Fischer_
 
 Konrad Fischer 
 
-# Hydrophobierte oder gar wärmedämmende Kunstharzfarben - 
+## Hydrophobierte oder gar wärmedämmende Kunstharzfarben -
 
 Wunderbaustoff mit Nanoeffekt oder Fassadenpest? 
 
@@ -54,4 +61,13 @@ _Selten sorgte ein Beschichtungsstoff für so viel Aufsehen in der Branche wie L
 
 Noch Fragen? [Hier!](2frag.md)
 
-**Wunderanstriche Kapitel 1** [Wunderanstriche Kapitel 2](2lotus2.md) [Wunderanstriche Kapitel 3](2lotus3.md) [Wunderanstriche Kapitel 4](2lotus4.md) [Wunderanstriche Kapitel 5](2lotus5.md) [Wunderanstriche Kapitel 6](2lotus6.md) [Wunderanstriche Kapitel 7](2lotus7.md) [Wunderanstriche Kapitel 8](2lotus8.md)
+> [!abstract]+ Kapitelübersicht: Kunstharzfarben I  
+> 1. **Hydrophobierte oder gar wärmedämmende Kunstharzfarben: Einführung**
+> 2. [Hydrophobierte Kunstharzfarben 2: Wunderbaustoff oder Fassadenpest?](2lotus2.md)
+> 3. [Hydrophobierte Kunstharzfarben 3: Wunderbaustoff oder Fassadenpest?](2lotus3.md)
+> 4. [Hydrophobierte Kunstharzfarben 4: Wunderbaustoff oder Fassadenpest?](2lotus4.md)
+> 5. [Hydrophobierte Kunstharzfarben 5: Wunderbaustoff oder Fassadenpest?](2lotus5.md)
+> 6. [Hydrophobierte Kunstharzfarben 6: Wunderbaustoff oder Fassadenpest?](2lotus6.md)
+> 7. [Hydrophobierte Kunstharzfarben 7: Wunderbaustoff oder Fassadenpest?](2lotus7.md)
+> 8. [Wärmedämmende Kunstharzfarben 8: Wunderbaustoff oder Fassadenpest?](2lotus8.md)
+

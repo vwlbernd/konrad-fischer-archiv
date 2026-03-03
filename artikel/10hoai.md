@@ -1,17 +1,32 @@
 ---
+nav: "11planme.md, 9pbs.md"
 title: "Planungskosten, Planungshonorar und HOAI im Altbau 1"
 description: "Erläuterungen zum angemessenen Planungsaufwand und -honorar im Altbau. Aktualitäten"
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/10hoai.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Planung & Kosten](9pbs.md)  
+# Planungskosten, Planungshonorar und HOAI im Altbau 1
+**Erläuterungen zum angemessenen Planungsaufwand und -honorar im Altbau. Aktualitäten**  
+_von Konrad Fischer_
 
 Dipl.-Ing. Konrad Fischer 
 
-# Planungskosten im Altbau 1
+## Planungskosten im Altbau 1
 
 (denn mit nichts kann man beim Bauen mehr Geld verlieren, als durch falsche Planung) 
 
-Seite aufgeteilt: **Aktualitäten:1** [2](10hoai02.md) [3](10hoai03.md) [4](10hoai04.md) [5](10hoai05.md) [6](10hoai06.md) [Einleitung:7](10hoai07.md) [8](10hoai08.md) [9](10hoai09.md) [Luxusplanung:10](10hoai10.md) [11](10hoai11.md) [12](10hoai12.md) [Handwerker-Quiz:13](10hoai13.md) [Planer-Quiz:14](10hoai14.md) [Deutschland sucht die Super-Planung:15](10hoai15.md) [Bauherrn-Quiz:16](10hoai16.md) [Ziel- u. qualitätsbezogene Vergabekriterien für Planung:17](10hoai17.md) [18](10hoai18.md) [19](10hoai19.md) [Sachgerechte Vertragsgestaltung:20](10hoai20.md) [Bestandsaufnahme:21](10hoai21.md) [Honorarzone u. -satz:22](10hoai22.md) [Grundleistungen/Zuschläge:23](10hoai23.md) [Anrechenbare Kosten:24](10hoai24.md) [Substanzsicherung/Nebenkosten/Haftungsausschluß:25](10hoai25.md) [Zusammenfassung und Kostendiskussion:26](10hoai26.md) [Last, but not least: Bauen ohne Planer/Vertragsrecht/Vertragsmuster:27](10hoai27.md)
+> [!abstract]+ Kapitelübersicht: Architekten Honorar 1  
+> 1. **Planungskosten, Planungshonorar und HOAI im Altbau 1**
+> 2. [Planungskosten im Altbau 2](10hoai02.md)
+> 3. [Planungskosten im Altbau 3: Hungerleider, Architekten und HOAI-Mindestsatzunterschreitung](10hoai03.md)
+> 4. [Planungskosten im Altbau 4](10hoai04.md)
+> 5. [Architekt+Ingenieur-Planungs-Tricks im Altbau: HOAI-Planungshonorar+Planungskosten 5](10hoai05.md)
+> 6. [Planungskosten im Altbau 6 (denn mit nichts kann man beim Bauen mehr Geld verlieren, als durch falsche Planung)](10hoai06.md)
+
+
 
 **_Es gibt kaum etwas auf der Welt, 
 das nicht irgend jemand ein wenig schlechter machen 

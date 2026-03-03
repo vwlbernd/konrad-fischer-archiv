@@ -1,11 +1,18 @@
 ---
-title: "Die häufigsten Fehler bei der Anwendung von Luftkalkmörtel 13"
-description: "Zu verarbeitungs- und objektbedingten Fehlerquellen."
-author: " "
+nav: "20bausto.md, 26bausto.md"
+title: "Kalk Anwendungsfehler 13: Schlußbemerkung"
+description: "Ein Expertenbericht über die Kunst der fehlerfreien Nachsorge: Warum Witterungsschutz über die Haltbarkeit entscheidet und wie Sie teuren Pfusch am Bau auf den letzten Metern vermeiden."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2kalkf13.htm"
+updated: ""
 ---
 
-# Die häufigsten Fehler bei der Anwendung von 
+[🠔 Zur Übersicht: Kalk Anwendungsfehler](2kalkfel.md)  
+# Kalk Anwendungsfehler 13: Schlußbemerkung
+**Ein Expertenbericht über die Kunst der fehlerfreien Nachsorge: Warum Witterungsschutz über die Haltbarkeit entscheidet und wie Sie teuren Pfusch am Bau auf den letzten Metern vermeiden.**  
+_von Konrad Fischer_
+
+## Die häufigsten Fehler bei der Anwendung von
 
 Luftkalkmörtel, 
 Kalkputz und Kalkanstrich 13

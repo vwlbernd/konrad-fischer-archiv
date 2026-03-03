@@ -1,9 +1,16 @@
 ---
-title: "Mensch, Kirche und Kosmos - zur Kunst in der Antike, dem Mittelalter, Romanik, Gotik, Renaissance / Humansimus, Barock,Rokoko"
-description: "Mysterien und mysteriöses zum Glauben, dem Dom von Regensburg, den Planetengöttern, zu Bernini, Borromini u.a Meistern. Ein Angebot zum besseren Erkennen und Verstehen von Kunst. Mit astronomischen /astrologischen Entschlüsselungen der Attribute."
-author: " "
+nav: "index.md"
+title: "Betr.: SZ 19./20.3.05, Fragen an die Leser, „Das Gute liegt rechts“ von Hermann Unterstöger"
+description: "Ein Leserbrief analysiert die Ikonologie der Hauptneigung Jesu am Kreuz im Kontext theologischer Kosmologie, Mondphasen und Zodiakgestirne und widerlegt oberflächliche Erklärungen."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/8dom.htm"
+updated: "01.04.2005"
 ---
+
+[🠔 Zur Übersicht: Burgen & Schlösser kaufen](8schloss.md)  
+# Betr.: SZ 19./20.3.05, Fragen an die Leser, „Das Gute liegt rechts“ von Hermann Unterstöger
+**Ein Leserbrief analysiert die Ikonologie der Hauptneigung Jesu am Kreuz im Kontext theologischer Kosmologie, Mondphasen und Zodiakgestirne und widerlegt oberflächliche Erklärungen.**  
+_von Konrad Fischer • aktualisiert 01.04.2005_
 
 ## ![](../medien/GOLGATHA.JPG)<a id="mondjesus"></a>Betr.: SZ 19./20.3.05, Fragen an die Leser, "Das Gute liegt rechts" von Hermann Unterstöger
 

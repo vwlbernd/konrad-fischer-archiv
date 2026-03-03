@@ -1,9 +1,16 @@
 ---
-title: "Schaden: Sanierputz auf versalztem Stallgewölbe und aufgefeuchtetem Mauerwerk 9"
-description: "Gutachten zu Sanierputzschaden 4: Sanierputz-Risse"
-author: " "
+nav: "20bausto.md, 21bausto.md"
+title: "Sanierputz-Risse"
+description: "Ein Bauschaden duch Sanierputzversagen auf feuchtem und salzigem Untergrund (Mauersalpeter/Kalksalpeter) - Gewölbe / Gewölbekappen / Stallgewölbe aus Backsteinmauerwerk / Ziegelmauerwerk."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2sani9.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Sanierputz-Schwindel](2sanipuz.md)  
+# Sanierputz-Risse
+**Ein Bauschaden duch Sanierputzversagen auf feuchtem und salzigem Untergrund (Mauersalpeter/Kalksalpeter) - Gewölbe / Gewölbekappen / Stallgewölbe aus Backsteinmauerwerk / Ziegelmauerwerk.**  
+_von Konrad Fischer_
 
 ### Ein Bauschaden duch Sanierputzversagen auf feuchtem und salzigem Untergrund innen (Mauersalpeter/Kalksalpeter) - Gewölbe / Gewölbekappen / Stallgewölbe aus Backsteinmauerwerk / Ziegelmauerwerk- Gutachtenauszug 4
 

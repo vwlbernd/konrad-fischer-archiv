@@ -1,9 +1,16 @@
 ---
-title: "Restauração da Casa Velha + Conservação do Monumento Histórico o ..."
-description: "Revista de Arquitetura, Renovação, Restauração e Reparação - O conselho e vira para os proprietários dos edifícios históricos."
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Restauração da Casa Velha + Conservação do Monumento Histórico"
+description: "Revista de Arquitetura, Renovação, Consolidação, Restauração, Recuperação e Reparação. Conselhos e dicas para proprietários de edifícios históricos: erros usuais e soluções que realmente funcionam."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/portuges.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Roman & Balkan](roman.md)  
+# Restauração da Casa Velha + Conservação do Monumento Histórico
+**Revista de Arquitetura, Renovação, Consolidação, Restauração, Recuperação e Reparação. Conselhos e dicas para proprietários de edifícios históricos: erros usuais e soluções que realmente funcionam.**  
+_von Konrad Fischer_
 
  _Restauração da Casa Velha +_ 🇧🇷 
 _Conservação do Monumento histórico_ 

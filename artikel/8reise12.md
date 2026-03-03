@@ -1,17 +1,24 @@
 ---
-title: "Burgen, Schlösser und Anderes - Linksammlung 12"
-description: "Burgen, Schlösser Historische Immobilien zu verkaufen, Castles / Historic Houses for sale."
-author: " "
+nav: "index.md, 8schloss.md"
+title: "Burgen, Schlösser Historische Immobilien zu verkaufen, Castles / Historic Houses / Palace for sale / Literatur"
+description: "Linksammlung für den Verkauf von Burgen, Schlössern, Herrenhäusern und historischen Immobilien weltweit."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/8reise12.htm"
+updated: ""
 ---
 
-# Eine Reise zu Kunst, Baudenkmalen, Museen und Antiquitäten
+[🠔 Zur Übersicht: Burgen Links 1](8reise.md)  
+# Burgen, Schlösser Historische Immobilien zu verkaufen, Castles / Historic Houses / Palace for sale / Literatur
+**Linksammlung für den Verkauf von Burgen, Schlössern, Herrenhäusern und historischen Immobilien weltweit.**  
+_von Konrad Fischer_
+
+## Eine Reise zu Kunst, Baudenkmalen, Museen und Antiquitäten
 
 ## A journey to the past 12 (Mit einigen meiner Reiseskizzen/with some of my sketches)
 
-# Burgen, Schlösser Historische Immobilien zu verkaufen, Castles / Historic Houses / Palace for sale / Literatur
 
-Inhalt: [Links und Tips für Burgenfreunde/Castles and Forts 1](8reise.md) [2](8reise02.md) [3](8reise03.md) [4](8reise04.md) [5](8reise05.md) [6](8reise06.md) [7](8reise07.md) [8](8reise08.md) [9](8reise09.md) [Gast im Schloß: 10](8reise10.md) [Mittelalter und andere historische Epochen:11](8reise11.md) **Schlösser zu verkaufen/Castles for Sale: 12** [Kunsthandel/Antiquitäten/Antics/Antiques/Fine Art: 13](8reise13.md) 
+
+
 
 <center markdown>
 

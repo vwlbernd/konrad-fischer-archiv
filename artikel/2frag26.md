@@ -1,13 +1,20 @@
 ---
-title: "Aus der Internet-Fragestunde der Altbau und Denkmalpflege ..."
-description: "Altbaufragen von AZ: Fensteranstrich, Fensterdichtung, Fensterkonstruktion."
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Aus der Internet-Fragestunde: Fensteranstrich, -dichtung und -konstruktion im Altbau"
+description: "Warum historische Fenster oft besser sind als ihr Ruf: Expertentipps zur richtigen Pflege mit Leinölfarben, dem Sinn und Unsinn von Dichtungen und wie Sie alte Rahmen technisch sinnvoll ertüchtigen."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2frag26.htm"
+updated: "16.06.2008"
 ---
+
+[🠔 Zur Übersicht: Altbau FAQ](2frag.md)  
+# Aus der Internet-Fragestunde: Fensteranstrich, -dichtung und -konstruktion im Altbau
+**Warum historische Fenster oft besser sind als ihr Ruf: Expertentipps zur richtigen Pflege mit Leinölfarben, dem Sinn und Unsinn von Dichtungen und wie Sie alte Rahmen technisch sinnvoll ertüchtigen.**  
+_von Konrad Fischer • aktualisiert 16.06.2008_
 
 Konrad Fischer 
 
-# Aus der Internet-Fragestunde und Bauberatung
+## Aus der Internet-Fragestunde und Bauberatung
 
 **(aktualisiert 16.06.08)** 
 

@@ -1,19 +1,26 @@
 ---
-title: "Schwindelei? Aufsteigende Feuchte + Kellertrockenlegung 3"
-description: "Feuchtequellen"
-author: " "
+nav: "20bausto.md"
+title: "Feuchtequellen"
+description: "Warum Salze und Kondensat die wahren Ursachen feuchter Wände sind und herkömmliche Abdichtungen scheitern."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2auffe03.htm"
+updated: "04.08.2009"
 ---
+
+[🠔 Zur Übersicht: Aufsteigend Feuchte?](2aufstfe.md)  
+# Feuchtequellen
+**Warum Salze und Kondensat die wahren Ursachen feuchter Wände sind und herkömmliche Abdichtungen scheitern.**  
+_von Konrad Fischer • aktualisiert 04.08.2009_
 
 ## Aufsteigende Feuchte + Keller-Sanierung und Trockenlegung 3
 
 Aufsteigende Feuchte Kapitelübersicht 
 
-[1 - Einführung zur Problemlage](2aufstfe.md) [2 - Ein schrecklicher "Trockenlegungsfall"](2auffe02.md) **3 - Feuchtequellen** [4 - Ziegel-Mauerwerk und Aufsteigende Feuchte](2auffe04.md) [5 - Naturstein-Mauerwerk und Aufsteigende Feuchte](2auffe05.md) [6 - Nachträgliche Horizontalabdichtung historischen Mauerwerks? - Mauerwerksversalzung](2auffe06.md) [7 - Kondensat und Regen](2auffe07.md) [8 - Trockenlegung oder Bauwerksschäden durch Horizontalisolierung?](2auffe08.md) [9 - Trockenlegungsschwindel - die Marketingtricks](2auffe09.md) [10 - Elektroosmose und die typischen Trockenleger-Ausreden bei Mißerfolg](2auffe10.md) [11 - Trockenlegungsexperten? - Planer und Gutachter](2auffe11.md) [12 - Trockenlegung - Industrieberatung oder der gesunde Menschenverstand? Probleme und Lösungen](2auffe12.md) [13 - Mauertrockenlegung - Die klassischen Fehler](2auffe13.md) [14 - Nasse Wände sanieren - Was sagt die Wissenschaft?](2auffe14.md) [15 - Mauerfeuchte woher? Zum historischen und wissenschaftlichen Hintergrund](2auffe15.md) 
+
 
 **(aktualisiert 4.08.09)** 
 
-# Feuchtequellen
+
 
 (Fortsetzung von [2 - Ein schrecklicher "Trockenlegungsfall"](2auffe02.md)) Auch woanders darf man das beobachten: 
 ![](../medien/2AUF31.JPG)Und wie um die Ecke: ![](../medien/2AUF30.JPG)Alles keinerlei gegen alle Bauphysik und gem. absurder "Bauwissenschaft" des trockenlegenden Gewerbes aufsteigende Feuchte, sondern ganz natürlich bedingt und nicht durch Wunder der Technik und des Geldrausschmeißens, sondern mit vergleichsweise wenig Aufwand und nicht durch Wunderbaustoffe und Zauberei, sondern lediglich etwas Wasser! lösbar. Selbst in Eigenleistung.

@@ -1,13 +1,34 @@
 ---
-title: "Brandschutz im Altbau/Baudenkmal"
-description: "Typische Brandgefahren und Lösungsmöglichkeiten des Brandschutzes im Altbau und am Baudenkmal.Mit Hinweisen zu Problemen und zum Anschlußzwang bei Brandmeldeanlagen"
-author: " "
+nav: "20bausto.md, 2baustof.md"
+title: "Brandschutz im Baudenkmal – Praktisch, Umsetzbar und Denkmalgerecht"
+description: "Typische Brandgefahren und Lösungsmöglichkeiten des Brandschutzes im Altbau und am Baudenkmal, mit Hinweisen zu Problemen und zum Anschlußzwang bei Brandmeldeanlagen."
+author: "Dipl.-Ing. Sylwester Kabat"
 original_url: "www.konrad-fischer-info.de/6brand.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Brand- & Arbeitssicherheit](2baustof.md)  
+# Brandschutz im Baudenkmal – Praktisch, Umsetzbar und Denkmalgerecht
+**Typische Brandgefahren und Lösungsmöglichkeiten des Brandschutzes im Altbau und am Baudenkmal, mit Hinweisen zu Problemen und zum Anschlußzwang bei Brandmeldeanlagen.**  
+_von Dipl.-Ing. Sylwester Kabat_
+
+> [!abstract]+ Kapitelübersicht: Brandschutz Altbau  
+> 1. **Brandschutz im Baudenkmal – Praktisch, Umsetzbar und Denkmalgerecht**
+> 2. [Brandverhütung im Baudenkmal](6brand2.md)
+> 3. [Brandschutz im Baudenkmal - Technische Ertüchtigung](6brand3.md)
+> 4. [Brandschutz bei Denkmalpflege und Denkmalschutz – Brandschutzmaßnahmen](6brand4.md)
+> 5. [Brandschutz im Baudenkmal - Organisatorische Brandschutzmaßnahmen](6brand5.md)
+> 6. [Warum Brandschutz im Altbau?](6kabat.md)
+> 7. [Warum Brandschutz im Altbau? 2](6kabat2.md)
+> 8. [Grundsätze des Brandschutzes](6kabat3.md)
+> 9. [Brandschutztechnische Verbesserung in Altbauten](6kabat4.md)
+> 10. [Brandschutztechnische Verbesserung in Altbauten 2](6kabat5.md)
+> 11. [Brandschutztechnische Verbesserung in Altbauten 3](6kabat6.md)
+> 12. [Brandschutz Zusammenfassung und Empfohlene Literatur](6kabat7.md)
 
 Dipl.-Ing. Sylwester Kabat 
 
-# Brandschutz im Baudenkmal – praktisch umsetzbar und denkmalgerecht 1 
+## Brandschutz im Baudenkmal – praktisch umsetzbar und denkmalgerecht 1
 
 Ein Seminarbeitrag zum Vorbeugenden Brandschutz
 

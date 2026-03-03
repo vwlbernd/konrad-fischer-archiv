@@ -1,13 +1,20 @@
 ---
+nav: "index.md, altbau.md"
 title: "Energiekeinsparung im Altbau 150% - 3. Energiesparmaßnahmen im Detail"
-description: "Energiesparen und Klimaschutz im Altbau - 3. Energiesparmaßnahmen im Detail - vom Keller bis zum Dach."
-author: " "
+description: "3. Die Energiekeinsparmaßnahmen im Detail - vom Keller bis zum Dach, vom Boden bis an die Decke!"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/energie3.htm"
+updated: "09.05.2008"
 ---
+
+[🠔 Zur Übersicht: Energiesparwunder](energie.md)  
+# Energiekeinsparung im Altbau 150% - 3. Energiesparmaßnahmen im Detail
+**3. Die Energiekeinsparmaßnahmen im Detail - vom Keller bis zum Dach, vom Boden bis an die Decke!**  
+_von Konrad Fischer • aktualisiert 09.05.2008_
 
  **Vorsicht! Klimaschutz!** 
 
-# Energiekeinsparung im Altbau 150% 
+## Energiekeinsparung im Altbau 150%
 
 3. Die Energiekeinsparmaßnahmen im Detail
 

@@ -1,11 +1,18 @@
 ---
-title: "Der k-/U-Wert und Wärmeleitwert von Baustoffen zwischen Wahn und Wirklichkeit"
+nav: "7epass.md"
+title: "Zur Berücksichtigung der Speicherung beim k-Wert [heute U-Wert] mit dem keff-Wert [heute Ueff-Wert]"
 description: "Zum U-Wert-Schwindel: Berücksichtigung der Speicherung / Speicherfähigkeit / Solarstrahlung beim k-/U-Wert des Baustoffs."
-author: " "
+author: "Prof. Dr.-Ing. habil. Claus Meier"
 original_url: "www.konrad-fischer-info.de/7keff.htm"
+updated: ""
 ---
 
-# Zur Berücksichtigung der Speicherung 
+[🠔 Zur Übersicht: Widersprüche 1](7waefe33.md)  
+# Zur Berücksichtigung der Speicherung beim k-Wert [heute U-Wert] mit dem keff-Wert [heute Ueff-Wert]
+**Zum U-Wert-Schwindel: Berücksichtigung der Speicherung / Speicherfähigkeit / Solarstrahlung beim k-/U-Wert des Baustoffs.**  
+_von Prof. Dr.-Ing. habil. Claus Meier_
+
+## Zur Berücksichtigung der Speicherung
 beim k-Wert [heute U-Wert] 
 mit dem keff-Wert [heute Ueff-Wert]
 

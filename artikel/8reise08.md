@@ -1,9 +1,16 @@
 ---
+nav: "index.md, 8schloss.md"
 title: "Burgen, Schlösser und Anderes - Linksammlung 8"
 description: "Links und Tips für Burgenfreunde/Castles and Forts 8."
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/8reise08.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Burgen Links 1](8reise.md)  
+# Burgen, Schlösser und Anderes - Linksammlung 8
+**Links und Tips für Burgenfreunde/Castles and Forts 8.**  
+_von Konrad Fischer_
 
 [Gastliche Burgen und Schlösser in Frankreich - Chateaux en France](http://www.chateaux-france.com)
 

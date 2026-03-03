@@ -1,15 +1,22 @@
 ---
-title: "Energiesparen und Wärmeschutz am Altbau 10 - Der k- / U-Wert-Schwindel"
-description: "Wie funktioniert die U-Wert-Rechenkunst? Wirtschaftlichkeitsgebot und Betrugsparagrafen"
-author: " "
+nav: "20bausto.md"
+title: "Energiesparen und Wärmeschutz am Altbau 10: Wie funktioniert die k-Wert-Rechenkunst (neu U-Wert)?"
+description: "Ökovampirismus: Klimaschutzblutsauger auf der Jagd nach Ihren letzten Kröten"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/7wdvs10.htm"
+updated: "04.04.2009"
 ---
 
-# Energiesparen und Wärmeschutz am Altbau 10
+[🠔 Zur Übersicht: Energiesparen](7wsvoant.md)  
+# Energiesparen und Wärmeschutz am Altbau 10: Wie funktioniert die k-Wert-Rechenkunst (neu U-Wert)?
+**Ökovampirismus: Klimaschutzblutsauger auf der Jagd nach Ihren letzten Kröten**  
+_von Konrad Fischer • aktualisiert 04.04.2009_
+
+## Energiesparen und Wärmeschutz am Altbau 10
 
 ## Wie funktioniert die k-Wert-Rechenkunst (neu U-Wert)?
 
-Energiesparen und Wärmeschutz Kapitel [Einleitung](7wsvoant.md) [1](7wdvs01.md) [2](7wdvs02.md) [3](7wdvs03.md) [4](7wdvs04.md) [5](7wdvs05.md) [6](7wdvs06.md) [7](7wdvs07.md) [8](7wdvs08.md) [9](7wdvs09.md) **10** [11](7wdvs11.md) [12](7wdvs12.md) [13](7wdvs13.md) [14](7wdvs14.md) [15](7wdvs15.md) [16](7wdvs16.md) [17](7wdvs17.md) [18](7wdvs18.md) [19](7wdvs19.md) [20](7wdvs20.md) [21](7wdvs21.md) 
+
 
 ## Von der Intelligenz moderner Baumethoden/Haustechnik/Schimmelpilzzüchtung usw. 
 Ökovampirismus: Klimaschutzblutsauger auf der Jagd nach Ihren letzten Kröten

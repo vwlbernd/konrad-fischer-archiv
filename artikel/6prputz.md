@@ -1,11 +1,18 @@
 ---
+nav: "20bausto.md"
 title: "Die erhaltende Instandsetzung von historischen Putzfassaden"
 description: "DBV Praxis Ratgeber: Die erhaltende Instandsetzung historischer Putzfassaden."
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/6prputz.htm"
+updated: ""
 ---
 
-# DBV Praxis Ratgeber:
+[🠔 Zur Übersicht: Fassade & Anstrich](22bausto.md)  
+# Die erhaltende Instandsetzung von historischen Putzfassaden
+**DBV Praxis Ratgeber: Die erhaltende Instandsetzung historischer Putzfassaden.**  
+_von Konrad Fischer_
+
+## DBV Praxis Ratgeber:
 
 ## Die erhaltende Instandsetzung von historischen Putzfassaden
 

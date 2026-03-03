@@ -1,13 +1,20 @@
 ---
-title: "Aus der Internet-Fragestunde der Altbau und Denkmalpflege ..."
-description: "Altbaufragen von AZ: Holzschutz, Holzbau, Schimmel, Heizung, Lüftung, Dämmung, Temperierung 2."
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Aus der Internet-Fragestunde: Temperierung statt Dämmwahn 2"
+description: "Teil 2 der Technik-Analyse: Warum herkömmliche Heizkörper Schimmel fördern, während die Temperierung der Wände das Holz schützt, die Luft sauber hält und Heizkosten massiv senkt."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2frag17.htm"
+updated: "20.07.2009"
 ---
+
+[🠔 Zur Übersicht: Altbau FAQ](2frag.md)  
+# Aus der Internet-Fragestunde: Temperierung statt Dämmwahn 2
+**Teil 2 der Technik-Analyse: Warum herkömmliche Heizkörper Schimmel fördern, während die Temperierung der Wände das Holz schützt, die Luft sauber hält und Heizkosten massiv senkt.**  
+_von Konrad Fischer • aktualisiert 20.07.2009_
 
 Konrad Fischer 
 
-# Aus der Internet-Fragestunde und Bauberatung
+## Aus der Internet-Fragestunde und Bauberatung
 
 **(aktualisiert 20.07.09)** 
 

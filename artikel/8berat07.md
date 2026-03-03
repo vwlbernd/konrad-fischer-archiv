@@ -1,9 +1,16 @@
 ---
+nav: "index.md, 6prxratg.md"
 title: "Beratungsangebote zu Altbau und Denkmalpflege - Linksammlung 7"
 description: "Weitere Beratung und Information zu Denkmalpflege, Altbau usw. 7"
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/8berat07.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Beratung Altbau](8berat.md)  
+# Beratungsangebote zu Altbau und Denkmalpflege - Linksammlung 7
+**Weitere Beratung und Information zu Denkmalpflege, Altbau usw. 7**  
+_von Konrad Fischer_
 
 7 Restauratoreninfo
 

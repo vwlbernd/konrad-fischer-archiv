@@ -1,9 +1,16 @@
 ---
-title: "Energiesparen und Wärmeschutz am Altbau 19"
+nav: "20bausto.md"
+title: "Energiesparen und Wärmeschutz am Altbau 19 - Wohnraum-Schadstoffe und Schimmelpilzbefall / Scharzschimmel, woher und wieso?"
 description: "Wohnraum-Schadstoffe, woher und wieso? Schimmel und Fogging - Krankheit durch Dämmung und Energiesparen?"
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/7wdvs19.htm"
+updated: "18.09.2009"
 ---
+
+[🠔 Zur Übersicht: Energiesparen](7wsvoant.md)  
+# Energiesparen und Wärmeschutz am Altbau 19 - Wohnraum-Schadstoffe und Schimmelpilzbefall / Scharzschimmel, woher und wieso?
+**Wohnraum-Schadstoffe, woher und wieso? Schimmel und Fogging - Krankheit durch Dämmung und Energiesparen?**  
+_von Konrad Fischer • aktualisiert 18.09.2009_
 
 _[Konrad Fischer](1refernz.md)_
 
@@ -13,12 +20,11 @@ _[Konrad Fischer](1refernz.md)_
 
 Pseudo-Wissenschaft und Bauphysik
 
-Energiesparen und Wärmeschutz: 
-[Einleitung](7wsvoant.md) [1](7wdvs01.md) [2](7wdvs02.md) [3](7wdvs03.md) [4](7wdvs04.md) [5](7wdvs05.md) [6](7wdvs06.md) [7](7wdvs07.md) [8](7wdvs08.md) [9](7wdvs09.md) [10](7wdvs10.md) [11](7wdvs11.md) [12](7wdvs12.md) [13](7wdvs13.md) [14](7wdvs14.md) [15](7wdvs15.md) [16](7wdvs16.md) [17](7wdvs17.md) [18](7wdvs18.md) **19** [20](7wdvs20.md) [21](7wdvs21.md) 
+
 
 **(aktualisiert 18.09.09)** 
 
-# Wohnraum-Schadstoffe und Schimmelpilzbefall, woher und wieso?
+## Wohnraum-Schadstoffe und Schimmelpilzbefall, woher und wieso?
 
 Aus dem Obermain-Tagblatt Lichtenfels, 12.10.1998:
 

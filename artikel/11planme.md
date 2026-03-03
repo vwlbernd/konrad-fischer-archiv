@@ -1,13 +1,34 @@
 ---
-title: "Planen im Altbau"
-description: "Wie kann man Kostenexplosionen im Altbau vermeiden?"
-author: " "
+title: "Planungsmethoden für Altbau und Denkmalpflege"
+description: "Im Altbau und Denkmalpflege führen andere Planungsmethoden zum guten Ergebnis, als im Neubau. Sie erhalten hier Hinweise und Empfehlungen aus der Erfahrung an ca. 400 Baudenkmal-Instandsetzungen."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/11planme.htm"
+updated: ""
 ---
+
+[🠔 Zur Startseite](index.md) 
+# Planungsmethoden für Altbau und Denkmalpflege
+**Im Altbau und Denkmalpflege führen andere Planungsmethoden zum guten Ergebnis, als im Neubau. Sie erhalten hier Hinweise und Empfehlungen aus der Erfahrung an ca. 400 Baudenkmal-Instandsetzungen.**  
+_von Konrad Fischer_
+
+> [!abstract]+ Kapitelübersicht: Planen im Altbau  
+> * **[🏠 Startseite](index.md)** • **[🧱 Altbau Restaurieren](20bausto.md)** • **📐 Planen im Altbau** • **[🏚️ Das malträtierte Haus](7epass.md)** • **[🌍 Klima](7thuene1.md)**
+>
+> ---
+> 1. **Planungsmethoden für Altbau und Denkmalpflege**
+> 2. [Entwurf im Bestand - Grundsätze und Arbeitsmethode](11entwf.md)
+> 3. [Sparsam Planen und Bauen im Altbau - Voraussetzungen und Methoden der Sparsanierung 1](11erhins.md)
+> 4. [DAS RAUMBUCHSYSTEM - Einführung](11rabus.md)
+> 5. [DAS POSITIONSBAUSTEINSYSTEM](9pbs.md)
+> 6. [Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 1](5wiber.md)
+> 7. [Eine Sammlung heiterer und bitterer Info - mit strategischen Tips für Denkmalpflege und Denkmalschutz](5finanz.md)
+> 8. [Wie und warum entstehen welche Fehler bei der Planung von haustechnischen Anlagen?](10ht.md)
+> 9. [Bauleitung, Objektüberwachung gem. HOAI, Terminkontrolle, Kostenkontrolle, Kostensteuerung, Abrechnung, Rechnungsprüfung, Mangel und Gewährleistung - Probleme und Lösungen](11baulg.md)
+> 10. [Planer im Altbau - Jobangebot](10job.md)
 
 Konrad Fischer 
 
-# Planungsmethoden für Altbau und Denkmalpflege
+
 
 ## Im Altbau und Denkmalpflege führen andere Planungsmethoden zum guten Ergebnis, als im Neubau. Sie erhalten hier Hinweise und Empfehlungen aus der Erfahrung an ca. 400 Baudenkmal-Instandsetzungen. 
 

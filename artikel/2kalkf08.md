@@ -1,11 +1,18 @@
 ---
-title: "Die häufigsten Fehler bei der Anwendung von Luftkalkmörtel 8"
-description: "Zu verarbeitungs- und objektbedingten Fehlerquellen."
-author: " "
+nav: "20bausto.md, 26bausto.md"
+title: "Kalk Anwendungsfehler 8: Warum Putze von der Wand fallen"
+description: "Ein Expertenbericht über die Tücken der Haftvermittlung: Warum chemische Grundierungen die Verbindung zum Stein blockieren und wie Sie durch Vornässen eine unlösbare Bindung schaffen."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2kalkf08.htm"
+updated: ""
 ---
 
-# Die häufigsten Fehler bei der Anwendung von 
+[🠔 Zur Übersicht: Kalk Anwendungsfehler](2kalkfel.md)  
+# Kalk Anwendungsfehler 8: Warum Putze von der Wand fallen
+**Ein Expertenbericht über die Tücken der Haftvermittlung: Warum chemische Grundierungen die Verbindung zum Stein blockieren und wie Sie durch Vornässen eine unlösbare Bindung schaffen.**  
+_von Konrad Fischer_
+
+## Die häufigsten Fehler bei der Anwendung von
 
 Luftkalkmörtel, 
 Kalkputz und Kalkanstrich 8

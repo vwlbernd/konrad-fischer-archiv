@@ -1,84 +1,82 @@
 ---
-title: "Gästebuch"
-description: "Neueste Kommentare / Beiträge / Gästebucheinträge der Leser / Besucher / Kritiker / Fans / Kunden - mit Antworten von Konrad Fischer"
-author: " "
-original_url: "www.konrad-fischer-info.de/gaestebuch.htm"
+nav: "index.md"  
+title: "Ungeschminkte Kritik und Lob aus meinem aktuellen Gästebuch"  
+description: "Gästebucheinträge der Leser, Kritiker, Fans und Kunden - mit Antworten von Konrad Fischer"  
+author: "Konrad Fischer"  
+original_url: "www.konrad-fischer-info.de/gaestebuch.htm"  
+updated: "10.01.2019"  
 ---
 
-## Ungeschminkte Kritik und Lob aus meinem aktuellen Gästebuch - 
-Mit meinen Stellungnahmen / Antworten
+[🠔 Zur Übersicht: Empfang](empfang2.md)  
+# Ungeschminkte Kritik und Lob aus meinem aktuellen Gästebuch
+**Gästebucheinträge der Leser, Kritiker, Fans und Kunden**  
+_mit Antworten von Konrad Fischer • aktualisiert 10.01.2019_
 
-### Kommentare von Gegnern, Fans und Kunden zu den "Altbau und Denkmalpflege Informationen" - 
-Konrad Fischers Kompendium für Altbausanierung und Denkmalschutz
-
-Selber einen Gästebuchbeitrag abgeben? Bitte schreiben Sie mir ein [Email](mailto:petra.ursula@hotmail.de), Betreff "Gästebuch". 
-
-<center markdown>
-
-# Die Beiträge in chronologischer Reihenfolge, jüngste zuerst:
-
-</center>
+> [!info] Selber einen Gästebuchbeitrag abgeben? 
+> Bitte schreiben Sie mir eine [E-Mail](mailto:petra.ursula@hotmail.de) mit dem Betreff **"Gästebuch"**.
 
 ## Gästebuch
+**Die Beiträge in chronologischer Reihenfolge, jüngste zuerst:**
 
-Datum: 10.1.2019 
-Von: Stefan Saffer 
+### Eintrag von Stefan Saffer
+**Datum:** 10.1.2019  
+**Ort:** Bloomington, New York State
 
-Lieber Konrad Fischer, 
-> Ich schreibe Ihnen, obwohl ich leider vor kurzem erfahren musste, dass sie verstorben sind. 
-Trotzdem. 
-Ich habe per Zufall Ihre Beiträge auf U Tube entdeckt und dann Ihre Webpage. 
-Ich fühle mich Ihnen fast seelenverwandt und bin selbst geborener Oberfranke aus Eggolsheim und Schirndaidel, der als bildender Künstler (also nicht vom Fach) in Berlin ­ein altes Gebäude von 1860 umgebaut hat. (Das war 2011 und ich hätte sie wirklich gebraucht). Instinktiv habe ich bei diesem Umbau eine Komplettdaemmung verhindert und habe immer wieder nach Argumenten gerungen. Leider mussten neue Fenster sein und danach Schimmel (aber das habe ich mit einer eigenen Entlueftungskonstruktion geregelt). Ich aergere mich heute noch über die teuren Fenster. Egal. Haette ich Sie zu dieser Zeit schon gekannt, wäre es einfacher gewesen sich gegen die traege Masse der beteiligten "Bauherren" besser durchsetzen zu koennen. 
-Ich lebe mittlerweile in den USA und habe dort gerade ein Holzhaus von 1870 renoviert. Auch hier haette ich Sie gebraucht ! 
-Seit Tagen lese ich auf Ihrer Webpage und sehe ihre Videos. Sie sprechen mir aus der Seele ! 
-Ich kann Ihnen nicht genug danken für Ihre Arbeit und liebe Ihre direkte fränkisch undiplomatische, aber eben ehrliche Art ! 
-Es stimmte mich extrem traurig von Ihrem Ableben zu lesen. Ich bin jünger als Sie ( werde 50 dieses Jahr ) aber ich denke wir hätten uns treffen müssen. Auf ein Bier in Franken (das wird halt nachgeholt, wenns mich nicht mehr gibt) 
-Ich hoffe, dass Ihre Informationen, Ihre Webpage und Ihre Aufklärungsarbeit offen zugaenglich bleibt. 
-Ihrer Familie wünsche ich eine Trauer, die sich langsam aber stetig in neue Kraft umwandelt. 
-Ich vermisse Sie, ohne Sie je getroffen zu haben. 
-
-Ich danke Ihnen aufrichtig; denn manchmal dachte ich, ich bin komplett alleine mit meinen Zweifeln an dem, was mir von allen Seiten eingeredet wurde auf dem Bau. Nun weiss ich und kann beweisen, dass die Dinge anders liegen (dank ihnen ) 
-
-Liebe Grüße und mein tiefstes Beileid an Ihre Familie 
-
-Stefan Saffer 
-Bloomington , New York State 
-
----
-
-Datum: 17.5.2018 
-Von: Christian Brockmann 
-
-Sehr geehrter Herr Fischer, 
-> Ich habe zwar kein Altbau aber dank Ihnen habe ich konventionell mit Grundofen gebaut. Wenn ich da an meinem Nachbarn denke. Pilze und Bakterien. 
-Der Vergleich mit der Plastiktüte und dem Taupunkt der dollen Styropordämmung haben mir die Augen geöffnet. Wenn man es mal kapiert hat ist es total simpel. Fast wäre ich um ein Haar auch auf diese Mafia hereingefallen. Ich bin rein zufällig auf Ihre Seite gestoßen. Ich versuche jedem, der bauen will auch davon zu überzeugen. 
-Vielen Dank für Ihre Seite. 
-wünscht Ihnen 
-Christian Brockmann 
-
-_#KF: Sehr geehrter Herr Brockmann, 
-ich danke für Ihre Zuschrift und freue mich, daß meine Seite Ihnen etwas weiterhelfen konnte. 
-
-Besten Gruß! 
-Konrad Fischer_
+> Lieber Konrad Fischer,
+>
+> Ich schreibe Ihnen, obwohl ich leider vor kurzem erfahren musste, dass Sie verstorben sind. Trotzdem.
+>
+> Ich habe per Zufall Ihre Beiträge auf YouTube entdeckt und dann Ihre Webpage. Ich fühle mich Ihnen fast seelenverwandt und bin selbst geborener Oberfranke aus Eggolsheim und Schirndaidel, der als bildender Künstler (also nicht vom Fach) in Berlin ein altes Gebäude von 1860 umgebaut hat. (Das war 2011 und ich hätte Sie wirklich gebraucht).
+>
+> Instinktiv habe ich bei diesem Umbau eine Komplettdämmung verhindert und habe immer wieder nach Argumenten gerungen. Leider mussten neue Fenster sein und danach kam Schimmel (aber das habe ich mit einer eigenen Entlüftungskonstruktion geregelt). Ich ärgere mich heute noch über die teuren Fenster. Egal. Hätte ich Sie zu dieser Zeit schon gekannt, wäre es einfacher gewesen, sich gegen die träge Masse der beteiligten "Bauherren" besser durchsetzen zu können.
+>
+> Ich lebe mittlerweile in den USA und habe dort gerade ein Holzhaus von 1870 renoviert. Auch hier hätte ich Sie gebraucht! Seit Tagen lese ich auf Ihrer Webpage und sehe Ihre Videos. Sie sprechen mir aus der Seele! Ich kann Ihnen nicht genug danken für Ihre Arbeit und liebe Ihre direkte fränkisch undiplomatische, aber eben ehrliche Art!
+>
+> Es stimmte mich extrem traurig von Ihrem Ableben zu lesen. Ich bin jünger als Sie (werde 50 dieses Jahr), aber ich denke, wir hätten uns treffen müssen. Auf ein Bier in Franken (das wird halt nachgeholt, wenn's mich nicht mehr gibt). Ich hoffe, dass Ihre Informationen, Ihre Webpage und Ihre Aufklärungsarbeit offen zugänglich bleiben. Ihrer Familie wünsche ich eine Trauer, die sich langsam aber stetig in neue Kraft umwandelt.
+>
+> Ich vermisse Sie, ohne Sie je getroffen zu haben. Ich danke Ihnen aufrichtig; denn manchmal dachte ich, ich bin komplett alleine mit meinen Zweifeln an dem, was mir von allen Seiten eingeredet wurde auf dem Bau. Nun weiß ich und kann beweisen, dass die Dinge anders liegen (dank Ihnen).
+>
+> Liebe Grüße und mein tiefstes Beileid an Ihre Familie
+>
+> *Stefan Saffer*
 
 ---
 
-Betreff: Mein Eintrag in Konrad Fischers Gästebuch 
-Datum: 30.8.2017 
-Von: Jörg Müller 
+### Eintrag von Christian Brockmann
+**Datum:** 17.5.2018
 
-Hallo Herr Fischer, 
-> vielen Dank für dieses ehrliche Seite!! 
-Mit handwerklichen Grüßen 
-Jörg Müller * Zimmerermeister im "Alten Land" 
-Fa. MEISTER MÜLLER * AUS LIEBE ZUM HANDWERK 
+> Sehr geehrter Herr Fischer,
+>
+> Ich habe zwar keinen Altbau, aber dank Ihnen habe ich konventionell mit Grundofen gebaut. Wenn ich da an meinen Nachbarn denke: Pilze und Bakterien. Der Vergleich mit der Plastiktüte und dem Taupunkt der dollen Styropordämmung haben mir die Augen geöffnet. Wenn man es mal kapiert hat, ist es total simpel. Fast wäre ich um ein Haar auch auf diese Mafia hereingefallen. Ich bin rein zufällig auf Ihre Seite gestoßen. Ich versuche jeden, der bauen will, auch davon zu überzeugen.
+>
+> Vielen Dank für Ihre Seite.
+>
+> *Christian Brockmann*
 
-_#KF: Sehr geehrter Herr Müller, 
-Danke gleichfalls ins ehrbare Handwerk! 
+**Antwort von Konrad Fischer (#KF):**
+Sehr geehrter Herr Brockmann, ich danke für Ihre Zuschrift und freue mich, dass meine Seite Ihnen etwas weiterhelfen konnte.
 
-Besten Gruß! 
-Konrad Fischer_
+Besten Gruß!  
+Konrad Fischer
+
+---
+
+### Eintrag von Jörg Müller
+**Datum:** 30.8.2017  
+**Betreff:** Mein Eintrag in Konrad Fischers Gästebuch
+
+> Hallo Herr Fischer,
+>
+> vielen Dank für diese ehrliche Seite!!
+>
+> Mit handwerklichen Grüßen  
+> *Jörg Müller • Zimmerermeister im "Alten Land"* > Fa. MEISTER MÜLLER • AUS LIEBE ZUM HANDWERK
+
+**Antwort von Konrad Fischer (#KF):**
+Sehr geehrter Herr Müller, danke gleichfalls ins ehrbare Handwerk!
+
+Besten Gruß!  
+Konrad Fischer
 
 ---
 
@@ -478,7 +476,7 @@ Zum anderen gibt es viele Einflüsse, die den Heizenergieverbrauch beeinflussen.
 
 Um nun wirksame Energiesparmaßnahmen mit gutem wirtschaftlichen Ergebnis (Kosten-Nutzen-Frage) herauszufinden, gehe ich vorzugsweise von den baulichen Tatsachen aus, in die ich mich zunächst etwas einarbeiten muß. Nur so lassen sich einfache und funktionierende Empfehlungen ableiten. Mit dem U-Wert-Rechenprogramm eines technisch maingestreamten "Energieberaters" dürfte man es da schwerer haben. Alle paar Tage bekomme ich die Beweise dafür auf den Tisch. Der letzte Beratungskunde (aus Trier) zahlte 100.000 EUR für Energiesparschnulli (Anlagentechnik, Dämmung), um danach 3.000 Liter Öläquivalent-Liter im Jahr mehr als vorher zu verbrauchen. Und bekommt seine Wohnflächen nicht mehr warm. Berechnet war eine 10-Jahres-Amortisation mit monatlich 150 EUR Überschuß. So ensteht Haftung, Gewährleistung und Schadensersatz. 
 
-[![Die Haftung, Gewährleistung und der Schadensersatz des Energieberaters](../medien/YOU74.JPG)](http://youtu.be/E8-2cgkkUPI) 
+[![Die Haftung, Gewährleistung und der Schadensersatz des Energieberaters](../medien/YOU74.JPG)](https://youtu.be/E8-2cgkkUPI) 
 
 Wie es nun in den Dämmstoffschichten Ihres Nachbarn aussieht, weiß man auch erst, wenn die Problempunkte untersucht werden, es schimmelig muffelt oder gleich der Hausschwamm aus den Ritzen rausquillt. Das Taupunktproblem im Dämmstoff wird nämlich auch falsch berechnet. Das traurige Ergebnis läßt aber meist etwas länger auf sich warten, als die jährliche Heizkostenabrechnung.#_ 
 
@@ -490,7 +488,7 @@ ich hatte Ihnen vor einiger Zeit schon mal in Ihr Gästebuch geschrieben und mö
 
 Was mir an Ihren Vorträgen gefällt ist, dass Sie praktisch alle Aussagen auch mit entsprechender Literatur belegen und somit jeder Zuhörer die Chance hat, zu recherchieren, ob das stimmt, was Sie berichten. 
 
-[![EnEV & Schimmelpilz: Die Wahrheit der Bauphysik - Schimmelpilzkonferenz Berlin 21.03.2103](../medien/YOU67.JPG)](http://youtu.be/cHkK30uIfLY) [![Feuchte, Schimmel + Bankrott - die beliebtesten Fehler der energetischen Sanierung im Altbau Immobilientage Neustadt/Weinstraße 15.09.2012](../medien/YOU54.JPG)](http://youtu.be/XDqCJ3Yh7jM) 
+[![EnEV & Schimmelpilz: Die Wahrheit der Bauphysik - Schimmelpilzkonferenz Berlin 21.03.2103](../medien/YOU67.JPG)](https://youtu.be/cHkK30uIfLY) [![Feuchte, Schimmel + Bankrott - die beliebtesten Fehler der energetischen Sanierung im Altbau Immobilientage Neustadt/Weinstraße 15.09.2012](../medien/YOU54.JPG)](https://youtu.be/XDqCJ3Yh7jM) 
 
 Bei der Gegenseite dagegen sind viele Aussagen nicht belegt und man soll dem Glauben schenken, was da gesagt wird und es handelt sich da um die entscheidenden Stellen, auf denen die Gegenseite ihre Argumente aufbaut. 
 
@@ -532,7 +530,7 @@ _#KF: Lieber Herr Hartung, ich bedanke mich für Ihren umfangreichen und konstru
 **Name:** Familie Raps 
 **Beitrag:** Hallo Herr Fischer, ich bin ein langjähriger Fan von ihnen und habe mir deshalb den TV Bericht von Geld und Leben des BR angesehen. 
 
-[![BR 'Geld und Leben' 21.02.2013 Check: Dämmung - Hauswände dämmen - sinnvoll oder Unsinn](../medien/YOU63.JPG)](http://youtu.be/icacipcPR1s) 
+[![BR 'Geld und Leben' 21.02.2013 Check: Dämmung - Hauswände dämmen - sinnvoll oder Unsinn](../medien/YOU63.JPG)](https://youtu.be/icacipcPR1s) 
 
 Sie haben wie so oft die Wahrheit über die Außenfassadendämmung dargestellt und danach kam diese Energieberaterinn, die völlig unverblümt das krasse Gegenteil- wahrscheinlich aus dem Abendkurs des Arbeitsamts - wiedergegeben hat. Einfach unglaublich dieser Bayerische Rundfunk. Trotzdem alles Gute und machen Sie so weiter. 
 

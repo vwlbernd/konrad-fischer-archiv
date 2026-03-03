@@ -1,11 +1,18 @@
 ---
-title: "Brandschutz"
-description: "Links zu den Unterseiten und Kapitel Brandschutz und Arbeitssicherheit im Altbau."
-author: " "
+nav: "20bausto.md"
+title: "Brandschutz & Arbeitssicherheit"
+description: "Praktische Informationen zu altbautauglichen Verfahren und Baustoffen, inklusive Brandschutz, Arbeitssicherheit und Links zu detaillierten Themen im Bereich Altbau und Denkmalpflege."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2baustof.htm"
+updated: ""
 ---
 
-# Altbautaugliche Verfahren und Baustoffe
+[🠔 Zur Übersicht: Altbau Restaurierung](20bausto.md)  
+# Brandschutz & Arbeitssicherheit
+**Praktische Informationen zu altbautauglichen Verfahren und Baustoffen, inklusive Brandschutz, Arbeitssicherheit und Links zu detaillierten Themen im Bereich Altbau und Denkmalpflege.**  
+_von Konrad Fischer_
+
+## Altbautaugliche Verfahren und Baustoffe
 
 ## Brandschutz / Arbeitssicherheit / Baustoff-Links
 
@@ -19,129 +26,14 @@ Da es hier um die Praxis bei Altbau und Denkmalpflege geht, lassen sich baustoff
 
 <center markdown>
 
-**Inhaltsverzeichnis Baustoffkapitel:** 
-[Einführung zum Problemkreis "Modernes Bauen"](20bausto.md#einfã¼hrung) 
-[Einige Tips zur Produktvermarktung](10hoai22.md) - Ihre raffinierten (von Raffen?) Methoden, Tricks und Betrugsmanöver 
-[Zusammenfassung](20bausto.md#zusammenfassung) 
-Die anderen Kapitel: 0. Aktuelles 
-[1. Gibt es "aufsteigende Feuchte"?](2aufstfe.md) 
-[2. Erneuerung oder Erhalt von Altputzen](22bausto.md) 
-[3. Erneuerung oder Erhalt von Altfenstern](23bausto.md) 
-[4. Geeignete und ungeeignete Farbsysteme auf Holzuntergründen im Innen- und Außenbereich](23bau08.md) 
-[4a. Rostschutzanstrich](23bau10.md#rostschutzfarbe) 
- [5. Wirksamer bekämpfender und vorbeugender Holzschutz ohne Gift](23bau16.md) 
-[6. Luftkalkmörtel für Mauerwerk, Innen- und Außenputze, Dachdeckerbedarf, Verfugung und Verpressung](26bausto.md) 
-[7. Mineralische untergrundverträgliche Anstrichsysteme](26bau07.md) 
-[8. Ertüchtigung historischer Gründungen durch Stopfverfahren](28bausto.md) 
-[9. Natursteinrestaurierung/Naturstein](29bausto.md) 
-[9a. Boden/Verkleidung keramisch/mineralisch](29bau07.md) 
-[9b. Reinigungsverfahren für verschmutzte Altoberflächen](29bau08.md) 
-[10. Wandbildner im Altbau](29bau09.md) 
-[10a. Nachtrag: Fachwerkbau/Holzfußboden/Fußbodenaufbau allgemein](29bau16.md) 
-[11. Der Stahlbeton und Zement](2beton.md) 
-[12. Dachdeckung und -konstruktion](212baust.md) 
-[13. Wärmedämmung](213baust.md) 
-14. Brandschutz im Altbau 
-15. Arbeitssicherheit bei der Altbauinstandsetzung 
-16. Links zu verwandten sonstigen Themenbereichen 
+> [!abstract]+ Kapitelübersicht: Brand- & Arbeitssicherheit  
+> 1. **Brandschutz & Arbeitssicherheit**
+> 2. [Bauversicherungen und Hausversicherungen](versicherung.md)
+> 3. [Brandschutz im Baudenkmal – Praktisch, Umsetzbar und Denkmalgerecht](6brand.md)
+
+
 
 </center>
-
-<a id="aktuelles"></a>**`_**AKTUELLES**_`**
-
-**[Initiative für gesundes Bauen](7intiv.md)**
-
-Die Öffentlichkeit und Politik wird für die Durchsetzung des Energieabzockens mit vier offenbar zentral gesteuerten Suggestionskampagnen medial beeinflußt:
-
-1. Simulationen und Klimaereignisse "bewiesen", daß der Fortbestand der Menschheit durch das "Treibhausgas" CO gefährdet sei. 
-2. Die EnEV sei nicht "scharf" genug, um unsere klimaabstürzende Welt - in Wahrheit gewisse Marktinteressen - zu retten, und 
-3. Die Barackenbauweise, oft im Verbund mit schadensanfälligem und absurd unwirtschaftlichem High-Tech spare Energie. Wenn nur wenigstens die Energie teurer wäre, damit das auch wirtschaftlich gelänge. 
-4. Die industrienahen Fachleute seien sich in 1. bis 3. einig. Nur unabhängige "Spinner/Eigenbrötler" stänkern dagegen.
-
-[Entscheiden Sie selbst: Dieser Link bietet auch die Kehrseite der Medaille](7wsvoant.md)
-
-
-
----
-
-_"Zum Unglück hat sich mit der Industrie ein System verbunden, 
-das Profit als den eigentlichen Motor des gesellschaftlichen Fortschritts betrachtet, 
-den Wettbewerb als das oberste Gesetz der Wirtschaft, 
-Eigentum an den Produktionsgütern als absolutes Recht, 
-ohne Schranken, 
-ohne entsprechende Verpflichtung der Gesellschaft gegenüber. [...] 
-Noch einmal sei feierlich daran erinnert, 
-dass Wirtschaft im Dienst des Menschen steht." 
-_Papst Paul IV. 
-(in seiner Enzyklika über den Fortschritt der Völker - [POPULORUM PROGRESSIO - Volltext deutsch](http://www.christusrex.org/www1/overkott/populo.htm) )
-
-**Das Bild zum Thema:**[Frans Francken - Der Tod und der Kaufmann (1620)](http://www.religionsunterricht.de/ifr/ifr45zd2.htm)
-
----
-
-<a id="einführung"></a>**[Einführung](20bausto.md#einfã¼hrung)** 
-<a id="einige tips zur produktvermarktung"></a>**[Einige Tips zur Produktvermarktung](10hoai22.md)** 
-<a id="zusammenfassung"></a>**[Zusammenfassung
-
-* * *](20bausto.md#zusammenfassung)** Themen: 
-
-<a id="1. gibt es aufsteigende feuchte?"></a>**[1. Gibt es "aufsteigende Feuchte"?](21bausto.md#1. gibt es aufsteigende feuchte?)**
-
----
-
-<a id="2. erneuerung oder erhalt von altputzen"></a>**[2. Erneuerung oder Erhalt von Altputzen](22bausto.md)**
-
-Das <a id="silikatproblem"></a>Silikatproblem stellt sich aber nicht nur bei Putzen: [Textfortsetzung](22bausto.md#silikatproblem)
-
-Selbst auf "modernen" Putzen funktionieren Wasserglas-/Silikatfarben nicht ohne Probleme, wie die Auszüge folgender Schadensfallbeschreibung aus DAB 11/99 aufzeigen:
-
-<a id="claus arendt, jörg seele"></a>_"Claus Arendt, Jörg Seele 
-**Sanierputz auf historischem Mauerwerk oder Genese eines unnötigen Schadens" -[Textfortsetzung](22bausto.md#claus arendt,+jã¶rg+seele)**_
-
-<a id="3. erneuerung oder erhalt von altfenstern"></a>**[3. Erneuerung oder Erhalt von Altfenstern](23bausto.md)**
-
----
-
-<a id="4. geeignete und ungeeignete farbsysteme auf"></a>**[4. Geeignete und ungeeignete Farbsysteme auf Holzuntergründen im Innen- und Außenbereich](23bau08.md) 
-[4a. Rostschutzanstrich](23bau10.md#rostschutzfarbe)**
-
----
-
-<a id="5. wirksamer bekämpfender und vorbeugender"></a>**[5. Wirksamer bekämpfender und vorbeugender Holzschutz ohne Gift](23bau16.md)**
-
----
-
-<a id="6. reine luftkalkmörtel für mauerwerk, innen- und"></a>**[6. Luftkalkmörtel für Mauerwerk, Innen- und Außenputze, Dachdeckerbedarf, Verfugung und Verpressung](26bausto.md)**
-
----
-
-<a id="7. mineralische untergrundverträgliche"></a>**[7. Untergrundverträgliche Anstrichsysteme](26bau07.md)**
-
----
-
-<a id="8. ertüchtigung historischer gründungen durch das"></a>**[8. Ertüchtigung historischer Gründungen](28bausto.md)**
-
----
-
-<a id="9. natursteinrestaurierung"></a>**[9. Natursteinrestaurierung/Naturstein an Boden und Wand](29bausto.md)**
-
----
-
-<a id="10. wandbildner im altbau"></a>**[10. Wandbildner im Altbau/Fachwerk](29bau09.md)**
-
-<a id="stein-putz-risse"></a>Zur bautechnischen Folge der Porosiererei am Ziegelstein schreibt z.B. Dipl.-Ing. Erwin Gierlinger in "Stein-Putz-Risse auf Mauerwerk", Bauhandwerk/Bausanierung 6/99 (Auszüge): [Textfortsetzung](29bau12.md#stein-putz-risse)
-
----
-
-<a id="11. der stahlbeton und der zement"></a>**11. Der[Stahlbeton und ](2beton.md)**<a id="zement"></a>**[Zement](2beton.md)**
-
----
-
-<a id="12. dachdeckung"></a>**[12. Dachdeckung und -konstruktion](212baust.md)**
-
----
-
-<a id="13. wärmedämmung"></a>**[13. Wärmedämmung](213baust.md)** 
 
 <a id="14"></a>**14. Brandschutz im Altbau**
 

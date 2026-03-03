@@ -1,15 +1,22 @@
 ---
-title: "Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Gebäudesanierung"
-description: "Strategietips zur Finanzierung 12 - Einschub mit perfiden Baufinanzierungs-Sauereien und -Idiotien im Staatsapparat und Behördenalltag."
-author: " "
+nav: "11planme.md"
+title: "Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 12"
+description: "Dieser Artikel beleuchtet, wie sogenannte Sanierungstreuhänder Fördermittel missbrauchen, oft in Verstrickung mit öffentlichen Vertretern und Parteimitgliedern, um eigene gewinnbringende Projekte außerhalb der Konkurrenz zu realisieren."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/5wiber12.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Wirtschaftlichkeit](5wiber.md)  
+# Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 12
+**Dieser Artikel beleuchtet, wie sogenannte Sanierungstreuhänder Fördermittel missbrauchen, oft in Verstrickung mit öffentlichen Vertretern und Parteimitgliedern, um eigene gewinnbringende Projekte außerhalb der Konkurrenz zu realisieren.**  
+_von Konrad Fischer_
 
 Konrad Fischer 
 
-# Die Wirtschaftlichkeitsberechnung als Planungsgrundlage der Altbausanierung 12
 
-[Seite 1](5wiber.md) [2](5wiber02.md) [3](5wiber03.md) [4](5wiber04.md) [5](5wiber05.md) [6](5wiber06.md) [7](5wiber07.md) [8](5wiber08.md) [9](5wiber09.md) [10](5wiber10.md) [11](5wiber11.md) **12** [13](5wiber13.md) [14](5wiber14.md)
+
+
 
 Was man zur Entwicklung der Verhandlungsstrategie auch unbedingt wissen muß: Betreibt der angebliche Sanierungstreuhänder, die "privatwirtschaftliche" Schaltstelle zwischen Fördermitteln und Empfänger - nebenbei selbst Sanierungsvorhaben? Millionenschwer und lukrativ? Gewinnträchtig und außer Konkurrenz nach eigener Gestaltung der Margen? Ertragreich bis zum Umfallen, mit Abfall der notwendigen Bestechungsgelder und sonstiger Annehmlichkeiten für die "politischen" und "administrativen" Entscheidungsträger in Bund, Land, Regierungsbezirk und Kommune?
 

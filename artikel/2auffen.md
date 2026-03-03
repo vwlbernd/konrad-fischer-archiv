@@ -1,15 +1,22 @@
 ---
-title: "The Fraud of Rising Damp in Old Buildings - Part One - A Hoax of Moisture and Salts"
-description: "How to get rid of moistured houses, wet cellars & soaked walls - A Helpful Guide."
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "The Fraud of the Rising Damp - Part One"
+description: "Investigating the fraud of rising damp in old buildings, challenging common beliefs and solutions for moisture and salts. Discover alternative perspectives on wet cellars and soaked walls."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2auffen.htm"
+updated: "31.05.2005"
 ---
+
+[🠔 Zur Übersicht: English: Old House Repair](english.md)  
+# The Fraud of the Rising Damp - Part One
+**Investigating the fraud of rising damp in old buildings, challenging common beliefs and solutions for moisture and salts. Discover alternative perspectives on wet cellars and soaked walls.**  
+_von Konrad Fischer • aktualisiert 31.05.2005_
 
 [Konrad Fischer, Architect](1refernz.md): 
 
 ## Rising dampness - everywhere well known or a hoax and fake? What is true?
 
-# The Fraud of the Rising Damp - Part One
+
 
 And yes, I know that I won't manage to convince any Rising-Damp-Believer! 
 

@@ -1,13 +1,20 @@
 ---
-title: "Aus der Internet-Fragestunde der Altbau und Denkmalpflege ..."
-description: "Altbaufragen von AZ: Rund um die Fachwerksanierung/Fachwerkhaus/Fachwerkrestaurierung."
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Aus der Internet-Fragestunde: Fachwerk-Rettung"
+description: "Warum moderne Baustoffe das Ende jedes Fachwerkhauses bedeuten: Praxistipps zur denkmalgerechten Restaurierung, die auf jahrhundertealter Erfahrung statt auf kurzlebiger Bauchemie basieren."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2frag12.htm"
+updated: "05.12.2008"
 ---
+
+[🠔 Zur Übersicht: Altbau FAQ](2frag.md)  
+# Aus der Internet-Fragestunde: Fachwerk-Rettung
+**Warum moderne Baustoffe das Ende jedes Fachwerkhauses bedeuten: Praxistipps zur denkmalgerechten Restaurierung, die auf jahrhundertealter Erfahrung statt auf kurzlebiger Bauchemie basieren.**  
+_von Konrad Fischer • aktualisiert 05.12.2008_
 
 Konrad Fischer 
 
-# Aus der Internet-Fragestunde und Bauberatung
+## Aus der Internet-Fragestunde und Bauberatung
 
 **(aktualisiert 5.12.08)** 
 

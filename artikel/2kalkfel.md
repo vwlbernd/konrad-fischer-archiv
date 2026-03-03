@@ -1,11 +1,34 @@
 ---
+nav: "20bausto.md, 26bausto.md"
 title: "Die häufigsten Fehler bei der Anwendung von Luftkalkmörtel, Kalkputz und Kalkanstrich - Einführung"
-description: "Tipps, Tricks und Ratschläge zu verarbeitungs- und objektbedingten Fehlerquellen."
-author: " "
+description: "Ein Expertenbericht über die Fundamente der Altbausanierung: Warum traditionelle Kalktechniken modernen Systemen überlegen sind und wie Sie kapitale Fehler von Anfang an vermeiden."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2kalkfel.htm"
+updated: ""
 ---
 
-# Die häufigsten Fehler bei der Anwendung von 
+[🠔 Zur Übersicht: Kalk](26bausto.md)  
+# Die häufigsten Fehler bei der Anwendung von Luftkalkmörtel, Kalkputz und Kalkanstrich - Einführung
+**Ein Expertenbericht über die Fundamente der Altbausanierung: Warum traditionelle Kalktechniken modernen Systemen überlegen sind und wie Sie kapitale Fehler von Anfang an vermeiden.**  
+_von Konrad Fischer_
+
+> [!abstract]+ Kapitelübersicht: Kalk Anwendungsfehler  
+> 1. **Die häufigsten Fehler bei der Anwendung von Luftkalkmörtel, Kalkputz und Kalkanstrich - Einführung**
+> 2. [Kalk Anwendungsfehler 1: Falsche Rezeptur](2kalkf01.md)
+> 3. [Kalk Anwendungsfehler 2: Warum Ihr Kalkputz nicht hält](2kalkf02.md)
+> 4. [Kalk Anwendungsfehler 3: Der Schwindel mit den Fertigmischungen](2kalkf03.md)
+> 5. [Kalk Anwendungsfehler 4: Schlechte Untergrundvorbereitung](2kalkf04.md)
+> 6. [Kalk Anwendungsfehler 5: Zu starker Mörtelauftrag](2kalkf05.md)
+> 7. [Kalk Anwendungsfehler 6: Sinterhaut und Witterungsschutz](2kalkf06.md)
+> 8. [Kalk Anwendungsfehler 7: Falscher Farbanstrich](2kalkf07.md)
+> 9. [Kalk Anwendungsfehler 8: Warum Putze von der Wand fallen](2kalkf08.md)
+> 10. [Kalk Anwendungsfehler 9: Salzbelastete Untergründe](2kalkf09.md)
+> 11. [Kalk Anwendungsfehler 10: Falsche Sockelausbildung](2kalkf10.md)
+> 12. [Kalk Anwendungsfehler 11: Hydraulischer Kalk und seine Spätfolgen](2kalkf11.md)
+> 13. [Kalk Anwendungsfehler 12: Versteckte Details und Werkzeugfehler](2kalkf12.md)
+> 14. [Kalk Anwendungsfehler 13: Schlußbemerkung](2kalkf13.md)
+
+## Die häufigsten Fehler bei der Anwendung von
 
 Luftkalkmörtel, 
 Kalkputz und Kalkanstrich

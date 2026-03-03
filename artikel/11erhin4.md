@@ -1,9 +1,16 @@
 ---
-title: "Sparsam Planen und Bauen im Altbau 3"
-description: "Konrad Fischer Sparsam Planen und Bauen im Altbau - Die erhaltende Instandsetzung - Teil 3 und Schluß Natürlich kann auch mit schlechten Kalkmörteln - hier ..."
-author: " "
+nav: "11planme.md, 11erhins.md"
+title: "Sparsam Planen und Bauen im Altbau - Die erhaltende Instandsetzung - Teil 3 und Schluß"
+description: "Kostengünstige Maßnahmenplanung mit/ohne DIN-Norm-Ausnahme, EnEV-Befreiung, Kostensichere Ausschreibung & Baudurchführung"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/11erhin4.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Reparieren statt Neu](11erhin2.md)  
+# Sparsam Planen und Bauen im Altbau - Die erhaltende Instandsetzung - Teil 3 und Schluß
+**Kostengünstige Maßnahmenplanung mit/ohne DIN-Norm-Ausnahme, EnEV-Befreiung, Kostensichere Ausschreibung & Baudurchführung**  
+_von Konrad Fischer_
 
 **[Die erhaltende Instandsetzung - Teil 1](11erhins.md)** 
 **[Die erhaltende Instandsetzung - Teil 2.1](11erhin2.md)** 

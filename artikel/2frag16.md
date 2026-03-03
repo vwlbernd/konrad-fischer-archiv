@@ -1,13 +1,20 @@
 ---
-title: "Aus der Internet-Fragestunde der Altbau und Denkmalpflege ..."
-description: "Altbaufragen von AZ: Holzschutz, Holzbau, Schimmel, Heizung, Lüftung, Dämmung, Temperierung 1."
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Aus der Internet-Fragestunde: Temperierung statt Dämmwahn"
+description: "Vergessen Sie teure Isolierung: Warum die Hüllflächentemperierung Schimmel stoppt, das Gebälk schützt und wie Sie mit Strahlungswärme statt stickiger Luft ein perfektes Raumklima schaffen."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2frag16.htm"
+updated: "20.07.2009"
 ---
+
+[🠔 Zur Übersicht: Altbau FAQ](2frag.md)  
+# Aus der Internet-Fragestunde: Temperierung statt Dämmwahn
+**Vergessen Sie teure Isolierung: Warum die Hüllflächentemperierung Schimmel stoppt, das Gebälk schützt und wie Sie mit Strahlungswärme statt stickiger Luft ein perfektes Raumklima schaffen.**  
+_von Konrad Fischer • aktualisiert 20.07.2009_
 
 Konrad Fischer 
 
-# Aus der Internet-Fragestunde und Bauberatung
+## Aus der Internet-Fragestunde und Bauberatung
 
 **(aktualisiert 20.07.09)** 
 

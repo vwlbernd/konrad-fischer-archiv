@@ -1,11 +1,18 @@
 ---
-title: "Vorträge zur Denkmalpflege"
+nav: "index.md"
+title: "Kunstdenkmal und Denkmalkunde (Vortrag 1997)"
 description: "Kunstdenkmal und Denkmalkunde: Zur verfassungsrechtlichen Stellung von wiss. Fachbehörden u.a."
-author: " "
+author: "Prof. Dr. Tilmann Breuer"
 original_url: "www.konrad-fischer-info.de/8breuer.htm"
+updated: ""
 ---
 
-# Vorträge von Prof. Dr. Tilmann Breuer
+[🠔 Zur Übersicht: Quellen](8infober.md)  
+# Kunstdenkmal und Denkmalkunde (Vortrag 1997)
+**Kunstdenkmal und Denkmalkunde: Zur verfassungsrechtlichen Stellung von wiss. Fachbehörden u.a.**  
+_von Prof. Dr. Tilmann Breuer_
+
+## Vorträge von Prof. Dr. Tilmann Breuer
 
 ## Kunstdenkmal und Denkmalkunde (Vortrag 1997) 
 
@@ -151,7 +158,7 @@ Tilmann Breuer
 
 <a id="kunstwissenschaft - bauforschung -"></a> 
 
-# "Kunstwissenschaft - Bauforschung - Denkmalpflege"
+## "Kunstwissenschaft - Bauforschung - Denkmalpflege"
 
 Festvortrag anläßlich der Eröffnung der zweiten Förderungsphase des Graduiertenkollegs Kunstwissenschaft - Bauforschung - Denkmalpflege der Otto-Friedrich-Universität Bamberg und der Technischen Universität Berlin am 24.4.1999 in Bamberg
 

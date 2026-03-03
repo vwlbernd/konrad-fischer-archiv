@@ -1,11 +1,18 @@
 ---
-title: "Die häufigsten Fehler bei der Anwendung von Luftkalkmörtel 1"
-description: "Zu verarbeitungs- und objektbedingten Fehlerquellen."
-author: " "
+nav: "20bausto.md, 26bausto.md"
+title: "Kalk Anwendungsfehler 1: Falsche Rezeptur"
+description: "Ein Expertenbericht über des richtigen Mischungsverhältnisses: Warum zu viel Kalk den Putz sprengt und wie die Sieblinie über die Stabilität entscheidet."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2kalkf01.htm"
+updated: ""
 ---
 
-# Die häufigsten Fehler bei der Anwendung von 
+[🠔 Zur Übersicht: Kalk Anwendungsfehler](2kalkfel.md)  
+# Kalk Anwendungsfehler 1: Falsche Rezeptur
+**Ein Expertenbericht über des richtigen Mischungsverhältnisses: Warum zu viel Kalk den Putz sprengt und wie die Sieblinie über die Stabilität entscheidet.**  
+_von Konrad Fischer_
+
+## Die häufigsten Fehler bei der Anwendung von
 
 Luftkalkmörtel, 
 Kalkputz und Kalkanstrich 1

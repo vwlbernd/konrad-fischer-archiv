@@ -1,22 +1,29 @@
 ---
-title: "Energiesparen und Wärmeschutz am Altbau 5"
-description: "Wärmedämmung oder -speicherung, Witze der etablierten Bauphysik? Prof. Jens Fehrenberg: Kritik"
-author: " "
+nav: "20bausto.md"
+title: "Wärmedämmung oder -speicherung, Witze der etablierten Bauphysik?"
+description: "Es gibt bisher keinen glaubwürdigen Beleg, geschweige denn Nachweis am Objekt, daß sich durch nachträgliche Wärmedämmung wirklich nennenswerte Energie sparen ließe."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/7wdvs05.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Energiesparen](7wsvoant.md)  
+# Wärmedämmung oder -speicherung, Witze der etablierten Bauphysik?
+**Es gibt bisher keinen glaubwürdigen Beleg, geschweige denn Nachweis am Objekt, daß sich durch nachträgliche Wärmedämmung wirklich nennenswerte Energie sparen ließe.**  
+_von Konrad Fischer_
 
 ## Energiesparen und Wärmeschutz am Altbau 5
 
 Von der Intelligenz moderner Baumethoden/Haustechnik/Schimmelpilzzüchtung usw. 
 Wissenschaftsdogmatik am Bau und in den Klima-Simulatoren 
 
-Energiesparen und Wärmeschutz Kapitel [Einleitung](7wsvoant.md) [1](7wdvs01.md) [2](7wdvs02.md) [3](7wdvs03.md) [4](7wdvs04.md) [5](7wdvs05.md) [6](7wdvs06.md) [7](7wdvs07.md) [8](7wdvs08.md) [9](7wdvs09.md) [10](7wdvs10.md) [11](7wdvs11.md) [12](7wdvs12.md) [13](7wdvs13.md) [14](7wdvs14.md) [15](7wdvs15.md) [16](7wdvs16.md) [17](7wdvs17.md) [18](7wdvs18.md) [19](7wdvs19.md) [20](7wdvs20.md) [21](7wdvs21.md) 
+
 
 ---
 
 [Konrad Fischer](1refernz.md) <a id="wärmedämmung"></a>
 
-# Wärmedämmung oder -speicherung, Witze der etablierten Bauphysik?
+
 
 Es gibt bisher keinen glaubwürdigen Beleg, geschweige denn Nachweis am Objekt, daß sich durch nachträgliche Wärmedämmung wirklich nennenswerte Energie sparen ließe. So äußern sich maßgebliche Vertreter aus Bundesministerien, der Erdölindustrie, die kleinen und großen Vermieter (hinter vorgehaltener Hand, weil sie so arg gerne die Modernisierungsumlage kassieren, egal, wie wenig der Mieter nach Dämmung spart) und Beobachter der Dämmszene. Selbst am Neubau hilft nur das Herausrechnungen angeblicher Lüftungs- und Brauchwasserverluste, mit Niedrigverbräuchen der Heizanlage zu prahlen. Oder die Bude ist so leicht, daß sie der nächste Wind wegwehen kann. Wenn es wirklich gelingt, die Warmluft einzusperren und die LEichtbude schnell zu erhitzen: um welchen Preis? Sind hohe Klimaanlagen/Wärmerückgewinnung-Stromkosten bzw. Feuchtebelastung des stickigen Wohnklimas und die labile und feuchteanfällige Bauklapperatistik (vgl. Enstegs-Skandal der Dämmbuden in Schweden) wirklich so dolle Werbeargumente? Nicht umsonst sind über 60 Prozent der Bauprozesse Schimmelstreit.
 
@@ -58,7 +65,7 @@ Auch die **Auswertung von 100 Niedrigenergiehäusern** in Hessen zeigte: **Bis z
 
 <a id="mythen"></a>
 
-# Dämmstoffpropaganda, Dämm-Mythen und andere Märchen
+## Dämmstoffpropaganda, Dämm-Mythen und andere Märchen
 
 Nach etwas saftigerer Aufklärung diverser Medien zu allerlei Nachteilen des Dämmwahns erblicken insbesonders seit 2013 mehr und mehr im Hinterzimmerdunkel zusammengeschusterte und offensichtlich voneinander abhängige Schriften das Tageslicht, die dem geneigten, aber auch dem dank der pöhsen Medienhetze leider arg verunsicherten Leser seine bösen Irrtümer, Vorurteile, Falschannahmen und sonstige Antidämmressentiments mit der geneigten Hilfe käuflicher Schönschreiberlinge austreiben sollen. Weil ja alle Vorbehalte technischer, wirtschaftlicher und naturschützerischer Art komplett falsch seien. Hierzu nur ein paar Beispiele zur Ergötzung der wahrheitshungrigen Leserschaft als Downloadlink (Tabletten gegen Reisekrankheit bitte vor dem Konsum bereitstellen): 
 

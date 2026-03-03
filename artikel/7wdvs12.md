@@ -1,9 +1,16 @@
 ---
-title: "Energiesparen und Wärmeschutz am Altbau 12"
-description: "Das Passivhaus nach Dr. Feist / Holzhäuser-Probleme"
-author: " "
+nav: "20bausto.md"
+title: "Energiesparen und Wärmeschutz am Altbau 12 - Wie sollen wir richtig bauen?"
+description: "Kritik an Passivhausbauweise und Konstruktion - Bauschäden, Klimaprobleme, schlechtes Raumklima, kein sommerlicher Wärmeschutz - Baupfusch mit Bauphysik und Klimatologie"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/7wdvs12.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Energiesparen](7wsvoant.md)  
+# Energiesparen und Wärmeschutz am Altbau 12 - Wie sollen wir richtig bauen?
+**Kritik an Passivhausbauweise und Konstruktion - Bauschäden, Klimaprobleme, schlechtes Raumklima, kein sommerlicher Wärmeschutz - Baupfusch mit Bauphysik und Klimatologie**  
+_von Konrad Fischer_
 
 _[Konrad Fischer](1refernz.md)_
 
@@ -12,7 +19,7 @@ _[Konrad Fischer](1refernz.md)_
 ### Passivhaus-Probleme - Aufwand&Nutzen Krankheit Asthma Migräne Bauschaden 
 Kritik an Passivhausbauweise und Konstruktion - Bauschäden, Klimaprobleme, schlechtes Raumklima, kein sommerlicher Wärmeschutz - Baupfusch mit Bauphysik und Klimatologie
 
-Energiesparen und Wärmeschutz Kapitel [Einleitung](7wsvoant.md) [1a](7wdvs01.md) [2](7wdvs02.md) [3](7wdvs03.md) [4](7wdvs04.md) [5](7wdvs05.md) [6](7wdvs06.md) [7](7wdvs07.md) [8](7wdvs08.md) [9](7wdvs09.md) [10](7wdvs10.md) [11](7wdvs11.md) **12** [13](7wdvs13.md) [14](7wdvs14.md) [15](7wdvs15.md) [16](7wdvs16.md) [17](7wdvs17.md) [18](7wdvs18.md) [19](7wdvs19.md) [20](7wdvs20.md) [21](7wdvs21.md) 
+
 
 <a id="das passivhaus nach dr. feist"></a>
 

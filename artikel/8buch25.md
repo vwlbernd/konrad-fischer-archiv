@@ -1,33 +1,27 @@
 ---
-title: "12\. Aufsätze zur Denkmalpflege, 13. Verlagskontakte, 14. Informative / Kontroverse Quellen / Links zu historischen Themen / Altertumswissenschaft / Archäologie / Theologie / Philosophie / Mythologie / Astronautengötter / Antike Hochtechnologie / Dan Brown, Da Vinci, Religion - Mysterien, Geheimnisse, Verschwörungen, Theorien, Fiktionen, Wahrheitssuche etc."
-description: "Kontroverse Quellen zu Denkmalschutz, Archäologie, Geschichte, Kultur, Ägypten, Bibel, Religion, Mythologie, Mysterien, Verschwörung, Geheimnis, Fiktion, Theorie, Wahrheit etc. 25"
-author: " "
+nav: "index.md, 8infober.md"
+title: "Aufsätze zur Denkmalpflege"
+description: "Bücher und Zeitschriften, Rezensionen, Aufsätze, Internetlinks, Verlagskontakte, Literaturrecherche- und bestellung, Quellensammlungen 25"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/8buch25.htm"
+updated: "27.04.2008"
 ---
+
+[🠔 Zur Übersicht: Literatur Altbau I](8buch.md)  
+# Aufsätze zur Denkmalpflege
+**Bücher und Zeitschriften, Rezensionen, Aufsätze, Internetlinks, Verlagskontakte, Literaturrecherche- und bestellung, Quellensammlungen 25**  
+_von Konrad Fischer • aktualisiert 27.04.2008_
 
 Bücher und Zeitschriften, Rezensionen, Aufsätze, Internetlinks, Verlagskontakte, Literaturrecherche- und bestellung, Quellensammlungen 25 
 
 (Vorsicht, nicht immer absolut zeitgeistig (oder doch schon?)!) 
 **(aktualisiert 27.04.08)** 
 
-**Inhalt** : [1.Bücher/Zeitschriften/Informationsreihen/Internetlinks](8buch.md#bã¼cher/zeitschriften/informationsreihen/internetlinks) 
-[2. Denkmalpflege/Altbausanierung 1](8buch.md#denkmalpflege/altbausanierung) [2](8buch02.md) [3](8buch03.md) [4](8buch04.md) [5](8buch05.md) [6](8buch06.md) [7](8buch07.md) 
-[3. Bauwesen allgemein](8buch08.md) 
-[4. Burg/Schloß/Wehr- und Waffentechnik](8buch09.md) 
-[5. Kirche/Kloster/Theologie/Schönes und Unbequemes 1](8buch10.md) [2](8buch11.md) [3](8buch12.md) [4](8buch13.md) [5](8buch14.md) 
-[6. Geschichte/Gesellschaft/Korruption/Mafia/Geschichtsfälschung/Kultur/Wissenschaft allgemein 1](8buch15.md) [2](8buch16.md) [3](8buch17.md) [4](8buch18.md) [5](8buch19.md) [6](8buch20.md) [7](8buch21.md) 
-[7. Umwelt/Klima/Energie 1](8buch22.md) [2](8buch23.md) 
-[8. Literaturrecherche und -bestellung](8buch24.md) 
-[9. Preiswerte Bücher/Modernes Antiquariat/Suche nach antiquarischen Büchern/Eigene Bücher verkaufen](8buch24.md#preiswerte) 
-[10. Hungrig nach schönen Bildern?](8buch24.md#hungrig) 
-[11. Ausführliche Rezensionen von Konrad Fischer und Gastautoren](8buch24.md#ausfã¼hrliche) 
-**12. Aufsätze zur Denkmalpflege** 
-13. Verlagskontakte 
-14. Quellen/Links zu historischen Themen / Altertumswissenschaft / Theologie / Philosophie / Mythologie 
+
 
 ---
 
-# <a id="aufsätze zur"></a>12. Aufsätze zur Denkmalpflege
+## <a id="aufsätze zur"></a>12. Aufsätze zur Denkmalpflege
 
 Prof. Dr. Jörg Schulze: **[Wie teuer ist Denkmalpflege wirklich?](8schulze.md)** - der wohl spannendste offizielle Beitrag auf der Jahrestagung der Landesdenkmalpfleger 1999 in Bonn. Leider immer noch aktuellst. Lesenswert für Denkmalpfleger und -freunde. 
 
@@ -56,7 +50,7 @@ Dr. Ulrich Schulze: **[Auferstanden aus Ruinen, Die romantische Ruinenarchitektu
 
 <a id="verlagskontakte"></a>
 
-# 13. Verlagskontakte
+## 13. Verlagskontakte
 
 [db deutsche bauzeitung](http://db.bauzeitung.de) <> [Bautenschutz Bausanierung ](http://www.bautenschutz-bausanierung.de/) <> [WEKA ](http://www.bau.weka.de)Baufachverlage <> [monumente ](http://monumente.de)Deutsche Stiftung Denkmalschutz <> [Ibykus](http://www.solidaritaet.com/ibykus) <> [Zeitensprünge](http://www.lelarge.de/) - [Mantis Verlag](http://www.mantis-verlag.de) von Dr. Heribert Illig <> [Dr. L. Krompotic - HZ-Verlag](http://members.aol.com/krompotic) <> [Lukas Verlag](http://www.lukasverlag.com) <> [Raum und Zeit](http://www.raum-und-zeit.com) <> [Bauschadensliteratur Fraunhofer IRB Verlag](http://www.irb.fhg.de) <> [edition anderweit](http://www.anderweit.de) <> [Weltkunst-Verlagsgruppe](http://www.weltkunstverlag.de/)
 

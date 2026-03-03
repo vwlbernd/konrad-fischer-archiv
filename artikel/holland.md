@@ -1,9 +1,16 @@
 ---
-title: "Restauratie oude Huis + Conservatie Historische Monument ..."
+nav: "index.md, 6prxratg.md"
+title: "Restauratie, Renovatie en Conservatie van Historische Monumenten en Oude Huizen"
 description: "Raad en tips voor de eigenaars van de historische huizen - Gebruikelijke fouten + Welk werkelijk werkt."
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/holland.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Languages](sitemap8.md)  
+# Restauratie, Renovatie en Conservatie van Historische Monumenten en Oude Huizen
+**Raad en tips voor de eigenaars van de historische huizen - Gebruikelijke fouten + Welk werkelijk werkt.**  
+_von Konrad Fischer_
 
  Is de met grote moed door U aangepakte restauratie, renovatie, wederopbouw ofmodernisering van uw historisch gebouw een katastrophe geworden? Hebt U uw geld en uw hoop verloren?
 

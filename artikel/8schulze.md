@@ -1,11 +1,18 @@
 ---
+nav: "index.md"
 title: "Wie teuer ist die Denkmalpflege wirklich?"
 description: "Prof. Dr.-Ing. Jörg Schulze, Beitrag auf der Jahrestagung der Vereinigung der Landesdenkmalpfleger in der Bundesrepublik Deutschland: Politik und Denkmalpflege in Deutschland"
-author: " "
+author: "Prof. Dr. Jörg Schulze"
 original_url: "www.konrad-fischer-info.de/8schulze.htm"
+updated: ""
 ---
 
-# Prof. Dr. Jörg Schulze, Architekt
+[🠔 Zur Übersicht: Quellen](8infober.md)  
+# Wie teuer ist die Denkmalpflege wirklich?
+**Prof. Dr.-Ing. Jörg Schulze, Beitrag auf der Jahrestagung der Vereinigung der Landesdenkmalpfleger in der Bundesrepublik Deutschland: Politik und Denkmalpflege in Deutschland**  
+_von Prof. Dr. Jörg Schulze_
+
+## Prof. Dr. Jörg Schulze, Architekt
 
 Rheinisches Amt für Denkmalpflege, Abtei Brauweiler, 50259 Pulheim 
 

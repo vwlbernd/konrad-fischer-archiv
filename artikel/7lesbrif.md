@@ -1,9 +1,32 @@
 ---
-title: "Klimalügen, Energiesparschwindel und Baupfusch"
-description: "Freche Leserbriefe zur Bausanierung mit ungeeigneten Methoden."
-author: " "
+nav: "7thuene1.md"
+title: "Klimalügen, Energiesparschwindel und Baupfusch durch falsche Verordnungen und Normen"
+description: "Freche Leserbriefe von Konrad Fischer 1"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/7lesbrif.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Klima](7thuene1.md)  
+# Klimalügen, Energiesparschwindel und Baupfusch durch falsche Verordnungen und Normen
+**Freche Leserbriefe von Konrad Fischer 1**  
+_von Konrad Fischer_
+
+> [!abstract]+ Kapitelübersicht: Schlechte Baumethoden  
+> 1. **Klimalügen, Energiesparschwindel und Baupfusch durch falsche Verordnungen und Normen**
+> 2. [Klimalügen, Energiesparschwindel und Baupfusch durch falsche Verordnungen und Normen](7les02.md)
+> 3. [Klimalügen, Energiesparschwindel und Baupfusch durch falsche Verordnungen und Normen](7les03.md)
+> 4. [Klimalügen, Energiesparschwindel und Baupfusch durch falsche Verordnungen und Normen](7les04.md)
+> 5. [Klimalügen, Energiesparschwindel und Baupfusch durch falsche Verordnungen und Normen](7les05.md)
+> 6. [Klimalügen, Energiesparschwindel und Baupfusch durch falsche Verordnungen und Normen](7les06.md)
+> 7. [Klimalügen, Energiesparschwindel und Baupfusch durch falsche Verordnungen und Normen](7les07.md)
+> 8. [Klimalügen, Energiesparschwindel und Baupfusch durch falsche Verordnungen und Normen](7les08.md)
+> 9. [Klimalügen, Energiesparschwindel und Baupfusch durch falsche Verordnungen und Normen](7les09.md)
+> 10. [Klimalügen, Energiesparschwindel und Baupfusch durch falsche Verordnungen und Normen](7les10.md)
+> 11. [Klimalügen, Energiesparschwindel und Baupfusch durch falsche Verordnungen und Normen](7les11.md)
+> 12. [Klimalügen, Energiesparschwindel und Baupfusch durch falsche Verordnungen und Normen](7les12.md)
+> 13. [Klimalügen, Energiesparschwindel und Baupfusch durch falsche Verordnungen und Normen](7les13.md)
+> 14. [14. Sonstiges: Gedichte / Lyrische Ergüsse zur Zoo-Eisbär-Frage, zu Marketing, zur Sicherheitslage, Mann & Frau-Beziehung, 'Pressefreiheit', zur Heimat und zu kommunalen Absonderlichkeiten](7les14.md)
 
 **Klimalügen, Energiesparschwindel und Baupfusch durch falsche Verordnungen und Normen** 
 Freche Leserbriefe von Konrad Fischer 1
@@ -41,7 +64,7 @@ Friedrich von Schiller_
 
 ---
 
-# 1. Bausanierung mit ungeeigneten Methoden
+## 1. Bausanierung mit ungeeigneten Methoden
 
 Obermain-Tagblatt Lichtenfels 25.06.18
 

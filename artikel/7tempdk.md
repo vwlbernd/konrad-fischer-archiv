@@ -1,13 +1,20 @@
 ---
-title: "Temperering - Rigtig og forkert opvarmning"
-description: "Ideal og sund opvarmning med temperering af bygnings-hylsteret (Slott, Kirke, Hus, Kloster)"
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Temperering af bygnings-hylsteret - Rigtig og forkert opvarmning i gamle og nye huse"
+description: "Bygge- og sundhedsbeskyttelse ved hjælp af rigtig opvarmning."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/7tempdk.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Nordisk](nordisk.md)  
+# Temperering af bygnings-hylsteret - Rigtig og forkert opvarmning i gamle og nye huse
+**Bygge- og sundhedsbeskyttelse ved hjælp af rigtig opvarmning.**  
+_von Konrad Fischer_
 
 [![](../medien/KONRAD.JPG)Konrad Fischer](1refernz.md) 
 
-# Temperering af bygnings-hylsteret - 
+## Temperering af bygnings-hylsteret -
 
 Rigtig og forkert opvarmning i gamle og nye huse
 

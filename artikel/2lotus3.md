@@ -1,13 +1,20 @@
 ---
-title: "Schmutz-, wasser- und energieverlustabweisende Wunderanstriche 3"
-description: "Dämmfarben und Lotuseffekt sorgen für Verunsicherung des Farbenkunden. Der Malerzeitschrift Die Mappe 10/99 und ÖKO-TEST 8/2000 bringen Aufklärung."
-author: " "
+nav: "20bausto.md, 22bausto.md"
+title: "Hydrophobierte Kunstharzfarben 3: Wunderbaustoff oder Fassadenpest?"
+description: "Produktversprechungen der Farben und Beschichtungen mit wasserabweisenden und selbstreinigenden Effekten kritisch betrachtet."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2lotus3.htm"
+updated: "11.06.2008"
 ---
+
+[🠔 Zur Übersicht: Kunstharzfarben I](2lotus.md)  
+# Hydrophobierte Kunstharzfarben 3: Wunderbaustoff oder Fassadenpest?
+**Produktversprechungen der Farben und Beschichtungen mit wasserabweisenden und selbstreinigenden Effekten kritisch betrachtet.**  
+_von Konrad Fischer • aktualisiert 11.06.2008_
 
 Konrad Fischer 
 
-# Hydrophobierte oder gar selbstreinigende Kunstharzfarben 3 - 
+## Hydrophobierte oder gar selbstreinigende Kunstharzfarben 3 -
 
 Wunderbaustoff oder Fassadenpest? 
 
@@ -42,5 +49,3 @@ _[...] Die in einer Norm definierten Parameter stellen Orientierungshilfen in be
 [Weiter ...](2lotus4.md) 
 
 Noch Fragen? [Hier!](2frag.md)
-
-[Wunderanstriche Kapitel 1](2lotus.md) [Wunderanstriche Kapitel 2](2lotus2.md) **Wunderanstriche Kapitel 3** [Wunderanstriche Kapitel 4](2lotus4.md) [Wunderanstriche Kapitel 5](2lotus5.md) [Wunderanstriche Kapitel 6](2lotus6.md) [Wunderanstriche Kapitel 7](2lotus7.md) [Wunderanstriche Kapitel 8](2lotus8.md)

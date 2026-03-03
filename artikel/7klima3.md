@@ -1,13 +1,20 @@
 ---
-title: "Dr. Albert Glatzle: &quot;Klimaschädlich? Kohlendioxydemissionen aus Landwirtschaft und Viehwirtschaft&quot;"
-description: "Sind die CO2-Emissionen der Landwirtschaft und Viehwirtschaft tatsächlich klimaschädlich? Eine Widerlegung von Dr. Albert Glatzle, Paraguay"
-author: " "
+nav: "7thuene1.md"
+title: "Dr. Albrecht Glatzle: Kohlendioxydemissionen aus Land- und Viehwirtschaft: Sind sie klimaschädlich?"
+description: "Sind die CO2-Emissionen der Landwirtschaft und Viehwirtschaft tatsächlich klimaschädlich? Eine Widerlegung von Dr. Albrecht Glatzle, Paraguay"
+author: "Dr. Albrecht Glatzle"
 original_url: "www.konrad-fischer-info.de/7klima3.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Klimaschwindel TV](7video.md)  
+# Dr. Albrecht Glatzle: Kohlendioxydemissionen aus Land- und Viehwirtschaft: Sind sie klimaschädlich?
+**Sind die CO2-Emissionen der Landwirtschaft und Viehwirtschaft tatsächlich klimaschädlich? Eine Widerlegung von Dr. Albrecht Glatzle, Paraguay**  
+_von Dr. Albrecht Glatzle_
 
 Dr. Albrecht Glatzle, [INTTAS](http://www.inttas.org/) 
 
-# Kohlendioxydemissionen aus Land- und Viehwirtschaft 
+## Kohlendioxydemissionen aus Land- und Viehwirtschaft
 
 Sind sie klimaschädlich?
 

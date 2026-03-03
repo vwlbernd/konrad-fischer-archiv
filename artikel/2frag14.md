@@ -1,13 +1,20 @@
 ---
-title: "Aus der Internet-Fragestunde der Altbau und Denkmalpflege ..."
-description: "Altbaufragen von AZ: Lüftung, Schallschutz und Lärmschutzfenster."
-author: " "
+nav: "index.md, 6prxratg.md"
+title: "Aus der Internet-Fragestunde: Lüftung und Schallschutz"
+description: "Warum luftdichte Lärmschutzfenster das Raumklima ruinieren: Die Wahrheit über Schimmel durch Zwangsbelüftung und wie Sie in historischen Mauern wirklich Ruhe und frische Luft finden."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2frag14.htm"
+updated: "16.06.2008"
 ---
+
+[🠔 Zur Übersicht: Altbau FAQ](2frag.md)  
+# Aus der Internet-Fragestunde: Lüftung und Schallschutz
+**Warum luftdichte Lärmschutzfenster das Raumklima ruinieren: Die Wahrheit über Schimmel durch Zwangsbelüftung und wie Sie in historischen Mauern wirklich Ruhe und frische Luft finden.**  
+_von Konrad Fischer • aktualisiert 16.06.2008_
 
 Konrad Fischer 
 
-# Aus der Internet-Fragestunde und Bauberatung
+## Aus der Internet-Fragestunde und Bauberatung
 
 **(aktualisiert 16.06.08)** 
 

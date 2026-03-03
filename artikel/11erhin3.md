@@ -1,16 +1,23 @@
 ---
+nav: "11planme.md, 11erhins.md"
 title: "Sparsam Planen und Bauen im Altbau 2.2"
-description: "Altbaugeeignete Reparaturverfahren und Alternativen zu zerstörerischen Sanierverfahren."
-author: " "
+description: "Altbaugeeignete Reparaturverfahren und Alternativen zu zerstörerischen Sanierverfahren - Fortsetzung"
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/11erhin3.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Reparieren statt Neu](11erhin2.md)  
+# Sparsam Planen und Bauen im Altbau 2.2
+**Altbaugeeignete Reparaturverfahren und Alternativen zu zerstörerischen Sanierverfahren - Fortsetzung**  
+_von Konrad Fischer_
 
 **[Die erhaltende Instandsetzung - Teil 1](11erhins.md)** 
 **[Die erhaltende Instandsetzung - Teil 2.1](11erhin2.md)** 
 
 <a id="die erhaltende instandsetzung - teil 3"></a>Konrad Fischer 
 
-# Sparsam Planen und Bauen im Altbau 
+## Sparsam Planen und Bauen im Altbau
 
 Die erhaltende Instandsetzung - Teil 2.2
 

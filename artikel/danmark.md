@@ -1,6 +1,20 @@
+---
+nav: "index.md, 6prxratg.md"
+title: "Gamle huse og restaurerings information - Arkitektur+Byg Magasin"
+description: "Tips og rådgivning til restaurering, bygningsfredning, bygningskultur, bevaring, vedligeholdelse, konservering, varmeforbrug og energibesparelse for ejere af gamle huse, kirker og paladser."
+author: "Konrad Fischer"
+original_url: "www.konrad-f Fischer-info.de/danmark.htm"
+updated: ""
+---
 
 
-# Gamle huse + 🇩🇰 
+
+[🠔 Zur Übersicht: Nordisk](nordisk.md)  
+# Gamle huse og restaurerings information - Arkitektur+Byg Magasin
+**Tips og rådgivning til restaurering, bygningsfredning, bygningskultur, bevaring, vedligeholdelse, konservering, varmeforbrug og energibesparelse for ejere af gamle huse, kirker og paladser.**  
+_von Konrad Fischer_
+
+## Gamle huse + 🇩🇰
 restaurerings information
 
 Arkitektur + Byg Magasin - Rådgivning, Bevaring, Restaurering, Konservering, Vedligeholdelse, varmeisolering 

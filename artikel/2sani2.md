@@ -1,9 +1,16 @@
 ---
-title: "Schwindel: Sanierputze am Altbau 2 - Heilen sie wirklich?"
-description: "1\. Was sind Sanierputze? 2. Was bringen Salzanalysen? 3. Nehmen Sanierputzporen Salz auf?"
-author: " "
+nav: "20bausto.md, 21bausto.md"
+title: "Sanierputze am Altbau - Heilen sie wirklich?"
+description: "Sanierputze werden auf salzbelastetes und feuchtes Mauerwerk aufgebracht, um es zu sanieren. Ihre Fähigkeit, Kristallisationsschäden zu vermeiden, ist jedoch erschöpft, wenn ständig neue Feuchtigkeit und Salze transportiert werden."
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/2sani2.htm"
+updated: "01.10.1998"
 ---
+
+[🠔 Zur Übersicht: Sanierputz-Schwindel](2sanipuz.md)  
+# Sanierputze am Altbau - Heilen sie wirklich?
+**Sanierputze werden auf salzbelastetes und feuchtes Mauerwerk aufgebracht, um es zu sanieren. Ihre Fähigkeit, Kristallisationsschäden zu vermeiden, ist jedoch erschöpft, wenn ständig neue Feuchtigkeit und Salze transportiert werden.**  
+_von Konrad Fischer • aktualisiert 01.10.1998_
 
 ## Sanierputz - Was kann er, was nicht? 2
 
@@ -32,7 +39,7 @@ original_url: "www.konrad-fischer-info.de/2sani2.htm"
 
 bausubstanz-Beitrag: Kontrovers
 
-# Sanierputze am Altbau - Heilen sie wirklich?
+
 
 Kontra von [Konrad Fischer](1refernz.md) 
 _(publiziert in bausubstanz 10/98 gegen Pro von H.G. Meier, ergänzte Fassung)_ 

@@ -1,9 +1,16 @@
 ---
-title: "Beratungsangebote zu Altbau und Denkmalpflege - Linksammlung 3"
+nav: "index.md, 6prxratg.md"
+title: "Denkmalpflege, Altbau und Stadtentwicklung"
 description: "Weitere Beratung und Information zu Denkmalpflege, Altbau usw. 3"
-author: " "
+author: "Konrad Fischer"
 original_url: "www.konrad-fischer-info.de/8berat03.htm"
+updated: ""
 ---
+
+[🠔 Zur Übersicht: Beratung Altbau](8berat.md)  
+# Denkmalpflege, Altbau und Stadtentwicklung
+**Weitere Beratung und Information zu Denkmalpflege, Altbau usw. 3**  
+_von Konrad Fischer_
 
 **3. Denkmalpflege, Altbau und Stadtentwicklung**
 
